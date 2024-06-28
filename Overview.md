@@ -41,6 +41,7 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 - Declan Murdoch - conceives the idea of breeding the War Intelligence.
 - Russell - Computer programmer, programmed his 3D printer to play FPS's
 - Stacy - Instagram wellness influencer, pretends to be mentally ill, mostly just nihlistic and lost, becomes queen of one of Russell's fiefdoms
+- Maurice Allen - CEO of Eternal Spring (life extension), monopolist, secretly wants to dominate the world but is kept in check by other billionnaires.
 
 # Plot
 
@@ -78,6 +79,9 @@ Technology level has been pretty much static for the entire Great Peace - no inc
   - Build parallel society with only the most motivated people
 - Russell and Steve have increasingly in-depth conversations, over time Russell starts to change Steve and vice versa.
 - Eventually, we find out that the government in Steve's world is oppressing them, Russell helps enlighten Steve
+
+- World is running on "particle computers" - state cannot be directly observed, can be moved but not copied. Heisenberg. Zero copy.
+  - Characters can be moved between sims, but cannot be copied.
 
 # Themes
 
