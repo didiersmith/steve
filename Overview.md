@@ -37,7 +37,6 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 
 - Steve: God, created the universe for fun and interest, fairly pacifist
 - Gabe: God's best friend/sidekick, thinks sexual reproduction is unstable, but he is loyal and helpful. Astronomer.
-- Drake: Steve's rival, creates the Egyptian/Roman/Islamic brainworms
 - Declan Murdoch - conceives the idea of breeding the War Intelligence.
 - Russell - Computer programmer, programmed his 3D printer to play FPS's
 - Stacy - Instagram wellness influencer, pretends to be mentally ill, mostly just nihlistic and lost, becomes queen of one of Russell's fiefdoms
