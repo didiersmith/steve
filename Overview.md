@@ -61,7 +61,7 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 - Goal: A set of aligned intelligences who are bred for war, take over the planet but aligned to Steve's people
 - Constraints: Interventions cost credits, invisible interventions (eg. speaking into one's head, healing) are very cheap, anything that involves rendering is very expensive, credits accrue at 1024/epoch initially, rate halves every 500 epochs.
 - Steve is analagous to Jehovah, picks a small, highly intelligent subset, keeps them insular
-- Continously gets beaten by Drake
+- Continously gets beaten by Allen
 - Realizes: Ideas stronger than people, spread faster, violent conquest leads to unstable results, have to get people to want to be ruled. Spends all his intervention credits (and borrows more) creating an in-world avatar to appeal not just to his tribe, but to everyone.
 - Need to create a warfaring mythos
 - This sets off a 2000 epoch arc, his idea becomes the most powerful in the world, but starts to eat itself. Liberalism erupts. People become obsessed with studying the sim itself.
@@ -81,6 +81,24 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 
 - World is running on "particle computers" - state cannot be directly observed, can be moved but not copied. Heisenberg. Zero copy.
   - Characters can be moved between sims, but cannot be copied.
+
+# War in New Sealand
+
+- Vincent -> Xavier
+- Stacy -> Stacy II
+- Russell -> Filbert
+
+- Russell & Filbert are in exile, living with Stacy
+- Stacy II and Filbert hate each other
+- People's Republicans protest, want Russell extradited (turns out this protest was staged by dodgy state actors, all of the PR is controlled by the IC, journalists, academia, civil service)
+- Eventually, PR declares war, partners with pro-democracy forces in Theocratic Dominion. TD totally unprepared for war.
+- Forces storm the palace, capture Stacy I & Russell, Stacy II & Filbert flee via Xavier's Ketzel to New Australia, Xavier and Vincent share Vincent's ketzel back to Anarchy
+- Stacy beheaded
+- Russell captured, tortured, on deathbed prays to Steve to turn off the computer
+- PR subjugates TD
+- Stacy II and Filbert explore New Australia
+  - Nomadic animal herders, settled pastoralists, raiding bands
+- Filbert eventually grows to recognize dangers of democracy, pledges alleigance to Stacy II. Together they unify the tribes of New Australia, promise them citizenship in return for helping them to take back the TD
 
 # Themes
 
