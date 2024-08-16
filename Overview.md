@@ -28,11 +28,6 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 - Many hacks - eg. maximum speed, minimum distance
 - High stochasticity in the world - eg. solar flares, meteors, volcanoes, storms, disease - all to increase mutation rate and natural selection
 
-## Tier 2 (the world Dave creates)
-
-- Runs inside one of our computers
-- Barely a world, similar to a LLM training environment
-
 # Characters
 
 - Steve: God, created the universe for fun and interest, fairly pacifist
@@ -99,6 +94,28 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 - Stacy II and Filbert explore New Australia
   - Nomadic animal herders, settled pastoralists, raiding bands
 - Filbert eventually grows to recognize dangers of democracy, pledges alleigance to Stacy II. Together they unify the tribes of New Australia, promise them citizenship in return for helping them to take back the TD
+
+# War in Steve's world
+
+- Vincent and Russell help Murdoch figure out physics, design warships
+- Armada takes off, sends Russell ahead as scout
+- Russell gets captured, captors are the same species as Steve, Murdoch etc (Gods), notices that there are female Gods
+- Turns out, Steve's world is a penal colony, Murdoch and Allen are prisoners, supposed to have died out a long time ago but they took over a research base on the planet, figured out life extension and asexual reproduction
+- Murdoch and Allen have been dying to get off the planet, but didn't have interstellar travel worked out
+- Dyson spheres are being used to re-compress photons back into hydrogen to fuel interstellar ships
+- Can be used as weapons by rotating mirrors to point at enemy ship
+- Are also used to heat / cool planets, renders more of solar system habitable
+- There is a war going on, The Rotarians vs The Hell's Angels
+- Russell is captured by a smaller force (free statists?) who just want to be left alone
+- Russell promises them that the armada could be used to help them win the war, they agree, give him access to comms equipment
+- Comms includes codebook, they never figured out public-key encryption
+- Dyson spheres are controlled by encrypted protocol that can be hacked if correct codebook is obtained
+- Russell & captors embark on mission to capture correct codebook
+- Armada starts fighting, war ensues
+- Russell's capture of codebook turns the tide, but at great cost, dyson sphere rendered inoperable, people start to freeze
+- After armada just barely wins, they're double-crossed by Allen, almost annihilated
+- After Allen wins, double-crossed again by Russell's captors
+- Eventually, Russell, Vincent, Stacy, Steve escape with StevieNix, found a planet for themselves
 
 # Themes
 
