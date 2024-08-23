@@ -93,6 +93,13 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 - PR subjugates TD
 - Stacy II and Filbert explore New Australia
   - Nomadic animal herders, settled pastoralists, raiding bands
+  - Stacy II conquers with Filbert and Cosmo's help
+  - They perform a genocide of the House of Lords
+  - Filbert has a change of heart, flies off with Cosmo back to the Anarchy
+  - Stacy II can protect herself but is unable to govern without loyal forces
+  - Filbert goes on a big character arc in the Anarchy, eventually raises an army to go back and help Stacy II take over
+    - Caught stealing protops egg, sentenced to become gladiator?
+
 - Filbert eventually grows to recognize dangers of democracy, pledges alleigance to Stacy II. Together they unify the tribes of New Australia, promise them citizenship in return for helping them to take back the TD
 
 # War in Steve's world
