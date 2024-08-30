@@ -98,7 +98,11 @@ Technology level has been pretty much static for the entire Great Peace - no inc
   - Filbert has a change of heart, flies off with Cosmo back to the Anarchy
   - Stacy II can protect herself but is unable to govern without loyal forces
   - Filbert goes on a big character arc in the Anarchy, eventually raises an army to go back and help Stacy II take over
-    - Caught stealing protops egg, sentenced to become gladiator?
+    - Lands on a homestead, farmer is converting his woodland to a protops farm to grow eggs for the PR, he has a wife and six children, the eldest of whom is a daughter around Filbert's age.
+    - Farmer puts Filbert to work on the farm, Filbert grows fond of farmer, recognizes aspects of Russell
+    - Eventually, PR navy shows up, accuses farmer of price gouging
+    - Farmer is killed in conflict
+    - Filbert is finally radicalized, helps wife and children escape to her brother's place
 
 - Filbert eventually grows to recognize dangers of democracy, pledges alleigance to Stacy II. Together they unify the tribes of New Australia, promise them citizenship in return for helping them to take back the TD
 
