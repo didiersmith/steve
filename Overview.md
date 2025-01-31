@@ -92,6 +92,7 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 - Russell captured, tortured, on deathbed prays to Steve to turn off the computer
 - PR subjugates TD
 - Stacy II and Filbert explore New Australia
+
   - Nomadic animal herders, settled pastoralists, raiding bands
   - Stacy II conquers with Filbert and Cosmo's help
   - They perform a genocide of the House of Lords
@@ -110,6 +111,10 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 
 - Vincent and Russell help Murdoch figure out physics, design warships
 - Armada takes off, sends Russell ahead as scout
+
+- Sirius completely surrounded by solar sailboats, slum-like conditions
+- The people are like Polynesians, occasionally sail to new star, population explosion
+
 - Russell gets captured, captors are the same species as Steve, Murdoch etc (Gods), notices that there are female Gods
 - Turns out, Steve's world is a penal colony, Murdoch and Allen are prisoners, supposed to have died out a long time ago but they took over a research base on the planet, figured out life extension and asexual reproduction
 - Murdoch and Allen have been dying to get off the planet, but didn't have interstellar travel worked out
@@ -132,3 +137,17 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 
 - Centralizing and decentralizing military technology
 - Warfaring mythology
+
+---
+
+Filbert reaches out to kidnapping cell
+
+They bring Stacy II to warehouse
+
+Feds show up (they followed kidnappers?)
+
+Shoot-out with feds
+
+Kidnapping cell turns on Filbert's crew - turns out they were funded by Sullivan
+
+Sullivan's take: A little bit of chaos is good for the intelligence apparatus, but he couldn't allow her to become CE
