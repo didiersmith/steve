@@ -121,7 +121,7 @@ Technology level has been pretty much static for the entire Great Peace - no inc
 - Dyson spheres are being used to re-compress photons back into hydrogen to fuel interstellar ships
 - Can be used as weapons by rotating mirrors to point at enemy ship
 - Are also used to heat / cool planets, renders more of solar system habitable
-- There is a war going on, The Rotarians vs The Hell's Angels
+- There is a war going on, The Rotarians vs The Drama Club
 - Russell is captured by a smaller force (free statists?) who just want to be left alone
 - Russell promises them that the armada could be used to help them win the war, they agree, give him access to comms equipment
 - Comms includes codebook, they never figured out public-key encryption
