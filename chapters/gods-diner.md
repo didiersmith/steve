@@ -1,4 +1,4 @@
-## 0. God's diner
+## 0. God's Diner
 
 Russell woke up in a 1950s-style diner. There were four mugs of steaming hot coffee and four slices of peach pie on the table. Seated next to him in the booth was his roommate Vincent, who was studying the menu. Across from them was a young lady whom he didn't recognize, but immediately rated in the 97th percentile of attractiveness. He instinctively avoided meeting her eyes and looked aimlessly around the diner.
 

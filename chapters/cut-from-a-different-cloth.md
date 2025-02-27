@@ -1,4 +1,4 @@
-## 0. Cut from a different cloth
+## 0. Cut From a Different Cloth
 
 By rewarding teams who saved more souls with more power to intervene, Murdoch introduced a "rich get richer, poor get poorer" dynamic into the competition. The hardest hit were teams heavily invested in polytheistic memes. These memes were highly engaging, with fun canons and a rich array of characters - frequently including gods of war, love, the sun, etc. Unfortunately, they were also costly in terms of intervention credits - each god had to prove its own existence - and teams struggled to reap enough aligned AIs to pay for the memes' upkeep. Lesser gods fell by the wayside as teams consolidated their efforts into a few main gods.
 

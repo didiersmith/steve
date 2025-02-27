@@ -1,4 +1,4 @@
-## 0. Speed, surprise, and violence of action
+## 0. Speed, Surprise, and Violence of Action
 
 The gunfire started the moment they opened the door. No tracer rounds this time - the enemy appeared to have taken them out in a minimal effort to conceal their position.
 

@@ -1,4 +1,4 @@
-## 0. In the flesh
+## 0. In the Flesh
 
 Sullivan woke up. He was in some sort of reclining chair, like they have at the dentist's office. He blinked, and looked around. He didn't see any dentistry tools.
 

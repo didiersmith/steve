@@ -1,4 +1,4 @@
-## 0. Aligned, useful for hand-to-hand combat with primitive weaponry
+## 0. Aligned, Useful for Hand-to-Hand Combat With Primitive Weaponry
 
 The first attempts at alignment memes were extremely crude. In an effort to piggyback off the apes' existing familial bonds, the most common approach was to pretend to be an ape's ancestor while speaking into its head. The revelations were typically of the form, "I am the spirit of your great grandfather! I want your tribe to kill that tribe over there and reproduce with their females." The apes were frequently happy to oblige. There were, however, many practical problems with this approach.
 
