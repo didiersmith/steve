@@ -1,1 +1,1 @@
-ls *.md | sort -n | xargs nvim
+cat ../manifest.txt | xargs nvim
