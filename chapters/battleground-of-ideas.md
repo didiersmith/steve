@@ -1,4 +1,4 @@
-# 12. Battleground of ideas
+## 0. Battleground of ideas
 
 Steve looked around the table. Aside from Gabe and Murdoch, there was one other face he recognized - Maurice Allen, founder and CEO of Eternal Spring. Like Murdoch, Allen's life stretched back to before the Great Peace, when Eternal Spring had been one of a dozen life extension startups. Unlike Murdoch, Allen's company had not been birthed into a privileged monopolistic position - Eternal Spring's rise to dominance was bathed in rumours of espionage, anticompetitive practices, and assassination. All that was ancient history though - for as long as Steve had lived, Eternal Spring had been the company responsible for keeping him and everyone else young and immortal.
 

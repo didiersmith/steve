@@ -1,4 +1,4 @@
-# 32. Xavier
+## 0. Xavier
 
 "Hey dad", asked Xavier, "why does no one else build new islands?"
 

@@ -1,4 +1,4 @@
-# 0. God, why have you forsaken me?
+# Prologue: God, why have you forsaken me?
 
 Stacy was twenty-two years old when her mother died of cancer. Witnessing her slow deterioration and painful demise was the hardest thing she'd ever encountered. It wasn't just the grief of watching her mother die that tore her apart - it was the helplessness, the feeling of abandonment. Where was God?
 

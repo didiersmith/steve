@@ -1,4 +1,4 @@
-# 33. Sullivan
+## 0. Sullivan
 
 Sullivan was average. Average height, a bit pudgy, not very good at sports. He wasn't the brightest kid in school, but wasn't dumb either. With a great deal of effort, he was able to get mostly Bs, mixed with the occasional A. His guidance counselor advised him to join the military. He studied poly-sci instead, and then law.
 

@@ -1,4 +1,4 @@
-# 15. Hardball
+## 0. Hardball
 
 Despite optimizing the VR intervention to be as cheap as possible, Steve and Gabe were still far, far short of the credits necessary to execute the plan. They needed leverage. Together, they humbly approached the one contestant with credits to spare.
 

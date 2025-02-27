@@ -1,4 +1,4 @@
-# 51. The Orbital Ring
+## 0. The Orbital Ring
 
 The funeral was well-attended. While Vincent had never attempted to gain or exercise any sort of authority, he had still managed to achieve an almost religious status among residents of the Anarchy. Their family homestead was overwhelmed for weeks, by well-wishers who commuted thousands of kilometers to pay their respects to the man who'd started it all.
 

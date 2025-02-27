@@ -1,4 +1,4 @@
-# 59. Statist Infiltrators
+## 0. Statist Infiltrators
 
 "The boys are all obsessed with their physics project," Stacy II's mom complained into her head.
 

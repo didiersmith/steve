@@ -1,4 +1,4 @@
-# 72. Octagonal Occlusions
+## 0. Octagonal Occlusions
 
 "That's not a Dyson sphere," Russell remarked. "That's...I have no idea."
 

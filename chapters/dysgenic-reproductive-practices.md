@@ -1,4 +1,4 @@
-# 17. Dysgenic Reproductive Practices
+## 0. Dysgenic Reproductive Practices
 
 The meme was a roaring success. As Steve and Gabe had intuited, Allen's empire was already overextended and on the rocks. The appearance of the new meme led Allen's apes to defect in droves. This shouldn't have bothered Allen much as he was earning sixty-five percent of the intervention credits, but Steve could tell his pride was hurt. He spent credit after credit trying to dislodge the new meme.
 

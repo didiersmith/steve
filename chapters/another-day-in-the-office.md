@@ -1,4 +1,4 @@
-# 64. Another day in the office
+## 0. Another day in the office
 
 "Crap!" yelled Xavier, and flailed out of the way. Dozens of red-hot droplets of molten steel drifted away from his weld pool and across the engine room, before attaching themselves to the far wall.
 

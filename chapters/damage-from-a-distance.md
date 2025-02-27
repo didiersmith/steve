@@ -1,4 +1,4 @@
-# 10. Damage from a distance
+## 0. Damage from a distance
 
 Capacity to inflict damage from a distance seemed to be an important capability in ape warfare. One of the tribes had developed an ingenious mechanism of using a bendy stick and a string to hurl another, sharpened, stick at great speed. Quite a lot of thought appeared to have been put into the details of both sticks, and Steve, Gabe and Murdoch watched with fascination as the effects of this innovation played out on the simulated battlefield.
 

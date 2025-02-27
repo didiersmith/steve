@@ -1,4 +1,4 @@
-# 28. Polymerized fullerene
+## 0. Polymerized fullerene
 
 The trio reached the Swan River at 4am. When they arrived at the sandy shoreline, Vincent took out his phone and spoke into his app, "okay, build the boat."
 

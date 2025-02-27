@@ -1,4 +1,4 @@
-# 36. Sober
+## 0. Sober
 
 Russell and Stacy blasted until they were out of ammo. The palace grounds were littered with the tangled corpses of black-clad paramilitaries, variously missing limbs and riddled with massive holes. In the end, though, there were just too many of them.
 

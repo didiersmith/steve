@@ -1,4 +1,4 @@
-# 61. Man of Destiny
+## 0. Man of Destiny
 
 One hundred days alone in the basement. Sullivan didn't know how he knew that fact, but he did. The voice had told him.
 

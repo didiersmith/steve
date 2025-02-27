@@ -1,4 +1,4 @@
-# 74. Good knowing you
+## 0. Good knowing you
 
 "They're parachutes!" Russell exclaimed. "Look!"
 

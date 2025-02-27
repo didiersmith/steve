@@ -1,4 +1,4 @@
-# 5. Observational Anomalies
+## 0. Observational Anomalies
 
 Steve and Gabe took turns napping while the telescope relentlessly panned, tilted, and captured images. To keep himself awake, Steve wrote a simple script to stitch together the 1600 images, taking into account planetary rotation. When this was done, he set a breakpoint in StevieNix to pause it when the sim planet reached the same position as their own. This took six months in sim time, but only a few seconds in real life. He then took the exact same images in sim and stitched them together, thus giving himself a baseline for comparison.
 

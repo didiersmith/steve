@@ -1,4 +1,4 @@
-# 6. Murdoch
+## 0. Murdoch
 
 To call, or to knock? The question divided the planet. Gabe and Steve were not above the question.
 

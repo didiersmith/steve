@@ -1,4 +1,4 @@
-# 9. The Dogs of War
+## 0. The Dogs of War
 
 There was a wide gap between "sentient enough to reason about hypothetical snake encounters" and "capable of winning an interstellar war without destroying the civilization that birthed them", but Steve was nonetheless pleased with his progress. The next hurdle, however, proved to be even greater: Aggression.
 

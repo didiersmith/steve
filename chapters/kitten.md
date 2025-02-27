@@ -1,4 +1,4 @@
-# 34. Kitten
+## 0. Kitten
 
 Orange lights flickered in the distance. That was weird. Vincent didn't remember the Dominion having orange lights.
 

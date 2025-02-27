@@ -1,4 +1,4 @@
-# 49. Monkeybot
+## 0. Monkeybot
 
 Vincent awoke in the diner, next to Russell and across from Stacy.
 

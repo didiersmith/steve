@@ -1,4 +1,4 @@
-# 56. Death by Rotisserie
+## 0. Death by Rotisserie
 
 Fortunately for Stacy II, induction ceremonies were few and far between.
 

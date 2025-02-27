@@ -1,4 +1,4 @@
-# 2. Cancer
+## 0. Cancer
 
 Stars aren't supposed to "go out". The astronomy community was concerned. They stared at the spot where Sirius was supposed to be. It wasn't there. They appointed one of their number to dust off his telescope and scan the region. Nothing detectable. Strange.
 

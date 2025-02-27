@@ -1,4 +1,4 @@
-# 63. Operation Hearts and Minds
+## 0. Operation Hearts and Minds
 
 Stacy II was pleased with how well Sullivan had responded to being rescued, beaten, and threatened with torture. After a shower, a hearty meal and a glass of orange juice, he almost seemed excited at the prospect of helping her seize control of the Commonwealth. While she was still wary of him and salty about his having killed her mother, the odious man was turning out to be a wealth of information.
 

@@ -1,4 +1,4 @@
-# 24. The Particle Computer
+## 0. The Particle Computer
 
 Russell awoke with a start. He had had the strangest, most vivid dream. Weird.
 
@@ -40,17 +40,15 @@ Russell wasn't sure how he was going to log into the server - he hadn't been giv
 
 He was greeted with a standard UNIX shell. In his home directory, he found a number of directories containing source code, documentation, and tons of garbage-looking data that he couldn't make heads or tails of. At the top level, he found a file labeled README.txt. He opened it and started reading.
 
-```
-Welcome Russell!
+> Welcome Russell!
 
-This server is a MHI-10 Particle Computer. It is quite a different computer to the transistor-based ones you're used to, but can perform many of the same operations.
+> This server is a MHI-10 Particle Computer. It is quite a different computer to the transistor-based ones you're used to, but can perform many of the same operations.
 
-I have taken the liberty of implementing a python interpreter, so you should feel at home. In doc/, you will find a manual describing the assembly language for this class of machine. It should be all you need to get started.
+> I have taken the liberty of implementing a python interpreter, so you should feel at home. In doc/, you will find a manual describing the assembly language for this class of machine. It should be all you need to get started.
 
-Best of luck! Call me if you need anything.
+> Best of luck! Call me if you need anything.
 
--Steve
-```
+> -Steve
 
 Intrigued, Russell downloaded a simple python script that calculates digits of pi. He ran it, asking for the millionth digit. The answer was returned in an instant. He ran it again, asking for the billionth digit. The answer was also returned instantly. After trying for the trillionth digit and receiving the answer in as much time as it'd taken for the millionth, Russell stopped in awe. The calculation should have taken weeks. It was clear that this computer was in a class of its own.
 

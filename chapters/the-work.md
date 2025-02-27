@@ -1,4 +1,4 @@
-# 16. The work
+## 0. The work
 
 Steve got to work. Against the protests of the other contestants, he started by slowing down time considerably. He chose his ancestral/monotheistic hybrid tribe as his entry point, sparked a couple of memes to prophesize his arrival, and dove in.
 

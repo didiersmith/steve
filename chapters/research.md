@@ -1,4 +1,4 @@
-# 3. "Research"
+## 0. "Research"
 
 Trounced by a bunch of zodiac enthusiasts. What an embarrassment. There weren't enough hens in the world to lay the cumulative quantity of egg on the astronomers' faces. Truth be told, the field had languished during the Great Peace. While their primitive ancestors had once gazed upon the stars and seen the final frontier - an infinite array of worlds ripe for the raping and pillaging - modern enlightened folk had no such interest in conquest.
 

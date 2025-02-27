@@ -1,4 +1,4 @@
-# 81. Stacy the Second
+## 0. Stacy the Second
 
 "Just a few more votes," Stacy II giggled excitedly.
 

@@ -1,4 +1,4 @@
-# 70. Orbital Chicken UX
+## 0. Orbital Chicken UX
 
 The freezing cold ocean spray flew over the side of their small boat and drenched Stacy through her clothes and to her robotic skin. Praying that her monkeybot was waterproof, she retreated back into the cabin and shut the door.
 

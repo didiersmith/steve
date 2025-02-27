@@ -1,4 +1,4 @@
-# 69. Out of Control
+## 0. Out of Control
 
 "I did it!" Stacy II announced, beaming with pride and waving a folded piece of paper. "I got the job!"
 

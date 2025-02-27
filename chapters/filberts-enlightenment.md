@@ -1,4 +1,4 @@
-# 75. Filbert's Enlightenment
+## 0. Filbert's Enlightenment
 
 "Hey Filbert," Steve's voice said into his head. "How are you doing!"
 

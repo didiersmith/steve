@@ -1,4 +1,4 @@
-# 25. Traffic law humiliation rituals
+## 0. Traffic law humiliation rituals
 
 "I can't believe it's really you!" Stacy cried, running around the bar and wrapping the two young men in an embrace that made Russell's blood run hot with hormones and embarrassment. "I thought it was all a crazy dream!"
 

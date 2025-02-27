@@ -1,4 +1,4 @@
-# 31. Three types of people
+## 0. Three types of people
 
 Most of the New Sealand population chose to stick with Russell in the People's Republic. He drafted the world's simplest constitution - all citizens were entitled to a vote, and all other laws would be established by referendum. He had the LLM create a blockchain-based app, through which people could propose and vote on legislation. Any proposed legislation that met the 50% threshold, became law. Voting was mandatory.
 

@@ -1,4 +1,4 @@
-# 23. The calling
+## 0. The calling
 
 "We don't believe in God," responded Russell, assuming the spiritual beliefs of the other two.
 

@@ -1,4 +1,4 @@
-# 37. Trials and Interrogations
+## 0. Trials and Interrogations
 
 Stacy was marched, handcuffed into the courtroom and thrown to the floor. She looked up at the bench and saw an unfamiliar man sitting in robes in her seat. He banged the gavel and smiled.
 

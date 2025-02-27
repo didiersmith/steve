@@ -1,4 +1,4 @@
-# 7. The Lynchpin of Collaboration
+## 0. The Lynchpin of Collaboration
 
 Half an hour later, Murdoch was starting to regret his decision to enlist the help of the two professors. His attempt at exhortation had been immediately derailed straight back to the Call vs Knock debate which he had interrupted. The momentary shock of this industrial titan showing up to recruit Steve and Gabe had vanished upon them realizing the opportunity to advance the positions of their hobby-horses in front of an enlarged audience.
 

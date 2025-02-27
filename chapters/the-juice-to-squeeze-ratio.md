@@ -1,4 +1,4 @@
-# 54. The Juice-to-Squeeze Ratio
+## 0. The Juice-to-Squeeze Ratio
 
 This time, no one came to meet Stacy II outside the Anarcho-Cannibalist village. The clearing outside of the village was deserted and the gate in the wooden fence was open, so she just walked in.
 

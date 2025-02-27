@@ -1,4 +1,4 @@
-# 50. Old Testament Diplomacy
+## 0. Old Testament Diplomacy
 
 "Should we just kill him?" asked one of the younger pacifists.
 

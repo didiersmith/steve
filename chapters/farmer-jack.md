@@ -1,4 +1,4 @@
-# 53. Farmer Jack
+## 0. Farmer Jack
 
 Filbert had no idea where he was going. He clutched his reins and tucked in close to Cosmo for warmth. The dinosaur's powerful wings were carrying him north, but the warmer temperatures of the increasingly equatorial latitudes were insufficient to offset the freezing cold of the deepening night. He had no idea how the Anarchists travelled like this.
 

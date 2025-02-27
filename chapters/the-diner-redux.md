@@ -1,4 +1,4 @@
-# 40. The Diner, Redux
+## 0. The Diner, Redux
 
 Russell awoke in the diner. Stacy was sitting across from him, agitated and covered with coffee. 
 

@@ -1,4 +1,4 @@
-# 20. The Faustian Bargain
+## 0. The Faustian Bargain
 
 "Looks like they didn't need our help", remarked Gabe.
 

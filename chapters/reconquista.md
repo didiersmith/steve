@@ -1,4 +1,4 @@
-# 18. Reconquista
+## 0. Reconquista
 
 Memes evolved and spread much faster than genes. Fifty generations was a long time to wait for genetic effects to kick in. Within five generations, Steve and Gabe had lost huge swaths of territory to Allen's new meme. Particularly worrying was the loss of a large peninsula on the Western side of the continent - with Allen's apes already having taken over the East, Steve's remaining apes found themselves sandwiched between a united, hostile front.
 

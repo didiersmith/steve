@@ -1,4 +1,4 @@
-# 60. The Cube of Realistic Physics
+## 0. The Cube of Realistic Physics
 
 "We're all clear," crackled Ivan's voice through the radio. "Light her up!"
 

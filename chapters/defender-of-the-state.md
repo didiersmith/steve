@@ -1,4 +1,4 @@
-# 77. Defender of The State
+## 0. Defender of The State
 
 "Don't feel bad," Sullivan told himself as he drove down the empty streets to the abandoned warehouse district where Filbert's crew had made their headquarters. "They were terrorists."
 

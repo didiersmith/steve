@@ -1,4 +1,4 @@
-# 42. The Refusegee Crisis
+## 0. The Refusegee Crisis
 
 Everybody produces sewage. In a modern society, few ever think about it, and most have very little understanding about how it is managed. The People's Republic was so modern that not a single person ever spent any amount of time thinking about sewage. There were no plumbers or wastewater treatment workers in the PR - all the work was done by robots.
 

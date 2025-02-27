@@ -1,4 +1,4 @@
-# 44. The Boat People
+## 0. The Boat People
 
 The Terrarium worked fantastically well. Mechanically, it was quite a simple device, consisting of a cabin, six huge vacuum balloons, a swim bladder, and a set of fusion engines. Not a lot to go wrong. The more complicated aspect was the biological balance inside the cabin. It operated as a closed system, with self-contained carbon, water, and nutrient cycles. On the island's maiden flight, there was a small but noticeable deficit of food. This was easily rectified with periodic dockings at market towns. Xavier was confident that balance would be achieved when the fruit trees matured.
 

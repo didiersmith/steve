@@ -1,4 +1,4 @@
-# 66. Space Fish
+## 0. Space Fish
 
 "Dad!" Xavier thought. "Dad dad dad! Come in, dad!"
 

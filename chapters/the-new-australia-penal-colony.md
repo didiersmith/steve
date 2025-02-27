@@ -1,4 +1,4 @@
-# 38. The New Australia Penal Colony
+## 0. The New Australia Penal Colony
 
 Both Filbert and Xavier had been right. The warships didn't bother them as they flew overhead, and the wakes of the ships clearly showed them closing in on The Dominion. The island would shortly be overrun.
 

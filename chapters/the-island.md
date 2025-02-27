@@ -1,4 +1,4 @@
-# 29. The Island
+## 0. The Island
 
 Russell was awoken by the sensation of robotic ants crawling over him. He yelped, jumped up, and shook them off furiously.
 

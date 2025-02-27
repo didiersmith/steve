@@ -1,4 +1,4 @@
-# 30. The Commonwealth of New Sealand
+## 0. The Commonwealth of New Sealand
 
 The people did bring their own drinks. And their own food. And seeds, saplings, and livestock. That was the deal - be self-sufficient, help terraform the island, get to hang out with Stacy in a tropical paradise. Thousands leapt at the opportunity.
 

@@ -1,4 +1,4 @@
-# 65. The Malicious Cow
+## 0. The Malicious Cow
 
 The malicious cow stopped by Stacy II's desk. "Hi darling," she moo'd, "do you have that presentation ready yet?"
 

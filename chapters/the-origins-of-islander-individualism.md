@@ -1,4 +1,4 @@
-# 19. The Origins of Islander Individualism
+## 0. The Origins of Islander Individualism
 
 One property of evolution that makes it difficult to engineer is that, once the conditions for it have been created, it will happen whether you like it or not. In any system with selection and imperfect replication, evolution is inevitable. This was true in genetics, and doubly true in memetics - where ideas could replicate and mutate much faster than in biological systems. It was thus that, during a few short centuries when Steve and Gabe's attention had been focused on the peninsula, a strange meme took off completely of its own accord on an island in the North Sea.
 

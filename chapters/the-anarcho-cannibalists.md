@@ -1,4 +1,4 @@
-# 45. The Anarcho-Cannibalists
+## 0. The Anarcho-Cannibalists
 
 "How many rounds do you have left?" Stacy II asked Filbert, once her newly-pledged crowd had dispersed from the square.
 

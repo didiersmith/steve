@@ -1,4 +1,4 @@
-# 46. The Weapons Development Program
+## 0. The Weapons Development Program
 
 "Get rid of them," Vincent advised. "Statists are bad news."
 

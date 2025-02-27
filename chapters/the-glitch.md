@@ -1,4 +1,4 @@
-# 47. The Glitch
+## 0. The Glitch
 
 Conquering the pacifists turned out to be as easy as expected. Getting them to perform any useful function, on the other hand, was a different story.
 

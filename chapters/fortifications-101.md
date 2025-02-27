@@ -1,4 +1,4 @@
-# 35. Fortifications 101
+## 0. Fortifications 101
 
 A shot rang out, and a section of parapet exploded next to Vincent's head. His face was pelted with shards of marble. A beautiful material, but an idiotic choice for building defensive fortifications. Vincent would have gone with granite. A little less aesthetic, but much less prone to shattering.
 

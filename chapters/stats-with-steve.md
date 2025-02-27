@@ -1,4 +1,4 @@
-# 43. Stats with Steve
+## 0. Stats with Steve
 
 When he first saw the effect that the MHI-10's disconnection had on the PR, Russell couldn't stop giggling. He'd forgotten about the unmaintainable sewage system. Making it independent of the computer had been near the bottom of his todo list for decades - something more important always kept cropping up. Now, as the sins of his negligence were being paid for by the people who'd voted to nationalize his assets and ultimately torture and kill him, he found himself grateful that he'd kicked that can down the road. 
 

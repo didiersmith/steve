@@ -1,4 +1,4 @@
-# 58. Von Neumann Paperclip Factory
+## 0. Von Neumann Paperclip Factory
 
 "You're twenty thousand years old?" Stacy asked, incredulously. "How long is a year?"
 

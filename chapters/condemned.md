@@ -1,4 +1,4 @@
-# 73. Condemned
+## 0. Condemned
 
 Filbert avoided meeting Stacy II's eyes. Still gagged and chained in the hostage corner, her glare had somehow managed to get even more impatient. Filbert didn't need that kind of pressure.
 

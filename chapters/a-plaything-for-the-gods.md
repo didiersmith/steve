@@ -1,4 +1,4 @@
-# 11. A Plaything for the Gods
+## 0. A Plaything for the Gods
 
 When Steve received the design brief, it was even worse than he'd thought. Not only was he supposed to read their minds, but he had to influence them as well! He strode around his office, fuming. Gabe, who had composed himself since the previous conversation, sat on the couch and lent a sympathetic ear.
 

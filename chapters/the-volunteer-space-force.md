@@ -1,4 +1,4 @@
-# 68. The Volunteer Space Force
+## 0. The Volunteer Space Force
 
 Every time Stacy walked into the office, there was someone new there. Now that the three monkeybots had managed to produce exciting technology without killing anybody, everyone suddenly wanted to join the team.
 

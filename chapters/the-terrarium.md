@@ -1,4 +1,4 @@
-# 39 The Terrarium
+## 0 The Terrarium
 
 Xavier was keen to return to his project and forget the events of the previous day. He left his dad to explain to his mom what had happened to her pet ketzel, and slipped into his hanger-sized laboratory. The ASIC was waiting patiently in its towering diamond cylinder, bathed in coolant.
 

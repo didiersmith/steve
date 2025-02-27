@@ -1,4 +1,4 @@
-# 62. Permanent Schizophrenia
+## 0. Permanent Schizophrenia
 
 The bridge disappeared slowly into the Cube of Realistic Physics. Xavier watched, warily, as the pure black wall of nothingness slowly advanced through the room, swallowing up everything as it went.
 

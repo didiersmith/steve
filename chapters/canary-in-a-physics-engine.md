@@ -1,4 +1,4 @@
-# 57. Canary in a Physics Engine
+## 0. Canary in a Physics Engine
 
 Xavier found himself torn between three projects - space colonization, Antarctic migration, and whatever crazy program his dad was working on. As he had predicted, the statists at the PR had finally shown their true colours and annexed The Anarchy. Their navy was sailing through the vast network of floating islands, taxing residents, enforcing regulations, and brutally crushing what little disorganized dissent the Anarchists were able to muster. People were fleeing en masse.
 

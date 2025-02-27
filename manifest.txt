@@ -1,5 +1,8 @@
+title.md
 god-why-have-you-forsaken-me.md
-genesis.md
+toc.md
+act-1.md
+stevienix.md
 cancer.md
 research.md
 degrees-of-darkening.md
@@ -20,6 +23,7 @@ reconquista.md
 the-origins-of-islander-individualism.md
 the-faustian-bargain.md
 default-provisions.md
+act-2.md
 gods-diner.md
 the-calling.md
 the-particle-computer.md
@@ -30,6 +34,7 @@ polymerized-fullerene.md
 the-island.md
 the-commonwealth-of-new-sealand.md
 three-types-of-people.md
+act-3.md
 xavier.md
 sullivan.md
 kitten.md
@@ -81,3 +86,4 @@ el-dorado-of-probable-cause.md
 the-corp-conundrum.md
 stacy-the-second.md
 in-the-flesh.md
+end.md

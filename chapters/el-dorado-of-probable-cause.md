@@ -1,4 +1,4 @@
-# 79. El Dorado of Probable Cause
+## 0. El Dorado of Probable Cause
 
 "FEDSEC wants a full blueprint for the orbital ring," Murdoch announced to Allen, shutting his office door behind him. "And written explanations of all unusual features, particularly anything that could be used to effect a launch into space."
 

@@ -1,4 +1,4 @@
-# 26. Robot Laser Arachnid 1
+## 0. Robot Laser Arachnid 1
 
 It started with precision manufacturing. Vincent, as an avid CNC manufacturing hobbyist, already owned a CNC router, a cheap laser engraver, and two 3D printers. He had two problems: Firstly, the tolerances. His tools couldn't machine anything more precisely than 0.1 millimeters, which was far too sloppy. Better equipment could easily cost hundreds of thousands of dollars, and still wouldn't meet the precision required. More importantly, however, was the manual labour. Machining parts was hard enough, but manufacturing at scale was a whole other challenge.
 

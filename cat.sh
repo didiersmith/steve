@@ -3,10 +3,10 @@
 FOR_PDF=${1:-false}
 
 
-num=0
+num=1
 for file in $(cat manifest.txt); do
-  if [[ $(head -1 chapters/$file | grep '^#' ) ]] ; then
-    head -1 chapters/$file | sed -E "s/^# *[0-9]+/# $num/"
+  if [[ $(head -1 chapters/$file | grep '^##' ) ]] ; then
+    head -1 chapters/$file | sed -E "s/^## *[0-9]+/## $num/"
     tail -n +2 chapters/$file
     num=$((num+1))
   else

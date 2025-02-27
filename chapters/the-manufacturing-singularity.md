@@ -1,4 +1,4 @@
-# 27. The Manufacturing Singularity
+## 0. The Manufacturing Singularity
 
 Vincent had played out the manufacturing singularity in his mind many times before. He had always imagined the progress to follow something like Moore's Law - a wickedly fast progression in the long arc of human history, but a banal plod in the lifetimes of the humans fortunate enough to see it happen.
 
