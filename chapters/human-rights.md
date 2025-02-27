@@ -1,4 +1,4 @@
-## 0 Human Rights
+## 0. Human Rights
 
 Archibald reluctantly led Stacy II, Filbert, and Cosmo to his village. When they arrived, the ceremony was already underway.
 
