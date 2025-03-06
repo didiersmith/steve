@@ -24,7 +24,7 @@ As he was pouring the hot water into the press, Vincent made an attempt at conve
 
 Russell tipped his chair over.
 
---
+---
 
 After establishing that they had shared the exact same dream, Russell and Vincent went over every detail they could remember. The cheap prices on the menu, the coffee and pie, Stacy's appearance and demeanour. They discussed Steve's revelations at length. As avid gamers, the idea of them being characters in a sim, surrounded by NPCs, wasn't that jarring.
 
@@ -54,7 +54,7 @@ Intrigued, Russell downloaded a simple python script that calculates digits of p
 
 He opened the assembly language manual, and started reading. Although the language itself was completely foreign to him, many of the concepts were familiar from the compilers class he'd taken in undergrad. After reading for a bit, it was obvious what he needed to do. He informed his employer that he would be taking the next week off, and settled in to write a FORTRAN compiler.
 
---
+---
 
 It took several days. The FORTRAN compiler was necessarily written in python, which was an unusual language for the task. This made it difficult to just download code off the internet. The final result was inelegant, but worked. After the compiler passed his basic test suite, Russell downloaded the venerable public domain FORTRAN code for the Basic Linear Algebra Subprograms (BLAS), and compiled it.
 
@@ -128,7 +128,7 @@ He clicked the link, and a website opened up. On it, was displayed a paginator i
 
 Vincent laughed. "Steve much have chosen three people who live close to each other. Looks like she's at the Balmoral. Shall we grab a pint?"
 
---
+---
 
 The Balmoral Hotel was a venerable institution in the neighbourhood of East Vincentia Park. It occupied a stately old two-storey building with a wrap-around verandah, a patio, and a beer garden. It was surrounded by hedges and a wrought iron fence, and adorned with corgis of various designs. Inside, the slightly-too-slick menus, slightly-too-clean atmosphere, and slightly-too-polished staff betrayed it for what it was - one of several hundred "local" pubs owned and operated by Australian Leisure and Hospitality Group. Fortunately, it was also one of the only establishments in East Vic Park whose offerings weren't exclusively designed to cater to an Asian clientele. As such, the regulars suppressed their shame of drinking at a chain restaurant and kept the trade roaring, seven nights a week.
 

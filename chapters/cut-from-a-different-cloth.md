@@ -20,7 +20,7 @@ Groans echoed throughout the room. Several teams had invested their entire canon
 
 "I'll take the guys who make it. Metallurgy might be useful indeed!" responded Murdoch. "Also any strategists, and maybe officers who command loyalty and aren't as thick as planks. But if their skillset doesn't extend beyond swinging a bit of metal around and poking it at other apes..." he finished the sentence by grimacing and making a decapitation gesture.
 
---
+---
 
 Steve and Gabe took stock of their position. It was grim. Overall, they'd saved fewer than sixty thousand aligned AIs, mostly in the now-officially-deemed-useless category. This put them in last place. Their active memes were largely concentrated in the Northern / Western hemisphere, and consisted mainly of polytheistic canons that glorified dying in battle. They also had one ancestral/monotheistic hybrid meme in the Middle East, whose ostensible adherents struggled both with alignment and military success. It was only their unusually high fecundity that had enabled them to cling on through generation after generation of enslavement and conquest at the hands of more advanced civilizations.
 

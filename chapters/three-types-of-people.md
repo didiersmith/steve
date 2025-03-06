@@ -12,7 +12,7 @@ The currency, as in the other entities of New Sealand, was gold. To support the 
 
 The high standard of living and enormous quantity of public funds made the People's Republic an attractive destination for doctors, educators, and scientists the world over. Within a generation, the People's Republic boasted some of the best schools, universities, and hospitals on the planet.
 
---
+---
 
 The next most popular entity was the Theocratic Dominion. Stacy, widely seen as a prophet, was held in a religious reverence which she directly parlayed into a divine right to rule.
 
@@ -24,7 +24,7 @@ The population in Stacy's Theocratic Dominion was extremely well behaved. After 
 
 Although most business owners initially expressed skepticism over doing business in a jurisdiction with a nondeterministic legal system, many eventually came to realize that Stacy's rulings were anything but arbitrary. Her moral framework was, after all, explicitly laid out in the Newer Testament (not to mention her large collection of social media posts). So long as a business obeyed its contractual obligations, dealt honestly, and avoided polluting the environment or poisoning people with endocrine disruptors, the owners were on fairly solid ground. Many found the system in practice to be more predictable and less capricious than the jury-centric systems in Old World jurisdictions. This, combined with the low-tax low-regulation environment, propelled the Theocratic Dominion to become a global favourite jurisdiction for large, multinational corporations.
 
---
+---
 
 Only the bravest chose to live with Vincent in the Anarchy. Vincent rejected state authority as being morally illegitimate, indistinguishable from rule by mafia or warlord. In his view, states were granted power on the basis of two superstitions: That commands are somehow legitimate when they're labeled as "laws", and that violent thugs somehow become upstanding citizens when dressed in uniforms, given badges, and told to enforce those "laws". The cornerstone of his moral code was the Non-Aggression Principle (NAP), which states that it is immoral to initiate the use of force upon another person or their property. As states regularly violated the NAP, they were immoral. QED.
 

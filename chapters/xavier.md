@@ -10,15 +10,15 @@ Vincent sighed. Xavier was homeschooled, and was working his way through a unit 
 
 "I don't charge for the islands at all," he objected.
 
-"Even worse! You just build islands based on vibes! The market price of a new canton is a suitably manipulative pitch deck. You know there are companies out there that specialize in helping would-be canton founders prepare pitch decks for you?"
+"Even worse! You just allocate islands based on vibes! The market price of a new canton is a suitably manipulative pitch deck. You know there are companies out there that specialize in helping would-be canton founders prepare pitch decks for you?"
 
-Vincent was aware. Their pitch decks all looked the same. He hadn't seen an original, home-made deck in years - which was a shame, as he vastly preferred them.
+Vincent was aware. Their pitch decks all looked the same. He hadn't seen an original, home-made deck in years.
 
 "Any idea how much those companies charge to prepare a deck? There's basically a black market price on new cantons."
 
 "Are you suggesting I start charging for cantons?" asked Vincent.
 
-"No, without competition there's no way for you to discover a fair market price," responded his teenaged son, confidently. "I'm suggesting you democratize the island-creating technology and let a free market emerge."
+"No. Without competition there's no way for you to discover a fair market price" responded his teenaged son. "I'm suggesting you democratize the island-creating technology and let a free market emerge."
 
 "Absolutely not. No way in hell," responded Vincent.
 
@@ -70,17 +70,17 @@ Vincent was a little annoyed. To be honest, the thought had never occurred to hi
 
 Xavier's jaw dropped.
 
---
+---
 
-The project was harder than it sounded. Access to the MHI-10 had been a foundational assumption at every step of the tech tree, from the robot spider in Vincent's old workshop, to the extremely sophisticated Computer-Aided Design/Manufacturing (CAD/CAM) software that Vincent and his team had built up over the decades to assist in island production. Removing it would have been impossible, were Xavier not allowed to use the MHI-10 itself to help with the task.
+The project was harder than it sounded. Access to the MHI-10 had been a foundational assumption at every step of the tech tree, from the robot spider in Vincent's old workshop, to the extremely sophisticated Computer-Aided Design/Manufacturing (CAD/CAM) software that Vincent and his team had built up over the decades. Removing it would have been impossible, were Xavier not allowed to use the MHI-10 itself to help with the task.
 
 Xavier got to work. He was relieved to find that his father had always relied on sensors, never omniscience, to determine the locations of objects in real-time. Retrofitting sensors into the robot designs would have been near impossible. Still, there was plenty of omniscience involved in higher-level planning and swarm coordination. As manufacturing an island involved coordinating trillions upon trillions of individual robots, replacing the MHI-10 with conventional computing algorithms was tricky, to say the least. Finally, he understood why integrated circuits had been a part of his curriculum since he was six.
 
-He became best friends with the Large Language Model. Over the course of the next few months, it helped him design a new machine. It wasn't a general purpose computer, but an Application Specific Integrated Circuit (ASIC) designed to design other integrated circuits. These secondary circuits were special - rather than standalone computing devices, they were built into the structure of whatever object the ASIC was told to construct. It was these secondary circuits that would coordinate the robot swarm - thus, every object manufactured would essentially be a computer, that knew how to manufacture itself.
+He became best friends with the Large Language Model. Over the course of the next few months, it helped him design a new machine. It wasn't a general purpose computer, but an Application Specific Integrated Circuit (ASIC) designed to design other integrated circuits. These secondary circuits were special - rather than standalone computing devices, they were built into the structure of whatever object the ASIC was told to construct. It was these secondary circuits that would coordinate the robot swarm. Every manufactured object would thus contain an embedded computer, that knew how to manufacture the rest of the object.
 
 The ASIC was huge. It was roughly the size and shape of an oak tree. Constructed out of an unfathomably complex lattice of carbon, silicon, gold and rare earth metals, it was kept submerged in an enormous diamond tank of cooling liquid. When Xavier switched it on for the first time, it hummed. He watched the cooling liquid slowly start moving around the tank, swirling around the hundreds of thousands of delicate nanostructure leaves.
 
-Slowly, he walked over to his desk next to the tank and brought up his dad's CAD software. The LLM had helpfully ported it to the ASIC - Xavier had no idea how, but assumed that the software was now baked in to the circuit. To update the software, he'd need to build a new tree. Praying under his breath, he drew a 1cm sphere in CAD. He then flipped over to CAM, selected a spot on his desk as the output location, and clicked "run".
+Slowly, he walked over to his desk and brought up his dad's CAD software. Praying under his breath, he drew a 1cm sphere in CAD. He then flipped over to CAM, selected a spot on his desk as the output location, and clicked "run".
 
 He stared at the spot on his desk. For ten long seconds, nothing appeared to happen. Then, he saw a speck of dust appear. Out of it, grew a number of tiny threads, so small that he would have missed them had he not been staring so intently at that exact location. The threads grew up, branching and joining each other, until they'd built an almost invisible 1cm buckyball. The circuit.
 

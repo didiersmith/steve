@@ -22,7 +22,7 @@ Vincent fired up the fusion engine and lowered the oversized propeller into the 
 
 Stacy and Russell groaned and lay down in the bottom of the boat as a grinning Vincent guided them at top speed past the Perth skyline, out the mouth of the Swan, and into international waters.
 
---
+---
 
 "We're here!" Vincent announced.
 
@@ -84,7 +84,7 @@ The Starlink transceiver beeped. It had found a satellite. Russell pulled his ph
 
 A campfire appeared in front of him on the polymerized fullerene ground. Vincent crawled towards it. Russell dragged Stacy's barely-conscious body over, flopped down next to his two friends, and passed out. Mission accomplished.
 
---
+---
 
 Steve and Gabe looked up from the screen. "Can we heal them?" asked Steve.
 

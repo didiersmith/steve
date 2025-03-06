@@ -28,7 +28,7 @@ Steve spent a barely perceptible moment mourning his afternoon plans. They had i
 
 "Sure, no problem. Where's the manual?"
 
---
+---
 
 Imagine five trees catch fire in a forest. If you are standing some distance from the forest, all the individual burning trees would appear to be close together - perhaps taking up only a couple of degrees in your field of view. You would feel relatively unthreatened by the fire, and your attitude upon noticing the burning trees may be akin to "how unusual, someone ought to do something about that".
 
@@ -36,7 +36,7 @@ Now, imagine the same five trees catching fire in the same forest, except you ar
 
 The five disappeared stars took up twenty degrees of the sky. There was cause for concern.
 
---
+---
 
 Programming the telescope turned out to not be that hard in the end. The telescope's manual was located, and Steve was pleasantly surprised to find that its manufacturer had designed a fairly intuitive programmatic interface. The hardest part was figuring out how to turn it on and log in. In a couple of hours, they had the focus set to infinity and the telescope was panning around on demand.
 

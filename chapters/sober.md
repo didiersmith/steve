@@ -28,7 +28,7 @@ Blackness.
 
 ******
 
-The two ketzels landed in a clearing in the woods a few kilometers away. Vincent and Xavier hadn't had time to put their headsets on, and were thus unable to communicate a plan in mid-air. Vincent spoke first.
+The two ketzels landed in a clearing in the woods a few kilometers away. Vincent spoke first.
 
 "I'm not keen to fly over the blockade again," he said.
 

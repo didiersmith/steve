@@ -32,7 +32,7 @@ Steve wasn't sure about that, but was confident that memetic evolution would mak
 
 Within a short while, Allen's loyal supporters surrendered. A groan echoed throughout the audience - the contestants had been expecting a glorious last stand, with mass casualties on each side. Credits had been wagered. Drinks had been ordered. Instead, the apes set about negotiating a peace. Boring!
 
---
+---
 
 After the event, Steve heard a knock at his door. He opened it, and found Allen.
 
@@ -90,7 +90,7 @@ Steve skim read the contract, nodded his head, and signed it. "There you go" he 
 
 Allen took the contract and checked the signature box. "Pleasure doing business with you, Steve." He smiled, shook Steve's hand, and let himself out.
 
---
+---
 
 "You signed WHAT?" asked Gabe, incredulously.
 
