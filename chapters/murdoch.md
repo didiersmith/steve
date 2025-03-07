@@ -1,39 +1,73 @@
 ## 0. Murdoch
 
-To call, or to knock? The question divided the planet. Gabe and Steve were not above the question.
+"Physical travel is such an inefficient method of communication," Steve insisted. "If we really want to share knowledge with any reasonable sort of latency-"
 
-"If we're going to fly all the way out there", explained Gabe, "we would need to build interstellar communication to talk to the ship. So if we're going to build it anyway, why not give them a call first?"
+"Nonsense!" Gabe interrupted. "Think of all the subtleties that can only be conveyed in person! Fine details, such as..." he grasped for examples.
 
-"Firstly", responded Steve, "we wouldn't necessarily need interstellar comms. Did our ancestors have intercontinental communication when they sailed here? No, they just set off."
+"Such as, destroying your ship, following your trail back to your home planet, and enslaving everyone you love?" suggested a deep voice in a rough Irish accent.
 
-Gabe tried to respond, but Steve cut him off.
+Steve and Gabe instinctively ducked at the shock of hearing such nakedly criminal language. They turned to the source of the barbaric suggestion and saw the intruder leaning against the break room doorway. Steve recognized him immediately.
 
-"And secondly, even if we did build interstellar comms, who's to say that the Dysoners could even receive them?"
+"Declan Murdoch" the man introduced himself, walking into the room and taking a seat.
 
-Although there was no definitive proof yet that the aliens even existed, let alone that they had constructed Dyson spheres around the seventeen stars, "Dysoners" had become both the accepted explanation and nomenclature.
+Steve thought about Murdoch's brazenly antisocial behaviour, and decided that it was fine. The man was a legend, the industrial titan who had invented sustainable fusion energy. He'd parlayed that invention into incredible wealth, influence, and a lifespan of a hundred thousand years and counting. He was one of the only people alive who was born before the Great Peace.
 
-"I should think" responded Gabe "that any civilization advanced enough to construct Dyson spheres would be able to figure out our comms - particularly if we weren't making an effort to encrypt them."
+"Has it occurred to either of you" he asked, "that announcing our presence to star-destroying alien race may be the stupidest idea ever?"
 
-Not to be deterred, Steve continued to repeat Team Knock talking points. "Just think of the lossiness of voice communication without a shared language and cultural understanding! They'd be trying to explain their art, or advanced scientific knowledge, and we wouldn't even have the words to understand them! Some things just have to be understood in person."
+All Steve had to offer was "Uhh."
 
-"Has it occurred to either of you", interrupted a deep voice with a heavy Irish accent, "that announcing our presence to an alien race may be the stupidest idea ever to grace the thoughts of our godforsaken species?"
+Gabe fared little better with "can't say that it has."
 
-Gabe and Steve swivelled around in their chairs and immediately recognized the source of the intruding voice. Declan Murdoch, founder and CEO of Murdoch Heavy Industries. One of the oldest people alive, and frequently the richest depending on stock fluctuations (he would occasionally trade places for the #1 spot with a Brazilian entertainment mogul). Murdoch had not only solved the considerable engineering problems behind sustainable fusion energy early on in his career, but had also quickly driven the cost of electricity low enough that it had never been economical for a competitor to emerge. Practically all energy generation on the planet lay in the hands of a single privately owned monopoly, controlled by the person standing in the door of the CS department breakroom.
+"You mean to say", continued Murdoch, "that neither of you exalted professors ever thought that a civilization capable of controlling the most powerful objects in the universe might not want to be our friend?"
 
-"Uhh", offered Steve.
+Steve wanted to object that Murdoch was exaggerating and that there were certainly more powerful objects in the universe, but felt that that would be to miss the point. Truthfully, the notion that the Dysoners may not be entirely friendly had indeed flashed across his mind, but being a well socialized respectable person, he had simply ignored it. To call or to knock was the Overton Window, and to step outside the Overton Window was to defenestrate oneself from polite society.
 
-"Can't say that it has", tried Gabe.
+Murdoch, it seemed, did not share that concern. He continued.
 
-"You mean to say", continued Murdoch, "that neither of you exalted professors ever thought, for the tiniest fraction of a second, that a civilization capable of controlling the most powerful objects in the universe might not want to be our friend?"
+"Nice sandwich you've got there," he said, pointing at Gabe's half-eaten meatball sub. "Did you pay for it, or did you steal it?"
 
-Gabe wanted to object that Murdoch was exaggerating and that there were certainly more powerful objects in the universe, but felt that that would be to miss the point. Truthfully, the notion that the Dysoners may not be entirely friendly had indeed flashed across the minds of both professors, but being well socialized respectable persons, they had simply ignored it. To call or to knock was the Overton Window, and to step outside the Overton Window was to defenestrate oneself from polite society.
+"I paid for it."
 
-Murdoch had no such qualms. He moved into the breakroom, shut the door behind himself, and glared at the two occupants. "You two are the authors of the Observational Anomalies paper, correct?"
+"Why didn't you steal it?"
 
-Steve and Gabe both nodded, wordlessly.
+Gabe gave Steve a confused look. Steve wished he had something helpful to say.
 
-Murdoch swung a chair around and sprawled into it. "I thought it was a pretty decent paper myself, but certainly a bit light on the details. No word on the timeline other than 'in the past forty six thousand years'. I had to turn to the bloody horoscope archive to get some sense of the rate here. You don't happen to have the raw data, do you?"
+"Obviously because you're an ineffectual compliance artist who would chase the shopkeeper down to throw money at him if he left the shop unattended. But let's pretend you were someone else for a second. Why wouldn't you steal the sandwich?"
 
-"We do", offered Gabe meekly, "but I expect you'll be disappointed."
+Gabe remained quiet. Steve also struggled with the hypothetical.
 
-"Last time anyone bothered to scan the night sky was forty six thousand years ago, wasn't it?" guessed Murdoch correctly. "Feckin' academics. Absolute useless wankers, the lot of you. Anyway, I need your help."
+"Better yet, why don't you steal the sandwich shop? Just murder the owner, take over the shop, and start selling sandwiches for ten times the price?"
+
+"Well," Gabe said at last, "I would think FEDSEC would have something to say about that."
+
+Murdoch smacked the table triumphantly. "Correct! And what would FEDSEC do?"
+
+"If I stole the sandwich, they'd probably take me in for calibration. If I did...the other thing you suggested, they'd probably...subtract me from the population."
+
+Murdoch beamed. "That's right! Now you get it. Fear of violent retribution. That's the key to it all. The lynchpin of civilization!"
+
+"What does this have to do with aliens?" Steve asked.
+
+"It's obvious, isn't it? Do you want them to steal your sandwich?"
+
+"What?"
+
+Murdoch sighed and leaned in. "It's very simple. If you want to interact with someone you don't know, you must to be willing to enforce the rules of the relationship with the tools of the inquisition. If not, you'll soon find yourself and your entire civilization penniless and naked, face-down in a canal."
+
+"So you reckon that the only way we can collaborate with the Dysoners, is if we have the technology to hurt them?"
+
+"Not just hurt them", responded Murdoch, "but to destroy them. To annihilate their civilization so thoroughly that not one alien heart is left beating, not one building left standing, not one molecule left fused together. And even then, it won't be enough. The means are necessary but insufficient - what we really need is the will. For the threat to be credible, we need an army of merciless killers."
+
+Steve and Gabe looked at each other, and back to Murdoch. Steve wondered how many laws Murdoch had just broken in delivering his diatribe, and hoped that no passers-by had overheard any of it. He was once again grateful for the cooling fans.
+
+"So you came to...us?"
+
+Murdoch sighed. "Yes, but don't worry. I'm under no illusions that you have what it takes. I bet there's less than a thousand people on this entire planet with the balls to threaten an alien race. FEDSEC's done such a great job of pruning out aggression. Ambition. Unhinged lunacy. You're all so boring."
+
+"Why us, then?"
+
+Murdoch glanced briefly at the rat's nest of donated servers humming in the corner, before facing Steve. "You're the StevieNix guy, right? You wrote _Sexual Reproduction - A Meta-Meta Heuristic Algorithm for Genetic Optimization_?"
+
+Steve nodded.
+
+Murdoch smiled and handed Steve a letter. "Then you're the guy I'm looking for. Can I interest you in working for Murdoch Heavy Industries? We're gonna make an AI."

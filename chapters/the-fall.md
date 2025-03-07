@@ -1,10 +1,6 @@
 ## 0. The Fall
 
-The hardest part about creating an artificial intelligence is creating an artificial intelligence. The second hardest part is making sure your artificial intelligence doesn't kill you. This problem is called "alignment", and is particularly important if you plan on selecting your AI for psychotic warfaring personality traits before arming it with enough firepower to destroy seventeen solar systems and the entire interstellar civilization that colonized them.
-
-But that was a problem for later. For now, Steve's job was to create the AI in the first place.
-
-He took a sabbatical and moved in to a purpose-built lab in Murdoch Heavy Industries' research division. Gabe, although not essential to the StevieNix project, tagged along for moral support. Upon moving in, Steve cloned a fresh copy of StevieNix and uploaded it onto a state-of-the-art datacenter of unfathomable compute power provided by Murdoch. Then the fun began.
+Steve took a sabbatical and moved in to a purpose-built lab in Murdoch Heavy Industries' research division. Gabe, although not essential to the StevieNix project, tagged along for moral support. Upon moving in, Steve cloned a fresh copy of StevieNix and uploaded it onto Murdoch's state-of-the-art datacenter of unfathomable compute power. Then the fun began.
 
 The obvious candidates were the great apes. He'd spent a great deal of time perfecting their hands, which were vastly better suited to tool use than any appendages of the other species. With some minor adjustments, he managed to make them walk upright in the manner of his own people - this allowed them to carry tools (primarily weaponry) around with them as they walked.
 

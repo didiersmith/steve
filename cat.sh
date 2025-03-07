@@ -5,6 +5,7 @@ FOR_PDF=${1:-false}
 
 num=1
 for file in $(cat manifest.txt); do
+  if [[ $file =~ ^# ]]; then continue; fi
   if [[ $(head -1 chapters/$file | grep '^##' ) ]] ; then
     head -1 chapters/$file | sed -E "s/^## *[0-9]+/## $num/"
     tail -n +2 chapters/$file

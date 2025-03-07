@@ -1,27 +1,43 @@
 ## 0. StevieNix
 
-In the beginning, Steve created the heavens and the earth. The physics was a bit janky at high speeds and tiny distances, but he just blamed that on Surreal Engine 9 and filed it away as a FIXME. At the scale he was interested in, everything was beautifully Newtonian.
+Steve's universe was the joke of the Computer Science department. The physics were janky, the simulated beings were obsessed with reproduction, and Steve's inability to land a decent grant meant that the entire world ran on a heap of donated hardware in the corner of the break room. He called it StevieNix, and it was his pride and joy.
 
-His thesis, "Sexual Reproduction: A Meta-Meta-Heuristic Approach for Genetic Optimization" was the joke of the Computer Science department. His idea of splitting the populations into dimorphic subgroups who would evaluate each others' fitness was indeed proving to be capable of rapid evolution on inexpensive hardware. Unfortunately, by relinquishing control over the fitness function, he had limited his ability to steer the evolutionary process in any productive direction (eg. trading stocks). Instead, his populations became obsessed with gaming the opposite sex's fitness functions. They spent the bulk of their time on bizarre mating rituals, or otherwise busying themselves with the proliferation of their genetic material.
+He didn't mind the jokes. In fact, he couldn't. Any part of his psyche that might get upset at being called a "doddering fool" or "space-brained eccentric" had either been corrected under the gentle guidance of the Federal Department of Social Emotional Calibration (FEDSEC), or had been spliced out of his genome before he had been born. To take offense was to take the first step on the path of aggression - a path that led inevitably to being clipped out of the perfect tapestry that was his happy, peaceful society.
 
-Aside from the sexual reproduction mechanic, the other attribute that set Steve's world apart was the licensing: It was open source. Shortly after the world had stabilized, while he was still experimenting with large reptiles, he announced his world on alt.sim.planets:
+Steve, like everyone around him, was content. He couldn't risk to be otherwise. He would gladly have spent the next thousand years in the CS department breakroom, alternating between exploring StevieNix in VR and engaging in academic debate with his best and only friend Gabe. Unfortunately, it wasn't meant to be.
 
-> Hello everybody out there using Surreal -
+One day, for whatever reason, Sirius disappeared from the night sky and changed Steve's life forever.
 
-> I'm doing a (free) universe (just a hobby, won't be big and professional) with a novel evolutionary strategy. This has been brewing since April and is starting to get ready.
+---
 
-> I've got reptiles, fish, birds, bugs, and all sorts of flora. To be honest, the reptiles are starting to get a bit out of hand. Does anyone have any ideas for how to balance things out?
+"How do you know it's aliens?" Steve asked, leaning forwards on the table and cradling his mug of instant coffee. "It could be anything."
 
-> Patches are appreciated. Any suggestions are welcome but I won't promise I'll implement them :-)
+"It couldn't be anything," Gabe objected. "There's no natural phenomenon that can cause a star to just vanish. You get like, a billion years' heads up."
 
-Patches came pouring in. A cocky Siberian teenager helped solve his dominant reptile problem. A bohemian hipster committed his art project: Birds with huge, cumbersome tails covered in beautiful glittering fractal designs. A group of bored grad students held a competition to create the "ultimate scavenger", resulting in several entirely distinct lineages of crab.
+"There's no natural phenomenon - that you know about! Maybe it happens all the time and you've just missed it."
 
-His best friend Gabe even got involved. Gabe's experiments around increasing the stereo baseline of predators' eyes resulted in the abomination of the winghead shark, whose absurdly sized cephalofoil was slowly being tamped back into reasonable dimensions by successive generations of relentless evolution.
+"We have records of the night sky going back a hundred thousand years, Steve."
 
-The universe came to be called StevieNix. As the Benevolent Dictator For Life (BDFL), Steve was responsible for keeping the simulation running. The entire world ran in a corner of the CS department's break room, on an ever-expanding beowulf cluster of donated hardware that would otherwise have been destined for landfill. His colleagues referred to it as the "rat's nest". Things mostly worked okay, thanks to the magic of fault-tolerant distributed consensus algorithms and Steve's tongue-in-cheek labeling of any glitches as "stochastic events".
+"And you've never seen a star disappear before?"
 
-Anyone could fork StevieNix, and many did. StevieNix became the foundation for millions of games, experiments, birthday presents, and corporate teambuilding exercises. Despite many of these forks running on vastly superior hardware, Steve's master branch had the dual advantages of mindshare and a well-liked BDFL. All patches flowed through Steve, and any patches he liked ended up in his instance.
+Gabe looked around. As usual, he and Steve were the only ones in the break room - the constant hum of StevieNix's cooling fans was enough to drive away anyone else who might be drawn to the ostensibly communal area.
 
-And so the centuries elapsed. Steve's simulated lifeforms continued to evolve in strange and unproductive directions, nothing useful appeared, and nothing much changed.
+"Truth be told," Gabe admitted, "we have. Sirius is just the first one to capture public attention. The horoscope guys have been making a big deal about it."
 
-Until one day, out in the real world, the star Sirius went out. Then, everything changed.
+Steve cocked his head.
+
+"This is the seventeenth star to disappear in the past few centuries," Gabe continued. "There's a little burst of discussion in the astronomy journals every time, and then it quiets down. No one knows why it's happening."
+
+"So therefore, it's aliens?"
+
+"Yeah. Aliens building Dyson spheres. It's the only thing that makes sense."
+
+Steve wasn't convinced that an alien race enveloping stars in giant spheres made more sense than his theory - that the astronomy community had an incomplete understanding of the universe. In the interest of social harmony, however, he held his tongue and granted Gabe the benefit of the doubt.
+
+"So what do you propose we do?" he asked.
+
+Gabe nodded. "To call, or to knock?" he asked. "The great debate. It comes up every time. I'm a knocker, myself."
+
+There were few things Steve enjoyed more than a spirited, yet pointless academic debate. He immediately adopted the opposing viewpoint and launched into a passionate spiel about how it would be much better to construct a giant radio and reach out to the aliens ("call"), than to construct an interstellar spacecraft and go visit them in person ("knock").
+
+The two professors became so engrossed in their discussion that they failed to notice when the break room door opened and a third figure slipped into the room.
