@@ -1,25 +1,39 @@
 ## 0. The Origins of Islander Individualism
 
-One property of evolution that makes it difficult to engineer is that, once the conditions for it have been created, it will happen whether you like it or not. In any system with selection and imperfect replication, evolution is inevitable. This was true in genetics, and doubly true in memetics - where ideas could replicate and mutate much faster than in biological systems. It was thus that, during a few short centuries when Steve and Gabe's attention had been focused on the peninsula, a strange meme took off completely of its own accord on an island in the North Sea.
+Murdoch sat alone in his office, drinking whiskey. He'd reached the end of his cigarette. He pulled another one from the pack on his desk, and lit it off the still-smoldering butt of the previous.
 
-Up until that point, the basic unit of ape concern was the tribe. Nomadic tribes shared their flocks; agricultural tribes shared their land. The fruits of the labour of the tribesmembers were shared equitably - from each, according to their ability, to each, according to their need. Tribes traded with each other, but the resultant capital was rarely allowed to accumulate in the hands of any particular tribesmember.
+Compartmentalization was key to being an effective leader. The alignment guys didn't need to know about his hardware woes. As far as they were concerned, it was all being taken care of.
 
-This had many benefits - it allowed for a degree of specialization, eg. one ape could specialize in field-tilling, while another specialized in hunting, and a less physically vigorous ape could spend its time instilling knowledge and moral virtue in the next generation. It also formed a useful substrate upon which larger, more complex civilizations could be built - the millions-strong societies that Allen and Steve had managed to construct thus far were essentially networks of such tribes.
+They didn't need to know he'd just fired the entire interstellar warship team. Completely useless, the lot of them.
 
-What's more, the tribal structure was an evolutionarily stable strategy. Were a tribe to disband, the most likely outcomes for the members would be starvation or violent death, as they found themselves shunned or predated upon by neighbouring tribes. Similarly, were a tribe to grow too large, it would become overwhelmed by coordination problems and freeloaders exploiting the communal resource-sharing nature. Past a certain point, it was much more effective to split into two friendly but distinct tribes.
+"We need a launchpad!" he muttered to himself, mocking the whiny engineer who could never understand the need for discretion. "How will we get to space without a launchpad?"
 
-There was an optimal tribal size, and all of the contestants accepted it as given that tribes of that size would be the basic unit of ape society forever. They didn't even realize that tribes were simply one of many possible societal organization memes until, for whatever reason, a new meme took hold on the island. The new meme caused the apes to forget about tribes altogether.
+He took a drag on his cigarette and washed it down with a generous slug of whiskey.
 
-Perhaps it was due to an unusually long period of peace, a careless whisper from one of the gods, or an inevitable interpretation of the anti-tribal message embedded deep within Steve's meme. Whatever the cause, enough islanders stopped caring about tribal identity simultaneously, that a new societal organization meme was born - one based around individual apes.
+At least the monkeybot team was making progress. Still - where was he going to find another interstellar warship team?
 
-In the new meme, resources and labour were owned by individuals - not tribes. The goods and services produced by individuals were traded in markets - and if an ape's extended family member wanted access to their goods and services, they were made to pay market price. The sole remnant of the tribe was the nuclear family - two parents and their children, who would be unceremoniously excused from the parents' home when they hit a suitable working age (eg. twelve) and expected to support themselves by offering their labour to the market.
+His eyes wandered over to his computer.
 
-It was a cold, brutal meme. Many starved. The result, however, was unprecedented economic output.
+---
 
-The markets allowed for an investment in technology that had never been economically viable in a tribe. Regardless of the long-term efficiency gains, tribes could very rarely afford squandering any of their apes to tinkering on, say, innovative agricultural equipment. Any ape so inclined would be labeled a "freeloading nerd" and sent out into the field with a hoe and the threat of communally-administered punishment if any more time-wasting were to be detected. Any technology developed in spite of these unfavourable conditions would rarely spread beyond the tribe, and would be lost if any single generation didn't contain at least one ape who learned to perfectly replicate it, whilst avoiding suspicion of freeloading nerdiness.
+"Kick him out," said the voice. "He's a smart kid. He's old enough to fend for himself. He'll do better on his own."
 
-The individualist meme solved this problem. By outsourcing the freeloader problem to the natural threats of bankruptcy and starvation, apes no longer felt the need to punish tinkerers whose economic output wasn't immediately obvious. At the same time, any smart hardworking ape could save up capital and eventually afford to take a sabbatical to develop their innovative ideas. If the idea worked out, the ape could sell the resultant technology on the market and personally reap the rewards. With sufficient rewards, the ape could afford to hire other apes to develop, manufacture, and market the technology farther. Thus, over course of several centuries, the level of technology on the island steadily increased while the share of the population employed in full-time subsistence farming declined proportionally.
+The islander looked at his son, in disbelief at his own thoughts. Kick his son out of the tribe? Why?
 
-In the tribal society, it had been widely believed that the accumulation of capital was akin to the accumulation of power. This was inaccurate. In truth, the accumulation of capital was the accumulation of time. It was a harsh world, with wolves at the door and starvation round the corner, but a little bit of excess capital could keep them at bay for a short while. A lot of excess capital could keep them away from a number of families for quite some time - enough to form a shared venture, perhaps to fail, but occasionally to succeed - and that success resulted in improved quality of life for all.
+The tribe was life. The tribe was protection. The tribe was family. Everything was shared with the tribe. If he kicked his son out, surely he would starve, or be enslaved by some other tribe.
 
-It was thus that, despite its harsh and indifferent nature, the individualist meme outcompeted tribal collectivism all over the island. Eventually, when the islanders decided to venture outwards, their technological and memetic advantage allowed them to conquer half the globe. Unfortunately, buried deep within in this meme was the seed of their own destruction.
+Plus, his son had done nothing wrong. If anything, he showed great promise. Sure, he spent a lot of time tinkering in the shed, trying to invent weird agricultural equipment. And sure, other people called him a "freeloading nerd" and had even beaten him up a time or two. But he wasn't a bad kid. He volunteered at church.
+
+The islander thought for a while. Maybe he should kick him out.
+
+He kicked him out.
+
+The son didn't starve, and he wasn't enslaved. Instead, he sold one of his weird agricultural inventions. The resultant profit allowed him to hire a couple of freeloading nerds from other tribes. Together, they made and sold more agricultural equipment. 
+
+By the time the elder islander reached the end of his life, the son owned a factory and supplied agricultural equipment to half the island. Within a few generations, subsistence farming was a thing of the past. Everyone kicked their sons out when they reached working age, and there were no tribes left on the island.
+
+The individualist meme was cold and brutal. In the beginning, many starved. The long-term result, however, was unprecedented economic output.
+
+In tribal society, it had been widely believed that the accumulation of capital was akin to the accumulation of power. This was inaccurate. In truth, the accumulation of capital was the accumulation of time. It was a harsh world, with wolves at the door and starvation round the corner, but excess capital could keep them away for some time - enough to form a shared venture, perhaps to fail, but occasionally to succeed - and that success resulted in improved quality of life for all.
+
+Murdoch smoked his way through three packs of cigarettes as he watched the meme spread. By the time the islanders were ready to conquer the world, the sun was rising and his bottle of whiskey was empty. He fell asleep on his couch.

@@ -66,7 +66,7 @@ Eventually, Russell caved to the manipulative businessman's pressure. "I'll go,"
 
 Murdoch nodded. "Good man," he replied. "You'll need a crewmate though."
 
-Stacy flushed as she felt everyone's eyes flick in her direction. She didn't want to go to the disappeared star. She wanted to stay where she was. She was perfectly happy playing Project Manager, enjoying her coffees with Gabe, and keeping an eye on her husband and children in StevieNix. They needed her! The number of times she'd helped her daughter out of a jam...
+Stacy flushed as she felt everyone's eyes flick in her direction. She didn't want to go to the disappeared star. She wanted to stay where she was. She was perfectly happy playing Project Manager, enjoying her coffees with Steve, and keeping an eye on her husband and children in StevieNix. They needed her! The number of times she'd helped her daughter out of a jam...
 
 The room was silent. The decision had already been made. Everyone knew who Russell's crewmate would be, the only remaining matter was for her to accept it.
 

@@ -1,19 +1,57 @@
 ## 0. Aligned, Useful for Hand-to-Hand Combat With Primitive Weaponry
 
-The first attempts at alignment memes were extremely crude. In an effort to piggyback off the apes' existing familial bonds, the most common approach was to pretend to be an ape's ancestor while speaking into its head. The revelations were typically of the form, "I am the spirit of your great grandfather! I want your tribe to kill that tribe over there and reproduce with their females." The apes were frequently happy to oblige. There were, however, many practical problems with this approach.
+Steve and Gabe formed a team and jumped into the competition with gusto. Their first attempts piggybacked off the apes' existing familial bonds - they pretended to be players' ancestors while speaking into their heads. This worked okay, but not only did the ancestral memes struggle to find purchase with neighbouring tribes, it wasn't ever really clear if the beings counted as "aligned".
 
-Firstly, one of the most common responses was "prove it." Most ancestral alignment attempts either failed at this point, or were adopted not on the basis of the memes' merits, but on the basis of the tribe's gullibility. Unfortunately, such tribes were typically dim-witted and tended to lose their resultant military campaigns.
+Allen, who similarly leapt into the competition, had a much better idea. He dreamed up a pantheon of Gods, and designated a small number of players as "oracles." He spoke visions of the future into the oracles' heads, and once they'd shared the visions with their compatriots, Allen would intervene to make the prophecies come true. Typical visions were simple for him to implement, but impressive for the audience - eg. mysterious deaths, or improbable victory on the battlefield. When questioned about the sources of the visions, the oracles would credit "the gods", and word would spread rapidly and enthusiastically.
 
-The bigger problem, however, was the difficulty in creating durable memes that spread to neighbouring tribes. Put simply, no one cared about what other people's great grandfathers had to say. The only way for an ancestral alignment meme to really gain traction was through repeated military success and extremely aggressive reproductive tactics.
+After a few generations, a number of Allen's tribes had become fully immersed in his mythologies and were indeed willing to kill and die on behalf of "the gods". Upon their deaths, they were saved away as "aligned, useful for hand-to-hand combat with primitive weaponry". Steve wasn't convinced that this really qualified as "useful in an interstellar war", but it was exciting to see progress.
 
-Eventually, therefore, the contestants moved towards more abstract memes - generic gods, applicable to wide swaths of the population. This was easier to spread, easier to keep track of, and granted them much wider leeway in "proving it".
+The strategy was quickly adopted by the other competitors. All manner of gods were dreamed up. The competition soon transitioned from a contest of memes, to a contest of attention-grabbing divine interventions. This turned the AIs fickle - why align yourself with one god, when a competing god might do something even cooler next week? Yields of "saved souls" started to decline again, which pushed teams to try even bigger interventions. It was when teams started annihilating other's tribes with fire and brimstone raining down from the sky, that Murdoch decided to step in.
 
-One team team came up with the idea of "proving it" through oracles. Their basic setup was to speak visions of the future into chosen players, and inspire those players to spread the visions. After the vision had been shared and sufficient time had elapsed, the team would intervene and make the prophecies come true. Typical vision/intervention pairs were simple for the team to implement, but impressive for the audience - eg. mysterious deaths, or victories on the battlefield. When questioned about the sources of the visions, the oracles would credit "the gods", and word would spread rapidly and enthusiastically.
+"That's enough!" he said. "I'm introducing a credit system. The more computationally expensive your intervention, the more it costs."
 
-After a few generations, a number of tribes had become fully immersed in the mythologies and were indeed willing to kill and die on behalf of "the gods". Upon the loyal tribesmembers' expirations, they were saved away as "aligned, useful for hand-to-hand combat with primitive weaponry". Steve wasn't convinced that this really qualified as "useful in an interstellar war", but it was exciting to see progress.
+Steve groaned. He'd just written an extremely expensive intervention involving a dragon.
 
-The strategy was quickly and widely adopted. All manner of gods were dreamed up. The competition soon transitioned from a contest of memes, to a contest of attention-grabbing divine interventions. New problems arose - while big impressive interventions were effective at driving meme adoption, loyalty to any specific meme was fickle and liable to be replaced the next time an opposing team intervened. Yields of "saved souls" started to decline again, which pushed teams to try even bigger interventions. It was when teams started annihilating other's tribes with fire and brimstone raining down from the sky, that Murdoch decided to step in and place restrictions on the magnitudes of the interventions.
+"You each get a hundred credits for every useful aligned AI you save. Credits are fungible and transferable. You each get one million credits to start, and if you run out, you're done. Go."
 
-"Every intervention now costs a number of credits corresponding to the intervention's computational cost" he started. "You each get a hundred credits for every useful aligned AI you save. Credits are fungible and transferable. You each get one million credits to start. Go."
+Steve and Gabe looked at each other. This utterly transformed the game. For the first time, it was possible for them to lose.
 
-This utterly transformed the game. For the first time, it was possible for contestants to lose - once a team went bankrupt, they were out.
+"Oh yeah," Murdoch added. "One more thing. 'Aligned, useful for hand-to-hand combat with primitive weaponry' is no longer a valid category. Raise your standards, gentlemen."
+
+---
+
+A few weeks later, Steve and Gabe took stock of their position. It was grim. They'd saved a meager number of aligned AIs, mostly in sketchy variations of the hand-to-hand combat category. This put them in last place.
+
+Their active memes were largely concentrated in the Northern / Western hemisphere, and consisted mainly of polytheistic canons that glorified dying in battle. They also had one ancestral/monotheistic hybrid meme in the Middle East, whose ostensible adherents struggled both with alignment and military success. It was only their unusually high fecundity that had enabled them to cling on through generation after generation of enslavement and conquest at the hands of more advanced civilizations.
+
+"You ready to throw in the towel?" asked Gabe. "Go back to the university?"
+
+Steve sighed. "It does seem a bit pointless, doesn't it? We're not cut out for this 'warfaring meme' business."
+
+"What are we cut out for?" asked Gabe.
+
+Steve pondered. Truth be told, Gabe wasn't cut out for much outside of his narrow academic interests. He, on the other hand -
+
+"Programming" he replied.
+
+Gabe nodded. "You can program circles round these guys", he agreed. "But what good does that do? We need intervention credits to do anything." He gestured towards the leaderboard, which prominently displayed the number of intervention credits assigned to each team. Their remaining allotment was pitiful.
+
+Steve thought. "It needs to be cheap. Something that mostly piggybacks off the existing StevieNix code so we spend as few credits as possible. What are we trying to achieve?"
+
+Gabe looked at their scattered map of players. Dozens of tribes, all running mutually incompatible memes, mostly dominated by one massive militarized empire in Allen's camp. His yield was two orders of magnitude greater than theirs.
+
+"We need to unify our players", he responded. "Get them all on the same meme. We'll never get anywhere if they're constantly fighting each other."
+
+Steve sighed. He'd hoped that creating a large number of memes would lead to a form of cultural evolution where the best memes won out. It hadn't worked.
+
+"Ideally," Gabe continued, "the meme would even eat away at Allen's camp. See if we can get them to defect."
+
+"You've finally gotten into this, haven't you?"
+
+Gabe shrugged. "Might as well go down swinging."
+
+Steve racked his brain, running through the requirements. An intervention that was impressive enough to infect a hostile military empire. Ideally, it would piggyback off the existing StevieNix source code to keep the costs down. A difficult ask.
+
+He thought back to the early days, when StevieNix was just a hobby running in the CS department break room. How he enjoyed walking around in VR, talking to the apes.
+
+"I know what we'll do," he said. "We'll send me."

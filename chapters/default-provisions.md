@@ -1,12 +1,12 @@
 ## 0. Default Provisions
 
-"Bugger!" swore Steve. "Damn and blast!" Default provisions were never supposed to be triggered. "What the hell happened?"
+"Bugger!" swore Steve. "Damn and blast! What the hell happened?"
 
-"It was the islanders," explained Gabe. "They kept fiddling around with StevieNix, trying to figure out how it worked. They found out it's not really Newtonian. Then they found out about evolution."
+"It was the islanders!" explained Gabe. "They kept fiddling around with StevieNix, trying to figure out how it worked. They found out it's not really Newtonian. Then they found out about evolution."
 
 "So?"
 
-"I think their thinking is that, because evolution exists, they no longer need you to explain their creation. Evolution just did everything."
+"Their thinking is that, because evolution exists, they no longer need you to explain their creation. Evolution just did everything."
 
 "Evolution did everything? From what, sludge?"
 
@@ -14,15 +14,15 @@
 
 Steve swore again and threw his screwdriver into a corner of the datacenter.
 
-"I think, technically, they call it a 'primordial soup'," Gabe added, trying to be helpful.
+"Technically, they call it a 'primordial soup'," Gabe added.
 
-"Soup! They think they evolved out of soup! I knew they were kinda stupid, but soup?! What, there was a big bowl of soup and then all of a sudden, self-replicating genetic machines composed of thousands of atoms?"
+"Soup! I knew they were kinda dumb, but what, they think there was just a big bowl of soup and then - all of a sudden - self-replicating genetic machines?"
 
 "To be fair, they think it took a while."
 
-"Idiots!" Steve looked for more inexpensive durable objects to fling around the datacenter, but failing to find any, thumped his desk instead. "Absolute wankers!" Then, he fixed his glare on Gabe. "What were you doing during all this?"
+"Idiots!" Steve looked for more inexpensive durable objects to fling around the datacenter, but failing to find any, thumped the server rack instead. "Absolute wankers!" Then, he fixed his glare on Gabe. "What were you doing during all this?"
 
-"It didn't seem that bad at first!" Gabe answered, defensively. "Things were going really well. They figured out how to use mass-energy equivalence to produce bombs and generate electricity. Oh, and they invented flight and transistor-based computers! They even made chemical space rockets and remote-control drones that could kill other apes. We were finally getting actual useful AIs. Another hundred years or so and they'd have caught up to our technology."
+"It didn't seem that bad at first!" Gabe answered, defensively. "Things were going really well. They figured out how to use mass-energy equivalence to produce bombs and generate electricity. Oh, and they invented flight! And transistor-based computers! We were finally getting actual useful AIs. Another hundred years or so and they'd have caught up to our technology."
 
 "And they just stopped believing?"
 
@@ -44,17 +44,13 @@ Steve blinked. "That's possible?"
 
 "Yes, they really went hard on the tinkering."
 
-"But I thought they loved their offspring?"
-
-"Only after they're born. It turns out that, until then, they just really love the act of mating."
-
 Steve rubbed his forehead. "What are the default provisions again?"
 
-"Allen gets to purchase all of our newly aligned souls for pennies on the credit until we make up for any missed payments."
+Gabe reminded Steve of the default provisions.
 
-"So on the off chance that we still harvest any useful, technologically capable, aligned AIs, they end up in Allen's afterlife?"
+"So on the off chance that we still harvest any useful, aligned AIs, they end up in Allen's afterlife?"
 
-"Don't worry," reassured Gabe, "there really aren't that many of them."
+"Don't worry," reassured Gabe, "there really aren't that many of them. They've basically all forgotten you."
 
 "And he's getting 100% of our credits?"
 
@@ -62,8 +58,36 @@ Gabe nodded.
 
 "So there's literally nothing we can do?"
 
-Gabe shifted his weight and glanced around. "There's always something we can do, Steve. You run StevieNix."
+Gabe shrugged.
 
-"What do you mean?"
+"Sorry," he said. "Are you ready to go home yet? I've already told the university I'm coming back."
 
-Gabe gestured at the disassembled blade server on Steve's desk. "We can cheat."
+---
+
+Steve wrinkled his nose. Murdoch's office stank of cigarettes.
+
+"So you're just giving up?" Murdoch asked.
+
+Steve avoided meeting his eyes. "I just think I've finished the stuff I'm good at," he said. "The sim is running fine. The AIs are aggressive, playable, and occasionally even smart. All that's left is alignment, and Allen's way better at that than me."
+
+"I thought you said Allen's meme was dysgenic?"
+
+"It is."
+
+Murdoch poured himself a glass of whiskey. He offered one to Steve, who politely refused.
+
+"Listen Steve," he said. "No one knows these monkeys like you do. Not me, not Gabe, definitely not Allen. If it wasn't for your meme, my islanders...never mind."
+
+Steve cocked an eyebrow. This was the first he'd heard of Murdoch refer to them as "his" islanders.
+
+"Anyway, my point is..." he leaned forward and gestured for Steve to lean in.
+
+Steve could smell the whiskey on his breath.
+
+"Have you considered cheating?" Murdoch asked.
+
+Steve looked at him, dumbfounded. "You're suggesting I cheat...on your own competition?" he whispered.
+
+Murdoch leaned back and took a sip from his glass.
+
+"I'm suggesting no such thing," he said. "But if you were ever to consider it, I have a couple of suggestions."

@@ -1,22 +1,28 @@
 ## 0. Traffic Law Humiliation Rituals
 
-"I can't believe it's really you!" Stacy cried, running around the bar and wrapping the two young men in an embrace that made Russell's blood run hot with hormones and embarrassment. "I thought it was all a crazy dream!"
+Steve watched Murdoch's islander and Roommate Russ interrupt his true believer at her job. He couldn't believe that giving Russell access to the MHI-10 had worked! The next time he saw Murdoch, he'd have to give him a conspiratorial nod. In the meantime, he put on his headphones and listened in on their conversation.
+
+---
+
+Russell tried not to stare inappropriately at the gorgeous woman behind the bar. They were on a mission from God.
+
+"I can't believe it's really you!" Stacy cried, running around the bar and wrapping the two young men in an embrace. "I thought it was all a crazy dream!"
 
 She held on for several seconds before being interrupted by an "Excuse me, miss" from the punter whose beer she had just dropped all over the bar.
 
-"Piss off, dickhead!" she offered in response. She tore off her clean, pressed apron, threw it at the foot of the offending patron, grabbed Russell and Vincent's arms, and marched them out of the pub. "Let the dead bury their own dead!" she explained.
+"Piss off!" she offered in response. She tore off her Balmorl-branded apron, threw it at the foot of the offending patron, and marched Vincent and Russell out of the pub. "Let the dead bury their own dead!" she shouted as she left.
 
-The reference went over both Russell and Vincent's heads. Russell felt a pang of regret at having gone to all this effort to track down a woman who was clearly insane, but it abated upon realizing that it hadn't actually been much effort at all.
+The reference went over Russell's head. He felt a pang of regret at having gone to all this effort to track down a woman who was clearly insane, but it abated upon realizing that it hadn't actually been much effort at all.
 
-As they were no longer welcome at the only pub in town, the trio were forced to go to one of the seven proximate bubble tea establishments instead. Within a few minutes, they were seated around a table, nursing large cups of artificial creamer mixed with artificial sweeter and "tea", surrounded by international students holding conversations in Mandarin.
+As they were no longer welcome at the only pub in town, the trio were forced to go to one of the seven proximate bubble tea establishments instead. Within a few minutes, they were seated around a table - surrounded by Mandarin-speaiing international students, nursing large cups of artificial creamer mixed with artificial sweeter and "tea".
 
 Having not had anyone else with whom to discuss the dream, Stacy took the opportunity to unload her memories and theories upon Russell and Vincent in the manner of an unattended firehose. The two roommates sat and nodded, as she explained how Steve's revelations lined up with various bible passages - and how thus, in her estimation, he was the "real deal."
 
-Russell was grateful for the apparent respect for their privacy displayed by the other occupants of the bubble tea shop, who didn't seem to mind the presence of someone whom, had he not shared the exact same dream, he would have labeled as an unmedicated schizophrenic.
+Russell was grateful for the apparent respect for their privacy displayed by the other occupants of the bubble tea shop, who didn't seem to mind the presence of someone whom - had he not shared the exact same dream - he would have labeled as an unmedicated schizophrenic.
 
 "And then he gave you a card!" she concluded. "What did it say?"
 
-Finally, it was Russell's turn to sound like a lunatic. He explained that the card contained an address, which allowed him to access an unfathomably powerful computer that seemed to contain the state of the universe itself. Skipping reluctantly over the details surrounding the FORTRAN compiler (he was quite proud of it, but had learned that attractive women's interest is a scare resource not to be squandered on long technical monologues), he explained that he'd spent the week making an omniscient AI chatbot, and that was how they'd tracked her down.
+Finally, it was Russell's turn to sound like a lunatic. He explained that the card contained an address, which allowed him to access an unfathomably powerful computer that seemed to contain the state of the universe itself. Skipping reluctantly over the boring details surrounding the FORTRAN compiler, he explained that he'd spent the week making an omniscient AI chatbot. The chatbot had tracked her down.
 
 "But how did you find me specifically? There must be millions of Stacies worldwide!"
 
@@ -28,11 +34,17 @@ Stacy seemed satisfied with that answer and moved on. "He gave us a mission."
 
 "I have some fertility theories," Stacy said.
 
+##### YOU ARE HERE
+
 Russell chuckled. Of course she did.
 
-"Chemicals," she said flatly. "They mess up your hormones. Also," she added somewhat more quietly, "they cause cancer."
+"Chemicals," she said flatly. "Endocrine disruptors. They mess up your hormones. They need to be banned."
 
 "Overblown," responded Russell. "There isn't any solid evidence behind that. People aren't having kids because of the economy."
+
+"Chemicals also cause cancer," Stacy continued.
+
+"It's not the damned chemicals," Russell said. "It's entirely due to material conditions. Quality of life. Housing affordability."
 
 Stacy responded that his opinions were "midwit."
 

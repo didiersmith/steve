@@ -1,12 +1,12 @@
 ## 0. God's Diner
 
-Russell woke up in a 1950s-style diner. There were four mugs of steaming hot coffee and four slices of peach pie on the table. Seated next to him in the booth was his roommate Vincent, who was studying the menu. Across from them was a young lady whom he didn't recognize, but immediately rated in the 97th percentile of attractiveness. He instinctively avoided meeting her eyes and looked aimlessly around the diner.
+Russell woke up in a 1950s-style diner. There were four mugs of steaming hot coffee and four slices of peach pie on the table. Seated next to him in the booth was his roommate Vincent, who was studying the menu. Across from them was a young lady whom he didn't recognize, but found extremely attractive. He instinctively avoided meeting her eyes and looked aimlessly around the diner.
 
-"Is this a dream?" asked the woman.
+"Is this a dream?" she asked.
 
-"I don't think so," responded Vincent, continuing to study the menu. "You can tell if you're in a dream by looking at written words and looking away. If they're still the same when you look back, you're not dreaming. This menu," he added, finally looking up and at the other two booth occupants, "has been claiming that you can buy a cheeseburger for twenty-two cents this whole time."
+"I don't think so" responded Vincent, continuing to study the menu. "You can tell if you're in a dream by looking at written words and looking away. If they're still the same when you look back, you're not dreaming. This menu," he added, finally looking up and at the other two booth occupants, "has been claiming that you can buy a cheeseburger for twenty-two cents this whole time."
 
-"Oh," responded the young lady. "I thought you were supposed to pinch yourself." She gave her forearm a solid pinch and grimaced slightly. It left a mark.
+"Oh," responded the young lady. "I thought you were supposed to pinch yourself." She pinched her forearm and grimaced. It left a mark.
 
 "I'm not sure if there's any evidence to support-" started Vincent, before Russell cut him off.
 
@@ -22,16 +22,24 @@ A middle-aged man stepped through the door. He was of average height, slightly b
 
 "Thanks," responded Russell. He sat down, confused and nervous.
 
-The man slid into the booth next to the young lady. He marvelled at each of their faces in turn, as they sat in awkward silence. "I'm so very pleased to meet you," he opened.
+The man slid into the booth next to the young lady. He marvelled at each of their faces in turn, as they sat in awkward silence. "I'm so very pleased to meet you," he said.
 
-"Thanks," responded Vincent. "I'm Vincent." He stuck his hand out across the table. The man looked at it and cocked his head in confusion, before his face brightened in a moment of realization. He grasped Vincent's hand in both of his and shook it vigorously. "Very pleased to meet you, Vincent!"
+"Thanks," responded Vincent. "I'm Vincent." He stuck his hand out across the table. The man looked at it and cocked his head in a moment of confusion, before his face brightened in realization. He grasped Vincent's hand in both of his and shook it vigorously.
 
-The young lady introduced herself next, and was also subjected to the enthusiastic handshake. Her name was Stacy.
+"I know," he said. "You're one of Murdoch's islanders. I'm very pleased to meet you." 
 
-Finally, Russell it was Russell's turn. Having witnessed the previous two handshakes, he was more prepared than the others, but still found himself wondering if it was possible for a handshake to dislocate a shoulder.
+The man's face broke out in a huge smile as he moved on to the woman. "Stacy," he said. "So nice to finally meet you in person! Sorry to hear about your mother."
 
-After the handshakes were complete, the three original booth occupants looked at the curious stranger expectantly. He smiled a big toothy grin and stared back at the three of them in turn.
+The young lady looked confused, and teared up at the mention of her mom.
 
-"And you are?" prompted Stacy.
+Finally, the man turned to Russell. "And you must be..." he struggled and waited for Russell to introduce himself.
 
-"Oh yes," responded the man. "I'm God. But you can call me Steve."
+"I'm Russell."
+
+"Oh, yes, that's right. Roommate Russ. Very good to meet you." He stuck his hand out and subjected Russell to his awkward handshake.
+
+Russell was slightly offended.
+
+"And you are?" asked Stacy.
+
+"Oh right!" responded the man. "Silly me. I'm God - but you can call me Steve."

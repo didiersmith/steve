@@ -36,8 +36,8 @@ Steve wasn't convinced that an alien race enveloping stars in giant spheres made
 
 "So what do you propose we do?" he asked.
 
-Gabe nodded. "To call, or to knock?" he asked. "The great debate. It comes up every time. I'm a knocker, myself."
+Gabe nodded. "To call, or to knock?" he asked. "The great debate. It comes up every time. I'm a caller, myself."
 
-There were few things Steve enjoyed more than a spirited, yet pointless academic debate. He immediately adopted the opposing viewpoint and launched into a passionate spiel about how it would be much better to construct a giant radio and reach out to the aliens ("call"), than to construct an interstellar spacecraft and go visit them in person ("knock").
+There were few things Steve enjoyed more than a spirited, yet pointless academic debate. He immediately adopted the opposing viewpoint and launched into a passionate spiel about how it would be much better to construct an interstellar spacecraft and go visit them in person ("knock") than to just contact them over radio ("call").
 
 The two professors became so engrossed in their discussion that they failed to notice when the break room door opened and a third figure slipped into the room.

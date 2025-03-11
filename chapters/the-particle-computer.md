@@ -26,7 +26,7 @@ Russell tipped his chair over.
 
 ---
 
-After establishing that they had shared the exact same dream, Russell and Vincent went over every detail they could remember. The cheap prices on the menu, the coffee and pie, Stacy's appearance and demeanour. They discussed Steve's revelations at length. As avid gamers, the idea of them being characters in a sim, surrounded by NPCs, wasn't that jarring.
+After establishing that they had shared the exact same dream, Russell and Vincent went over every detail they could remember. The cheap prices on the menu, the coffee and pie, Stacy's appearance and demeanour. They discussed Steve's revelations at length. As avid gamers, the idea of them being characters in a sim, surrounded by NPCs, was - while implausible - at least something they could wrap their heads around.
 
 Finally, Vincent remembered a critical detail. "He gave you a card," he reminded Russell.
 
@@ -36,9 +36,7 @@ Russell remembered. The random string of letters and numbers. An IPv6 address. T
 
 They grabbed the french press and their mugs, and practically ran upstairs to Russell's room.
 
-Russell wasn't sure how he was going to log into the server - he hadn't been given a username and password. He fired up a terminal and pointed a remote shell at the IPv6 address. To his shock, he logged in automatically. Somehow, his public key had been installed on the server already. Spooky.
-
-He was greeted with a standard UNIX shell. In his home directory, he found a number of directories containing source code, documentation, and tons of garbage-looking data that he couldn't make heads or tails of. At the top level, he found a file labeled README.txt. He opened it and started reading.
+Russell fired up a terminal and pointed a remote shell at the IPv6 address. He was greeted with a standard UNIX environment. In his home directory, he found a number of directories containing source code, documentation, and tons of garbage-looking data that he couldn't make heads or tails of. At the top level, he found a file labeled README.txt. He opened it and started reading.
 
 > Welcome Russell!
 
@@ -52,13 +50,15 @@ He was greeted with a standard UNIX shell. In his home directory, he found a num
 
 Intrigued, Russell downloaded a simple python script that calculates digits of pi. He ran it, asking for the millionth digit. The answer was returned in an instant. He ran it again, asking for the billionth digit. The answer was also returned instantly. After trying for the trillionth digit and receiving the answer in as much time as it'd taken for the millionth, Russell stopped in awe. The calculation should have taken weeks. It was clear that this computer was in a class of its own.
 
+Could this really be God's computer? Russell struggled to find an alternative explanation.
+
 He opened the assembly language manual, and started reading. Although the language itself was completely foreign to him, many of the concepts were familiar from the compilers class he'd taken in undergrad. After reading for a bit, it was obvious what he needed to do. He informed his employer that he would be taking the next week off, and settled in to write a FORTRAN compiler.
 
 ---
 
-It took several days. The FORTRAN compiler was necessarily written in python, which was an unusual language for the task. This made it difficult to just download code off the internet. The final result was inelegant, but worked. After the compiler passed his basic test suite, Russell downloaded the venerable public domain FORTRAN code for the Basic Linear Algebra Subprograms (BLAS), and compiled it.
+It took several days. The final result was inelegant, but worked. After the compiler passed his basic test suite, Russell downloaded the venerable public domain FORTRAN code for the Basic Linear Algebra Subprograms (BLAS), and compiled it.
 
-BLAS had existed since 1979, and was an unsung hero of the information age. After porting BLAS to the MHI-10, it was a short hop to get PyTorch - the leading python machine learning library - running. Once that was working, Russell downloaded the code and weights for the state-of-the-art open-source Large Language Model. He then used a clever trick to increase the number of parameters by two orders of magnitude (figuring the MHI-10 could handle it), and started fine-tuning on the vast amount of data in his home directory.
+BLAS had existed since 1979, and was an unsung hero of the information age. After porting BLAS to the MHI-10, it was a short hop to get PyTorch - the python machine learning library - running. Once that was working, Russell downloaded the code and weights for the state-of-the-art open-source Large Language Model. He used a clever trick to increase the number of parameters by two orders of magnitude, and started fine-tuning on the vast amount of data in his home directory.
 
 For the first time since he'd started, the MHI-10 didn't complete the operation instantly. Russell took the opportunity to fetch Vincent and brew some coffee. When the pair arrived back upstairs, the training was complete. Russell opened up a chat terminal.
 
@@ -84,23 +84,21 @@ For the first time since he'd started, the MHI-10 didn't complete the operation 
 
 "StevieNix is a simulated universe. It was created as a side project by a computer science professor named Steve. It runs on a cluster of MHI-10s, which includes the computer that I am running on. You are chatting to me from within StevieNix! Isn't that neat?"
 
-"What is the 'read-only filesystem interface for the StevieNix state'?"
+Russell and Vincent looked at each other. So far, the LLM's story was tracking with the one from their dream.
 
-"It's exactly what it sounds like! Do you have any questions about the StevieNix state that I can assist you with?"
-
-Russell and Vincent looked at each other. "Ask it where we are," Vincent suggested.
+"Ask it where we are," Vincent suggested.
 
 "Where am I writing this from?" typed Russell into the chat. The LLM responded with their street address, latitude, longitude, and altitude.
 
-"Oh frig," responded Vincent. "Ask it what I'm holding."
+"Holy moly!" said Vincent. "Ask it what I'm holding."
 
 "What is Vincent holding?" typed Russell.
 
 "A mug containing 247mL of single-origin organic coffee, mixed with 36mL of heavy cream," came the response. "The coffee is over-extracted due to having steeped in a french press for several minutes longer than is typically recommended."
 
-Vincent and Russell stared at each other in shock. The possibilities ahead of them were so vast, it terrified them to even start contemplating them.
+Vincent and Russell stared at each other in shock. They had omniscience at their fingertips. The possibilities ahead of them were so vast, it terrified them to even start contemplating them.
 
-"Ask it to find Stacy," suggested Vincent softly.
+"Ask it to find Stacy," suggested Vincent.
 
 "Where is Stacy?" typed Russell.
 
@@ -108,30 +106,26 @@ Vincent and Russell stared at each other in shock. The possibilities ahead of th
 
 "She is caucasian. Between the age of 22 and 30." Russell looked at Vincent who shrugged in agreement. He, too, could barely remember any other details about her appearance that he'd feel comfortable typing into an omniscient chatbot.
 
-"Thank you! That narrows down the list substantially, to 17,276. Do you have any other selection criteria?"
+"Thank you! That narrows the search down to 17,276. Do you have any other selection criteria?"
 
 They didn't.
 
 "You know," suggested Vincent, "that isn't actually that many of them. If we look at one headshot per second, we could smash through all seventeen thousand in five hours or so." He pulled up a chair and sat down next to Russell.
 
-"This is a text-only interface," Russell said, indicating at the white-on-black terminal. "We can't do images."
+Russell typed into the terminal. "Could you please generate a website which displays, for each Stacy in the list, a headshot and location? Include a keyboard shortcut that lets us advance to the next Stacy by hitting space. Sort the Stacies by their distance from us, closest first."
 
-"So? It's the most powerful LLM ever trained. Make it generate a website."
-
-"Could you please generate a website which displays, for each Stacy in the list, a headshot and location? Include a keyboard shortcut that lets us advance to the next Stacy by hitting space. Sort the Stacies by their distance from us, closest first."
-
-"Of course! I am happy to assist you with that. Here you go!" replied the LLM, and gave Russell a link.
+"Of course. Here you go!" replied the LLM, and gave Russell a link.
 
 He clicked the link, and a website opened up. On it, was displayed a paginator indicating that they were on Stacy #1 of 17,276, a map indicating the location of Stacy #1, and a headshot of the woman from their dreams who had sat across from them in the diner several nights ago.
 
 "Well, that was easy," said Russell.
 
-Vincent laughed. "Steve much have chosen three people who live close to each other. Looks like she's at the Balmoral. Shall we grab a pint?"
+Vincent laughed. "Steve must have chosen three people who live close to each other. Looks like she's at the Balmoral. Shall we grab a pint?"
 
 ---
 
-The Balmoral Hotel was a venerable institution in the neighbourhood of East Vincentia Park. It occupied a stately old two-storey building with a wrap-around verandah, a patio, and a beer garden. It was surrounded by hedges and a wrought iron fence, and adorned with corgis of various designs. Inside, the slightly-too-slick menus, slightly-too-clean atmosphere, and slightly-too-polished staff betrayed it for what it was - one of several hundred "local" pubs owned and operated by Australian Leisure and Hospitality Group. Fortunately, it was also one of the only establishments in East Vic Park whose offerings weren't exclusively designed to cater to an Asian clientele. As such, the regulars suppressed their shame of drinking at a chain restaurant and kept the trade roaring, seven nights a week.
+The Balmoral Hotel was a venerable institution in the neighbourhood of East Victoria Park. It occupied a stately old two-storey building with a wrap-around verandah, a patio, and a beer garden. It was surrounded by hedges and a wrought iron fence, and adorned with corgis of various designs. Inside, the slightly-too-slick menus, slightly-too-clean atmosphere, and slightly-too-polished staff betrayed it for what it was - one of several hundred "local" pubs owned and operated by Australian Leisure and Hospitality Group. Fortunately for ALH Group, the minor shame of drinking at a chain restaurant was vastly overshadowed in the minds of the public by the convenience of walking-distance beer on tap. The many regulars kept the trade roaring, seven nights a week.
 
-Russell and Vincent walked the short distance to the pub, past the tile corgis at the front gate, and in through the door. Their plan had been to split up and search for Stacy separately, but that proved unnecessary - they spotted her immediately, behind the bar, pouring a pint of One Fifty Lashes. They elbowed their way up to the bar, to grumbles of disapproval from the punters who'd gotten there first.
+Russell and Vincent walked down to the pub, past the tile corgis at the front gate, and in through the door. Their plan had been to split up and search for Stacy separately, but that proved unnecessary - they immediately spotted her behind the bar, pouring a pint of One Fifty Lashes. They elbowed their way up to the bar, to grumbles of disapproval from the punters who'd gotten there first.
 
 Stacy finished pouring the pint, and in the process of reaching over to place it on the bar, glanced at Russell and locked eyes with him. She froze, and looked around. Catching sight of Vincent, she dropped the pint glass and shrieked.

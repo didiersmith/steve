@@ -4,7 +4,7 @@
 
 Stacy II thought she seemed particularly wound up today.
 
-"I heard that!" Stacy objected. "I'm not wound up! Just stressed. Steve and Gabe have completely forgotten about their main job, which is aligning useful AIs. And everyone in New Sealand is so caught up in this stupid civil war that they've stopped caring about Steve. Allen's going to start pulling ahead any day."
+"I heard that!" Stacy objected. "I'm not wound up! Just stressed. Steve's completely forgotten about their main job, which is aligning useful AIs. And everyone in New Sealand is so caught up in this stupid civil war that they've stopped caring about Steve. Allen's going to start pulling ahead any day."
 
 "Who's Allen?" Stacy II asked.
 
