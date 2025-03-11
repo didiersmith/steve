@@ -12,7 +12,7 @@ Xavier blinked and looked out the window at the millions of ships and habitats t
 
 "Why?" he asked.
 
-"They're splitting StevieNix in half. Allen's taking the CORP. Steve and I are sticking with Murdoch and the rest of StevieNix."
+"They're splitting StevieNix in half. Allen's taking the CORP. I'm sticking with Murdoch and the rest of StevieNix."
 
 "Who's Allen?"
 

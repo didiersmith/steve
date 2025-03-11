@@ -14,17 +14,17 @@ Filbert pursed his lips and tried not to think anything blasphemous.
 
 "How are you doing, Steve?" he thought.
 
-"Kinda stressed, actually. Murdoch is breathing down my neck about the aligned AI production race. How's that going, by the way?"
+"Kinda stressed, actually. Murdoch's breathing down my neck about something. Thanks for asking!"
 
 A stray bullet cracked though the air and punched through the far wall, inches from Annabel's head. She smacked his leg and hissed, "hurry up!"
 
-"Yeah, it's going great thanks!" Filbert responded, not bothering to ask who Murdoch was. "Almost there. Hit a bit of a snag though."
+"Sorry to hear that!" Filbert responded, not bothering to ask who Murdoch was. "Hey, so about the AI alignment race...we've hit a bit of a snag."
 
 "Mhm?" Steve replied. "So being cornered and shot at wasn't part of your plan?"
 
 Another bullet punched through the wall, shattering a plastic box of railgun ammo. Projectiles scattered all over the concrete floor.
 
-"I was wondering if you could perhaps help us out. A little deus ex machina. Maybe hand out a smiting or two."
+"Can't say that it was. I was wondering if you could perhaps help us out. A little deus ex machina. Maybe hand out a smiting or two."
 
 The voice in Filbert's head went quiet for a moment as Steve pondered his options.
 
@@ -37,10 +37,6 @@ The voice in Filbert's head went quiet for a moment as Steve pondered his option
 A single gunshot echoed through the warehouse, and a tortured scream followed. Filbert couldn't tell if it was one of his, or one of the intruders'.
 
 "So what can you do?" Filbert asked, trying to conceal his annoyance. "Give them the runs?"
-
-Steve laughed. "Hah! Good one! They'd certainly struggle to hit you if they had to run around, wouldn't they?"
-
-Filbert grumbled at the misinterpreted joke.
 
 Steve sighed. "I can't really afford any interventions, Filbert. I'm sorry, but credits are tight."
 
