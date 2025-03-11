@@ -63,7 +63,7 @@ the-malicious-cow.md
 space-fish.md
 collateral-damage.md
 purely-hypothetical.md
-the-volunteer-space-force.md # TODO: Shorten
+the-volunteer-space-force.md
 el-dorado-of-probable-cause.md
 out-of-control.md
 space-idiot.md
