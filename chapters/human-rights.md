@@ -1,6 +1,6 @@
 ## 0. Human Rights
 
-Archibald reluctantly led Stacy II, Filbert, and Cosmo to his village. When they arrived, the ceremony was already underway.
+Stacy II followed a reluctant Archibald to his village, with Filbert and Gabe in tow. When they arrived, the ceremony was already underway.
 
 A woman in her forties, clad in a crude and skimpy leather approximation of a pencil skirt and blouse, was standing on a rock at the head of the square. A crowd of a dozen boys and men of every age stood in the square, looking up at her and jeering. A long flower garland was strung between two poles, separating the woman from the crowd.
 
@@ -38,23 +38,17 @@ Holding the garland in one hand and the dagger in the other, he turned to face t
 
 From their hiding spot behind a hut, Stacy II whispered to Filbert. "Shoot him!"
 
-"What, now?" Filbert asked, incredulously. "You couldn't have asked for that thirty seconds ago?"
+"What, now?" Filbert asked. "You couldn't have asked for that thirty seconds ago?"
 
-"The timing has to be right!"
+"The timing has to be right! For effect!"
 
-"I don't have a clear shot!"
+"What do you think the effect is going to be if I miss and blow her head off?"
 
-"It wouldn't have had the same effect thirty seconds ago!"
+Stacy II balled her fists. Just as Filbert was starting to work his way into her good graces, he had to revert to his old ways. "Just shut up and aim better!"
 
-"It won't have the same effect either if I blow her head off, okay?"
+She watched as her recalcitrant assistant sighed, raised his railgun, and stepped out from hehind the hut. He aimed, and shot Archibald's stepfather in the chest. It really wasn't difficult a shot.
 
-Stacy II balled her fists. Just as Filbert was starting to work his way into her good graces, he had to revert to his old ways. "Shut up, man up, and just aim better!"
-
-Filbert sighed, raised his railgun, and stepped out from behind the hut. He depressed the aiming trigger, and tried his best to relax. Fortunately, Archibald's stepfather was a substantially larger target than his mother, and the railgun's computer locked onto his radiant heat signature with ease.
-
-In his final moment, Archibald's stepfather noticed Filbert, standing in the open, with his railgun aimed towards him. He opened his mouth to object, and his torso imploded as the hypersonic projectile slammed into his chest and threw him off his feet. 
-
-The crowd was splattered with blood. Archibald's mother was showered in it. No one said a word.
+The crowd was splattered with blood. Archibald's mother was showered in bits of guts and screamed. No one else said a word.
 
 Stacy II strode out from behind the hut, railgun held lazily at her side. Cosmo followed, waddling awkwardly on his talons. "Say the line," she whispered icily to Filbert as she passed him.
 
@@ -100,9 +94,9 @@ Filbert sighed and stepped forward. He raised his railgun, and the crowd burst i
 
 "Whoa whoa whoa!" exclaimed the man, raising his hands. "I'm very sorry your majesty, I didn't mean nothing by it! Just trying to wrap me head around the situation, is all. I'm a bit thick you see, takes me a minute to get up to speed on things."
 
-Stacy glared at him for a few seconds before giving Filbert an ambiguous nod, which he charitably chose to interpret as "spare this man's life" rather than "proceed with the execution."
+Stacy glared at him for a few seconds before giving Filbert an ambiguous nod, which he appeared to charitably interpret as "spare this man's life" rather than "proceed with the execution."
 
-"If you don't like the carrot, there's always the stick," Stacy growled at the man.
+"If you don't like the carrot, I have plenty of sticks" Stacy growled at the man.
 
 He nodded and stepped backwards into the crowd, subdued.
 
@@ -111,3 +105,35 @@ He nodded and stepped backwards into the crowd, subdued.
 "Anyone who wishes to accept my offer, step forwards and kneel for your queen. Anyone else will be shot. Think carefully."
 
 One by one, the men of the crowd stepped forwards and knelt for their queen.
+
+---
+
+"Draw me a map," she demanded of Blake. "Showing all the villages in New Australia and how easy it will be to conquer them."
+
+"Right," Blake said. "A map."
+
+He didn't move. Stacy II looked at him expectantly. Nothing. She looked at Archibald, who was displaying a similarly blank expression.
+
+"What is that?" Blake asked. "Your royal highness."
+
+"Oh, for goodness' sake."
+
+Eventually, through her interrogations, she was able to get a rough idea of what tribes had formed on the island, and how easy it would be to conquer each one. They both reckoned the easist would be the Pacifists. As for the hardest, they disagreed on whether it was the House of Lords, or the Anarcho-Cannibalists.
+
+"The Anarcho-Cannibalists?" she asked.
+
+"They eat people," Archibald explained.
+
+"Why?"
+
+Archibald shrugged. Blake chimed in.
+
+"They call it 'restorative justice,'" he explained. "Restore nutrients to the collective. Justice served, medium rare."
+
+Stacy II gagged. "We'll have to put an end to that."
+
+"You can do that on your own," Archibald said. "I ain't goin' anywhere near those psychos."
+
+Blake nodded. "Even the House of Lords doesn't bother them. Last time they sent a tax collector, they sent back his bones. Picked clean."
+
+Stacy II decided to start with the Pacifists.

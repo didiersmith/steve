@@ -56,9 +56,9 @@ Vincent's enthusiasm declined as they drew close enough to pick out the shapes o
 
 "I'm going to help them," Xavier stated, resolutely.
 
-Vincent sighed. He would have done the same at Xavier's age.
+His dad sighed.
 
-******
+---
 
 Xavier piloted the Terrarium up alongside the vessel and matched its speed. His crew lowered a rope ladder down from an airlock, and helped the cramped mariners climb aboard the flying island. He and his father watched as his crewmembers welcomed the newcomers, supplying them with food, blankets, and fresh water. They appeared weak and sunburned. When the last person had climbed up, the crew raised the rope ladder and allowed the small boat to drift away on the waves.
 

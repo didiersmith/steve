@@ -35,20 +35,17 @@ trials-and-interrogations.md
 the-new-australia-penal-colony.md
 the-terrarium.md
 the-diner-redux.md
-human-rights.md
 the-refusegee-crisis.md
+human-rights.md
 stats-with-steve.md
-the-boat-people.md
-the-anarcho-cannibalists.md
 the-weapons-development-program.md
-the-glitch.md
-speed-surprise-and-violence-of-action.md
 monkeybot.md
 old-testament-diplomacy.md
+speed-surprise-and-violence-of-action.md
+farmer-jack.md # TODO: Rewrite from Steve's POV
+the-juice-to-squeeze-ratio.md
 the-orbital-ring.md
 newtons-universe.md
-farmer-jack.md
-the-juice-to-squeeze-ratio.md
 fully-automated-nano-whatever-manufacturing.md
 death-by-rotisserie.md
 canary-in-a-physics-engine.md

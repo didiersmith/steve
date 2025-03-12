@@ -1,48 +1,16 @@
 ## 0. Old Testament Diplomacy
 
-"Should we just kill him?" asked one of the younger pacifists.
+The Pacifists surrendered immediately. The only hiccup came when Stacy II tried to negotiate the terms of their surrender with their leader, and he pulled a knife on her.
 
-Filbert had been tied up and marched back to the village square, where the pacifists were debating what to do with him.
+"I thought you were a pacifist?" she asked, outraged.
 
-"He's a menace to society," agreed another. "If we prevent him from doing any more harm, net peace in the world will increase."
+"Si vis pacem, para bellum" the man said with a grin.
 
-"That's the same argument people made for every heinous act in history!" objected someone else. "The greater good is a fallacy."
+She blew his leg off with her railgun and dragged his drained corpse out of his hut to display to the rest of the tribe.
 
-"Yes!" approved Filbert. "Someone with some sense. Listen to this guy, please!" 
+"The terms of your surrender have been negotiated," she announced. "In respect of your pacifist ideals, I won't make you fight on the front lines. Instead, you shall manufacture bows and arrows for the Royal Army. There will be quotas and Key Performance Indicators. Anyone who misses quota shall be shot. Are there any questions?"
 
-"We should make him someone else's problem," the man continued. "Let's season him up and sell him to the Anarcho-Cannibalists."
-
-The idea was met with broad approval. Filbert regretted opening his mouth.
-
-As the pacifists squabbled over the most enticing seasoning (there was large support for a honey-based marinade, but a sizeable contingent held that honey collection was a type of violence), Filbert watched their leader, standing back and fiddling with his newly-acquired railgun. There were six rounds left in the magazine. If the guy switched the gun to automatic mode and depressed the main trigger, all six rounds would be gone in less than a second. Then, even if Filbert managed to escape his present predicament and reacquire his gun, he'd still be utterly screwed.
-
-Fortunately, fate turned. As a passionate argument for the moral superiority of salt and vinegar was made in the background, the leader's leg exploded. Filbert was sure he saw the life leave his eyes before his body crumpled and hit the ground. He knew of only one thing that could cause that kind of instant death from a leg wound - hydrostatic shock from a railgun projectile.
-
-As the pacifists screamed and fled the square, Filbert stood up and began waddling towards his railgun, which was trapped under the corpse. Before he could reach it, a loud squawk filled the air. He looked up and saw Cosmo, approaching for landing.
-
-The enormous winged dinosaur landed gracefully in the square, and Stacy II jumped off, holding her railgun. "Woo!" she cheered. "Did you see that shot?"
-
-"You shot him from the air?" asked Filbert, incredulously.
-
-"Heck yeah I did!" she responded, punching the air. "Best shot ever!"
-
-"You could have accidentally shot me!"
-
-"You would have deserved it!" she fired back. "What use are you? I can't even leave you in charge of a bunch of pacifists without you getting captured!"
-
-Filbert's face turned red. "They're not real pacifists," he tried to explain. "You understand they're all either criminals or descended from criminals, right?"
-
-"Yeah, yeah, yeah," dismissed Stacy II as she set about untying him. "All I hear is excuses. You're lucky Steve contacted me. Apparently these guys were going to sell you to the Anarcho-Cannibalists."
-
-Filbert suddenly realized whose voice had been in his head, trying to warn him. It had been Steve.
-
-"How's the war going?" asked Filbert, changing the subject.
-
-"Not bad. I left Blake in change. Would be easier if we had bows and arrows," she added, glaring.
-
-"You try motivating these people to build weapons!" Filbert replied.
-
-She did. Over the next two days, Stacy II instructed Filbert in her more direct management style. Key Performance Indicators were to be measured. Anyone who didn't meet their Objectives and Key Results was to be shot - _pour encourager les autres_.
+There were no questions.
 
 In short order, Stacy II's military industrial complex was cranking out eighty bows and almost a thousand arrows per day.
 
@@ -96,7 +64,7 @@ Filbert looked at the pathetic, crying young man. He couldn't bring himself to d
 
 Stacy II fumed, raised her railgun, and shot the young man herself.
 
-******
+---
 
 The argument between them that night was loud, emotional, and almost entirely devoid of substance. Stacy II felt that, not only had Filbert undermined her in front of her army, but he'd disobeyed the command of Steve. Filbert maintained that Stacy II had become a brutal tyrant, no better than the House of Lords, and certainly worse than whatever democratic government was currently being installed in the former Theocratic Dominion. Stacy II accused Filbert of being a feckless twat, and Filbert responded by saddling up Cosmo and flying away.
 
