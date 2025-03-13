@@ -2,81 +2,83 @@ title.md
 toc.md
 god-why-have-you-forsaken-me.md
 act-1.md
-stevienix.md
-murdoch.md
-the-fall.md
-the-dogs-of-war.md
+stevienix.md # Steve
+murdoch.md # Steve
+the-fall.md # Steve
+the-dogs-of-war.md # Steve
 a-plaything-for-the-gods.md
-battleground-of-ideas.md
-aligned-useful-for-hand-to-hand-combat-with-primitive-weaponry.md
-hardball.md
-the-origins-of-islander-individualism.md
-dysgenic-reproductive-practices.md
-the-faustian-bargain.md
-default-provisions.md
+battleground-of-ideas.md # Steve
+aligned-useful-for-hand-to-hand-combat-with-primitive-weaponry.md # Steve
+hardball.md # Steve
+the-origins-of-islander-individualism.md # Murdoch
+dysgenic-reproductive-practices.md # Steve
+the-faustian-bargain.md # Steve
+default-provisions.md # Steve
 act-2.md
-gods-diner.md
-the-calling.md
-the-particle-computer.md
-traffic-law-humiliation-rituals.md
-robot-laser-arachnid-1.md
-the-manufacturing-singularity.md
-polymerized-fullerene.md
-the-island.md
-the-commonwealth-of-new-sealand.md
-three-types-of-people.md
+gods-diner.md # Russell
+the-calling.md Steve
+# TODO: Deepen Russell's backstory in The Particle Computer
+the-particle-computer.md # Russell
+# TODO: Deepen Russell more in Traffic Law Humiliation Rituals, trim it down a little.
+traffic-law-humiliation-rituals.md # Russell
+robot-laser-arachnid-1.md # Murdoch (TODO)
+the-manufacturing-singularity.md # Murdoch (TODO)
+polymerized-fullerene.md # Russell
+the-island.md # Russell
+the-commonwealth-of-new-sealand.md # Steve
+three-types-of-people.md # Steve (in discussion with Murdoch - TODO)
 act-3.md
-sullivan.md
-xavier.md
-kitten.md
-fortifications-101.md
-sober.md
-trials-and-interrogations.md
-the-new-australia-penal-colony.md
-the-terrarium.md
-the-diner-redux.md
-the-refusegee-crisis.md
-human-rights.md
-stats-with-steve.md
-the-weapons-development-program.md
-monkeybot.md
-old-testament-diplomacy.md
-speed-surprise-and-violence-of-action.md
-farmer-jack.md # TODO: Rewrite from Steve's POV
-the-juice-to-squeeze-ratio.md
-the-orbital-ring.md
-newtons-universe.md
-fully-automated-nano-whatever-manufacturing.md
-death-by-rotisserie.md
-canary-in-a-physics-engine.md
-von-neumann-paperclip-factory.md
-statist-infiltrators.md
-the-cube-of-realistic-physics.md
-man-of-destiny.md
-permanent-schizophrenia.md
-operation-hearts-and-minds.md
-another-day-in-the-office.md
-the-malicious-cow.md
-space-fish.md
-collateral-damage.md
-purely-hypothetical.md
-the-volunteer-space-force.md
-el-dorado-of-probable-cause.md
-out-of-control.md
-space-idiot.md
-doomsquad69.md
-octagonal-occlusions.md
-condemned.md
-the-only-question-that-matters.md
-good-knowing-you.md
-filberts-enlightenment.md
-murdoch-heavy-industries.md
-space-doughnut.md
-defender-of-the-state.md
-mum.md
-on-the-shelf-life-of-vitamins-in-space.md
-the-corp-conundrum.md
-convenient-timing.md
-stacy-the-second.md
-in-the-flesh.md
+sullivan.md # Sullivan
+xavier.md # Xavier
+kitten.md # Steve
+fortifications-101.md # Xavier
+sober.md # Stacy II
+trials-and-interrogations.md # Sullivan
+the-new-australia-penal-colony.md # Stacy II
+the-terrarium.md # Murdoch and Xavier
+the-diner-redux.md # Steve
+the-refusegee-crisis.md # Sullivan
+human-rights.md # Stacy II
+stats-with-steve.md # Steve
+the-weapons-development-program.md # Xavier
+monkeybot.md # Russell
+old-testament-diplomacy.md # Stacy II
+speed-surprise-and-violence-of-action.md # Xavier
+farmer-jack.md # Steve
+the-juice-to-squeeze-ratio.md # Stacy II
+the-orbital-ring.md # Murdoch and Xavier
+newtons-universe.md # Russell
+fully-automated-nano-whatever-manufacturing.md # Steve
+death-by-rotisserie.md # Stacy II
+canary-in-a-physics-engine.md # Xavier
+von-neumann-paperclip-factory.md # Steve
+statist-infiltrators.md # Stacy II
+the-cube-of-realistic-physics.md # Murdoch, Xavier
+man-of-destiny.md # Sullivan
+permanent-schizophrenia.md # Xavier
+operation-hearts-and-minds.md # Stacy II
+another-day-in-the-office.md # Xavier
+the-malicious-cow.md # Stacy II
+space-fish.md # Xavier
+collateral-damage.md # Stacy II
+purely-hypothetical.md # Steve
+the-volunteer-space-force.md # Russell
+el-dorado-of-probable-cause.md # Murdoch
+out-of-control.md # Stacy II
+space-idiot.md # Steve
+doomsquad69.md # Stacy II
+octagonal-occlusions.md # Russell
+condemned.md # Stacy II
+the-only-question-that-matters.md # Steve
+good-knowing-you.md # Russell
+filberts-enlightenment.md # Filbert
+murdoch-heavy-industries.md # Steve
+space-doughnut.md # Russell
+defender-of-the-state.md # Sullivan
+mum.md # Russell
+on-the-shelf-life-of-vitamins-in-space.md # Murdoch
+the-corp-conundrum.md # Xavier
+convenient-timing.md # Steve
+stacy-the-second.md # Stacy II
+in-the-flesh.md # Sullivan
 end.md

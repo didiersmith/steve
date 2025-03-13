@@ -1,55 +1,85 @@
 ## 0. A Plaything for the Gods
 
-When Steve received the design brief, it was even worse than he'd thought. Not only was he supposed to read their minds, but he had to influence them as well! He strode around his office, fuming. Gabe, who had composed himself since the previous conversation, sat on the couch and lent a sympathetic ear.
+Murdoch didn't want to admit it, but Steve was really starting to piss him off. It wasn't entirely his fault - being a slow, unambitious sluggard was literally written into his genes. At least he did any work at all - the average kid in his generation got tired getting out of bed in the morning. Still, he wished he'd work faster - time was not on their side. At this rate, he risked losing Allen's buy-in.
 
-"Changing requirements!" Steve cried. "Every damn time! Why can't people just figure out what they want and ask for it up front? Why do they have to ask for one thing, then ask for something completely different once that first thing is delivered?"
+Steve had thrown a hissy fit when he'd mentioned the mind-reading requirement. He'd had even more of a conniption upon receiving the full playability design brief - yes, not only did they need to be able to read the AIs' minds, but they had to influence them as well. While Steve's gripes about "shifting requirements" were understandable, he lacked the context of how annoying it was to manage him. Whatever happened to the good old days when you could just cane your subordinates?
 
-"Oh, I know" sympathized Gabe, who didn't really (no one ever asked him for anything).
+Murdoch lit a cigarette and closed his eyes. His doctor had told him said he needed to relax more. "If you keep this up," he'd said, "you'll be lucky to make it another thousand years." He'd tried to prescribe him a "chill pill." Feckin' doctors. What did they know? Nicotine _was_ relaxing.
 
-"These minds are insanely complicated! We're talking billions of parallel matrix operations, all bathed in a sea of hormones! It's a miracle they do anything! How's anyone supposed to understand them?"
+Anyway, he wasn't even sure he wanted to make it another thousand years. Not on this goddamn planet, at least.
 
-"I guess he just thinks really highly of you."
+---
 
-Steve slumped into his chair. "It's just impossible. Six months' work, down the drain. I'm going to have to start again from scratch, with this stupid requirement baked into the universe somehow."
+"I've got it!" Steve reported.
 
-"Surely not!" said Gabe. "There's gotta be some way to hack it in. So the problem is that the thought space is too big, right?"
+Murdoch looked at him suspiciously. He'd believe it when he saw it.
 
-"Yes. Way, way, way too big."
+"You've got what?" he asked.
 
-"Can you focus on just one part of the mind?"
+"Playability. Check it out."
 
-"They think with their whole minds."
+Steve strode to Murdoch's computer, flicked over to the StevieNix window and put the headset on. He clicked around for a few moments, and brought up the view of a young primitive animal herder, who was sitting on a log somewhere.
 
-"What if they didn't?"
+Steve gave Murdoch an excited look.
 
-"Huh?"
+"Go on, then" Murdoch said.
 
-"What if you forced all their thoughts through a bottleneck, and just figured out how to understand and manipulate that bottleneck?"
+Steve clicked the talk button on his microphone and said, "I should pick up that rock."
 
-Steve's initial reaction was "they would be profoundly mentally impacted", but realized that there was a candidate bottleneck - the language center.
+The boy on the screen perked up.
 
-Mapping the language center was relatively straightforward. He picked some random apes and recorded their neural activation levels every time they spoke. Over time, he built a huge corpus of neural activity and associated language, and trained a simple classifier to map the two datasets together. The result was a program that allowed him to transcribe the words they spoke by watching their neurons - a neat party trick, but insufficient to read their actual thoughts. 
+"Oh yeah!" Steve said, and unplugged the headset. The boy's internal monologue started playing out of the speakers.
 
-He started running his neuron/speech classifier on the apes' thoughts while they were not talking. The results were garbage. He tried hand-writing genes to route all thoughts through the language center. Most of the resultant apes died, the rest produced garbage. He increased cosmic radiation to try to get more mutations, but instead of new neural patterns he mostly got tumors and garbage. Then, one day, his persistence paid off.
+"That's a neat rock" the boy was thinking. "I bet that girl in the next village will love it."
 
-In a remote tribe of nomadic animal herders, he found an adolescent boy whose language circuits activated in meaningful, coherent speech patterns without the words necessarily coming out of his mouth. It was remarkable. Nothing externally seemed wrong with the boy. He didn't seem mentally handicapped in any way - a little more reserved than the others, perhaps. Mainly, he just thought in words.
+Murdoch watched wordlessly as the boy stood up, walked a few paces, and picked up a rock.
 
-Steve tried an experiment. He translated the words "I should pick up that rock" into neural patterns, and shoved them into the boy's mind. The reaction wasn't immediate - after Steve sent the thought, the boy mulled it over. "That's a neat rock", rationalized the boy. "Maybe one of the girls in the valley will like it." He walked over and picked it up. Steve's jaw dropped.
+"Yeah, she's gonna go crazy for it," he continued.
 
-For the very first time, his influence extended beyond the environmental and genetic. He could reach in and play with thoughts.
+Steve turned the volume down and beamed at Murdoch.
 
-Steve wondered how his "playable character" had thought before learning language. Intriguing. He should have to research the topic at some point. For now though, he killed every male of reproductive age in the boy's vicinity and crossed his fingers that his natural instincts would inspire him to repopulate the tribe and surrounding regions. It worked, somewhat. A few of his kids were playable too.
+Murdoch nodded. "Okay," he said. "Not bad. What did you do?"
 
-From an evolutionary perspective, the mental bottleneck of playability was more or less neutral. It had some advantages - for whatever reason, the process of thinking in words seemed marginally more likely to result in novel ideas. It also had disadvantages - for example, playable characters would sometimes fall into pathological thought loops while their competing non-playable characters freely mated and expanded their respective lineages. It was also a genetically brittle trait - thousands of genes appeared to be involved, and if they didn't combine perfectly, the resultant ape wouldn't be playable. All in all, the evolutionary neutrality meant that playability genes wouldn't become widespread without divine intervention.
+"Believe it or not, it was actually Gabe's idea!" he explained. "Normally, their thought processes are too scattered to make any sense of. But Gabe realized, if we forced them to think in words, then we could just read the words straight out of their head."
 
-Steve therefore intervened. Everywhere the trait spread, he advanced a front of death. Breeding age males dropped dead by the thousands. Apes who weren't showing signs of playability by one year of age were ruthlessly culled. The ape population of StevieNix plummeted, and Steve began to worry about the loss of genetic diversity in other domains. Eventually, after generations of destruction, playability reached one percent of the population. Then ten, then twenty. Finally, at thirty percent, Murdoch stepped in.
+"How'd you do it?" Murdoch asked.
+
+Steve launched into a technical explanation. Most of it went over Murdoch's head.
+
+"I recorded their neural activation levels every time they said anything. Built up a huge corpus and trained a classifier. Then I ran the classifier when they _weren't_ speaking, to try to find apes that thought in words."
+
+"And then you found this guy?"
+
+Steve laughed. "Not exactly. None of them thought in words. The classifier just produced garbage. I've had to bombard them with cosmic rays for eight hundred generations to produce this one perfect mutation. It took forever."
+
+Murdoch raised his eyebrows. "So this lad," he gestured at the screen, "is the one playable character in all of StevieNix?"
+
+"Correct," Steve said. "Totally random genetic mutation. We may never get it again."
+
+Murdoch was aghast. "What the hell are you doing then?" he asked. "This kid could be killed at any second! Spread his goddamn genes!"
+
+Steve's face fell. Murdoch could tell he didn't want to do what was necessary to spread the kid's genes.
+
+"Steve," he said. "They're computer programs. They're not people. You know what you need to do."
+
+Steve nodded and left his office. Murdoch lit another cigarette and turned back to the screen, to monitor Steve's progress.
+
+A few minutes later, every reproductive-aged male in the kid's vicinity dropped dead. Murdoch smiled.
+
+The sim sped up. Good. The kid took advantage of the lack of males to repopulate his village and the surrounding regions. Excellent.
+
+Murdoch watched closely over the next few weeks as generations came and went. Whatever genes were involved in playability, they were brittle. Most of the descendents weren't playable. The trait seemed to come with costs - playable characters tended to get stuck in strange, pathological thought loops that interfered with their reproductive ability. On the plus side, they seemed marginally smarter than the non-playable characters. From an evolutionary perspective, the trait was roughly neutral. That meant Steve had to help it along.
+
+Everywhere the trait spread, Steve advanced a front of death. Breeding age males dropped dead by the thousands. Apes who weren't showing signs of playability by one year of age were ruthlessly culled. The ape population of StevieNix plummeted, and Murdoch began to worry about the loss of genetic diversity in other domains. Eventually, after generations of destruction, playability reached one percent of the population. Then ten, then twenty. Finally, at thirty percent, Murdoch stepped in.
 
 "Thirty percent will do us just fine, Steve."
 
-"I can get it higher!" Steve responded. He had become singularly focused on the task at hand.
+"I can get it higher!" Steve responded.
+
+Murdoch looked at him in surprise. The mild-mannered creator who'd been so reluctant to kill the villagers just a few weeks ago, had become so focused on the task that he'd turned into a bit of a psycho.
 
 "I'm sure you can, lad. But we can't have everyone be a navel-gazing thought hamster can we?"
 
-Steve blushed. Perhaps the pathological thought loops were more obvious that he'd estimated.
+Steve blushed. He must have known about the pathological thought loops as well.
 
 "Thirty percent is perfect", Murdoch reiterated. "It's time to move on. The alignment team is waiting."
