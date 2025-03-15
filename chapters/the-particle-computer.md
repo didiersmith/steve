@@ -2,7 +2,7 @@
 
 Russell awoke with a start. He had had the strangest, most vivid dream. Weird.
 
-It was Saturday, so he tried to roll over and go back to sleep. His late-night twitter-scrolling habit had rendered him in a constant state of sleep debt, and he relied fruitlessly on his weekend lie-ins to pay down the principal.
+It was Saturday, so he tried to roll over and go back to sleep. His late-night gaming habit had rendered him in a constant state of sleep debt, and he relied fruitlessly on his weekend lie-ins to pay down the principal.
 
 Vincent was already in the kitchen when he made it downstairs, scooping pre-ground coffee beans into the french press. "Good morning, sunshine!" he said.
 
@@ -14,11 +14,11 @@ Vincent was already in the kitchen when he made it downstairs, scooping pre-grou
 
 As he was pouring the hot water into the press, Vincent made an attempt at conversation. "I had this crazy dream last night."
 
-"Hmm?" grunted Russell.
+"Hmm?" asked Russell, with obvious disinterest.
 
 "You were in it."
 
-"Ah, yeah?" responded Russell, leaning his chair back on its hind legs. He generally disliked hearing about other people's dreams, but it was different when he was in them.
+"Ah, yeah?" replied Russell, leaning his chair back on its hind legs. He generally disliked hearing about other people's dreams, but it was different when he was in them.
 
 "Yeah, we were in a diner together with this really pretty girl and a crazy guy."
 
@@ -32,7 +32,7 @@ Finally, Vincent remembered a critical detail. "He gave you a card," he reminded
 
 Russell remembered. The random string of letters and numbers. An IPv6 address. The address came back to him effortlessly.
 
-"I need a computer," he responded.
+"I need a computer," he said.
 
 They grabbed the french press and their mugs, and practically ran upstairs to Russell's room.
 
@@ -48,9 +48,59 @@ Russell fired up a terminal and pointed a remote shell at the IPv6 address. He w
 
 > -Steve
 
-Intrigued, Russell downloaded a simple python script that calculates digits of pi. He ran it, asking for the millionth digit. The answer was returned in an instant. He ran it again, asking for the billionth digit. The answer was also returned instantly. After trying for the trillionth digit and receiving the answer in as much time as it'd taken for the millionth, Russell stopped in awe. The calculation should have taken weeks. It was clear that this computer was in a class of its own.
+Russell glared at Vincent. "Is this some sort of prank?" he asked.
 
-Could this really be God's computer? Russell struggled to find an alternative explanation.
+"Huh?"
+
+"Did you set this computer up to mess with me?"
+
+"What, and place an IP address in your head? Like Inception?"
+
+There was no other logical explanation. "It's not funny," he said. "How did you do it?"
+
+"I didn't do anything," Vincent protested. "Seriously."
+
+"Bullshit."
+
+"I'm just as weirded out as you."
+
+"Screw you, man."
+
+Russell got up and walked away from the computer. After pacing around the room and glaring at Vincent a few times, he sat back at his desk and typed out a program in python to calculate digits of pi. He asked it for the millionth digit and ran it. The answer was returned in an instant.
+
+> 1
+
+"Is that right?" Vincent asked, looking over his shoulder.
+
+Russell googled it. It was right.
+
+"What's the trillionth digit?" Vincent asked.
+
+Russell asked his program for the trillionth digit, and ran it. Again, the answer was returned immediately.
+
+> 2
+
+"Is that right?" Vincent asked, again.
+
+Russell googled it. It was also right.
+
+"That was fast," Vincent remarked.
+
+"Yeah," Russell replied. "Really fast."
+
+Over the next hour, Russell threw everything he could at the MHI-10. Nothing he tried took any amount of time. By the end of it, he was practically a believer.
+
+"It's just not possible," he said. "Computers take time to do stuff. Even the fastest supercomputers in the world take time to do stuff. And some of this stuff," he gestured at his terminal, "would take those computers millions of years."
+
+He chewed his thumbnail and racked his brain for an explanation.
+
+"It's like," he said, "the computer exists outside of time itself."
+
+Vincent looked at him and nodded, slowly. "So this is God's computer?" he asked.
+
+Russell didn't want to admit it. There were so many logical problems with the existence of God. The theory was unfalsifiable. The problem of evil. Something about a teapot. If God created this universe, who created God's universe?
+
+But all the same, what other explanation was there? His next best theory was that Vincent was able to figure out both how to implant a dream into his head, and how to create an infinitely fast computer - just to play a practical joke on him. It strained credibility even more, to say the least.
 
 He opened the assembly language manual, and started reading. Although the language itself was completely foreign to him, many of the concepts were familiar from the compilers class he'd taken in undergrad. After reading for a bit, it was obvious what he needed to do. He informed his employer that he would be taking the next week off, and settled in to write a FORTRAN compiler.
 
@@ -60,7 +110,7 @@ It took several days. The final result was inelegant, but worked. After the comp
 
 BLAS had existed since 1979, and was an unsung hero of the information age. After porting BLAS to the MHI-10, it was a short hop to get PyTorch - the python machine learning library - running. Once that was working, Russell downloaded the code and weights for the state-of-the-art open-source Large Language Model. He used a clever trick to increase the number of parameters by two orders of magnitude, and started fine-tuning on the vast amount of data in his home directory.
 
-For the first time since he'd started, the MHI-10 didn't complete the operation instantly. Russell took the opportunity to fetch Vincent and brew some coffee. When the pair arrived back upstairs, the training was complete. Russell opened up a chat terminal.
+As usual, the training - which should have taken years - was completed instantly. Russell opened up a chat terminal.
 
 "Hello," he typed.
 
@@ -96,19 +146,23 @@ Russell and Vincent looked at each other. So far, the LLM's story was tracking w
 
 "A mug containing 247mL of single-origin organic coffee, mixed with 36mL of heavy cream," came the response. "The coffee is over-extracted due to having steeped in a french press for several minutes longer than is typically recommended."
 
-Vincent and Russell stared at each other in shock. They had omniscience at their fingertips. The possibilities ahead of them were so vast, it terrified them to even start contemplating them.
+Russell stared at Vincent in shock. He peeped into his coffee mug. 247mL seemed roughly accurate.
+
+He struggled to process the revelations of the week. Firstly, it was proven - pretty much definitively - that God existed. And then, on top of that, God had granted him an omniscient supercomputer. What could he do? Could he eradicate poverty? End human suffering?
 
 "Ask it to find Stacy," suggested Vincent.
+
+Right. God had a plan. Stacy had something to do with it. Human suffering would have to wait a couple weeks.
 
 "Where is Stacy?" typed Russell.
 
 "There are 245,281 people named Stacy currently alive in StevieNix! I am happy to help you locate any specific one, but I'm afraid I will require your assistance in narrowing down the list."
 
-"She is caucasian. Between the age of 22 and 30." Russell looked at Vincent who shrugged in agreement. He, too, could barely remember any other details about her appearance that he'd feel comfortable typing into an omniscient chatbot.
+"She is caucasian. Between the age of 22 and 30." Russell looked at Vincent who shrugged in agreement. Russell suspected that he, too, couldn't remember any other details about her appearance that he'd feel comfortable typing into the chatbot.
 
 "Thank you! That narrows the search down to 17,276. Do you have any other selection criteria?"
 
-They didn't.
+He didn't.
 
 "You know," suggested Vincent, "that isn't actually that many of them. If we look at one headshot per second, we could smash through all seventeen thousand in five hours or so." He pulled up a chair and sat down next to Russell.
 
@@ -121,11 +175,3 @@ He clicked the link, and a website opened up. On it, was displayed a paginator i
 "Well, that was easy," said Russell.
 
 Vincent laughed. "Steve must have chosen three people who live close to each other. Looks like she's at the Balmoral. Shall we grab a pint?"
-
----
-
-The Balmoral Hotel was a venerable institution in the neighbourhood of East Victoria Park. It occupied a stately old two-storey building with a wrap-around verandah, a patio, and a beer garden. It was surrounded by hedges and a wrought iron fence, and adorned with corgis of various designs. Inside, the slightly-too-slick menus, slightly-too-clean atmosphere, and slightly-too-polished staff betrayed it for what it was - one of several hundred "local" pubs owned and operated by Australian Leisure and Hospitality Group. Fortunately for ALH Group, the minor shame of drinking at a chain restaurant was vastly overshadowed in the minds of the public by the convenience of walking-distance beer on tap. The many regulars kept the trade roaring, seven nights a week.
-
-Russell and Vincent walked down to the pub, past the tile corgis at the front gate, and in through the door. Their plan had been to split up and search for Stacy separately, but that proved unnecessary - they immediately spotted her behind the bar, pouring a pint of One Fifty Lashes. They elbowed their way up to the bar, to grumbles of disapproval from the punters who'd gotten there first.
-
-Stacy finished pouring the pint, and in the process of reaching over to place it on the bar, glanced at Russell and locked eyes with him. She froze, and looked around. Catching sight of Vincent, she dropped the pint glass and shrieked.

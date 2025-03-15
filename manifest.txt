@@ -16,10 +16,8 @@ the-faustian-bargain.md # Steve
 default-provisions.md # Steve
 act-2.md
 gods-diner.md # Russell
-the-calling.md Steve
-# TODO: Deepen Russell's backstory in The Particle Computer
+the-calling.md # Steve
 the-particle-computer.md # Russell
-# TODO: Deepen Russell more in Traffic Law Humiliation Rituals, trim it down a little.
 traffic-law-humiliation-rituals.md # Russell
 robot-laser-arachnid-1.md # Murdoch (TODO)
 the-manufacturing-singularity.md # Murdoch (TODO)

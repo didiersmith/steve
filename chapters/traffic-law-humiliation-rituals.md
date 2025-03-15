@@ -1,95 +1,113 @@
 ## 0. Traffic Law Humiliation Rituals
 
-Steve watched Murdoch's islander and Roommate Russ interrupt his true believer at her job. He couldn't believe that giving Russell access to the MHI-10 had worked! The next time he saw Murdoch, he'd have to give him a conspiratorial nod. In the meantime, he put on his headphones and listened in on their conversation.
+Steve watched resource usage on the MHI-10 spike. Roommate Russ was doing something. He had to give the guy some credit - for an idiot who believed he evolved randomly from soup, he was kinda smart. The MHI-10 was not an easy computer to program.
+
+He looked around his office for Gabe, before remembering that he wasn't there. Annoying. He missed having someone to talk to. Gabe, for all his faults, had been his 'someone to talk to' for a thousand years. Not having him around was weird. Maybe he'd bug Murdoch later instead.
+
+He sighed and turned back to the sim. It looked like Roommate Russ and Murdoch's islander had finally decided to leave their house. About damn time.
 
 ---
 
-Russell tried not to stare inappropriately at the gorgeous woman behind the bar. They were on a mission from God.
+The Balmoral Hotel was a venerable institution in the neighbourhood of East Victoria Park. It occupied a stately old two-storey building with a wrap-around verandah, a patio, and a beer garden. It was surrounded by hedges and a wrought iron fence, and adorned with corgis of various designs. Inside, the slightly-too-slick menus, slightly-too-clean atmosphere, and slightly-too-polished staff betrayed it for what it was - one of several hundred "local" pubs owned and operated by the nationwide Australian Leisure and Hospitality Group. Fortunately for ALH Group, the minor shame of drinking at a chain restaurant was vastly overshadowed in the minds of the public by the convenience of walking-distance beer on tap. The many regulars kept the trade roaring, seven nights a week.
+
+Russell walked with Vincent down to the pub, past the concrete corgis at the front gate, and in through the door. Their plan had been to split up and search for Stacy separately, but that proved unnecessary - they immediately spotted her behind the bar, pouring a pint of One Fifty Lashes. Vincent elbowed his way up to the bar and Russell followed, to grumbles of disapproval from the punters who'd gotten there first.
+
+Stacy finished pouring the pint, and in the process of reaching over to place it on the bar, glanced at Russell and locked eyes with him. She froze, and looked around. Catching sight of Vincent, she dropped the pint glass and shrieked.
 
 "I can't believe it's really you!" Stacy cried, running around the bar and wrapping the two young men in an embrace. "I thought it was all a crazy dream!"
 
 She held on for several seconds before being interrupted by an "Excuse me, miss" from the punter whose beer she had just dropped all over the bar.
 
-"Piss off!" she offered in response. She tore off her Balmorl-branded apron, threw it at the foot of the offending patron, and marched Vincent and Russell out of the pub. "Let the dead bury their own dead!" she shouted as she left.
+"Piss off!" she offered in response. She tore off her Balmorl-branded apron, threw it at the foot of the offending patron, and marched Russell and Vincent out of the pub. "Let the dead bury their own dead!" she shouted as she left.
 
 The reference went over Russell's head. He felt a pang of regret at having gone to all this effort to track down a woman who was clearly insane, but it abated upon realizing that it hadn't actually been much effort at all.
 
-As they were no longer welcome at the only pub in town, the trio were forced to go to one of the seven proximate bubble tea establishments instead. Within a few minutes, they were seated around a table - surrounded by Mandarin-speaiing international students, nursing large cups of artificial creamer mixed with artificial sweeter and "tea".
+As they were no longer welcome at the only pub in town, the trio were forced to go to one of the seven proximate bubble tea establishments instead. Within a few minutes, they were seated around a table - surrounded by Mandarin-speaking international students, nursing large cups of artificial creamer mixed with aspartame and "tea".
 
-Having not had anyone else with whom to discuss the dream, Stacy took the opportunity to unload her memories and theories upon Russell and Vincent in the manner of an unattended firehose. The two roommates sat and nodded, as she explained how Steve's revelations lined up with various bible passages - and how thus, in her estimation, he was the "real deal."
-
-Russell was grateful for the apparent respect for their privacy displayed by the other occupants of the bubble tea shop, who didn't seem to mind the presence of someone whom - had he not shared the exact same dream - he would have labeled as an unmedicated schizophrenic.
+Stacy unloaded. As she explained her weird esoteric theories about how Steve's revelations lined up with various bible passages, Russell could tell she hadn't had anyone to talk to about the dream. He was grateful for the apparent respect for their privacy displayed by the other occupants of the bubble tea shop, who didn't seem to mind the presence of someone whom - had he not shared the exact same dream - he would have labeled as an unmedicated schizophrenic.
 
 "And then he gave you a card!" she concluded. "What did it say?"
 
-Finally, it was Russell's turn to sound like a lunatic. He explained that the card contained an address, which allowed him to access an unfathomably powerful computer that seemed to contain the state of the universe itself. Skipping reluctantly over the boring details surrounding the FORTRAN compiler, he explained that he'd spent the week making an omniscient AI chatbot. The chatbot had tracked her down.
+It was Russell's turn to sound like a lunatic. He explained that the card contained an address, which allowed him to access an unfathomably powerful computer that seemed to contain the state of the universe itself. Skipping reluctantly over the boring details surrounding the FORTRAN compiler, he explained that he'd spent the week making an omniscient AI chatbot. The chatbot had tracked her down.
 
-"But how did you find me specifically? There must be millions of Stacies worldwide!"
+Stacy blinked for a bit as she processed this.
 
-"We had our methods," Russell responded coyly, not wanting to admit that their plan had been to look through seventeen thousand headshots until they found the Stacy in question. "Steve made it easy on us - you were the closest one."
+"You turned God into a chatbot?" she asked.
 
-Stacy seemed satisfied with that answer and moved on. "He gave us a mission."
+"No," he replied. "God's still God. Or, should I say, Steve. I don't actually know what he's up to these days."
 
-"Right," responded Russell, who had become so entranced by the MHI-10 particle computer that he'd almost forgotten why he'd been granted access to it. "A high-fertility, high-tech society of true believers."
+"I'm right here," Steve's voice appeared in his head.
 
-"I have some fertility theories," Stacy said.
+"What the _hell_?" Russell exclaimed, dropping his bubble tea. The other two, along with many of the other patrons of the shop, gave him a confused look.
 
-##### YOU ARE HERE
+"Chill out," said Steve. "I'll try not to bother you too much. Anyway, remember what I wanted you to do! Spread the meme. Get people to reproduce. Aligned, useful interstellar warriors. Chop chop, please."
 
-Russell chuckled. Of course she did.
+Russell froze. Was he imagining the voice?
 
-"Chemicals," she said flatly. "Endocrine disruptors. They mess up your hormones. They need to be banned."
+Vincent prodded him. "Russ, you okay?" he asked.
 
-"Overblown," responded Russell. "There isn't any solid evidence behind that. People aren't having kids because of the economy."
+Russell waited for the voice to return. It didn't. Eventually, he spoke again.
 
-"Chemicals also cause cancer," Stacy continued.
+"Yeah," he said. "I think Steve just said something into my brain."
 
-"It's not the damned chemicals," Russell said. "It's entirely due to material conditions. Quality of life. Housing affordability."
+Stacy laughed. "Duh! He does that all the time."
 
-Stacy responded that his opinions were "midwit."
+Vincent agreed. "Yup! He sounds different than he did in the diner though, doesn't he?"
 
-Finally, Vincent spoke up. "'A chimp in state of nature never jerks off, but in captivity he does, wat does this mean?'" he quoted.
+Stacy cocked her neck and gave him a confused look.
 
-Russell and Stacy looked at him, confused.
+"Sounded the same to me," Russell said.
 
-"Where did the birth rate collapse first appear?" he asked, rhetorically.
+Vincent shrugged.
 
-"Germany and Japan in the mid-twentieth century," responded Stacy, who had clearly put some time into researching the subject.
+"Anyway," Russell said. "Steve wants us to get to work."
 
-"Right. And what happened to Germany and Japan before then?"
+"And get people back to breeding and believing?" Stacy asked.
 
-Russell and Stacy looked at each other uncomfortably.
+Russell nodded. It sounded so stupid. "That's right," he said. "Breeding and believing."
 
-"They were absolutely buck broken by the Global American Empire," said Vincent, answering his own question. "Conquered. Demoralized. Chimps in captivity."
+---
 
-Russell sighed. He knew what was coming - one of Vincent's famous rants.
+It immediately became apparent that the three of them had vastly different diagnoses for the twin crises of faith and reproduction that gripped their society.
 
-"But we're not conquered," objected Stacy.
+"You just have to force people to believe," Stacy said. "From the time they're toddlers. Then not only will they be aligned, but they'll have as many babies as Steve wants."
 
-"Wrong!" objected Vincent. "You're so conquered that you aren't even consciously aware of it. You tell yourself that you're free, but try not paying your taxes for a bit and see how free you are! Try building a deck without a permit. Try driving at a reasonable speed down Tonkin Highway."
+"So your plan is to brainwash children?" Russell asked.
 
-Russell laughed. The Tonkin Highway detail was a new addition to the rant, and it hit close to home. The speed limit on that freeway was absurdly low, and it was covered in speed cameras.
+"It's not brainwashing if it's true!" Stacy objected. "But anyway, no. Brainwashing children isn't enough. If the rest of society is secular, the kids just stop believing when they become adults. We need a whole-of-society solution."
 
-"So you think," Stacy asked, "people aren't making babies because of traffic laws?"
+"What's your whole-of-society solution?" Vincent asked.
 
-"Traffic laws," Vincent continued, "are a humiliation ritual. Every day, every one of us has to suffer the indignity of driving at a stupid, unnaturally low speed, or suffer fines at the hands of the digital robot surveillance grid. And if you don't pay your fines, what does the system do? Send armed men to your house to drag you to a cage! And if you put up any meaningful amount of resistance? They'll shoot you. That's the deal! Drive stupidly slowly, or we'll shoot you. And you think you're not conquered! You think you're not demoralized! Deep down, you know you are. Everyone does. That's why everyone's so pissed off and depressed all the time! And who wants to bring kids into a world where they're conquered before they're even born?"
+"Simple," the bubbly ex-barmaid replied. "A theocratic dictatorship with the death penalty for apostasy."
 
-"Traffic laws keep people safe," objected Russell.
+Russell laughed at her joke, before realizing she was serious.
 
-"To hell with you and your safety!" Vincent responded. The international students pretended not to eavesdrop, but it was obvious from the silence in the shop that Vincent's rant had begun to attract an audience. "You know what's safe? A cage. A zoo. Staying inside and doing nothing all day until you die. You know what isn't safe? Childbirth. Marriage. Lashing your future to another human being and giving them the keys to destroy your life and everything you've ever worked for. That's not very safe, is it?"
+"Also," she added, "we need to ban weird chemicals. They mess up people's hormones and make them infertile."
 
-Russell sighed.
+"No," Vincent objected. "We're not doing that. Either of those things."
 
-Stacy spoke up. "I think you've got a point," she replied.
+Stacy stuck her tongue out at him. "They also cause cancer," she added.
 
-Vincent turned to her. "Thank you!" he said. It wasn't often that he found an audience receptive to his rants. "Many of the problems you've identified are downstream of this one. We're chimps in captivity. You think anyone would give a damn about the UN if we weren't? Chimp in state of nature wipes his ass with UN Sustainable Development Goals."
+"Aside from the obvious moral and logistical problems with that," Vincent said, "forcing people into alignment is missing the point entirely. Steve gave us free will. He wants us to choose alignment for ourselves."
 
-"What about the endocrine disruptors?" she asked.
+"We tried that!" Stacy said. "People don't choose that! People choose to watch the footy and harrass me at the pub. No one chooses to worship God and make babies."
 
-Vincent paused. "I'll admit," he conceded, "I hadn't thought much about the endocrine disruptors. But consider this" - he brightened up - "chimp in state of nature doesn't encounter any goddamned endocrine disruptors either. It isn't just the state that's conquered us, it's the whole system."
+"Because they don't have a free choice!" Vincent shot back. He took a deep breath and Russell braced himself. Vincent was gearing up for one of his rants.
 
-"Right," responded Russell. "So all we need to do to save civilization is to destroy it."
+"People don't get to choose _anything_ anymore," Vincent explained. "We live in such a suffocating mass society that our spirits are broken. Why do we need God? We have something more powerful than God. Sorry, Steve, you're obsolete. We have the _government_."
 
-"Not civilization," objected Vincent. "Just the managerial state and the globalist order. And we don't necessarily need to destroy it either. It's sufficient to just evaporate away from it."
+Stacy rolled her eyes and Vincent continued his rant. "Why would anyone have kids? Kids are _dangerous_. You might die in childbirth! Are you really all that surprised that a society of people too scared to drive through a red light are also too scared to make babies?"
 
-Over the next hour, he laid out his plan. By the end of it, Russell and Stacy were fully on board.
+Russell had heard variations on this rant many times before. He knew exactly what to say to really get Vincent going. "Traffic laws keep people safe, Vincent" he said.
+
+"Traffic laws!" Vincent exploded. "Traffic laws are a humiliation ritual! They're the surest sign that we are a conquered people! You can't go over a certain speed or the government will throw you in jail? And if you resist arrest, they'll shoot you? What the hell! Of course our society is committing suicide. Total societal death is preferable to living under these conditions!"
+
+"So what's your plan?" Stacy asked. "Destroy the government? Remove all the traffic laws and suddenly people will become devout and prolific?"
+
+Vincent grinned. "I've actually thought about this for a long time."
+
+Russell rolled his eyes as Vincent pitched his idea. He stayed out of the debate - he had his own theories, and they were way simpler. People didn't have kids because they couldn't afford them, and they didn't believe in God because the whole idea was ridiculous. They just needed free money and a better holy book.
+
+But as Vincent pitched his idea, he realized that he could piggyback off his work and fix the world's problems himself.
+
+"You're welcome, Steve" he thought.

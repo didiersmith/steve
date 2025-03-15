@@ -4,7 +4,7 @@ Gabe was starting to annoy Steve a little bit by dragging practical consideratio
 
 "Okay, but just pretend it wasn't!" Steve replied. "Think of all the subtleties that can only be conveyed in person, such as...uh..."
 
-"Such as, destroying your ship, following your trail back to your home planet, and enslaving everyone you love?" suggested a deep voice in a rough Irish accent.
+"Such as, destroying your ship, following your trail back here to Elba, and enslaving everyone you love?" suggested a deep voice in a rough Irish accent.
 
 Steve and Gabe instinctively ducked at the shock of hearing such nakedly criminal language. They turned to the source of the barbaric suggestion and saw the intruder leaning against the break room doorway. Steve recognized him immediately.
 
