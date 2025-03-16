@@ -10,15 +10,15 @@ Vincent and Stacy were standing at the edge of the island, inspecting a much lar
 
 "Of course we do," Vincent responded, pointing behind him.
 
-Russell turned towards the center of the island. Where the black carbon cylinder had previously stood, was a hill. While it was mostly still pure white polymerized fullerene, the top was covered with a deep brown earth. He looked down at his feet and saw dozens of the robotic ants that had awoken him scurrying to and fro, carrying spheres of dirt.
+Russell turned towards the center of the island. Where the black carbon cylinder had previously stood, was a hill. While it was mostly still pure white polymerized fullerene, the top was covered with a deep brown earth. He looked down at his feet and saw hundreds of the robotic ants that had awoken him scurrying to and fro, carrying spheres of dirt.
 
 "Didn't like the look of the fullerene?" he asked.
 
 "Good luck growing anything on it," Vincent responded.
 
-Russell started walking up the hill. Before long, he spotted the water source - a tiny stream, flowing through a crease in the fullerene, ran from the top of the hill down to the sea. "Hey Stacy!" he yelled. "Does this water have any endocrine disruptors in it?"
+Russell started walking up the hill. Before long, he spotted the water source - a tiny stream, flowing through a crease in the fullerene. "Hey Stacy!" he yelled. "Does this water have any weird chemicals in it?"
 
-The group laughed. Russell dropped to his knees and drank greedily from the stream. When he was done, he climbed to the top of the hill to get a better look. The higher he climbed, the more the ground underneath his feet felt like real earth. The ants were terraforming the island from the top down.
+The group laughed. Russell dropped to his knees and drank greedily from the stream. When he was done, he climbed to the top of the hill to get a better look. The higher he climbed, the more the ground underneath his feet felt like real earth. The ants were rapidly terraforming the island from the top down.
 
 He reached the top and looked out. The island was small - just a few hundred meters in diameter - and a perfect hexagon. Weird. He trudged back down to the others. Stacy had cleaned herself up, changed into a white sundress, and evidently roped Vincent into being her photographer.
 
@@ -48,15 +48,15 @@ Russell hadn't thought about that.
 
 "You got ten million followers in a few weeks?" Russell asked, skeptically.
 
-"I already had one million," she responded. "I was a wellness influencer."
+"I already had one million," she responded. "I was a faith influencer."
 
-"What's a wellness influencer?"
+"What's a faith influencer?"
 
-Stacy just laughed and resumed her pose. Once Vincent finally managed a photo that met her standards, she took her phone back, muttered into it, and her clothing transformed into a red bikini top and matching skirt. "Can we get some sort of tropical pergola here?" she asked, ruffling her hair. "Think Bali, tiki bar sorta vibes."
+Stacy just laughed and resumed her pose. Once Vincent finally managed a photo that met her standards, she took her phone back, muttered a command into it, and her clothing transformed into a red bikini top and matching skirt. "Can we get some sort of tropical pergola here?" she asked, ruffling her hair. "Think Bali, tiki bar sorta vibes."
 
-A bamboo pergola grew out of the ground in front of them.
+Russell nodded. "Pious devotee goes to Ibiza sorta vibes?"
 
-When it was done, she climbed up onto a barstool and picked up the fruity cocktail that the nano-robots had assembled on the bar.
+Stacy glared at him as a bamboo pergola grew out of the ground in front of them. When it was done, she climbed up onto a barstool and picked up the fruity cocktail that the nano-robots had assembled on the bar.
 
 "I wouldn't drink that," warned Vincent. "The robots are designed for making computers and structural carbon. Drinks that don't kill you are outside of the spec."
 

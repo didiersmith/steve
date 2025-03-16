@@ -10,15 +10,19 @@ He spent his days online. He didn't game, feeling that it was a waste of time. I
 
 One day, a photo popped up on his feed. A beautiful woman, a perfectly white beach, palm trees. "Looking for a change?" the caption asked.
 
-"Screw it," thought Sullivan, and clicked the link in her bio.
+For some reason, Sullivan stopped scrolling.
 
-He raised his eyebrows. Interesting. She seemed to be some sort of cult leader.
+"Click the link," said a voice in his head.
+
+Sullivan clicked the link.
+
+He raised his eyebrows. Interesting. The woman seemed to be some sort of cult leader.
 
 She seemed to be taking applications to join her cult. He looked at the stack of final demands on his second-hand IKEA desk. "Screw it," he thought again, and called his sister.
 
 "You want me to help you with WHAT?" she asked.
 
-"Help me with this, or help scrape my brains off the shower curtain," he responded, matter-of-factly.
+"Help me with this, or help scrape my brains off the shower curtain," he responded.
 
 She helped him with the application. In the end, it looked as good as his Tinder profile - good enough to gain him coin-flip odds, provided the person on the other side knew nothing about him.
 
@@ -32,11 +36,15 @@ With no external reference, he had no idea how far down the elevator went - but 
 
 He underwent constant acceleration for a full hour. It felt like a child was bear-hugging him into his seat, attempting weakly to crush his chest. It wasn't hard to breathe, but he eventually started to panic. What had he done?
 
-Just as the waves of regret started cresting over him, his seat swiveled around and the shuttle started decelerating. The same weak crushing feeling - but at least this time, he knew it would eventually end. It took another hour.
+"Don't panic," said the voice. "You made the right choice."
+
+He'd made the right choice.
+
+His seat swiveled around and the shuttle started decelerating. The same weak crushing feeling - but at least this time, he knew it would eventually end. It took another hour.
 
 Eventually, the shuttle stopped. He got out. There was a woman there to meet him. Not the cult leader, but just as beautiful and bounding with youthful energy. She looked like she belonged on a high school football field, waving pompoms. She beamed a huge smile at him.
 
-"Hi Sullivan, welcome to New Sealand! We're so excited to have you. I'm Tasha, and I'll be your orientation guide!"
+"Hi Sullivan, welcome to New Sealand! We're so excited to have you. I'll be your orientation guide!"
 
 That was the most positive attention a beautiful woman had ever paid him. Sullivan fell in love, immediately.
 
@@ -56,17 +64,17 @@ Unfortunately, the average person in the PR didn't actually enjoy voting on laws
 
 Most voters had slowly ossified into "yessers" (people who would vote in favour of all legislation), and "nopers" (people who would do the opposite). Swing voters were a small minority, and even they barely read beyond the title. This upset Sullivan. To allow the country to be governed by a tiny slice of slightly less lazy voters, thoroughly uneducated in matters of law, was downright undemocratic. He turned his attention from directly crafting regulatory legislation, to crafting regulatory agencies.
 
-The Keep Roads Safe act passed with the support of 90% of swing voters, and established the Department of Transportation. It was endowed with the power to regulate all aspects of transportation, including the sulphur content of tractor tires. Over the course of a few months, he wrote the Clean Surroundings Act, the Health For All act, the Smart People Act, and the Money For Everyone act, establishing the Department of the Environment, Department of Health, Department of Education, and the Department of Commerce. He beamed to think of the volumes of regulation that these departments would pass, all without ever having to bother the electorate.
+The Keep Roads Safe act passed with the support of 90% of swing voters, and established the Department of Transportation. It was endowed with the power to regulate all aspects of transportation, including the sulphur content of tractor tires. Over the course of a few months, he wrote the Clean Surroundings Act, the Health For All act, the Smart People Act, and the Money For Everyone act, establishing the Departments of the Environment, Health, Education, and Commerce. He beamed to think of the volumes of regulation that these departments would pass, all without ever having to bother the electorate.
 
 In addition to easing the burden on voters, the new agencies provided jobs - thousands of them. As people took jobs in the civil service, they almost universally converted into yessers, making it easier and easier to pass future laws.
 
 After establishing the regulators, Sullivan turned his efforts to other aspects of government. He wrote legislation establishing specialized police forces, a military, and an intelligence agency - the Department of National Security (DONS). All of them passed. In short order, an entire executive branch of government had been created, all ostensibly run by a Chief Executive - a largely meaningless ceremonial role, to be voted on via referendum every four years.
 
-Sullivan took a job in the DONS. It was his first job. It was okay. Mostly, he read other people's texts.
+Sullivan would have been content to keep writing legislation full-time for the rest of his life, until the voice told him to get a job. He took a job in the DONS. It was his first job. It was okay. Mostly, he read other people's texts.
 
-Tasha got married to a six foot two Frenchman named Dennis. They had twins. Sullivan started drinking.
+He read the texts of his beautiful orientation guide. She got married. Sullivan started drinking.
 
-Eventually, he found someone, via the Department of Love's matchmaking service. Her name was Susan. Like Sullivan, she was average. She liked that he had a job. He liked that she pretended to tolerate his company. They got married and had two kids.
+Eventually, he found someone, via the Department of Love's matchmaking service. Like Sullivan, she was average. She liked that he had a job. He liked that she pretended to tolerate his company. They got married and had two kids.
 
 That was about the time the troubles began.
 
@@ -74,27 +82,25 @@ The economy of the PR ran mostly on the back of gold handouts from a wealthy pat
 
 Russell wasn't happy when the police showed up at his door, but there wasn't anything he could do. The law's the law, and nobody was above it.
 
-The people could now decide for themselves, using the power of democracy, what to do with the gold. It turned out, they wanted to spend it. On themselves.
+After the nationalization, the people could decide for themselves - using the power of democracy - what to do with the gold. It turned out, they wanted to spend it. On themselves.
 
-So much gold was mined, distributed and spent that it began to significantly impact the global price of gold. Gold-denominated prices skyrocketed. Inflation hit forty percent, and the people began to clamour for the government to do something. So Sullivan stepped up to the plate.
-
-He drafted the Stable Prices Act, putting the gold under the control of the Federal Reserve Bank. The bank had a dual mandate - to maximize the welfare of the citizens, and to keep inflation at 2 percent. Unfortunately, the mandates were in conflict. It wasn't actually possible for the bank to dispense enough gold to fund the government and all the entitlements, without causing inflation to blow through the roof. As prices rose, people voted themselves more gold. As they spent the gold, prices rose.
+So much gold was mined, distributed and spent that it began to significantly impact the global price of gold. Gold-denominated prices skyrocketed. Inflation hit forty percent, and the people began to clamour for the government to do something. But there was nothing to be done.
 
 The unspoken, open secret inside the executive branch was that the people had voted themselves more gold than existed in the world.
 
-Slowly, the enormous vaults under the Federal Reserve began to empty. His team at the DONS was tasked with finding creative solutions. Most of his colleagues explored methods of reclaiming the spent gold, but it was distributed in companies' vaults throughout the world. International markets loved the People's Republic.
+Slowly, the enormous vaults under the Department of Commerce began to empty. His team at the DONS was tasked with finding creative solutions. Most of his colleagues explored methods of reclaiming the spent gold, but that was tricky - it was distributed in vaults throughout the world.
 
-Sullivan focused on the source: The mining worms. How did they work? Where did they find the gold? He knew who knew: Russell.
+Sullivan focused on the source: The mining worms. How did they work? Where did they find the gold? He knew who knew - the voice told him. Russell.
 
-He tapped Russell's phone, bugged his house, read his texts. Everything was encrypted, but the DONS had long-ago required backdoors in all communications equipment.
+He tapped Russell's phone, bugged his house, read his texts. Russell wasn't particularly talkative. Mostly, he was a family guy. He had two interesting friends though - the cult leader, and the guy who'd founded the Anarchy. Sullivan listened closely whenever they were chatting.
 
-Russell wasn't particularly talkative. Mostly, he was a family guy. He had two interesting friends though - the cult leader, and the guy who'd founded the Anarchy. Sullivan listened closely whenever they were chatting.
+Eventually, he learned something. There was a computer. An omniscient computer. It knew where all the gold was - that's how the worms knew where to go. Maybe Russell hadn't taken well to the whole nationalization thing, and had turned them off. In that case, refilling the vaults was just a matter of turning them on again.
 
-Eventually, he learned something. There was a computer. An omniscient computer. It knew where all the gold was - that's how the worms knew where to go. Maybe Russell hadn't taken well to the whole nationalization thing, and told the worms to stop looking. Interesting. Sullivan thought about all the other things he could do with an omniscient computer. He thought back to Tasha. Very interesting.
+Gold was small potatoes though. Sullivan thought about all the other things he could do with an omniscient computer. He thought back to his orientation guide. Perhaps an omniscient computer could help her realize just how badly she wanted to leave her husband and run off with a DONS employee. Stranger things have happened.
 
-The more he thought about it, the more he realized how undemocratic it was for these three elites to monopolize access to such a powerful resource. He thought of all the suffering that the computer could alleviate. By jealously guarding access, the trio was basically causing suffering. That wouldn't do!
+The more he thought about it, the more he realized how undemocratic it was for these three elites to monopolize access to such a powerful resource. He thought of all the suffering that the computer could alleviate. By jealously guarding access, the trio was basically causing suffering. That's as good a definition of evil as any.
 
-He leaked the details about the computer to the press, and began drafting a referendum: The Freedom of Knowledge Act. It passed. He confronted Russell, personally.
+He leaked the details about the computer to the press, and drafted a referendum: The Freedom of Knowledge Act. It passed. He confronted Russell, personally.
 
 "I haven't the foggiest clue what you're talking about," responded Russell.
 

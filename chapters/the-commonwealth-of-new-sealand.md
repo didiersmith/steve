@@ -2,88 +2,100 @@
 
 The people did bring their own drinks. And their own food. And seeds, saplings, and livestock. That was the deal - be self-sufficient, help terraform the island, get to hang out with Stacy in a tropical paradise. Thousands leapt at the opportunity.
 
-Vincent had thought he was busy before. He wasn't. The influx of people, all requiring accommodation, transportation, running water, sewage treatment, etc. overwhelmed him. Despite spending every waking moment designing and building, he still couldn't keep up with demand. Eventually, with much chagrin, he was forced to assemble a staff. Together, he and his crew oversaw the creation of new islands, the planting of vast acres of farmland, the construction of towns and villages.
+Steve had to hand it to Murdoch's islander - that guy was productive. Those thousands of people all needed accommodation, transportation, running water, and sewage treatment. Before long, Vincent had put together a staff. He and his crew oversaw the creation of new islands, the planting of vast acres of farmland, and the construction of towns and villages.
 
-Transportation between neighbouring islands was accomplished by boat - modelled, to Stacy and Russell's chagrin, after the now-iconic mastless long-tailed viking warship the trio had taken on their maiden voyage. Transportation over longer distances was accomplished by hyperloop - maglev trains floating inside perfectly cylindrical tubes, from which all the air had been vacuumed out. Barring relativistic effects, there was no theoretical maximum speed of a hyperloop train. In practice, they peaked at ten thousand kilometers per hour and could circumnavigate the globe in four hours.
+The people took boats between neighbouring islands. For longer distances, Vincent built hyperloops - maglev trains floating inside perfectly cylindrical tubes, from which all the air had been vacuumed out. Barring relativistic effects, there was no theoretical maximum speed of a hyperloop train. In practice, they peaked at ten thousand kilometers per hour and could circumnavigate the globe in four hours. Within a month, secret hyperloop stations dotted most of the world.
 
-Their first continental hyperloop station was on a farm just outside of Perth. It consisted of a gravel driveway, an enormous underground parking garage, and a 500 meter deep elevator shaft. Anyone told about the station was sworn to secrecy, on pain of banishment from New Sealand. Australian immigrants started flooding in.
+Stacy, as the public face of New Sealand, also had her hands full. Steve proudly watched as she did indeed leverage the MHI-10's omniscience for targeted social media outreach - although not, as he had hoped, to bring people to the faith, but to bring people to New Sealand. The alignment, presumably, would come later.
 
-Within a month, secret hyperloop stations dotted every region of the world with high concentrations of desirable immigrants. As the face of New Sealand, the responsibility for setting immigration policy fell on Stacy. Although they never questioned her criteria directly, Russell and Vincent surmised from the results that they were "young, hard-working, eager to party, attractive." Vincent and his crew built hyperloop stations all over Western Europe, North America, Australia, and East Asia.
+And finally, Russell. Roommate Russ. Russell had taken it upon himself to write an updated holy book, the Newer Testament. He constantly peppered Steve with questions.
 
-Russell, on the other hand, found himself withdrawing more and more from the daily tasks of bootstrapping New Sealand. His focus was theological - he spent his days composing the Newer Testament, in which he recorded Steve's revelations in the diner, the exodus to New Sealand, and his theories of the afterlife. When he was done, copies were distributed to every citizen and new arrival. Although most people were already familiar with the contents from Stacy's social media postings, the book was still widely read and its distribution led much of the population to redouble their terraforming efforts with renewed religious fervour.
+"How should we make people get along?" he asked. "We're seeing more and more...interpersonal friction."
 
-Unfortunately, not everyone was so inspired. Rumours of anti-social behaviour started to reach Stacy.
+"Really?" Steve asked. "The warfaring AIs that I deliberately made as aggressive as possible, are exhibiting 'interpersonal friction?'"
 
-"Someone's been stealing goats", she announced to the other two over dinner.
+"They're stealing each other's stuff and getting into fights! If we don't do something, they'll be killing each other soon."
 
-"I'm pretty sure this is fish," responded Russell, absent-mindedly prodding his dinner.
+"Is that a bad thing?" Steve asked.
 
-"Huh? Pay attention. I'm talking about Pierre and Veronique's goats."
+"Didn't you say yourself, 'thou shalt not kill?'"
 
-"That French couple with the cottage on the South Island?" asked Vincent. He and his crew had built their pasture a couple of months ago. Veronique had insisted on fields of lavender being planted, claiming it improved the flavour of the meat.
+Steve shrugged. "I said a lot of things."
 
-"Yes, they've lost three in the last week."
+"Goddamn it, Steve" Russell thought. "Are you saying that sustainable peace is impossible in human societies due to our very nature?"
 
-"How do we know someone stole them? They could have just wandered off," objected Russell.
+"I didn't design you to pick flowers" Steve replied, thinking back to Murdoch's rant.
 
-"They claim it was a Belgian farmhand who had inside knowledge of their operation."
+"I don't believe you," Russell thought. "People are fundamentally good. We're not just warfaring monkeys - we've evolved beyond that. I'll show you."
 
-"Their goat-farming operation?" Russell laughed. "So we're talking a pretty sophisticated heist then?"
+Steve rolled his eyes.
 
-"They're very upset," responded Stacy. "They want us to do something."
+---
 
-"Yes, let's summon the goat detectives," chuckled Vincent. "See if they can goat to the bottom of it."
+The others didn't think much of Russell's idea either.
 
-"It's not the first instance of anti-social behaviour," objected Stacy. "A woman was raped in the Capital last week."
+"It's stupid," Stacy said. "You can't just fix all our problems with an app."
 
-"What? And you led with the goats?" asked Vincent, suddenly serious.
+"It's not just an app!" Russell objected. "It's on the blockchain!"
 
-"The goats were more recent. Anyway, the point is, what are we going to do about it?"
+"You can't just fix all our problems with the blockchain."
 
-The light-hearted conversation descended into into squabble. Fundamentally, they all agreed that rapists and goat-rustlers deserved to be hanged. Their opinions differed, however, on the methods of determining the guilt and administering the punishment.
+"At least hear me out!"
 
-Vincent put forth his preferred option - vigilante lynch mobs - and sat back, detached, as the other two ignored his suggestion and bickered over the merits of various state apparatuses.
+Stacy and Vincent looked at each other and sighed.
 
-"This is going to sound a bit crazy," started Stacy, "but hear me out: Queen Stacy."
+"Okay," said Vincent. "Let's hear it."
 
-Russell choked on his drink. Stacy politely waited for him to stop coughing, before continuing. "I'm basically queen already. Everyone moved here because of me. If I told them to go hang someone, they'd do it. You know it."
+Russell launched into his explanation. A direct democracy, where everything was decided on the blockchain. Legislation? Blockchain. Elections? Blockchain. Constitutional amendments? Blockchain.
 
-"What's to stop you," asked Russell, "from getting them to hang an innocent person?"
+"Sounds really dumb," Vincent said.
 
-"I'll use my powers wisely," smiled Stacy. "With great power, comes-"
+"I agree," added Stacy. "Aggregating human stupidity on the blockchain doesn't make people smarter."
 
-"Shut up." Russell was visibly outraged. "Monarchies are discredited. They have been for centuries. Have you never heard of the enlightenment?"
+"People are smart!" said Russell. "And I'm not done. We'll also have universal basic income."
 
-Stacy rolled her eyes. "We didn't come out here to escape a monarchy," she pointed out. "Not a functional one, at least. King Charles never set a speed limit."
+The other two burst out laughing.
 
-Russell turned to Vincent. "Can you tell her?" he pleaded.
+"Paying people just for being alive," Vincent snickered. "That's too funny."
 
-"A monarchy is a tyranny where you're ruled by one person," responded Vincent. "A democracy is a tyranny where you're ruled by the entire population. Which is worse?.
+"Could the bar be any lower?" Stacy asked.
 
-Russell sighed. That wasn't the response he'd been hoping for.
+"I guess you could pay people for being dead," Vincent said.
 
-"If Stacy turns out to be a bad queen," Vincent continued, "the peasants can just revolt and behead her. But what if fifty one percent of the voters turn out to be bad at voting? Good luck beheading them all! There aren't enough guillotines in the world."
+Russell glowered. He'd show them.
 
-Russell turned back to Stacy. "Does that sound appealing? Do a bad job and get beheaded in a peasant revolt?"
+"I have a better idea," Stacy said. "You ready?"
 
-Stacy shrugged. "Seems unlikely," she responded. "I'll do a great job."
+"Let's hear it," Vincent said.
 
-Russell wasn't convinced. "We didn't come here to escape a democracy either. We escaped a corrupt oligarchy run by billionaires. The principle of democracy is fine, Australia just didn't do it right. We can make a proper direct democracy on the blockchain. One person, one vote, cryptographically verified."
+"Queen Stacy."
 
-"You want to know what a direct democracy looks like?" Vincent asked.
+Now it was Russell's turn to laugh. 
 
-"What?"
+"A monarchy?" he asked. "Are you serious?"
 
-"Vigilante lynch mobs. Fully democratic judge, jury, and executioner. Power to the people, baby!" Vincent grinned, followed by an "ow!" as Russell punched his arm.
+Stacy nodded. "It'll be easy. I'll solve all our problems in like, ten minutes. Stealing? Illegal. Fighting? Illegal. Not having kids or being aligned with Steve? Illegal. All crimes punishable by hanging."
 
-"That's not what I'm suggesting," Russell grumbled.
+"Monarchies are discredited," Russell objected. "The kings all kept inbreeding and getting syphillis."
 
-"That's right, Vincent! He's suggesting vigilante lynch mobs on the blockchain." piped in Stacy.
+"Queen," Stacy corrected him. "I'm basically queen already. Everyone moved here because of me. If I told them to go hang someone, they'd do it. You know it.
 
-"'Democracy is the worst form of government, except for all of the others that have been tried,'" quoted Russell.
+Russell turned to Vincent. "Can you tell her?" he asked.
 
-"Democracy is the most degenerate form of government, out of all the ones that have been tried," corrected Vincent. "I mean that literally. Democracies are the result of human organization meeting the second law of thermodynamics. Don't confuse entropy for progress."
+Vincent shrugged. "It's better than your idea," he said. "If she does a bad job, the peasants can just behead her."
 
-"Anarchy is so degenerate that even ants have evolved beyond it," shot back Russell.
+"How does that sound?" Russell asked Stacy. "Getting beheaded in a peasant revolt?"
 
-In the end, they couldn't agree. A compromise was struck. The Commonwealth of New Sealand would be split into three separate entities - The Theocratic Dominion, the People's Republic, and the Anarchy. Time would be the judge of their success.
+"Unlikely," Stacy replied. "I'll do a great job."
+
+"You can't seriously be on board with this," Russell said to Vincent.
+
+"I'm not. I just said that it's better than your idea. Stacy's proposing a tyranny with one ruler. You're proposing a tyranny where you're ruled by the entire population. If _that_ goes wrong...well, there aren't enough guillotines in the world."
+
+"Well, what do you suggest then?" Russell asked, annoyed.
+
+Vincent smiled. "No government," he said. "Everyone gets guns. Rules are enforced by vigilante lynch mobs."
+
+Russell and Stacy raised their eyebrows.
+
+In the end, they couldn't agree. A compromise was struck. The Commonwealth of New Sealand would be split into three separate entities - Russell's People's Republic, Stacy's Theocratic Dominion, Vincent's Anarchy. Time would be the judge of their success.

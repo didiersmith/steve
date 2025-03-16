@@ -6,7 +6,7 @@ Murdoch was in a good mood. The sun was shining. The monkeybot team had cleared 
 
 He sat back and watched as Vincent processed his thought.
 
-Vincent was the ultimate embodiment of his individualist innovator meme. Murdoch was pretty sure he was a direct descendant of the guy he'd convinced to evict his kid, so many centuries ago. He wondered how old Vincent had been when he had been kicked out of his parents' house. Probably twelve.
+Vincent was the ultimate embodiment of his individualist innovator meme. Murdoch was pretty sure he was a direct descendant of the islander he'd convinced to evict his kid, so many centuries ago. He wondered how old Vincent had been when he had been kicked out of his parents' house. Probably twelve.
 
 The ape picked up his phone and spoke into it. "I need a selective laser sintering head," he said.
 

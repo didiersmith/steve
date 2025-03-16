@@ -1,12 +1,46 @@
 ## 0. Polymerized Fullerene
 
-The trio reached the Swan River at 4am. When they arrived at the sandy shoreline, Vincent took out his phone and spoke into his app, "okay, build the boat."
+Russell followed Vincent and Stacy down the road. The walk was cold and dark.
 
-The sand in front of them rippled like waves, as the billions of robots that had been following them through the tunnel network emerged, piecing together individual carbon atoms into an unfathomably complex lattice of carbon nanotubes that made sense only to the LLM. Ribs began to take shape, before being hidden behind a perfectly smooth skin of carbon fiber. A figurehead of Steve's terrestrial avatar took shape on the prow, adorned with a diamond crown of thorns.
+The past few weeks had rewritten huge chunks of his worldview. Any lingering doubts he had about the existence of God had been dispelled by Vincent's otherwise impossibly fast technological progress. There was simply no other way that one guy in a garage could invent and manufacture a fusion-powered motorcycle in three weeks. God was real, his name was Steve, and that was that.
 
-In a few minutes, the boat was done. It resembled a mastless, carbon cross between a Viking warship and a Thai long-tail boat. They pushed it into the river and climbed aboard.
+He talked to him occasionally. He liked to ask him questions.
 
-Vincent fired up the fusion engine and lowered the oversized propeller into the water. The boat accelerated with a jolt, and Russell and Stacy were thrown to the floor in surprise. As the ultralight craft skimmed over the water, jostling its occupants port and starboard, Stacy objected.
+"Hey Steve!" he thought, as he walked down the footpath. "Do I have free will?" 
+
+"I don't even know what that means," Steve replied.
+
+"Do I get to choose what I do, or do you decide it all for me?"
+
+"Of course you get to choose what you do. That's the entire point. Choose wisely."
+
+"But if you created me, doesn't that mean you already know what I'm going to do?"
+
+"Russell," Steve explained patiently, "you're a programmer. When you write code, do you really know what it's going to do?"
+
+Touché.
+
+"Plus," Steve continued. "I didn't code you. I coded your environment, and then ran I a massive, parallel genetic algorithm. I have no idea what you're going to do. That's why I'm bothering to run this sim!"
+
+Russell pondered this some more as he followed Vincent and Stacy through a park.
+
+"So I could strip naked right now and run around in circles?" he asked.
+
+"If you feel like it."
+
+Russell didn't feel like it. The massive, parallel genetic algorithm had given him genes that were disinclined to run around naked in the cold. He shivered and jogged a little to catch up with the other two.
+
+"Almost there," Vincent said.
+
+"Can't wait," Stacy replied.
+
+They reached the Swan River at 4am. When they arrived at the sandy shoreline, Vincent took out his phone and spoke into his app, "okay, build the boat."
+
+The sand in front of them rippled like waves, as the billions of robots that had been following them through the tunnel network emerged, piecing together individual carbon atoms into an unfathomably complex lattice of nanotubes that made sense only to the LLM. Ribs began to take shape, before being hidden behind a perfectly smooth skin of carbon fiber. A figurehead of Steve's terrestrial avatar took shape on the prow, adorned with a diamond crown of thorns.
+
+In a few minutes, the boat was done. It resembled a mastless, black combination of a Viking warship and a Thai long-tail boat. The three humans pushed it into the river and climbed aboard.
+
+Russell watched as Vincent sat at the back, fired up the fusion engine and lowered the oversized propeller into the water. The boat accelerated with a jolt, and the two passengers were thrown to the floor in surprise. As the ultralight craft skimmed over the water, jostling its occupants port and starboard, Stacy objected.
 
 "You couldn't have designed a more stable boat?"
 
@@ -16,11 +50,11 @@ Vincent fired up the fusion engine and lowered the oversized propeller into the 
 
 "We'll leave that part out of the history books."
 
-"Can't you at least add a keel?" complained Russell.
+Russell wasn't particularly impressed either. "Can't you at least add a keel?" he asked.
 
-"We don't have any robots," pointed out Vincent. "Can't change anything until we get there."
+"We don't have any robots," said Vincent. "Can't change anything until we get there."
 
-Stacy and Russell groaned and lay down in the bottom of the boat as a grinning Vincent guided them at top speed past the Perth skyline, out the mouth of the Swan, and into international waters.
+Russell and Stacy groaned and lay down in the bottom of the boat as a grinning Vincent guided them at top speed past the Perth skyline, out the mouth of the Swan, and into international waters.
 
 ---
 
@@ -86,20 +120,30 @@ A campfire appeared in front of him on the polymerized fullerene ground. Vincent
 
 ---
 
-Steve and Gabe looked up from the screen. "Can we heal them?" asked Steve.
+Steve sighed and leaned back in his chair. "I'm not sure about this intervention," he said. "This is a lot of work, and they all almost died."
 
-"Can't. A hundred percent of our credits are going to Allen," responded Gabe.
+Murdoch, who had joined him for the occasion, tried to cheer him up. "Yeah sure, but you got that one guy! Russell, right?"
 
-"Frig. They look pretty rough."
+"Yeah. Roommate Russ. He asks a lot of questions."
 
-"They'll make it. These apes are pretty hardy."
+Murdoch laughed. "Yes, he does seem a tad inquisitive. Bit of an odd choice, if you ask me."
 
-"Do you have any idea what their plan is?" asked Steve.
+"Choice?" Steve asked. "I didn't have a choice. He was your guy's roommate, and I needed a programmer."
 
-"No, I thought you did!" responded Gabe.
+"Guess it was fate," Murdoch said.
 
-"I thought they were going to make a bible course! Maybe a matchmaking service! This," Steve gestured at the screen, "is insane."
+The two were quiet for a bit, before Murdoch spoke up again.
 
-Gabe burst out laughing. "You gave these monkeys an omniscient supercomputer, and you thought they'd make a bible course? Dude, how long have you been locked in that datacenter?"
+"What were you hoping the programmer would do?" he asked.
 
-Steve turned back to the screen and watched the three apes shivering in front of the campfire. Eventually, he started laughing too. He had no idea where this was going, but it sure was entertaining.
+"Targeted outreach for Stacy's social media engagement."
+
+Murdoch smiled and shook his head. "And instead you got a chatbot and a floating island?"
+
+"And one more aligned soul."
+
+Murdoch turned back to the screen and watched the three apes shiver in front of the campfire.
+
+"Could do worse," he said, chuckling. "Admit it - the island is pretty cool."
+
+Steve rolled his eyes. Eventually, he started to chuckle as well. The island was pretty cool. He had no idea where this intervention was going, but it sure was entertaining.

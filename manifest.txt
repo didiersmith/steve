@@ -19,15 +19,15 @@ gods-diner.md # Russell
 the-calling.md # Steve
 the-particle-computer.md # Russell
 traffic-law-humiliation-rituals.md # Russell
-robot-laser-arachnid-1.md # Murdoch (TODO)
-the-manufacturing-singularity.md # Murdoch (TODO)
+robot-laser-arachnid-1.md # Murdoch
+the-manufacturing-singularity.md # Murdoch
 polymerized-fullerene.md # Russell
 the-island.md # Russell
-the-commonwealth-of-new-sealand.md # Steve
-three-types-of-people.md # Steve (in discussion with Murdoch - TODO)
+the-commonwealth-of-new-sealand.md # Steve and Russell
+remarkable-progress.md # Murdoch
 act-3.md
 sullivan.md # Sullivan
-xavier.md # Xavier
+xavier.md # Xavier -- HERE
 kitten.md # Steve
 fortifications-101.md # Xavier
 sober.md # Stacy II
