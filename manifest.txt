@@ -27,14 +27,16 @@ the-commonwealth-of-new-sealand.md # Steve and Russell
 remarkable-progress.md # Murdoch
 act-3.md
 sullivan.md # Sullivan
-xavier.md # Xavier -- HERE
-kitten.md # Steve
-fortifications-101.md # Xavier
-sober.md # Stacy II
-trials-and-interrogations.md # Sullivan
+xavier.md # Xavier
+stacy-ii.md # Steve, Stacy II
+the-last-stand.md # Russell
+regal.md # Stacy II
+the-national-razor.md # Sullivan and Steve
+terrible-tig-welding.md # Sullivan, Russell, Steve
+# YOU ARE HERE
 the-new-australia-penal-colony.md # Stacy II
 the-terrarium.md # Murdoch and Xavier
-the-diner-redux.md # Steve
+the-diner-redux.md # Steve - perhaps he's annoyed at Stacy for dying because he didn't want her specifically to die, just other people in the TD
 the-refusegee-crisis.md # Sullivan
 human-rights.md # Stacy II
 stats-with-steve.md # Steve

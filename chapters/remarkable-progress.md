@@ -110,7 +110,7 @@ Murdoch sighed. "It's just a stupid competition, Maurice. You have to remember t
 
 "It's the principle of it!"
 
-"Goddamn it, Maurice, will you drop it?" Murdoch snapped. "Forget the competition! These monkeys are our ticket out of here. Can't you see that?"
+"Goddamn it, Maurice, will you drop it?" Murdoch snapped. "Forget the competition! These monkeys are our ticket off of Elba. Can't you see that?"
 
 Allen's eyes narrowed and he examined Murdoch's face. "You know!" he said. "Steve's cheating and you know about it!"
 
@@ -120,4 +120,6 @@ Allen scowled and stomped to the door.
 
 "Mark my words," he said. "I will destroy Steve's stupid meme and his ridiculous islands. New Sealand is done." He walked out and slammed the door.
 
-Murdoch made a mental note to get Steve to speed up time in StevieNix. They had to get cracking.
+Murdoch stared at the door for a while as Allen's footsteps receded down the hallway. What confusing behaviour.
+
+He shrugged and turned back to the screen. He made a mental note to get Steve to speed up StevieNix time. He wanted a new generation of players - this one was getting boring.
