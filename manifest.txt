@@ -33,17 +33,16 @@ the-last-stand.md # Russell
 regal.md # Stacy II
 the-national-razor.md # Sullivan and Steve
 terrible-tig-welding.md # Sullivan, Russell, Steve
-# YOU ARE HERE
 the-new-australia-penal-colony.md # Stacy II
 the-terrarium.md # Murdoch and Xavier
-the-diner-redux.md # Steve - perhaps he's annoyed at Stacy for dying because he didn't want her specifically to die, just other people in the TD
 the-refusegee-crisis.md # Sullivan
+folgers-in-your-cup.md # Steve
 human-rights.md # Stacy II
-stats-with-steve.md # Steve
 the-weapons-development-program.md # Xavier
-monkeybot.md # Russell
 old-testament-diplomacy.md # Stacy II
 speed-surprise-and-violence-of-action.md # Xavier
+# YOU ARE HERE
+monkeybot.md # Russell
 farmer-jack.md # Steve
 the-juice-to-squeeze-ratio.md # Stacy II
 the-orbital-ring.md # Murdoch and Xavier
@@ -79,6 +78,6 @@ mum.md # Russell
 on-the-shelf-life-of-vitamins-in-space.md # Murdoch
 the-corp-conundrum.md # Xavier
 convenient-timing.md # Steve
-stacy-the-second.md # Stacy II
+queen-stacy-the-second.md # Stacy II
 in-the-flesh.md # Sullivan
 end.md

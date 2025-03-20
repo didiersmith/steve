@@ -1,5 +1,7 @@
 ## 0. Monkeybot
 
+# TODO rewrite as Russell. Make sure TV is introduced in folgers.
+
 Vincent awoke in the diner, next to Russell and across from Stacy.
 
 "What happened?" he asked.

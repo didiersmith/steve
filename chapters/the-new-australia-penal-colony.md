@@ -1,14 +1,14 @@
 ## 0. The New Australia Penal Colony
 
-Both Filbert and Xavier had been right. The warships didn't bother them as they flew overhead, and the wakes of the ships clearly showed them closing in on The Dominion. The island would shortly be overrun.
+It was a long journey to New Australia. The penal colony had been deliberately placed a very long distance from anywhere. Anywhere except Antarctica, that was. Stacy II was freezing.
 
-It was a long flight to New Australia. The air got noticeably colder as they flew south. Stacy II shivered and was grateful to be sandwiched between the somewhat warm bodies of Filbert and Cosmo. Still, when they finally arrived and landed beside a small lake, her lips were blue and her hands were numb. She stumbled to the shore, sat down, huddled her knees to her chest, and blew on her hands to try to warm them up.
+After days of travel, they finally arrived. Filbert steered the boat up the mouth of an estuary and ran the boat ashore on a sandy embankment.
 
-Cosmo waddled to the shoreline and drank greedily. "I've gotta pee," announced Filbert and strode into the bush.
+"I've gotta pee," he announced, and wandered off into the bush.
 
-Stacy II was beginning to regret her decision to fly directly to New Australia. It would have been much smarter to stop by the Anarchy first and re-supply. Get some warmer clothes. Perhaps hire more useful assistance than Filbert.
+Stacy II clambered off the boat. Not a very ladylike descent. She was glad that no one was around to witness it. She was beginning to regret her haste in departing for the penal colony - it would have been much smarter to spend a bit more time in the Anarchy and re-supply. Get some warmer clothes. Perhaps hire more useful assistance than Filbert.
 
-"Hello hello hello! What have we here?" rang out a deep voice. "Untended human capital, just hanging out by the watering hole?"
+"Hello hello hello! What have we here?" rang out a deep voice. "Untended human capital, just hanging out by the river?"
 
 Stacy II turned and saw two figures stride out of the bush. An older man, somewhere between his thirties and his fifties - it was hard to tell from his scarred, weatherbeaten face - and a scrawny young teenager, who looked to be around fourteen. Both were clad in animal furs and holding spears.
 
@@ -16,7 +16,7 @@ Stacy II turned and saw two figures stride out of the bush. An older man, somewh
 
 "Heh. Yes boss, seems like an, er, prime investment opportunity," responded the kid.
 
-Stacy II looked around for her railgun. She'd left it where they'd landed, several meters away. Without hesitating, she leapt to her feet and started sprinting towards the gun.
+Stacy II looked around for her railgun. She'd left it next to the boat, several meters away. Without hesitating, she leapt to her feet and started sprinting towards the gun.
 
 The man roared and charged. He tackled her well before she reached the gun. He pinned her on the ground by her throat and tore at her clothing with his other hand.
 
@@ -32,13 +32,13 @@ Finally, she wriggled free and stood up. Her clothes were saturated with blood a
 
 "Just saying, you're lucky I didn't blow your leg off."
 
-Stacy II grumbled. In a way, Filbert was right - but how was she supposed to have known that he'd suddenly become useful?
+Stacy II grumbled. In a way, Filbert was right - but so was she. Flailing had been a reasonable choice. How was she supposed to have known that he'd suddenly become useful?
 
 "You should wash yourself off," Filbert advised. "You don't know where that guy's been."
 
-He was right again. The man's blood was probably infested with criminal monkeypox AIDS. She waded into the freezing lake and did her best to clean the blood off. She emerged shortly thereafter, teeth chattering and chilled to the bone.
+He was right again. The man's blood was probably infested with disease. AIDS, perhaps. She waded into the freezing river and did her best to clean the blood off. She emerged shortly thereafter, teeth chattering and chilled to the bone.
 
-"I'm going to freeze to death," she announced.
+"I'm going to freeze to death," she said.
 
 "Take the dead guy's clothes," Filbert suggested, still not taking his eyes or railgun off the kid.
 
@@ -46,13 +46,9 @@ He was right again. The man's blood was probably infested with criminal monkeypo
 
 Filbert thought for a second before coming up with a solution. "Hey kid! Take off your clothes and throw them here. You can wear the AIDS clothes."
 
-The kid complied. In short order, the corpse was naked, the terrified kid was sitting next to it in the man's blood-soaked furs, and Stacy II was holding his clothes. Cosmo had rejoined the group, and was sniffing the carcass excitedly.
+The kid complied. In short order, the corpse was naked, the terrified kid was sitting next to it in the man's blood-soaked furs, and Stacy II had obtained kid's furs. Shaking, she moved behind Filbert to change into the warm furs. She guessed they had once belonged to a bear.
 
-"Go on, Cosmo," said Stacy II.
-
-The dinosaur wagged his tail and began devouring the dead body, ripping huge chunks from it with his enormous beak and talons.
-
-The kid averted his eyes, and Stacy II moved behind Filbert to change. The furs were warm. She guessed it had once belonged to a bear. She folded her old, soaking wet clothes, picked up her railgun, and addressed the shaking youngster.
+Once she was done, she picked up her railgun and addressed the kid.
 
 "What's your name?" she asked.
 
@@ -78,25 +74,21 @@ Stacy II couldn't help but laugh. "Do you like being called Baldy?" she asked.
 
 "Yes, Your Royal Highness."
 
-"And you understand what Cosmo does?" she asked, nodding her head at the ketzel, who had finished his meal and was happily cleaning his beak on the shore.
-
-"Yes, Your Royal Highness."
-
 "Good. So you know what happens if you try to touch me, or run away, or disobey any of my orders?"
 
 "Yes, Your Royal Highness."
 
 "Excellent. Now, tell us how things work in this godforsaken dump."
 
-Archibald was not a sociologist. Describing how one's society functions would be a difficult task for any fourteen-year-old, let alone one who'd never received a formal education. Still, over the next hour, Stacy II and Filbert were able to get a fairly decent picture: New Australia was the pits of hell.
+Archibald was not a sociologist. Describing how one's society functions would be a difficult task for any fourteen-year-old, let alone one who'd never received a formal education. Still, over the next hour, Stacy II was able to get a fairly decent picture: New Australia was the pits of hell.
 
-When Stacy and Vincent had designed the island, they had not endowed it with a wealth of natural resources. The island had fresh water, dirt, trees, and animals. There were no minerals - not even the rocks necessary to enter the stone age. Filbert jokingly called it the "bone age," which was accurate - all tools were fashioned out of wood and bone.
+When her mother and Vincent had designed the island twenty years ago, they had not endowed it with a wealth of natural resources. The island had fresh water, dirt, trees, and animals. There were no minerals - not even the rocks necessary to enter the stone age. Filbert jokingly called it the "bone age," which was accurate - all tools were fashioned out of wood and bone.
 
-The only other resource was human beings, to whom Archibald unironically referred as "human capital." The most valuable human capital was reproductive-aged women. The criminal population of the Theocratic Dominion had a lopsided sex ratio of twenty males to every female, so that ratio was naturally inherited in the convict population of New Australia. Babies were, of course, born in a 50:50 sex ratio, but by the time the native-born girls had reached reproductive age, a culture had already formed. The culture made Stacy II want to execute every male in the colony.
+The only other resource was human beings, to whom Archibald unironically referred as "human capital." The most valuable human capital was reproductive-aged women. The criminal population of the Theocratic Dominion had had a lopsided sex ratio of twenty males to every female, so that ratio was naturally inherited in the convict population of New Australia. Babies were, of course, born in a 50:50 sex ratio, but by the time the native-born girls had reached reproductive age, a culture had already formed. The culture made Stacy II want to execute every male in the colony.
 
 Archibald described his mother's life as an illustrative example. She had been transported in her early twenties for the crime of attempting to smuggle phthalate-containing beauty products to the Dominion. She had been captured immediately upon exiting the hyperloop station, and forced to marry some brute. He had been killed by his brother, who took over the marriage. The brother was subsequently beaten and exiled by another challenger, so she changed hands again, and so on and so forth until the present day. Archibald wasn't sure who his father was. He was the eldest of six half siblings.
 
-His current stepfather was some tyrant who had rented Archibald out to his now-devoured boss. An "apprennership", he'd called it. As Archibald's mother was now leaving her reproductive years and his twelve-year-old sister was entering hers, his stepfather intended to convert his mother to public property and his sister to his new wife. An elaborate ceremony had been planned.
+His current stepfather was some tyrant who had rented Archibald out to the man Filbert had just killed. An "apprennership," he'd called it. As Archibald's mother was now leaving her reproductive years and his twelve-year-old sister was entering hers, his stepfather intended to convert his mother to public property and his sister to his new wife. An elaborate ceremony had been planned.
 
 "'Public property?'" asked Stacy II.
 
@@ -114,7 +106,7 @@ Filbert's ears pricked at the word 'vote' and asked for elaboration. As Archibal
 
 "Sounds like this sort of thing happens every day," Filbert responded.
 
-"You're not planning on causing any trouble, are you?" Archibald asked, suspiciously eyeing Cosmo. "You may not like it, but it's a system. It's law and order. Without it, we'd be savages. Hobbesian state of nature and all."
+"You're not planning on causing any trouble, are you?" Archibald asked. "You may not like it, but it's a system. It's law and order. Without it, we'd be savages. Hobbesian state of nature and all."
 
 Filbert laughed. "This is the Hobbesian state of nature, you dolt! Nasty, brutish, short, the lot of it!"
 

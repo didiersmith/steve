@@ -1,20 +1,16 @@
 ## 0. The Weapons Development Program
 
-Xavier's Terrarium worked fantastically well. Mechanically, it was quite a simple device, consisting of a cabin, six huge vacuum balloons, a swim bladder, and a set of fusion engines. Not a lot to go wrong. The more complicated aspect was the biological balance inside the cabin. It operated as a closed system, with self-contained carbon, water, and nutrient cycles. On the island's maiden flight, there was a small but noticeable deficit of food. This was easily rectified with periodic dockings at market towns. Xavier was confident that balance would be achieved when the fruit trees matured.
+Xavier was in a good mood. His dad was visiting.
 
-Although the Terrarium was able to fly all the way up into the stratosphere, Xavier preferred to keep the altitude low. Born and raised in the Anarchy, he felt most at home when he could still see its familiar white beaches and conglomerations of hexagonal islands. He loved flying over the vast rainforests of Jurassic Park, scanning the landscape for prototype dinosaur species that hadn't yet achieved commercial success. His crew, too, preferred to stay within a short ketzel hop from civilization. He mostly kept the airlocks open, and the altitude to a couple hundred meters. Visitors regularly came and went, marvelling at the wonder of the flying island, and frequently asking Xavier for their own.
+The Terrarium worked fantastically well. Mechanically, it was quite a simple device, consisting of a cabin, six huge vacuum balloons, a swim bladder, and a set of fusion engines. Not a lot to go wrong. most more complicated aspect was the biological balance inside the cabin - it operated as a closed system, with self-contained carbon, water, and nutrient cycles. It included fruit trees, hydroponic vegetables, and chickens. He was very proud to show it off.
 
-The stratosphere was, in comparison, extremely boring. He would close the airlocks and climb up there only in times of inclement weather. From twenty kilometers above the Earth's surface, the inhabitants could watch through portholes in the floor as the storms unfolded beneath them. Xavier hoped that the stratosphere would become more interesting once it was colonized. He and his crew started building a second island, attached to their rearmost airlock. His dad came aboard to watch the construction unfold.
+"Everyone and their grandmother wants a flying island," Xavier proudly told his dad. "How did you pick who to build yours for? Should I start to request pitch decks?"
 
-"Who's it for?" Vincent asked, curiously.
-
-"Not sure yet," Xavier responded. "Everybody and their runner wants a flying island. How did you pick who to build yours for?"
-
-Vincent shrugged. "Mostly I went on vibes."
+Vincent laughed. "I always hated the pitch decks," he said. "Mostly I went on vibes."
 
 "Thanks, dad. You're a great help."
 
-Vincent laughed, and looked out through the transparent carbon wall at the horizon. They were flying over a sparsely populated region on the edge of the Anarchy, and only a few isolated homesteads were visible among the gentle waves. "I'm sure you'll figure it out," he replied. "You're a smart kid."
+Vincent chuckled a bit more and looked out through the transparent carbon wall at the horizon. They were flying over a sparsely populated region on the edge of the Anarchy, and only a few isolated homesteads were visible among the gentle waves. "I'm sure you'll figure it out," he replied. "You're a smart kid."
 
 "Hey, what's that?" Xavier asked, pointing at a speck on the horizon. He brought up his map on his phone. "I thought it was empty out there."
 
@@ -30,7 +26,7 @@ As the Terrarium drew closer to the speck, it became clear that the spec wasn't 
 
 Vincent laughed. "Classic! I haven't seen one of those in years. Terrible choice for a seafaring vessel. Ask me how I know."
 
-"Shall we say hi?" Xavier asked instead.
+"Shall we say hi?" Xavier asked.
 
 "Sure! We can ask them what museum they dug it out of. Bet they're puking their guts out."
 
@@ -82,7 +78,9 @@ Xavier looked back at his father, who shook his head.
 
 "Sure," Xavier responded. "Happy to have you on board."
 
-"Get rid of them," Vincent advised. "Statists are bad news."
+---
+
+Shortly thereafter, Vincent took Xavier aside. "Get rid of them," he advised. "Statists are bad news."
 
 "I can't!" Xavier objected. "Firstly, their boat's drifted off. But more importantly, that's no way to treat anyone! They're just normal people like us, dad!"
 
@@ -106,7 +104,7 @@ Xavier ignored his dad and invited the refugees to dinner. They told him about t
 
 "They're cast into the foundations of the island," responded the pudgy man with the nasal voice. "We don't have anything that can cut the fullerene."
 
-Xavier marveled. Fullerene cutters were as common in the Anarchy as shovels in the Old World. "So you don't have any nanoscale tech at all?"
+Xavier marveled at their primitive technology. Fullerene cutters were as common in the Anarchy as shovels in the Old World. "So you don't have any nanoscale tech at all?"
 
 The man shook his head. "Not since the event."
 
@@ -118,23 +116,21 @@ He was awoken two hours later by the sounds of screaming and gunfire. He rushed 
 
 "Don't shoot that in here!" Xavier yelled, pointing at the railgun. "If you hit a wall, the whole Terrarium will blow apart!"
 
-"You didn't design the glass to be bulletproof?" Vincent asked, shocked.
+"You didn't design the glass to be bulletproof?" Vincent asked.
 
-"Obviously it's bulletproof," Xavier responded, annoyed, "it's just not one-atom-thick diamond projectile-proof! We'd never be able to take off with that kind of constraint."
+"Obviously it's bulletproof, it's just not one-atom-thick diamond projectile-proof! We'd never be able to take off with that kind of constraint."
 
-Vincent roared and threw his railgun against the wall. "Then build it with small independent panels so the loss of one doesn't compromise the integrity of the entire structure! You're telling me that this entire cabin is one big single point of failure? Have I taught you nothing?"
+Vincent roared and threw his railgun against the wall. "Then build it with lots of small independent panels! You're telling me that this entire cabin is one big single point of failure? Have I taught you nothing?"
 
 "It's a proof of concept! I didn't expect you to come in, guns blazing, turning the whole place into the Wild West!"
 
-"I'm not the one who-" Vincent stopped himself. The kid had learned his lesson already. "Come on," he said. Retrieving his railgun, he pushed open the front door and strode out into the dark.
+"I'm not the one who-" Vincent stopped himself. "Come on," he said. Retrieving his railgun, he pushed open the front door and strode out into the dark.
 
 It was bedlam. Unarmed and unable to return fire, Xavier's crew was running around in search of cover, as tracer rounds streaked overhead and ricocheted off the walls of the Terrarium.
 
 "Fall back!" Xavier yelled. "To the lab!"
 
 Most of his crew made it to the laboratory alive. They barricaded the doors and took stock of the situation, while Vincent watched through the windows for stragglers.
-
-"They killed all the ketzels," bemoaned one of the women.
 
 "They killed my son!" wept a disconsolate mother. Her son had been six years old.
 
@@ -158,7 +154,7 @@ Vincent stepped up to a lane with his railgun and fired a single shot towards th
 
 All crewmembers who were neither wounded, nor tending to the wounded, were enlisted in history's most rapid weapons development program. The goal was to modify Vincent's railgun and projectile design to find a combination of parameters that didn't harm the glass, while still penetrating the kevlar and dealing maximum damage to the ballistic gel behind it. Laptops, goggles, and ear muffs were handed out. A deadline was set for six hours.
 
-Almost immediately after the nanoscale robots finished manufacturing the first prototype, the ground jerked under everyone's feet. Xavier stumbled and grabbed onto his desk for balance. "They must be in the wheelhouse," he theorized out loud.
+Almost immediately after the nanoscale robots finished manufacturing the first prototype, the ground jerked under everyone's feet. Xavier stumbled and grabbed onto his desk for balance. "They must be in the wheelhouse," he theorized to his dad.
 
 "I wonder where they're taking us," Vincent responded.
 
@@ -170,7 +166,7 @@ The team split into design and testing sub-teams, the designers all experimentin
 
 It was relatively easy to tell if a design dealt sufficient damage to the gel - for the most part, only a single round had to be fired. An automatic target carrier would transport the gel back to the testing team, who would assess how far the projectile had penetrated the kevlar, and whether it was able to dump its entire kinetic payload into the simulated flesh behind it.
 
-It was much harder to tell if a design was "panel-safe". It was here that the main compromise in Xavier's glass surfaced - the imperfections in the material caused by the integrated circuit. The embedded wires and transistors were tiny and far between, but they formed weak points that, if struck directly, could compromise the entire panel. It was not uncommon for a panel to take a hundred rounds without showing a single scratch, before being completely destroyed by an unluckily-placed hundred and first round.
+It was much harder to tell if a design was "panel-safe". It was here that the main compromise in Xavier's glass surfaced - the imperfections in the material caused by the integrated circuit. The embedded wires and transistors were tiny and far between, but they formed weak points that - if struck directly - could compromise the entire panel. It was not uncommon for a panel to take a hundred rounds without showing a single scratch, before being completely destroyed by an unluckily-placed hundred and first round.
 
 The panel-safety criterion was set at ten thousand rounds - ie., for a gun/projectile design to be deemed panel-safe, a panel would have to survive ten thousand rounds from the combination in question.
 
@@ -198,7 +194,7 @@ For the first time in two hours, the range was silent. Xavier took off his ear m
 
 The voice on the other end of the line changed, to one Xavier and Vincent both recognized. "Hey Xavier, it's me, Theo. They've got Gwyn as well."
 
-Theodore and Gwynyth had spent fifteen years on Vincent's crew. They had retired to a homestead a couple of years ago to spend more time with their grandchildren, before finding themselves yearning for adventure. Gwynyth was responsible for the Mediterranean-inspired flat-roofed architecture of the Terrarium's buildings. Theodore had designed the huge carbon foam blocks making up the walls, which looked and felt exactly like stone but weighed less than a kilogram each.
+Xavier's heart dropped. The intruders had hostages.
 
 "They want me to tell you that if you try to attack, they'll kill us both. I say - oof!"
 
@@ -218,7 +214,7 @@ Vincent nodded. "Probably at least one of them. But that's okay."
 
 "Son," Vincent sighed, "Theo and Gwyn are about as aligned as it's possible to be. When they die, there's no question where they're going to go. I hope to meet them there someday. Never forget who all this is for," he said, gesturing around the lab.
 
-Xavier looked at his dad with newfound appreciation. He realized, in that moment, that his dad truly believed the stories he had told him while he was growing up. The MHI-10 wasn't just some computer that he and his friends had happened across, it was a bona fide piece of divine intervention. Indisputable proof of his creator's personal involvement, hard evidence that there was more to existence than the universe itself.
+Xavier looked at his dad with newfound appreciation. He realized, in that moment, that his dad truly believed the stories he had told him while he was growing up. The MHI-10 wasn't just some computer and the voice in his head wasn't just a quirk of his internal monologue - the computer was a bona fide piece of divine intervention, and the voice was God himself. Indisputable proof of his creator's personal involvement, hard evidence that there was more to existence than the universe as he knew it.
 
 He shook himself out of his revelation and checked the map on his phone. They were almost at the PR.
 

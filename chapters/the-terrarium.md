@@ -1,6 +1,6 @@
 ## 0. The Terrarium
 
-Xavier was keen to return to his project and forget the events of the previous day. He left his dad to explain to his mom what had happened to her pet ketzel, and slipped into his hanger-sized laboratory. The ASIC was waiting patiently in its towering diamond cylinder, bathed in coolant.
+Xavier was keen to return to his project and forget the events of the previous day. He left his dad to catch his mom up on recent events, and slipped into his hangar-sized laboratory. The ASIC was waiting patiently in its towering diamond cylinder, bathed in coolant.
 
 Xavier sat down at his computer. He had a vision in his head, but no clue if it would be physically possible. He had the MHI-10 help him design an extremely powerful fusion-driven vacuum pump, which he built and attached to an igloo-shaped diamond chamber. He slipped some manufacturing robots and materials through the igloo's airlock, ran back to his computer, and re-opened his 1cm sphere design in the CAM program. He clicked "run".
 
@@ -16,7 +16,7 @@ Xavier cackled. He was going to need a bigger igloo.
 
 When his dad entered the laboratory later to check on him, he found him floating in a basket mid-air, dangling from what looked like a small, black hot-air balloon, laughing hysterically.
 
-******
+---
 
 Xavier had always found volumes difficult to picture. The rapidity with which they increased always took him by surprise.
 
@@ -38,24 +38,50 @@ Vincent looked worried. "Even so, we're operating well outside of the design env
 
 Xavier looked at his dad quizzically. "What are you talking about, dad? We both know how overspecced your islands are. What are you actually worried about?"
 
-Vincent sighed. The kid had him figured out. "Do you have the ASIC on board?"
+Vincent sighed. "Do you have the ASIC on board?"
 
 "Of course! I'm not going to leave that behind for you to mess with!"
 
-Vincent nodded. "Good."
+"Good."
 
 Xavier narrowed his eyes in suspicion. "Why?"
 
 "I haven't been able to access the MHI-10 in a few days," Vincent responded. "First time in twenty years."
 
-Xavier's eyes widened as the enormity of his newfound responsibility dawned on him. If the MHI-10 was gone, his prototype flying island now held the only nanoscale manufacturing plant in the world.
-
-"We might be in for hard times," predicted Vincent.
+Xavier's eyes slowly widened as the enormity of his newfound responsibility dawned on him. If the MHI-10 was gone, his prototype flying island now held the only nanoscale manufacturing plant in the world.
 
 "What's the computer used for, other than manufacturing?" asked Xavier.
 
-"Out here, nothing. The Anarchy's islands are fire-and-forget - once we build them, they're not our problem anymore. The Dominion's the same way - I don't think Stacy ever touched the computer. But the PR...God only knows what Russell used that thing for."
+"Out here, nothing. The Anarchy's islands are fire-and-forget - once we build them, they're not our problem anymore. The Dominion's the same way - I don't think Stacy ever touched the computer for anything other than social media outreach. But the PR...God only knows what Russell used that thing for. In fact - have you been reading the news?"
 
-For the first time, Xavier felt anxious about his impending flight. "Should I stay here?" he asked, nervously. "If something goes wrong, we could lose nanoscale manufacturing forever."
+"No," Xavier replied. "The news is boring. Should I stay here?"
 
-Vincent shook his head. "The PR's got issues on the home front and a navy on the loose. I'd put higher odds on something going wrong down here than in your flying fishbowl. Plus, with the people you've got on board, the Terrarium will be able to handle just about anything."
+"Why would you stay here?"
+
+Xavier thought the answer was obvious. "If something goes wrong with The Terrarium, humanity loses nanoscale manufacturing forever."
+
+Vincent laughed. "You really need to start reading the news. I'd put higher odds at something going wrong down here."
+
+"Why, what's happening here?"
+
+Vincent shook his head. "Problems in the PR. Big problems. The kind of problems that you would do well to fly away from."
+
+"Great."
+
+"Don't worry," Vincent said. "With the people you've got on board, the Terrarium will be able to handle just about anything."
+
+---
+
+Murdoch leaned back and fished a cigarette out of its packet. It was the last one - he'd have to run down to the shop and get more. He cursed FEDSEC for banning delivery of tobacco products. One of the many injustices to which he'd been subjected in the last hundred thousand years.
+
+It would all be over soon - he had a good feeling about this player. For the first time in countless millenia, he had a viable path to escape.
+
+He lit the cigarette and took a long drag, filling his lungs with sweet, sweet nicotine.
+
+It had been almost sixty thousand years since his previous escape attempt. He could barely remember the details. In fact, he could barely remember most of his life at all - one of the weird side effects of an artificially extended life was that it didn't come with an artificially extended memory. Mostly, his time on Elba was a blur. His childhood and early adulthood were much crisper. Blissful times. Ambitious times.
+
+He remembered the calibration, though. After his last escape attempt, they'd calibrated him for six hundred years. He still had the scars.
+
+Not this time. In fact, never again. Whatever his plan was last time, this one was surely better. These islanders were something else.
+
+He picked up his keys and whistled as he strolled to the corner store for more cigarettes.

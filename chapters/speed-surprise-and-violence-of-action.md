@@ -4,45 +4,43 @@ The gunfire started the moment they opened the door. No tracer rounds this time 
 
 "Back!" yelled Xavier, and slammed the door shut again. A hail of bullets momentarily hammered the door. Silence followed.
 
-Xavier looked around at his crew. He had twenty men, disorganized, armed to the teeth, and dressed in hastily fabricated kevlar suits. Women, children and wounded totaled thirty, who would be staying in the lab - every woman had also been issued a carbine, with express instructions not to use it unless the statists breached the walls. The ASIC had been rigged to blow, triggered by a dual dead-man's-switch, attached to him and his father. If both of them died, a grenade resting on top of the open diamond cylinder would explode, damaging the ASIC beyond repair.
-
-For the first time that night, Xavier considered strategy. He had naively expected all twelve of the enemy combatants to be concentrated in the wheelhouse. Unfortunately, they were nowhere near that stupid. Instead, the statist forces had evidently surrounded the lab.
+Xavier looked around at his crew. He had twenty men, disorganized, armed to the teeth, and dressed in hastily fabricated kevlar suits. Women, children and wounded totaled thirty, who would be staying in the lab, with instructions to destroy the ASIC if the statists breached the walls.
 
 Xavier mapped the situation out in his mind. The lab, like most buildings in the Terrarium, was built along one edge of the cabin's six glass walls. The outwards-facing wall didn't exist - the lab was simply fused with the wall of the cabin. Each of the remaining three walls contained a single door. Assuming the statists had assigned three of their twelve men to hold the wheelhouse, that left three to cover each laboratory door. 
 
-They were penned in.
-
-Penned in, by four groups of three. Xavier split his men into five groups of four. With any luck, their numerical superiority, advanced weaponry and home-turf advantage would be enough to balance out their lack of experience and training. Assuming, of course, they could get out of the damn lab. Xavier considered exiting through the roof. Risky move - there could be enemies on the roof. A better plan would be to exit through the floor. 
+Okay, he thought. They were penned in, by four groups of three. Xavier split his men into five groups of four. With any luck, their numerical superiority, advanced weaponry and home-turf advantage would be enough to balance out their lack of experience and training. Assuming, of course, they could get out of the damn lab. Xavier considered exiting through the roof. Risky move - there could be enemies on the roof. A better plan would be to exit through the floor. 
 
 He brought the CAD drawing of the Terrarium up on his laptop, and had his men gather round.
 
-"The obvious hideouts to cover the three doors are this stable, and these two townhouses," he said, pointing out the buildings in question.
+"Their most likely hideouts are this stable, and these two townhouses," he said, pointing out the buildings in question.
 
-"They could also be on the second floor of this townhouse behind the stable," his dad pointed out. "And we have no way of knowing which of these townhouses they're in," he said, gesturing at the townhouses on the other side of the hexagon from the lab.
+"They could also be over here," his dad pointed out. "And we have no way of knowing which of these townhouses they're in."
 
-"We could draw their fire and look for muzzle flash," suggested one of his unit leaders.
+"Is easy solution," said Ivan - a stoic middle-aged Russian man and Xavier's first mate. "We draw fire and look for muzzle flash."
 
-Xavier nodded. "We'd need to act quickly - they probably move after each engagement."
+Xavier nodded. "We just need to make sure we don't get shot in the process."
 
-It was decided to send one unit to the wheelhouse, one to the townhouse on the left (it being a suitable location from which to attack the stable, if necessary), one to the townhouse on the right, and two to the townhouses across the Terrarium. The women would hold the lab in the unlikely event of an assault.
+"We'd also have to act quickly," his dad added. "If they're pros, they'll move after each engagement."
 
-Xavier started modifying the CAD drawing. His biggest issue now was carbon - there was only so much of it on board, and he had to get his men to five distinct targets. He settled on a tree design - from the lab, all men would crawl the ~50 meters to the center of the Terrarium. From there, three routes would branch off - one to the right, one to the far end, and one to the left. The left branch would lead to the townhouse and the wheelhouse, and the far branch would split to the second and fourth townhouse at the end.
+They decided to send one unit to the wheelhouse, and to distribute the other four units between the townhouses.
 
-This route resulted in a longer crawling distance for every individual man, but the least amount of overall track. Unfortunately, when Xavier ran the carbon calculation, he found that his supplies were still woefully inadequate to produce anything resembling a tunnel network. The best he could produce was a rope bridge - a series of suspended horizontal ladders with rungs spread a foot apart.
+Xavier started modifying the CAD drawing. His biggest issue now was carbon - there was only so much of it on board, and he had to get his men to five distinct targets. He settled on a tree design - from the lab, all men would crawl the ~50 meters to the center of the Terrarium. From there, the routes would start fanning off to their various final destinations.
 
-Every non-necessary gram of carbon in the lab was recycled. Tables, chairs, prototypes, and the firing range were dismantled, carried to a pile in the middle of the floor, and reduced to black sand by the recycling robots. The walls were shaved down to half their width, and every other roof truss was removed.
+The tree route resulted in a longer crawling distance for every individual man, but the least amount of overall track. Unfortunately, when Xavier ran the carbon calculation, he found that his supplies were still woefully inadequate to produce anything resembling a tunnel network. The best he could produce was a rope bridge - a series of suspended horizontal ladders with rungs spread a foot apart.
 
-When the lab was fully stripped and the pile appeared to have stopped growing, Xavier switched to CAM and clicked "run". The black pile of carbon began disappearing before their eyes. After a minute, a pitch-black manhole appeared in the floor, and the air was filled with the howling of the cold wind as it blew past.
+Every non-essential gram of carbon in the lab was recycled. Tables, chairs, prototypes, and the firing range were dismantled. The walls were shaved down to half their width, and every other roof truss was removed. Everything was carried to a pile in the middle of the floor, and reduced to black sand by the recycling robots. 
 
-Xavier did some final fiddling on his laptop, before slinging his carbine on his back and laying down on the floor. He groped around in the hole, and felt what he was looking for - a carbon fiber rung.
+When the lab was fully stripped, Xavier switched to CAM and clicked "run". The black pile of carbon began disappearing before their eyes. After a minute, a pitch-black manhole appeared in the floor, and the air was filled with the howling of the cold wind as it blew past.
 
-He gave it a pull and a shove. Seemed sturdy enough. Inching his body forward, he reached his other hand into the cold blackness and waved around until he found the next rung. Another pull and a shove. Also sturdy. He pulled himself, headfirst, through the hole in the floor as he reached for the next rung. After a few more rungs, he had pulled his entire body through the hole and found himself suspended beneath the Terrarium, freezing in the wind. After his eyes adjusted to the dim light cast by the moon's reflection on the ocean, he was just able to make out the carbon rungs in front of him and the faint lights of the PR in the distance. They had to move quickly.
+Xavier looked down at the black hole, then up at his crew. Ivan, his dad, the crying mother in the background. He didn't particularly want to climb through the hole into the freezing night, suspended above a thousand-foot drop to certain death in the ocean. But what choice did he have?
 
-He crawled, rung by rung, into the black and freezing night. His men followed.
+He did some final fiddling on his laptop, before slinging his carbine on his back and laying down on the floor. He groped around in the hole, and felt what he was looking for - a carbon fiber rung.
 
-As habitual ketzel riders, the men were already accustomed to communicating over the radio. Xavier's intercom was connected to two channels. His unit network consisted of himself and his three men, and the command network kept him in touch with his dad, the other three unit leaders, and the woman he'd left in command back at the lab. One by one, the men of his unit confirmed that they were through the hole. Then, the updates came less frequently as the unit leaders reported their entire groups of four were on the bridge. As more men crawled onto the suspension bridge, it wobbled with increasing amplitude. Harmonics were a tricky thing to master. Xavier clung on for dear life as he clambered bravely forwards.
+He gave it a pull and a shove. Seemed sturdy enough. Gritting his teeth, he inched his body forward, reaching his other hand into the cold blackness until he found the next rung. Another pull and a shove. Also sturdy. He pulled himself, headfirst through the hole as he reached for the next rung. After a few more rungs, he had pulled his entire body through the hole and found himself suspended beneath the Terrarium, freezing in the wind. After his eyes adjusted to the dim light cast by the moon's reflection on the ocean, he was just able to make out the carbon rungs in front of him and the faint lights of the PR in the distance. They had to move quickly.
 
-After a hundred and sixty four rungs, Xavier reached the three-way fork in the center of the island. "Reached the hub, turning left," he announced to his unit.
+He crawled, rung by rung, into the black and freezing night. His men followed, each confirming on the radio as they exited the lab. The ladder wobbled more with every additional man.
+
+After a seemingly infinite number of rungs, Xavier reached the fork in the center of the island. "Reached the hub, turning left," he announced to his unit.
 
 He turned left, and continued his terrifying journey. There were only eight men on this section of bridge, which substantially reduced the wobbling. After the group attacking the left townhouse peeled off on their fork and there were only four men left on his section, Xavier felt finally stable - and not a moment too soon, as his fingers were starting to get too cold to grip the rungs.
 
@@ -56,33 +54,49 @@ Eventually, he found it. Pushing hard against the floor, he heaved against the v
 
 "You okay, boss?" asked one of his teammates over the radio.
 
-"Forgot about the dirt," Xavier responded, referring to the hydroponic growing medium that covered every inch of non-building-occupied space on the cabin floor. Although it was lightweight, there was a lot of it - and to make matters worse, it was thoroughly saturated with a dense, entangled root network.
+"Forgot about the dirt," Xavier responded, referring to the hydroponic growing medium that covered every inch of non-building-occupied space on the cabin floor.
 
 "Want one of us to take over?" his teammate asked.
 
-A nice offer, but one impossible to implement. There was no space on the bridge or in the vestibule for two men to swap places - the entire route was single-file only. Xavier understood the subtext - his men were freezing outside and desperate to get back into the insulated cabin. He, meanwhile, was rapidly overheating as he breathed through his limited oxygen.
+A nice offer, but one impossible to implement. There was no space for two men to swap places - the entire route was single-file only. Xavier understood the subtext - his men were freezing outside and desperate to get back into the insulated cabin. He, meanwhile, was rapidly overheating as he breathed through his limited oxygen.
 
 "No, I've got this," he responded.
 
-With one big squirm, he finally rotated himself so he fully facing the ceiling. His carbine dug uncomfortably into his back. Reaching upwards, he turned the handle and pushed as hard as he could.
+He pushed. The door stayed still.
 
-Little by little, he heard the roots rip as the door tore through them. Xavier groaned and kept pushing. Eventually, with enormous effort, the door opened just enough for him to raise his knee between it and the floor. He sighed, and let his upper leg passively take the weight of the door as he recuperated. Then, with one huge, explosive effort, he shoved the door and it opened.
+"Are you feckin' serious, lad?" asked the voice in his head.
+
+"Why are you Irish?" Xavier thought in response.
+
+"Why are you feeble little fairy princess?" the voice retorted.
+
+Xavier clenched his jaw and pushed. He pushed with all his might. He pushed like he was Atlas, pushing up the weight of the world. Finally, he felt the door budge a little bit more. 
+
+He kept pushing. Little by little, he heard the roots rip as the door tore through them. Xavier groaned and kept pushing. Eventually, with enormous effort, the door opened just enough for him to raise his knee between it and the floor. He sighed, and let his upper leg passively take the weight of the door as he recuperated.
+
+"Are you having a little rest, lassie?" asked the voice. "A little beauty sleep perhaps? Take your time!"
+
+Xavier groaned. With one huge, explosive effort, he shoved the door and it opened.
 
 Fresh air flooded into the vestibule. Xavier filled his lungs with cool relief, and climbed out into the cabin.
 
 "I'm through," he announced over the radio. "Try to rotate yourself to face upwards as you enter the vestibule. Let me know when you're in, and I'll help you open the door."
 
-******
+---
 
-With his help, the three other men in his unit followed easily. As the last one climbed out of the hole in the ground, Xavier announced over the command net, "Team Wheelhouse is in position."
+With his help, the three other men in his unit followed easily. As the last one climbed out of the hole in the ground, Xavier announced over the radio, "Team Wheelhouse is in position."
 
-"Took you long enough," replied his father's voice.
+"Took you long enough," his father replied.
 
-Xavier sighed. Team Wheelhouse was the only group not attacking a townhouse, and thus the only one whose vestibule led into the growing medium. The other teams' vestibules led directly to the ground floor of their respective townhouses, under the assumption that the enemy combatants would on the upstairs balconies.
+"I had to push through the roots," he explained.
 
-"You all ready to go?"
+"Ah, that was roots?" Ivan asked. "I thought door felt a little sticky."
 
-One by one, the other unit leaders confirmed their battle-readiness. He crept up to the wheelhouse and, tightly gripping his carbine in his right hand, placed his left hand gently on the door. The rest of his unit lined up behind him.
+Xavier sighed. "You all ready to go?" he asked.
+
+One by one, the other unit leaders confirmed that they'd made it through the ground and that they were ready for battle.
+
+Nursing his pride, Xavier crept up to the wheelhouse. Tightly gripping his carbine in his right hand, he placed his left hand gently on the door. The rest of his unit lined up behind him.
 
 "Let's go," he whispered into his microphone, staring at the hinges.
 
@@ -90,7 +104,7 @@ Back at the lab, someone clicked "run" on the CAM program he'd loaded up before 
 
 It was time.
 
-Xavier wasn't a battle-hardened professional. The only military training he'd received was some tactical theory that his father had added to his homeschool curriculum, and before the failed attempt to defend the Royal Palace, the closest he'd been to battle had been playing first-person shooters. He was, however, familiar with the principles "speed, surprise, and violence of action" that decided close-quarters combat.
+Xavier wasn't a battle-hardened professional. The only military training he'd received was some tactical theory that his father had added to his homeschool curriculum, and before the failed attempt to defend the Royal Palace, the closest he'd been to battle had been playing first-person shooters. He was, however, familiar with the idea that close-quarters combat was decided by three principles: Speed, surprise, and violence of action.
 
 He kicked the door open and entered, gun-first. His men rushed in after him. The wheelhouse was one big room, so all of its occupants were immediately visible. The pudgy man with the nasal voice was sitting in Xavier's chair, unarmed, bearing a facial expression of mixed shock and disgust. Two other enemy combatants were leaning next to the walls on either side of him, holding conventional rifles lazily pointed to the floor, looking surprised. Theo and Gwyn were sitting on the floor, hands tied behind their backs.
 
@@ -102,6 +116,6 @@ Xavier wanted to shoot him anyway, to exact revenge for the lives he had taken, 
 
 Finally, Xavier broke the silence. "Tie him up," he ordered one of his men.
 
-As his men set about restraining the pudgy man and releasing the hostages, Xavier reported over the command net, "Wheelhouse is secure, two targets neutralized, one in captivity."
+As his men set about restraining the pudgy man and releasing the hostages, Xavier reported over the radio, "Wheelhouse is secure, two targets neutralized, one in captivity."
 
-In response, came a voice that Xavier recognized but hadn't added to the command net. "Far townhouse is secure, but we have taken casualties." He paused for a moment, then continued. "Sorry, Xavier."
+Ivan's voice came crackling in response. "Far townhouse is secure, but we have taken casualties." He paused for a moment, then continued. "Sorry, Xavier."
