@@ -1,6 +1,8 @@
 ## 0. Collateral Damage
 
-"You can't just keep disappearing people," Sullivan cautioned her. "One more mysterious retirement and someone's going to be thumbtacking photos to the wall and stringing yarn back to a picture of your face."
+Stacy II was getting pretty tired of Sullivan. 
+
+"You can't just keep disappearing people," he cautioned her. "One more mysterious retirement and someone's going to be thumbtacking photos to the wall and stringing yarn back to a picture of your face."
 
 Stacy II sighed. She'd already been looking forward to giving her new boss the 'death or transportation' treatment. "This innocent face?" she asked, batting her eyelashes at Sullivan.
 
@@ -58,15 +60,13 @@ The fiery blast ripped the crowded casino floor to shreds as she crossed behind 
 
 ---
 
-"Too jacked," Annabel said, shaking her head at the screen. "Less 80s action figure, more basement nerd. And lean harder into the terrorist aesthetic."
+"Too jacked," Stacy II told Filbert that evening, shaking her head at the screen. "Less 80s action figure, more basement nerd. And lean harder into the terrorist aesthetic."
 
 Filbert deleted his prompt and tried again, typing `scrawny nerd balaclava ak47 anarchist flag` into the text field and clicking "generate". An image appeared of a slender man in a balaclava, toting an ak-47 in front of an an anarchist flag.
 
-"That's it!" Annabel said, approvingly. "That's our guy! Save it!"
+"That's it!" Stacy II said, approvingly. "That's our guy! Save it!"
 
-Filbert saved the generated image to his hard drive and flipped over to the video generator.
-
-As they waited for the video to generate, he tried making small talk.
+Filbert saved the generated image to his hard drive and flipped over to the video generator. As they waited for the video to generate, he tried making small talk.
 
 "Do you feel bad about the people we killed?" he asked.
 
@@ -74,17 +74,19 @@ As they waited for the video to generate, he tried making small talk.
 
 Filbert looked at her, confused.
 
-"Only government employees," she smirked.
+"Only Commonwealth government employees," she smirked. "If they didn't want to die, they shouldn't have invaded my country and killed my mom."
 
 "What about the casino staff?"
 
-Annabel shrugged. "Conspirators in a criminal enterprise. Don't want to get blown up? Don't accept blood money."
+Stacy II shrugged. "Conspirators in a criminal enterprise."
 
-Filbert nodded, satisfied that his subordinate had fewer ethical qualms about their actions than he did. As it should be.
+Filbert nodded.
+
+Stacy II glanced at him suspiciously. It would be a very classic Filbert move for him to get cold feet now.
 
 The video finished rendering, and they clicked 'play'. A high definition video played of the balaclava-nerd speaking into the camera. In less than a minute, their avatar claimed responsibility for the attack, blamed the Commonwealth for bringing it upon themselves, and vowed further violence if they didn't immediately retreat from the islands formerly known as The Anarchy.
 
-"Pretty good," Annabel remarked, "but way too HD. Jack up the contrast and run it through an early 2000s potato-cam filter."
+"Pretty good," Stacy II remarked, "but way too HD. Jack up the contrast and run it through an early 2000s potato-cam filter."
 
 Filbert jacked up the contrast and started looking for such a filter.
 

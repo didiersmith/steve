@@ -100,7 +100,7 @@ She held out her hand, and Stacy and Russell shook it in turn.
 
 "Where did you come from?" Mum asked.
 
-Stacy opened her mouth, and realized she couldn't even begin to describe the location of her solar system and the digital location of StevieNix within it. "Earth," she said simply, and shut her mouth.
+Stacy opened her mouth, and realized she couldn't even begin to describe the location of her solar system and the digital location of StevieNix within it. "They call it Elba," she said simply, and shut her mouth.
 
 Mum raised an eyebrow and looked at Russell for more explanation.
 
@@ -150,4 +150,4 @@ Eventually, she looked up and shut the book with a thud.
 
 "Arrest them," Mum announced. The boys looked at her, bewildered.
 
-"They've escaped," Mum explained, "from a penal colony."
+"They've escaped," Mum explained, "from a penal colony. It says here that Elba is a prison, for the criminally ambitious."

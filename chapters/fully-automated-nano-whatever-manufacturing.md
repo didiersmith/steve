@@ -76,6 +76,5 @@ Gabe, who had been silently watching the proceedings, piped up. "Didn't you make
 
 All eyes turned to Steve. He thought for a while.
 
-"It might be possible," he admitted eventually. "We'll have to reassign most of the StevieNix cluster to run the cube. The sim will slow to a crawl. Everyone will be pissed. But yeah, that might work."
+"It might be possible," he admitted eventually. 
 
-Vincent leaned back and smiled. "Like a reverse Prometheus," he said. "Stealing fire from man to give it to the Gods."

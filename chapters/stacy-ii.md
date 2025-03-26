@@ -12,13 +12,13 @@ Well, that was unusual. Must be something going on.
 
 ---
 
-"Please God," thought Stacy II as she huddled in the corner of the marble bastion, cradling her empty M16 carbine to her chest. "Why have you forsaken us?"
+"My father who art in heaven," thought Stacy II as she huddled in the corner of the marble bastion, cradling her empty M16 carbine to her chest. "Pleasedeliver us from...this shitty situation. And smite our enemies."
 
-"Relax, Princess!" Steve's voice popped into her head. "I haven't forsaken anyone, I was just grabbing a coffee. What's up?"
+"Relax, princess!" Steve's voice popped into her head. "I was just grabbing a coffee. What's this about enemies?"
 
 Stacy II's eyes widened in shock. Truth be told, she'd never really believed her mom when she claimed that God spoke into her head. Now that it was happening, he was exactly as she had described.
 
-"I can hear what you're thinking," Steve politely reminded her. "Anyway, what's going on?"
+"I can hear what you're thinking," Steve politely reminded her. "Anyway, wanna catch me up?"
 
 A bullet slammed into the rock above her head and showered her with shards of marble and dust. She stared helplessly at her three compatriots - Russell, his son Filbert, and her mom. They were all also out of ammo.
 
@@ -28,7 +28,7 @@ A bullet slammed into the rock above her head and showered her with shards of ma
 
 "Huh?"
 
-"It's complicated."
+"Lighten up, it's a joke."
 
 Stacy II was, so far, somewhat unimpressed with her divine creator. "Can you please help?" she asked.
 

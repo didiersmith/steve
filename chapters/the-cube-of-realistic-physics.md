@@ -1,16 +1,90 @@
 ## 0. The Cube of Realistic Physics
 
+Xavier didn't live in his house anymore. Xavier lived in space. The Gods demanded it.
+
+He had scarcely touched down before he was launching again, this time with a new ship design. It was a research lab, designed for space travel. They called it The Building.
+
+The Building was a huge, cylindrical twelve-storey building with a fusion engine on the tail, capable of housing a small population for long periods of time. Each floor was manufactured separately on Earth and flung into space, where Xavier and his crew caught them with nets and space-planes, and assembled them into the final ship.
+
+Once The Building was fully assembled, they flung up the ASIC, filled the building with air, and moved in.
+
+Unlike the Terrarium, The Building wasn't designed to be a self-sufficient colony. Food wasn't grown on board, but was dehydrated and stocked in enormous store-rooms. The air was scrubbed not by plants, but by HEPA filters and an air-recycling plasma reactor. Artificial gravity was achieved not by spinning, but by _going places_ - ie. by running the fusion engine 24/7 and undergoing constant 1g acceleration or deceleration.
+
+It was, on balance, a far less pleasant environment than the floating islands of New Sealand, the Terrarium, or the Antarctic Dome. On the other hand, it was in space. Xavier had no shortage of volunteers. Ivan joined him as first mate, and many of his best scientists and engineers followed.
+
+The top floor was dedicated as the bridge, the bottom floor the engine room, and a few other floors the living quarters. The remaining floors were filled with computers, manufacturing equipment, the ASIC, and lab animals.
+
+---
+
+"Don't run your fusion engine in there," cautioned his dad. "Subatomic physics is totally different. Your engine will probably explode and kill everyone. You're just going to have to coast through on momentum."
+
+"Is momentum the same as here?" Xavier asked the voice in his head. He was clipped into his chair in the top floor of The Building, facing an enormous cube that was outlined with a glowing red grid. Inside the cube, he was told, was empty space and a completely different physics engine. His dad called it "the Cube of Realistic Physics", or "CORP" for short.
+
+"Yes, good old p = mv," replied his dad. "Think of it as if Newton designed the universe, and he got some help from the guy who came up with the subatomic...particle...orbity model. Who was that again? Bohr?"
+
+"Rutherford."
+
+"Right. Just testing you. In any case, do NOT run your fusion engine in there. I'm serious. You will die."
+
+"Sure, okay, no fusion engine. What about my brain?" Xavier asked. "Does it rely on our subatomic physics?"
+
+"It's been hard to get a straight answer out of Steve on that front," his dad replied. "Hang on, I'll put him on."
+
+A few moments later, Steve's voice appeared. "How are you doing, Xavier?"
+
+"Great, thanks. Admiring this beautiful red cube you've made me."
+
+"Do you like it? It glows green on the inside!"
+
+"Very nice. If I go inside, will I die?"
+
+Steve was silent for a moment, before replying, "I don't think so."
+
+"You don't think so?"
+
+"You're worried about your brain, right?"
+
+"Right."
+
+"Don't! There's no need to worry about your brain. Your brain is just an interface between your mind and your body."
+
+"What?"
+
+"Your mind doesn't run on your brain. It runs on an MHI-10 in a datacenter, along with a hundred million other minds. If your mind ran on your squishy little monkey brain, how would we ever move it elsewhere?"
+
+"Uh..."
+
+"Maybe we need to give his mind some extra compute cycles so he can keep up," his dad snickered in the background.
+
+"Ignore him," Steve said. "The point is, don't worry about your brain."
+
+"What should I worry about?"
+
+"Your mitochondria. I have no idea how those work."
+
+"Great," thought Xavier. "That's reassuring. So why don't you think I'll die if I go in the cube?"
+
+"How much impact could subatomic effects possibly have on your mitochondria? Can't be that much. I'd put the probability of death at no higher than...thirty percent."
+
+Xavier didn't feel like personally testing those odds. He was going to have to try something else.
+
+---
+
+Xavier and his team put a canary in a glass ball and threw it into the cube. Then, they flew around to the other side and caught the canary when it came out. The bird was angry and covered in poop, but alive.
+
+They waited two days. The bird was still alive. It was Xavier's turn.
+
+He climbed into his space-plane and steered it towards the cube.
+
 "We're all clear," crackled Ivan's voice through the radio. "Light her up!"
 
-Xavier gripped the wheel of his space-plane tightly and stared nervously at the red Cube of Realistic Physics (CORP) in front of him. He hadn't been in the plane since his maiden voyage, when he'd spun out of control and had to be rescued by his dad's disembodied voice. Now, with the flashbacks of that flight triggering mild nausea, he was about to perform another first: The first human mission into the CORP.
+Xavier gripped the wheel of his space-plane tightly and stared nervously at the red Cube of Realistic Physics in front of him. He tried to reassure himself. The canary had survived. How dangerous could it be?
 
-The canary they'd sent through two days ago had survived. How dangerous could it be?
-
-"Launching," he responded with a final glance up at the receding Building. "See you on the other side."
+"Launching," he responded with a final glance up at The Building. "See you on the other side."
 
 He ignited his fusion engine and was shoved back into his chair as the plane jolted forwards. After a fraction of a second, he shut the engine off again and coasted towards the cube.
 
-"Good job," Vincent said into his head. "Now don't you dare touch that ignition until you come out the other side."
+"Good job," his dad said into his head. "Now don't you dare touch that ignition until you come out the other side."
 
 "Thanks, Dad," Xavier responded. "Why don't you worry less about me being an idiot and more about my mitochondria?"
 
@@ -40,11 +114,11 @@ His dad exhaled loudly into the microphone. "Looks like it. You had me scared."
 
 Xavier nodded. That made sense, sort of. "Why are all my lights dead?" he asked.
 
-"LEDs rely on subatomic effects. Those effects don't work here."
+"LEDs rely on subatomic effects. They don't work here."
 
 "Why not?"
 
-"Light is totally different in Realistic Physics. It's never a wave - it's all particles, all the time. Like billiards balls, remember?"
+"Light is totally different in Realistic Physics. It's never a wave - it's all particles, all the time. Like billiards balls."
 
 Xavier looked around the dimly illuminated cabin. "Is that why everything's green? There are only green billiards balls?"
 
@@ -76,7 +150,7 @@ Xavier pondered this newfound information as he drifted towards the far wall of 
 
 "Photons, not protons," his dad corrected his thoughts. "They're different."
 
-"Thanks, Dad," Xavier responded sarcastically. "How do I know these _photons_ aren't going to give me radiation sickness or melt off my skin?"
+"Thanks, dad," Xavier responded. "How do I know these _photons_ aren't going to give me radiation sickness or melt off my skin?"
 
 "Beats me," his dad responded. "Guess we'll find out."
 
@@ -90,50 +164,3 @@ Eventually, the plane approached the far wall. Xavier shook his head, breathed d
 
 The world went black and Xavier woke up on the other side. The cabin lights were on, and his headset roared with the sounds of Ivan and his crew cheering.
 
----
-
-The crew spent the next week monitoring Xavier for strange health conditions, and manufacturing otherworldly industrial equipment from Steve-provided CAD designs. Some of the equipment had obvious functions - a lathe looks like a lathe, no matter what universe you're in - and others were entirely foreign.
-
-"What's this?" asked Ivan, tapping on a large, black cylinder covered in brass protrusions.
-
-"I think it's some kind of photolithography machine," Xavier responded.
-
-Ivan raised an eyebrow at him.
-
-"For making chips," Xavier explained. "Don't turn it on. Even Steve doesn't know what this stuff will do in StevieNix Physics."
-
-"What if I'm hungry?" Ivan asked, coyly reaching for the power switch. "I love chips!"
-
-Xavier glared at him.
-
-"Ha ha!" Ivan laughed, retracting his hand. "Is joke! I think perhaps radiation may have affected your sense of humour. Let's get you to medic."
-
-"My sense of humour is fine," Xavier grumbled.
-
-In truth, his sense of humour was subdued. The crew had unanimously voted that morning that the entire Building would perform the next mission into the CORP. As it had been several days since Xavier's mission and he hadn't vomited blood or developed visible tumours, the general consensus was that Realistic Physics was "probably safe enough". Xavier felt a weight of responsibility he hadn't borne since the invasion of the Terrarium. If the consensus was wrong, he'd be responsible for not just scores of deaths, but the deaths of the smartest, bravest people he knew.
-
-"Well then, funny man, let's go to the bridge! Everyone's waiting," Ivan said cheerily, striding towards the elevator.
-
-Xavier followed him to the bridge where most of the crew were indeed excitedly waiting. They ceased their chattering and looked towards him as the doors slid open and he entered with Ivan.
-
-"Remember everyone," he announced, "we won't be able to accelerate while we're in there. You know what that means, right?"
-
-"No gravity!" several crewmembers shouted in unison.
-
-"That's right. So make sure everything is strapped down. We'll be in the CORP for twelve hours, which should be enough time to test all the equipment. We'll be hitting our approach velocity in a few minutes, so jump to it!"
-
-The crew scattered to the various levels to prepare for microgravity, and Xavier sat down in his chair. He sighed, leaned his head back, and closed his eyes.
-
-Ivan sat next to him. "You are scared, boss?" he asked.
-
-Xavier looked over at him. "You know what else not being able to accelerate means?"
-
-Ivan nodded. "Once we're in, we cannot abort mission. Everybody knows this."
-
-"And you're not scared?"
-
-Ivan shook his head. "Is only twelve hours. Easy peasy."
-
-"Yeah," Xavier replied. "Easy peasy."
-
-His heart thudded in his chest, and he felt the familiar nausea rising in his stomach. He wasn't scared. He was terrified.

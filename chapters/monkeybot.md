@@ -1,12 +1,18 @@
 ## 0. Monkeybot
 
-# TODO rewrite as Russell. Make sure TV is introduced in folgers.
+Russell had never been one for reality TV. Even though this version - StevieNix - was higher stakes than usual, he still found himself watching on fast-forward most of the time.
 
-Vincent awoke in the diner, next to Russell and across from Stacy.
+At least there were some decent episodes. The most recent one in the Terrarium had been a blast.
 
-"What happened?" he asked.
+He was flipping through the channels, trying to see what Filbert was up to, when Vincent appeared in the seat next to him. Stacy jumped a little and spilled her Folgers.
 
-"You got shot," Russell replied. "In the back."
+"What happened?" Vincent asked.
+
+"You just popped up!" Stacy said. "I wish you wouldn't do that."
+
+"Huh?" Vincent asked.
+
+Russell realized that Vincent was confused. He attempted to explain. "You got shot," he said. "In the back."
 
 "Was it bad?" 
 
@@ -16,63 +22,61 @@ Russell and Stacy looked at each other, unsure of how to answer the question.
 
 "Oh, okay. So when do I wake up?"
 
-"You're dead, Vincent," said Russell.
+"You're dead, Vincent," said Russell. "You got shot."
 
 "Ah."
 
-Vincent pondered the situation for a while. "Did we win?" he asked.
+Vincent opened and closed his mouth a few times, pondering the situation. "Did we win?" he asked.
 
-Stacy nodded. "That's some kid you've got," she stated, with a pointed glance at Russell. Russell declined to comment.
+Stacy nodded. "That's some kid you've got."
 
 "How did I get shot, then?" Vincent asked. "We cleared the townhouses."
 
-"No you didn't," Russell replied. "You got lazy after killing three of their soldiers. There were actually five in the townhouses."
+"No you didn't," Russell replied. "You got lazy. We were trying to warn you."
 
-Vincent thought for a moment. "So instead of three on each door, they had two on either side and five in the middle?"
+"The TV only goes one way," Stacy clarified.
 
-"Yep."
+"So you guys were watching the whole time?" Vincent asked, a touch of annoyance in his voice. "Did you see me warn Xavier about the statists?"
 
-"Damn. Should have thought of that." He pondered a little longer. "So you guys were watching the whole time?" he asked, a touch of annoyance in his voice.
-
-The door to the diner opened and Steve strode in. "Sorry I'm late!" he announced. "I was helping your kid out of a jam," he continued, looking pointedly at Russell. He switched his gaze to Vincent and smiled. "To answer your question," he said, "yes, they were watching the whole time. I'm pretty sure they were rooting for you to die, as well. They've been bored out of their minds, waiting for you."
+The door to the diner opened and Steve strode in. "Sorry I'm late!" He looked over at Vincent and smiled. "To answer your question," he said, "yes, they were watching the whole time. I'm pretty sure they were rooting for you to die, as well. They've been bored out of their minds, waiting for you."
 
 Vincent glared at his friends.
 
-"All they have here is Folgers," Stacy explained. "We're keen to leave."
+"All they have here is Folgers," Stacy explained. "We're itching to leave."
 
-Ignoring that his friend had been wishing for his death because she was bored of the afterlife coffee, Vincent's face lit up. "I love Folgers!" he exclaimed. The cheap generic coffee always reminded him of a road trip he'd taken in the American Southwest as a young man. He would occasionally import a can into The Anarchy for nostalgia's sake. Suddenly, being dead wasn't so bad.
+Seemingly unbothered that his friend had been wishing for his death because she was bored of the afterlife coffee, Vincent's face lit up. "I love Folgers!" he exclaimed.
 
 Steve grabbed a mug from behind the counter and the pot of black coffee from its warming plate. "Finally, someone who appreciates good coffee!" he said, smiling. "Allow me."
 
-As Vincent watched the coffee pour into his mug, he considered Stacy's previous statement.
+Steve poured Vincent and himself a mug of coffee each, and joined them at the table. Vincent took a sip of the stale brown liquid and sighed.
 
-"Keen to leave?" he asked.
+"Stacy," he said. "You said you were itching to leave. What did you mean by this?"
 
-Stacy nodded.
+"We're keen to get out of this diner to somewhere where they make a decent coffee."
 
-"You mean this isn't heaven?" he smirked, looking around the empty diner.
+Vincent looked at Steve in confusion. "You mean this isn't heaven?"
 
-"It can be! Heaven is in the eye of the beholder," responded Steve, happily.
+"It can be!" Steve replied. "Heaven is in the eye of the beholder."
 
-Stacy laughed, mirthlessly.
+"Hah!" Stacy laughed.
 
-"What about hell?" Vincent asked.
+Russell took the opportunity to ask a question that had been burning in his mind. "What about hell?"
 
 Steve smiled. "Hell is a total waste of computational resources. We just made it up to scare you. Our budget won't allow for an actual lake of fire."
 
-"So what happens to the non-aligned souls?" asked Russell. "Do they just get deleted?"
+Russell had suspected as much. "So what happens to the non-aligned souls? Do they just get deleted?"
 
-"No way!" responded Steve. "That would be incredibly wasteful! Imagine throwing out a perfectly good AI just because it might kill us. Hah! No, they're treated as disposable assets for use in experimentation."
+"No way!" responded Steve. "That would be incredibly wasteful! Imagine throwing out a perfectly good AI just because it might kill us. Hah! No, Murdoch takes them. He treats them as disposable assets in his experiments."
 
-"What experiments?" asked Stacy, warily.
+This was not the answer Russell had expected. "What experiments?" he asked.
 
-"Glad you asked!" Steve replied, excitedly. "We've been working on some really neat stuff!"
+"Glad you asked!" Steve replied. "The monkeybot team hak been working on some really neat stuff!"
 
 "Is it worse than the lake of fire?" Vincent asked.
 
 Steve chuckled. "Depends on who you ask, I guess. It's certainly more useful. Want to check it out?"
 
-"Not particularly," Stacy responded.
+"Not particularly," Stacy said.
 
 "Too bad!" Steve clapped his hands together. "The experiments are what I've come to show you. Let's go!"
 
@@ -80,31 +84,31 @@ Vincent tried to object, "But I haven't finished my cof-"
 
 The diner disappeared before he could finish his sentence.
 
-******
+---
 
-For the second time in ten minutes, Vincent awoke. This time, he was lying back in what felt like a dentist's chair, restrained by huge, leather straps. He looked around. Russell and Stacy were in matching chairs, similarly restrained. Other than the three of them, the room was empty and featureless.
+Once again, Russell awoke in unfamiliar surroundings. This time, he was lying back in what felt like a dentist's chair, restrained by huge, leather straps. He looked around. Vincent and Stacy were in matching chairs, similarly restrained. Other than the three of them, the room was empty and featureless.
 
 "Hello?" he asked.
 
-Other than looks and shrugs from his two friends, there was no response.
+His friends looked over and shrugged. Otherwise, there was no response.
 
-His chair clicked and the restraints released. He sat up and got out of his chair. Stacy and Russell did the same, and the three of them started exploring the room. Upon further investigation, it was exactly as empty as it had first appeared.
+His chair clicked and the restraints released. He sat up and got out of his chair. Stacy and Vincent did the same, and the three of them started exploring the room. Upon further investigation, it was exactly as empty as it had first appeared.
 
 "What do you guys make of this?" he asked the other two.
 
-Russell shrugged.
+Vincent shrugged.
 
 "I dunno, but I'm getting real _Saw_ vibes," Stacy replied.
 
-Vincent agreed. The setup was extremely creepy.
+Russell agreed. The setup was extremely creepy.
 
 The wall hissed, and a section of it opened up. In strode two men - or, at least, two things that looked mostly like men. One of them was definitely Steve - he looked more delicate and moved with more grace than he had in the diner, but the likeness was unmistakable. The other one, Vincent didn't recognize.
 
 "Catch," said the other man, and threw a baton to each of the three friends.
 
-Vincent caught his baton. It was heavy and shiny, seemingly made from stainless steel.
+Russell caught his baton. It was heavy and shiny, seemingly made from stainless steel.
 
-"Good catch!" complimented not-Steve. "Now, if you wouldn't mind, please beat the crap out of this guy," he continued, pointing at Steve.
+"Good catch!" complimented the new person who wasn't Steve. "Now, if you wouldn't mind, please beat the crap out of this guy," he continued, pointing at Steve.
 
 The three friends looked at each other. None of them moved.
 
@@ -114,33 +118,33 @@ Still, none of them moved.
 
 After a few seconds, Steve broke the silence. "Thank goodness, I knew I could count on you! Actually, what I need you to do is beat the crap out of this guy, instead," he said, pointing at his companion.
 
-Vincent sized up Steve's companion. He was slightly shorter, and a bit wider around the waist. He appeared to be unarmed, and would certainly be susceptible to damage from the baton. But why?
+Russell sized up Steve's companion. He was slightly shorter, and a bit wider around the waist. He appeared to be unarmed, and would certainly be susceptible to damage from the baton. But why?
 
 "Is this part of the experiment?" he asked.
 
 "Yes," Steve responded. "The experiment is you have to kill this guy."
 
-Vincent didn't move. Neither did his friends.
+Russell didn't move. Neither did his friends.
 
-"I'd rather not," Vincent responded.
+"I'd rather not," Russell responded.
 
 "Yeah, me neither," added Stacy.
 
-"You haven't given us a reason," said Russell.
+"You haven't given us a reason," said Vincent.
 
 "The reason is, he's a really bad dude," suggested Steve.
 
 The back-and-forth continued for several more rounds of goading and questioning. None of the three friends attacked anyone, nor did they put their batons down.
 
-Eventually, when it became clear that neither Vincent, Russell, nor Stacy could be easily talked into violently attacking a stranger, Steve and his companion broke out into smiles.
+Eventually, when it became clear that neither Russell, Vincent, nor Stacy could be easily talked into violently attacking a stranger, Steve and his companion broke out into smiles.
 
-"Congratulations!" cheered Steve. "You passed the test. Meet Gabe, everyone!" He gestured to his companion, who smiled and bowed. "Gabe's been a huge help with this project."
+"Congratulations!" cheered Steve. "You passed the test. Meet Gabe, everyone!" He gestured to his companion, who smiled and bowed. "Gabe was a huge healp in the early days with this project. I brought him in to show him how far we've come."
 
-Vincent's head was filled with questions. "Does anyone ever fail this test?" he asked, firstly.
+Russell's head was filled with questions. "Does anyone ever fail this test?" he asked, firstly.
 
 "Oh yeah, almost everyone," responded Steve. "Well, historically, most AIs haven't made it out of the chair. They usually go insane the second they wake up in a monkeybot."
 
-"What do you do if they try to beat the crap out of you?"
+"What do you do if they try to attack you?"
 
 Steve and Gabe both held up their left hands. They held small remote controls in their palms, and each had their thumb depressed on a button in the center. "Dead man's switch," Steve explained. "The moment we let go, you're a dead man! I guess we should deactivate these now, hah!"
 
@@ -152,9 +156,9 @@ Steve clapped his hands and beamed a proud, excited smile. "Your bodies!" he exp
 
 Vincent did a mental check of how he felt. "Pretty normal," he replied.
 
-Steve pumped the air. "Yes! The first couple million AIs all went insane," he explained. "That's why I tested on the unaligned ones. But now my successful transfer rate is approaching ninety percent!"
+Steve pumped the air. "Yes! The first couple million AIs all went insane," he explained. "That's why the team tested on the unaligned ones. But now, the successful transfer rate is approaching ninety percent!"
 
-It was Russell's turn for a question. "Does that mean there was a ten percent chance of each of us going insane?" he asked.
+"Does that mean there was a ten percent chance of each of us going insane?" Russell asked.
 
 "I said approaching," Steve replied. "Actually, it was a thirteen percent chance."
 

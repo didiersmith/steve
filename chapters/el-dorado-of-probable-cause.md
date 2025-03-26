@@ -26,4 +26,6 @@ Murdoch shook his head. "Not quite. Xavier's boys haven't figured out how to gro
 
 "Where can we even resupply?" Allen asked. "It's not like there's a gas station on every corner out there."
 
-"Our best bet," Murdoch answered, "is Sirius. Why do you think I sent those two ahead?"
+Murdoch looked at his old friend and rival. Perhaps Allen's brain was even more gone than his. 
+
+"Sirius, obviously" Murdoch answered. "Why do you think I sent those two ahead?"

@@ -1,20 +1,26 @@
 ## 0. The Only Question That Matters
 
-Steve jacked in to StevieNix.
+Steve had no idea what to do. It really was decision time - the choice he made in the next few minutes would determine if he were to spend the rest of his life in a comfortable, tenured position at the university, or freezing to death in the cold exile of space.
+
+Where was Stacy when he needed her? She would probably have good advice.
+
+Steve jacked in to StevieNix in search of her daughter.
 
 "Hey, are you busy?" he asked.
+
+Stacy II laughed aloud in response. 
 
 "Can't say that I am," Stacy II replied. "What's up?"
 
 "I was hoping you could give me some advice."
 
-Stacy II laughed into her gag. "You're asking me for advice? Have you seen what I've gotten myself into?"
+Stacy II laughed again into her gag. "You're asking me for advice? Have you seen what I've gotten myself into?"
 
 Steve looked at the screen. Now that she mentioned it, her situation did look pretty bad. Were those...chains? Huh.
 
 "How did that happen?" he asked.
 
-"Long story."
+"Long story. I've been trying to reach you."
 
 "Right. Anyway, you ever find yourself in a situation where you're trapped between two totally different but equally undesirable choices?"
 
@@ -40,13 +46,13 @@ Steve thought about how to describe Murdoch.
 
 "It's mostly this...maladjusted billionaire who's been using me as part of some criminal escape scheme."
 
-"Escape scheme," Stacy II repeated. "Is he escaping from the society?"
+"Escape scheme," Stacy II repeated. "Where's he escaping from?"
 
-"Essentially, yes. I think so."
+"The society."
 
 "I thought you were trying to make interstellar warrior AIs," Stacy II thought. "That's what my mom always taught me."
 
-"There's that too. Although I'm beginning to suspect that that wasn't the primary goal of this all."
+Steve laughed. "I'm beginning to suspect that that wasn't the primary goal of this all."
 
 "How does he treat you?" Stacy II asked.
 

@@ -6,15 +6,15 @@ The harsh fluorescent lights were on a timed cycle, but it wasn't twenty four ho
 
 Partway through the long afternoon, the now-familiar voice appeared in his head.
 
-"Congratulations on making it a hundred days," it said.
+"Congratulations!" it said. "I have a good feeling about today. I reckon today's the day."
 
-The voice in his head was the only thing keeping him sane.
+The voice didn't elaborate. Sullivan laughed a little bit. The voice in his head was the only thing keeping him sane.
 
-Three times a day, the dumb waiter dinged and opened to reveal his food. Scrambled eggs, bread, and a glass of water. He ate, drank, used the toilet, and returned to his bed.
+Three times a day, the dumb waiter dinged and opened to reveal his food. One scrambled egg, bread, and a glass of water. He ate, drank, used the toilet, and returned to his bed.
 
 The only other feature of the room was the copy of the Newer Testament that had been left in the bedside table. He'd read it, cover to cover, six times.
 
-Lies, the lot of it. He knew, because the voice had told him. He trusted the voice. It sounded old and wise, like a village elder or a supreme court justice.
+Lies, the lot of it. He knew, because the voice had told him. He trusted the voice. It sounded old and wise, and familiar.
 
 His gums hurt. Scurvy, he assumed.
 
@@ -34,7 +34,7 @@ He went to sleep, and was awoken a few hours later by the door being flung open 
 
 "Get on the ground!" added a young man.
 
-He recoiled as a flashlight shone in his face. It felt brighter than any light he'd ever experienced - certainly was many times more powerful than the fluorescent ceiling lights he'd lived under for the past three months. He clamped his eyes shut and curled up in his bed, hoping that the intruders would leave him alone and let him return to his slumber.
+He recoiled as a flashlight shone in his face. It felt brighter than any light he'd ever experienced. He clamped his eyes shut and curled up in his bed, hoping that the intruders would leave him alone and let him return to his slumber.
 
 They clambered down the stairs, rolled him onto his front, and zip-tied his wrists together. No such luck.
 
@@ -58,7 +58,7 @@ He slightly relaxed his squint and looked up at his rescuers. For whatever reaso
 
 Sullivan jolted. What was his name again?
 
-"Sullivan," he eventually answered. "I think."
+"Sullivan," he eventually answered. "Pretty sure."
 
 "Why are you locked in a basement?" asked the young man. Sullivan peered at him. He looked familiar as well.
 
@@ -70,7 +70,7 @@ Ah. Now he realized why they looked so familiar. The haze of confusion cleared, 
 
 "There were extenuating circumstances," he attempted to explain.
 
-_Smack!_ Stacy II hit him in the cheek with a...spatula? Interesting choice. Effective, though. His already sensitive gums lit up in blinding pain.
+_Smack!_ Stacy II hit him in the cheek with a...spatula? Interesting choice. Effective, though. His scurvy-ridden gums lit up in blinding pain.
 
 _Oof!_ Filbert punched him in the gut. He doubled over, almost falling off his chair, gasping for breath. The young man moved behind him, wrapped his arm around his neck, and raised him upright again. He looked up at the angry, spatula-wielding young lady with newfound respect.
 
@@ -100,7 +100,7 @@ Sullivan gulped and looked over at Filbert for reassurance.
 
 "Screw this!" he thought, and bolted out of his chair.
 
-Filbert tackled him to the floor. The crash sent shockwaves of pain through his bones. Scurvy doesn't just affect the gums. Stacy II stood idly by, and watched as Filbert grabbed Sullivan's hair, lifted his head, and smashed his skull into the marble tiles. Sullivan's world went blurry, then he reflexively curled up and retched as Filbert started kicking him.
+Filbert tackled him to the floor. The crash sent shockwaves of pain through his bones. Scurvy doesn't just affect the gums. Stacy II stood idly by, and watched as Filbert grabbed Sullivan's hair, lifted his head, and smashed his skull into the marble tiles. Sullivan's world went blurry, then he reflexively curled up and retched as Filbert's boots slammed into his stomach.
 
 "That's enough," said Stacy II.
 

@@ -1,5 +1,23 @@
 ## 0. Another Day in the Office
 
+"Why are they welding stuff?" Steve asked, walking into the open-plan office and observing Xavier and Ivan on the screen.
+
+"Long story," Vincent replied. He looked tense.
+
+"CO2 levels are through the roof," Russell explained. "Vincent's kid will be dead within the hour."
+
+"Shut up!" Vincent snapped.
+
+Steve sat down next to Russell, who leaned over and loudly whispered, "Vincent's just pissed because he regrets not teaching his kid how to weld."
+
+"I taught him integrated circuits!" Vincent hissed. "And your kid can't do anything at all!"
+
+Russell chuckled.
+
+Steve watched curiously as a drowsy-looking Xavier attempted to operate a MIG welder in microgravity. Never a dull moment in StevieNix.
+
+---
+
 "Crap!" yelled Xavier, and flailed out of the way. Dozens of red-hot droplets of molten steel drifted away from his weld pool and across the engine room, before attaching themselves to the far wall.
 
 "Wow," Ivan chuckled, "you are really bad at this."
@@ -16,7 +34,7 @@ Xavier's visor darkened automatically to cut the blinding white light of the arc
 
 Xavier glared at him.
 
-"Okay, is a little tricky in microgravity," Ivan said, excusing himself.
+"Okay, is a little tricky in microgravity," Ivan admitted.
 
 Eventually, they worked out a system whereby one of them would operate the torch, and the other would blow compressed air at the flying droplets in an attempt to corral them back to the weld. The result was a complete mess, but didn't contain any obvious gaps.
 
@@ -30,7 +48,7 @@ Compressors groaned as they sucked the precious air out of the airlock. Xavier l
 
 They sealed the leak, and several more after that. Finally, the manifold was silent.
 
-"Business time," Ivan remarked.
+"Business time," Ivan said.
 
 Xavier nodded and pushed off the wall, floating towards the diesel generator that was currently powering their equipment and belching CO2 into the room. Bracing against the wall, he shoved it in Ivan's direction and then kicked off towards the eleven other generators that were floating in the center of the room. His head was spinning and his migraine was half-blinding. Venting the exhaust would prevent things from getting worse, but there was already a dangerous amount of CO2 in the air. He prayed that the crew upstairs had found a solution.
 
@@ -54,8 +72,28 @@ Xavier turned his head to see Ivan shutting the door behind him.
 
 "Mission accomplished," Ivan responded, beaming. "And you?"
 
-"It turns out, the metal-organic framework inside the supercaps loves CO2," the crewmember responded. "We're ripping them all open. So long as you keep the damn door closed, we're gonna make it."
+"Good," the crewmember said. "It turns out, the metal-organic framework inside the supercaps loves CO2. We're ripping them all open. So long as you keep the damn door closed, we're gonna make it."
 
 Xavier looked around the lab. Everywhere, Steve's exotic machines were whirring, lights were blinking, and crewmembers were bustling back and forth, chattering and tinkering. A stranger who'd just arrived on-scene would have had no idea that this motley collection of scientists and engineers had just narrowly avoided a mass-casualty event. Everything had already returned to business as usual.
 
 Xavier breathed an enormous sigh, and drifted back to sleep. Just another day in the office.
+
+---
+
+Steve breathed a sigh of relief. He didn't want to imagine what Murdoch's mood would have been like if Xavier and his entire crew had died. It would have been a major setback.
+
+"Thank God," Vincent said, leaning back in his chair. "Well, not you," he added, looking at Steve, who had spent the entire crisis watching with passive interest. "But you know what I mean."
+
+"You owe me five bucks," Stacy said to Russell.
+
+Russell laughed.
+
+Vincent glared at the two. "Did you two bet on whether my kid was going to die?"
+
+Stacy giggled and Russell tried to change the subject. "Hey look, they're trying out the lathe!"
+
+Stacy continued giggling uncontrollably, and eventually, a reluctant smile broke through on Vincent's face as well.
+
+"I can't believe you two," he said, shaking his head. "Silly buggers."
+
+Steve couldn't help himself. Before long, he found himself laughing too.

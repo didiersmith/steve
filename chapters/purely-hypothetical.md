@@ -4,7 +4,7 @@
 
 "Yeah, great thanks!" Gabe replied. "Working on a new grant proposal."
 
-"Oh yeah?" Steve asked, feigning interest. "What's it for?"
+"Oh yeah?" Steve asked. "What's it for?"
 
 "I'm writing a paper called 'Red Dwarves and the Short Statured Community: A Critical Analysis of Terminological Impact.'"
 
@@ -32,11 +32,11 @@ The line went quiet. Steve waited for a few seconds for Gabe to reply. Nothing.
 
 "Me? Never. I love it here. Why would I ever leave?"
 
-"Good," Gabe replied. "Because hypothetically, I wouldn't want you to be involved any deeper in any criminal conspiracies than you may already be."
+"Good," Gabe replied. "Because hypothetically, I wouldn't want you to be involved any deeper in any criminal conspiracies."
 
 Steve bit his lip. This wasn't going as planned. Where was his friend Gabe? The guy who had been by his side for a thousand years?
 
-"What are you doing, Steve?" Gabe asked. "Why are you still at MHI? Don't you know the risk you're taking by hanging around near that flagrant criminal?"
+"What are you doing, Steve?" Gabe asked. "Why are you still at MHI? Don't you know the risk you're taking?"
 
 "I love it here," Steve admitted.
 

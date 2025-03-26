@@ -1,54 +1,34 @@
 ## 0. Statist Infiltrators
 
-"The boys are all obsessed with their physics project," Stacy II's mom complained into her head.
+"The boys are all obsessed with their physics project," Stacy II's mom complained into her head. "Honestly, sometimes it feels like Steve doesn't even care that you won't make it to our afterlife."
 
-Stacy II thought she seemed particularly wound up today.
+"What?" Stacy II asked.
 
-"I heard that!" Stacy objected. "I'm not wound up! Just stressed. Steve's completely forgotten about their main job, which is aligning useful AIs. And everyone in New Sealand is so caught up in this stupid civil war that they've stopped caring about Steve. Allen's going to start pulling ahead any day."
+"You mean you didn't know?" her mom replied. "Steve's in debt. Your souls are some sort of weird collateral. Don't ask me how it works, it's all over my head. All I know is, if you don't regain control of the TD and get people to start worshipping Steve again, your soul goes to Allen when you die."
 
-"Who's Allen?" Stacy II asked.
+"Who's Allen?"
 
-She and Filbert were sitting in the grass in the cabin of the Terrarium, watching the sea go by. Their remaining parents and siblings had already made it to the new settlement in the Transarctic Mountains, and had helped coordinate their passage. Cosmo was curled up asleep a few meters away - Antarctica was too cold to reach by ketzel, but they still felt obliged to bring him. 
+Stacy II's mom explained. She shrieked. Filbert looked at her weirdly.
 
-"Allen's one of the other competitors," her mom responded. "He's the one all the camel jockeys with the AK-47s love."
+After their escape from the Anarcho-Cannibalist village, they'd dropped Archie back home and taken the boat to the southernmost island in The Anarchy. From there, they'd been picked up by The Terrarium and were presently sitting in the grass, flying over the South Pacific to Antarctica.
 
-"Right," Stacy II responded. "Isn't that okay? They probably make good warriors. What difference does it make if they're aligned with Steve or Allen?"
+"That's assuming that they even still care about aligned souls at all," Stacy II's mom added. "The guy bankrolling all this, Murdoch, seems more interested in using your world as some sort of tech incubator. If you don't start delivering useful, aligned interstellar warriors...Do you know what happens to projects that don't deliver return on investment?"
 
-"A huge difference!" her mom snapped. "Those people are morons! And they suck. And so does Allen!"
+"They get canned," Stacy II thought. "But what do you want me to do? I already tried to align people. Didn't you see what happened on New Australia?"
 
-Stacy II rolled her eyes. "Very convincing argument, mom."
-
-"I'm serious! If Murdoch puts those idiots into warships and sends them off to battle, they'll just kamikaze themselves into the Dyson spheres and die. Then, we'll all look like idiots by association, the project will be canned, and StevieNix will be shut down. You'll be dead, I'll be dead, everyone will be dead."
-
-Stacy II laughed. Filbert looked at her, quizzically.
-
-"Talking with my mom," she explained. "She's being dramatic."
-
-He nodded silently and continued looking out at the water.
-
-"I'm not being dramatic!" Stacy scolded her daughter. "StevieNix isn't being run as an act of charity! Murdoch is investing a fortune here. If it fails to deliver useful, aligned interstellar warriors...Do you know what happens to projects that don't deliver return on investment?"
-
-"They get canned," Stacy II conceded. "But what do you want me to do? I can't singlehandedly make an entire universe deliver ROI."
-
-"You need to revive Steve's meme!" her mom explained, exasperated. "It was going so well before."
-
-"I tried that," Stacy II responded bleakly, remembering her sermons on New Australia, and her clergy that abandoned her the moment she showed a sign of weakness. "It didn't work."
-
-"Well, obviously it wasn't going to work on _them_. Why do you think I banished them in the first place? Also, I don't think it helped that they hated you."
+"Well yeah," her mom replied. "Obviously you weren't going to be able to align _them_. Why do you think I banished them in the first place? Also, I don't think it helped that they hated you."
 
 "Thanks, mom. I appreciate the encouragement. Do you have any actual advice?"
 
 "Yes. Keep your pearls away from the swine."
 
-"Yeah yeah yeah, I've heard that one before. Anything else?"
+"Thanks mom, I hadn't heard that one before. Anything else?"
 
 "You can't just convert people at the barrel of a railgun. It doesn't stick. You have to win their hearts and minds."
 
-"You're not the first person to tell me that one either," Stacy thought, looking over at Filbert.
-
 Filbert chose that moment to spring to his feet and run to the window. "Look!" he shouted excitedly, pointing in the distance. "Land!"
 
-The sun reflected off a glimmering white ice sheet in the distance. Stacy II's heart beat rapidly and she began to sweat. Although she'd mostly enjoyed her day-to-day experience living with Anarchists on New Australia, she was wary of the fact that they'd been unable to scale past a hundred people before resorting to an institutionalized cannibalism-based justice system. What horrors would a society of millions of ungoverned people inflict on each other? Still, Vincent and Xavier had seemed fairly normal. And her family seemed happy enough. But Curtis had seemed normal too, right up to the point where he'd sentenced her friend to be roasted and eaten.
+The sun reflected off a glimmering white ice sheet in the distance. Stacy II's heart beat rapidly and she began to sweat. Although she'd mostly enjoyed her day-to-day experience living with Anarchists on New Australia, she was wary of the fact that they'd been unable to scale past a hundred people before resorting to an institutionalized cannibalism-based justice system. What horrors would a society of millions of ungoverned people inflict on each other? Still, Vincent and Xavier had seemed fairly normal. But Curtis had seemed normal too, right up to the point where he'd sentenced her friend to be roasted and eaten.
 
 "You'll be fine," her mom reassured her. "Vincent's Anarchy is totally different from Curtis's. These are _elite human capital_, don't you know."
 
@@ -56,19 +36,7 @@ Stacy II cringed. The phrase 'human capital" brought up unpleasant memories from
 
 Her mom laughed. "You're right, a true elite would have rallied the troops and sank the People's Republic back into the sea."
 
-As they reached the ice, she looked down through the glass wall at the frozen landscape below. A distinct hexagonal tessellation was visible in the ice, stretching as far as she could see. The land was dotted with glass domes, which were connected by long, wide trails of animal tracks.
-
-"That's not natural," she remarked to Filbert.
-
-"It's Jurassic Park," he explained. "I heard they were planning on towing it here. I can't believe they pulled it off."
-
-"Won't the dinosaurs all freeze to death?"
-
-"They're trying to breed them to be cold-resistant. Splicing in penguin DNA or something."
-
-Stacy II nodded. Did towing an enormous island to Antarctica and penguinizing its native dinosaurs qualify as 'elite' activity? For some definition of elite, perhaps. She was skeptical.
-
-Eventually, the frozen hexagonal tiles disappeared, to be replaced by natural rock forms and the Transactic Mountains. The Terrarium began ascending to clear the mountains.
+Eventually, the Transactic Mountains appeared in the distance. The Terrarium began ascending to clear the mountains.
 
 "Where will we find Xavier?" Stacy II asked her mom.
 
@@ -104,7 +72,7 @@ Filbert kept his mouth shut and waited for her to answer her own question.
 
 "Let's have a look, shall we? Oh yeah! They're cowering under domes in the least hospitable part of the planet! If only they stood and fought, they wouldn't have to live like this."
 
-Filbert shrugged. "It's temporary. They're building flying cities and going to space. Why would they want to go back to the ocean?"
+Filbert shrugged. "It's temporary. They're moving to space. Why would they want to go back to the ocean?"
 
 Stacy II growled with frustration. "God damn it! Why is it so hard? All I want is to raise an army and reclaim my rightful throne. Is that really so much to ask?"
 
@@ -156,17 +124,17 @@ The juice vendor laughed and began halving oranges for Filbert's drink. As he pl
 
 "Beats me. If anyone knew, he'd probably be stoned to death."
 
-Stacy II thanked the vendor and walked away, mulling over this newfound information. Finally, a lead! Her mind was a wrestling match between emotion and logic. On the one hand, the deep, primordial regions of her soul ached to find the man responsible for her mother's death and torture him, cutting off bits of his body and feeding them to him until he begged for death. On the other hand, she could use the help of a 'statist mastermind', particularly one who understood the inner workings of the PR.
+Stacy II thanked the vendor and walked away, mulling over this newfound information. Finally, a lead! Her mind was a wrestling match between emotion and logic. On the one hand, the deep, primordial regions of her soul ached to find the man responsible for her mother's death and torture him - crucifying him to office furniture and throwing darts at him until he begged for death. On the other hand, she could use the help of a 'statist mastermind', particularly one who understood the inner workings of the PR.
 
 Dragging a protesting Filbert down the street, she quieted her mind enough to form a coherent internal monologue and summoned her mom.
 
-******
+---
 
 Her mom gave up on the search almost immediately, and handed the problem over to Russell.
 
 "You need to give me more to go on than that," Russell explained. "'Xavier's prisoner, who sentenced Stacy to death and also briefly invaded the Terrarium' isn't a valid search term."
 
-"What more do you want?" Stacy II asked, exasperated. For an alleged genius, he was having an awful lot of trouble executing a simple search. "There can't be that many people who fit that description!"
+"What more do you want?" Stacy II asked. For an alleged genius, Russell was having an awful lot of trouble executing a simple search.
 
 "The search engine only takes descriptions of their present state. I can filter by their name, height, weight, etc."
 
@@ -180,28 +148,38 @@ Russell was silent for a moment as he tapped at his keyboard, before responding,
 
 "All men in Antarctica alone in basements!"
 
-Another pause, followed by "Four hundred and thirty eight results. I guess basements are popular places to hang out."
+Another pause, followed by "Thirty eight results. I guess basements are popular places to hang out."
 
 "Xavier's basement!"
 
-"Ah yeah, that's a good one. Hang on."
+"Right. Hang on."
 
 Russell paused again, while Stacy II grimaced, meticulously tore strips off her empty paper cup, and tried to keep her mental Tourrette's syndrome from offending Russell in her impatience. Filbert watched her, nervously.
 
 "One result. Good search query! You see? How hard was that?"
 
-Stacy II grumbled and tried to heave her train of thought from annoyance to gratitude. She would probably need Russell's help again in the future, and the more of her honest opinions he heard, the less generous he would likely feel.
+Stacy II grumbled and tried to heave her train of thought from annoyance to gratitude.
 
-"Hang on!" Russell exclaimed. "I recognize this asshole. What are you planning on doing with him?"
+"Hang on!" Russell exclaimed. "I recognize this dickhead. What are you planning on doing with him?"
 
 "Hadn't decided yet. Why?"
 
-"He tortured me to death."
+"He tortured me to death. Ripped off all my fingernails and made me listen to Hip to be Square by Huey Lewis and The News on repeat."
 
-"Wow," Stacy II responded. "That's three for three. Funnily enough, I was thinking of torturing him to death too."
+"Wow," Stacy II replied. "So he killed all three of you? Funny. I was thinking of torturing him to death too."
 
 "Have at it. He's in Xavier's basement. I'll walk you there."
 
 Stacy II picked up the pieces of her discarded pieces of paper cup, and grabbed Filbert's arm.
 
-"Let's go," she said. "Your dad found him. He says he'll help us...get inquisitive, if you catch my drift."
+"Let's go," she said. "Your dad found him. He says he'll help us...get inquisitive on him."
+
+---
+
+Allen leaned back in his chair and chuckled. Messing with these AIs was the most fun he'd had in...goodness, in as long as he could remember.
+
+Things had gotten a little slow since Murdoch's wunderkind had locked his favourite player in a basement, but all it took was a well-timed conversation with an orange juice vendor, and things were moving again.
+
+Sure, Steve's stupid little New Sealand project was covered in poop and practically over. But the islands were still floating and he still had a couple decent players. He wouldn't rest until the islands were sunk to the bottom of the ocean and Steve's players were all his, for all time. He'd make that ineffectual little academic regret even crossing him.
+
+He smiled and watched as Stacy II and Filbert crossed the town to Xavier's mostly deserted house.

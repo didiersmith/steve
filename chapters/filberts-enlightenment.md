@@ -67,3 +67,11 @@ Over the next thirty seconds, Filbert relaxed. He relaxed more than more than mo
 When the last enemy was felled, Filbert dropped his railgun and broke down in tears.
 
 "So..." Annabel asked, as Filbert sobbed into his knees. "Is it safe to go out now?"
+
+---
+
+Stacy II huddled in the corner of the warehouse, blinking in confusion as the gunfight raged around her.
+
+Was she going crazy, or did the omnipotent creator of the universe really just call her up for a life coaching session?
+
+It must be the stress of the situation, she thought. Finally figuring 

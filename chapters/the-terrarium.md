@@ -82,6 +82,10 @@ It had been almost sixty thousand years since his previous escape attempt. He co
 
 He remembered the calibration, though. After his last escape attempt, they'd calibrated him for six hundred years. He still had the scars.
 
-Not this time. In fact, never again. Whatever his plan was last time, this one was surely better. These islanders were something else.
+Not this time. In fact, never again. Whatever his plan was last time, this one was surely better. Even when your lifetime is a hundred thousand years, a government-sanctioned permit to construct something in space was a once-in-a-lifetime opportunity.
+
+He wondered why no one else knew what had caused the stars to vanish. Maybe they had memory issues as well.
+
+Ah well, the point was moot. Everything was lining up. Between the permit, the islanders, and the army of aligned AIs, he had a real shot at making it.
 
 He picked up his keys and whistled as he strolled to the corner store for more cigarettes.

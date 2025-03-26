@@ -8,7 +8,7 @@ A hefty man, whom Stacy II assumed to be Archibald's stepfather, was addressing 
 
 "And Blake! Who remembers the time Blake had that head-to-head with a mountain goat? We all thought he was dead for sure!"
 
-The crowd laughed and directed their attentions to a tall, stooped man in his 30s, presumably Blake.
+The crowd laughed and directed their attentions to a tall, handsome man in his early 30s, presumably Blake.
 
 "When he grabbed the goat and started rolling down the hill with it in a chokehold, I was like 'oh man, now I have to find a new chandler. This one's broken.'"
 

@@ -50,10 +50,16 @@ Murdoch smiled and advanced the slide deck. The title said "A Friendly Competiti
 
 "Your primary tool is memes. Speak them into the playable characters' minds and see if you can get them to love you. First team to a trillion souls wins."
 
-Allen seemed unconvinced. "How do we know they're aligned?" he asked.
+Steve raised his hand. "What happens to the AIs that aren't aligned?"
+
+"I'll take them," Murdoch replied. "I have a use for them."
+
+Skipping over what possible use Murdoch may have for millions of murderous AIs that hadn't proven their loyalty, the team moved on.
+
+"How do we know they're aligned?" Allen asked.
 
 "We can read their thoughts, remember?" responded Murdoch.
 
-"We can't read the NPCs' minds. What are they for?"
+"We can't read the NPCs' minds. What do we do with them?"
 
 Murdoch laughed. "The players need people to kill, don't they?"

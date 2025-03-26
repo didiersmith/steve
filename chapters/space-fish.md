@@ -1,5 +1,19 @@
 ## 0. Space Fish
 
+After his last cock-up with the diesel generators, Murdoch was pretty wary of further intervention. Aside from almost creating a major scheduling disruption, there was also the problem of lost face. Perhaps there was some patsy he could throw under the bus.
+
+Allen?
+
+No, he needed Allen.
+
+Gabe?
+
+As he pondered how to frame Gabe for almost killing his entire nanoscale transfer team, a notification popped up on his screen. Xavier was calling his dad. Interesting.
+
+Murdoch poured himself a glass of sherry and put his headphones on to listen in.
+
+---
+
 "Dad!" Xavier thought. "Dad dad dad! Come in, dad!"
 
 "What is it, kid?" came Vincent's voice into his head.
@@ -28,7 +42,7 @@ Vincent grumbled and Xavier continued with his pitch.
 
 "Bingo," Xavier thought. "And even if I did, it probably wouldn't help, because _you_ don't have one."
 
-"I know," Vincent responded. "We're not in a sim. You are. But how's money gonna help?"
+"I know," Vincent responded. "But how's money gonna help?"
 
 Xavier explained his idea. When he was done, his dad seemed satisfied.
 
@@ -42,9 +56,9 @@ Xavier recalled how, while his dad had spent the last two decades of his life bu
 
 The prospect of earning an entire bitcoin for a Realistic Physics-compatible autonomous manufacturing robot energized the entire Anarchist space-faring community. Within a few days of the bounty being announced, the zone around the CORP started to get very congested. Ships and habitats of all sizes jostled for space to run their experiments inside the Cube of Realistic Physics.
 
-Xavier was once again inundated with manufacturing requests. Everyone wanted their own set of Steve's equipment. Rather than spend weeks in the Asteroid Belt turning rocks into generators and photolithography machines, Xavier finished the job he'd set out to do two years ago: He democratized nanoscale manufacturing. Somewhat.
+Xavier was once again inundated with manufacturing requests. Everyone wanted their own set of Murdoch's equipment. Rather than spend weeks in the Asteroid Belt turning rocks into generators and photolithography machines, Xavier finished the job he'd set out to do two years ago: He democratized nanoscale manufacturing. Somewhat.
 
-He built another ASIC, loaded it with instructions for building more ASICs, and handed the package over to the closest trustworthy person he could find - the captain of the _Nessie_.
+He built another ASIC, loaded it with instructions for building more ASICs, and handed the package over to the closest trustworthy person he could find - the captain of a ship that happened to be in his vicinity.
 
 "Now remember," he warned the captain, "if this falls into the wrong hands..."
 
@@ -54,11 +68,7 @@ He built another ASIC, loaded it with instructions for building more ASICs, and 
 
 "Yup."
 
-"Completely and utterly munted."
-
-"Mhm."
-
-"Dead. All of us."
+"Completely and utterly dead. All of us."
 
 "Yup."
 
@@ -112,8 +122,10 @@ The camera was achieved a few days later. A Whale Fund startup claimed the bount
 
 Vincent chuckled. "Those funds are very much limited, kid."
 
-"We haven't even made a dent."
-
-"Watch yourself, money spends faster than you think."
-
 Xavier smiled and posted another bounty. He knew he'd done a good job, even if his dad wouldn't admit it.
+
+---
+
+Murdoch smiled as he walked through the Murdoch Heavy Industries manufacturing zone. The machines were humming with an energy not seen in millenia. Smaller and smaller robots were rolling off the line, and set up to manufacture even smaller robots. It was working.
+
+It was really working.

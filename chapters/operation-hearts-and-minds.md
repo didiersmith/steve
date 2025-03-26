@@ -58,21 +58,17 @@ Amanda cried as she recalled her traumatic week. Stacy II tried earnestly to mai
 
 "Oh, honey," replied Stacy II.
 
-"I know it's dumb to get so upset over...leggings," Amanda sniffed, "but it's a pattern of behaviour, right? I swear it's because I'm Scots-Irish, and she and Justine are both Anglo-Saxon."
-
-Stacy II raised an eyebrow.
-
-"They've been treading all over us for a thousand years! Just as I thought we'd moved past it..."
+"I know it's dumb to get so upset over...leggings," Amanda sniffed, "but it's a pattern of behaviour, right? I swear, she just hates me for who I am."
 
 Her puffy, fat, corn-fed face jiggled as she sobbed. Stacy II wondered how much time she spent utilizing the equipment of the gyms she was sent to inspect.
 
 "Oh, sweetheart," Stacy II consoled her, "she doesn't deserve you."
 
-"You're right," Amanda replied, drying her eyes, "she doesn't. What am I even doing here? Why am I wasting my youth at this stupid job, working for this Protestant cow? I almost want to move to somewhere exotic and eat/pray/love, you know?"
+"You're right," Amanda replied, drying her eyes, "she doesn't. What am I even doing here? Why am I wasting my youth at this stupid job, working for this malicious cow? I just want to move to somewhere exotic and eat/pray/love, you know?"
 
 As a certified life coach, Stacy II wasn't supposed to lead her clients in any particular direction. But if a client came up with an idea herself, and if that idea just so happened to benefit Stacy II's ambitions...well, surely there was nothing wrong with lending a word of encouragement?
 
-"You know," Stacy II said carefully, "I think that's one of the best ideas you've ever had. Your life should be about pleasing _you_, not pleasing...Anglo-Saxon Protestants."
+"You know," Stacy II said carefully, "I think that's one of the best ideas you've ever had. Your life should be about pleasing _you_, not pleasing...malicious cows."
 
 Amanda brightened up. "I could go to Spain," she fantasized. "Eat risotto on the beach. Get swept off my feet by a cute Mediterranean guy."
 
@@ -82,9 +78,9 @@ Stacy II didn't bother to correct her understanding of risotto's origin, or remi
 
 "What's stopping you?"
 
-Amanda's face fell as she came back down to Earth. "My associate," she replied. "She's only just out of school. I can't let her report directly to that malicious cow, it would crush her soul. I'd never forgive myself."
+Amanda's face fell as she came back down to Earth. "My work," she said. "It's just too important. If I don't inspect the gyms, who will?"
 
-Suppressing the urge to roll her eyes at the thought of a government-employed associate assistant gymnasium inspector, Stacy II pressed forward. "What if you found a replacement for yourself? Someone you trusted to shelter your associate?"
+Stacy II pressed forward. "What if you found a replacement for yourself? Someone you trusted to treat your work with the respect it deserves?"
 
 Amanda nodded. "That could work. But who?"
 
@@ -92,44 +88,48 @@ Stacy II moved in for the kill. "Well, it just so happens..."
 
 ---
 
-Filbert's contributions to the effort were much less refined.
+Steve watched as Filbert worked his way through everyone he knew in Antarctica, clumsily attempting to enlist them into a domestic terror squad - presently, he was chatting up some attractive Anarchist girl named Annabel. He had no idea why Filbert was doing that, but he assumed it had something to do with Stacy II's succession plans. It was basically impossible to keep track of what was going on in the power struggle for New Sealand, while also programming Cubes of Realistic Physics for Murdoch and the Anarchists.
 
-"Absolutely not," she stated. "The Commonwealth is too big. Any invasion is a suicide mission."
+To be honest, he was kind of annoyed at Stacy and Russell for making him care about their kids this much. Things had been a lot easier when his AIs were just interchangeable units.
 
-Filbert stared into the angry, hazel eyes of Jack's eldest daughter. For whatever reason, he found feminine annoyance to be an extremely attractive quality. Conveniently, he encountered it almost daily.
+He listened in on Filbert's pitch.
 
-"It's not a full-on invasion," he attempted to explain. "We'll just be causing a bit of trouble, is all."
+"It's not a full-on invasion," Filbert attempted to explain. "We'll just be causing a bit of trouble, is all."
 
-"A bit of trouble?"
+"A bit of trouble?" Annabel asked.
 
 "You know, a spot of domestic terror. Assassinations and such. Maybe a bombing or two."
 
-"Why?" she asked. "So you can install that statist bitch you've been hanging out with?"
+"Why?" she asked. "So you can install that pretty little statist bitch you've been hanging out with?"
 
-"Hey!" Filbert bristled, defensively. "Stacy II's not that bad!"
+Steve chuckled. Stacy II was a tyrant down to her very bones. This was going to be a hard sell to the Anarchist.
 
-A wicked smile cracked through her annoyed facade. That was pretty attractive too, Filbert thought.
-
-"A statist is 'not that bad', huh? Did her pretty face make you forget everything my dad taught you?"
-
-Filbert narrowed his eyes. Surely, she was just toying with him now.
-
-"She would slash the Commonwealth bureaucracy," he tried to explain. "That would make it more Anarchist than it is now."
+"She would slash the Commonwealth bureaucracy," Filbert said. "That would make it more Anarchist than it is now."
 
 "More Anarchist?" she laughed. "That's like saying, getting raped by one person is 'more consensual' than getting raped by an entire gang."
 
-It kind of is, Filbert thought.
+It kind of is, Steve thought.
 
 "You sound like a goddamned..._Libertarian_," she added, spitting out that final word like it was rattlesnake venom she'd sucked out of a wound.
 
-"I'll make you a deal," Filbert offered. "Once we get that 'statist bitch' installed, she'll help you find the guys who killed your dad."
+Steve chuckled. Filbert was in over his head. He clicked around on the screen a bit and brought up some information on Annabel's background.
 
-Her facade finally shattered. Tears welled up in her eyes as she struggled to remain in control. "And then what?" she asked.
+"Her dad was killed by the Commonwealth Navy," he said into Filbert's head. "Tell her you'll help her exact revenge."
 
-Filbert shrugged. "Whatever you like." He paused, reflecting on the creative methods of torment he'd learned in New Australia. "Do you know what gibbets are?"
+Down in StevieNix, Filbert blinked as he processed the new information.
+
+"Listen Annabel..." he said. "Look, I didn't want to say this, but...I'll make you a deal. Once we get that 'pretty little statist bitch' installed, she'll help you find the guys who killed your dad."
+
+Annabel's facade finally shattered. Tears welled up in her eyes as she visibly struggled to remain in control. "And then what?" she asked.
+
+Filbert shrugged. "Whatever you like. Do you know what gibbets are?"
 
 She shook her head.
 
 Filbert explained.
 
 She was on the phone within the hour, enlisting her friends into Filbert's domestic terror squad.
+
+Steve punched the air in celebration. Got her!
+
+He had no idea why Filbert needed a domestic terror squad, but he assumed it was important. In the meantime, he should probably check on how Xavier and his crew were doing in the CORP.

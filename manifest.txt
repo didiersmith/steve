@@ -41,40 +41,38 @@ human-rights.md # Stacy II
 the-weapons-development-program.md # Xavier
 old-testament-diplomacy.md # Stacy II
 speed-surprise-and-violence-of-action.md # Xavier
-# YOU ARE HERE
 monkeybot.md # Russell
-farmer-jack.md # Steve
 the-juice-to-squeeze-ratio.md # Stacy II
-the-orbital-ring.md # Murdoch and Xavier
-newtons-universe.md # Russell
-fully-automated-nano-whatever-manufacturing.md # Steve
+antarctica.md # Murdoch and Xavier
+criminal-conspirator.md # Steve
 death-by-rotisserie.md # Stacy II
-canary-in-a-physics-engine.md # Xavier
-von-neumann-paperclip-factory.md # Steve
+the-orbital-ring.md # Xavier
+reverse-prometheus.md # Russell
 statist-infiltrators.md # Stacy II
-the-cube-of-realistic-physics.md # Murdoch, Xavier
+long-mac-topped-up.md # Steve
+the-cube-of-realistic-physics.md # Xavier
 man-of-destiny.md # Sullivan
 permanent-schizophrenia.md # Xavier
-operation-hearts-and-minds.md # Stacy II
+operation-hearts-and-minds.md # Stacy II, Steve
 another-day-in-the-office.md # Xavier
-the-malicious-cow.md # Stacy II
-space-fish.md # Xavier
+the-malicious-cow.md # Stacy II, Steve, cow
+space-fish.md # Xavier, Murdoch
 collateral-damage.md # Stacy II
 purely-hypothetical.md # Steve
 the-volunteer-space-force.md # Russell
 el-dorado-of-probable-cause.md # Murdoch
-out-of-control.md # Stacy II
+lean-operation.md # Stacy II
 space-idiot.md # Steve
-doomsquad69.md # Stacy II
+# HERE
 octagonal-occlusions.md # Russell
-condemned.md # Stacy II
+condemned.md # Stacy II (TODO)
 the-only-question-that-matters.md # Steve
-good-knowing-you.md # Russell
+good-knowing-you.md # Russell (TODO)
 filberts-enlightenment.md # Filbert
 murdoch-heavy-industries.md # Steve
-space-doughnut.md # Russell
+space-doughnut.md # Russell (TODO)
 defender-of-the-state.md # Sullivan
-mum.md # Russell
+mum.md # Russell (TODO)
 on-the-shelf-life-of-vitamins-in-space.md # Murdoch
 the-corp-conundrum.md # Xavier
 convenient-timing.md # Steve
