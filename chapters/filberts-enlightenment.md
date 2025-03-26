@@ -64,7 +64,7 @@ Holding his breath and trying his absolute best to not move the gun, Filbert squ
 
 Over the next thirty seconds, Filbert relaxed. He relaxed more than more than most people achieve in a thousand lifetimes. His mind, his ego, his entire sense of self, vanished. He became the perfect executor of Steve's will, an interface between his creator and the universe. What had taken Siddhartha forty-nine days of fasting under an olive tree, Filbert achieved in thirty seconds of firing a railgun through a wall. He achieved enlightenment.
 
-When the last enemy was felled, Filbert dropped his railgun and broke down in tears.
+When the last enemy was felled, Filbert dropped to his knees and broke down in tears.
 
 "So..." Annabel asked, as Filbert sobbed into his knees. "Is it safe to go out now?"
 
@@ -74,4 +74,36 @@ Stacy II huddled in the corner of the warehouse, blinking in confusion as the gu
 
 Was she going crazy, or did the omnipotent creator of the universe really just call her up for a life coaching session?
 
-It must be the stress of the situation, she thought. Finally figuring 
+It must be the stress of the situation, she thought. Being chained up helpless in the middle of a gunfight and finally realizing that God either didn't exist or didn't care about her, must have broken her brain.
+
+She, Stacy II, was not a queen. She was a schizophrenic.
+
+A crazy person who brought death and destruction to everyone she encountered.
+
+Her side was losing. Filbert's domestic terrorists had mostly been killed. The kidnappers, whoever's side they were on, had also been killed. A dozen black-clad Commonwealth soldiers in tactical gear were now freely wandering around the warehouse, rooting out and executing surviving combatants.
+
+One of them walked towards her corner.
+
+Brandishing a standard Commonwealth-issued M16 rifle, he advanced nonchalantly towards the small group of hostages. The other hostages squirmed excitedly. They must assume he's going to rescue us, Stacy II thought.
+
+That may be true of the other hostages, but in Stacy II's case, she knew better. Her fears were confirmed when he stopped a few paces from the corner, raised his rifle, and aimed it point-blank at her face.
+
+Stacy II wanted to clamp her eyes shut and curl into a ball - but that wouldn't be very regal.
+
+Perhaps she wasn't a real queen, but she was still raised a certain way. She stared her executioner in the face as he put his eye to the sights.
+
+Then, his head exploded.
+
+She was showered with blood, and pelted with chunks of skull and brain matter.
+
+The other uniformed combatants stopped their tour of death and looked, dumbfounded, at his corpse.
+
+Then, another's head exploded.
+
+None of them knew what was going on. The warehouse was filled with panicked screams as their military discipline fell apart and the soldiers ran this way and that, trying to dodge whatever supernatural force was causing their execution.
+
+It was futile. Within thirty seconds, they were all dead. The warehouse was still.
+
+Then, Filbert emerged from the armory, with Annabel in tow and a railgun in his hands. He was crying.
+
+"Okay, Steve" thought Stacy II. "Sorry I ever doubted you."

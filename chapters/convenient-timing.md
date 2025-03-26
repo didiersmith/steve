@@ -1,6 +1,6 @@
 ## 0. Convenient Timing
 
-Steve paced around the empty datacenter, mind spinning. He had no idea what to do, and no one to turn to. He couldn't even jack in to StevieNix.
+Steve paced around the empty datacenter, mind spinning. He had no idea what to do, and no one to turn to. Now that StevieNix was on the tarmac, being loaded into launch vehicles by monkeybots, he couldn't even jack in for advice.
 
 His phone buzzed in his pocket. Pulling it out, he answered it.
 
@@ -38,4 +38,8 @@ Steve looked around the empty datacenter and shook his head. "I can't believe yo
 
 "Screw you, Gabe."
 
-Steve hung up the phone, strode out onto the tarmac, and walked towards the launch vehicle. 
+Steve made up his mind. He hung up the phone, strode out onto the tarmac, and walked towards the launch vehicle. 
+
+Was he crazy? Probably. Only a crazy person would leave a life of comfort and security to go die in space with a criminal warlord.
+
+But if he'd learned anything from his AIs, it was that insanity could be kinda fun sometimes.

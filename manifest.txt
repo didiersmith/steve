@@ -65,12 +65,11 @@ lean-operation.md # Stacy II
 space-idiot.md # Steve
 # HERE
 octagonal-occlusions.md # Russell
-condemned.md # Stacy II (TODO)
+condemned.md # Stacy II
 the-only-question-that-matters.md # Steve
-good-knowing-you.md # Russell (TODO)
-filberts-enlightenment.md # Filbert
+wishful-thinking.md # Russell
+filberts-enlightenment.md # Filbert, Stacy II
 murdoch-heavy-industries.md # Steve
-space-doughnut.md # Russell (TODO)
 defender-of-the-state.md # Sullivan
 mum.md # Russell (TODO)
 on-the-shelf-life-of-vitamins-in-space.md # Murdoch
