@@ -63,7 +63,6 @@ the-volunteer-space-force.md # Russell
 el-dorado-of-probable-cause.md # Murdoch
 lean-operation.md # Stacy II
 space-idiot.md # Steve
-# HERE
 octagonal-occlusions.md # Russell
 condemned.md # Stacy II
 the-only-question-that-matters.md # Steve
@@ -71,10 +70,10 @@ wishful-thinking.md # Russell
 filberts-enlightenment.md # Filbert, Stacy II
 murdoch-heavy-industries.md # Steve
 defender-of-the-state.md # Sullivan
-mum.md # Russell (TODO)
+mum.md # Russell
 on-the-shelf-life-of-vitamins-in-space.md # Murdoch
 the-corp-conundrum.md # Xavier
 convenient-timing.md # Steve
-queen-stacy-the-second.md # Stacy II
+queen-stacy-the-second.md # Stacy II (TODO)
 in-the-flesh.md # Sullivan
 end.md

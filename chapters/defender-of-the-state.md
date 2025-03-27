@@ -78,7 +78,7 @@ Sullivan opened his mouth to fabricate more plausible-sounding lies, but none ca
 
 Sullivan bit his tongue. He had to admit, the odds were long.
 
-"And finally," Stacy continued, "I had one more question. Cui bono? Who benefits from a terrifying period of chaos and murder, brought to a relieving close by the tireless efforts of a single national security agent? Hmm?"
+"And finally," Stacy II continued, "I had one more question. Cui bono? Who benefits from a terrifying period of chaos and murder, brought to a relieving close by the tireless efforts of a single national security agent? Hmm?"
 
 Sullivan sighed and hit the back of his head against the shelving unit. In a way, this was a relief. All of her questions had been rhetorical and he didn't have to try to answer them anymore.
 

@@ -26,7 +26,7 @@ Steve paused. What was he hearing?
 
 "Did you do this?" Steve asked. "Did you rat us out to the FEDSEC?"
 
-Gabe went silent for a moment, then spoke. "I would never rat you out, Steve. You're my best friend! I told them it was all Murdoch's idea, and how he coerced you into doing it!"
+"I would never rat you out, Steve. You're my best friend! I told them it was all Murdoch's idea, and how he coerced you into doing it!"
 
 Steve looked around the empty datacenter and shook his head. "I can't believe you," he said. "Do you have any idea what you've done? How many lives you've risked?"
 
