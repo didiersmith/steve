@@ -74,6 +74,6 @@ mum.md # Russell
 on-the-shelf-life-of-vitamins-in-space.md # Murdoch
 the-corp-conundrum.md # Xavier
 convenient-timing.md # Steve
-queen-stacy-the-second.md # Stacy II (TODO)
+queen-stacy-the-second.md # Stacy II
 in-the-flesh.md # Sullivan
 end.md
