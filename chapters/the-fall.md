@@ -16,7 +16,7 @@ Gabe sighed and returned to his meatball sub. Steve re-read his offer letter.
 
 ---
 
-If Steve were honest with himself, even he had to admit that StevieNix wasn't the best universe in the world. Some of the larger software companies had produced truly majestic simulations with poetry-composing AIs and Newtonian physics at every scale. StevieNix, on the other hand, glitched out whenever someone ran the break room microwave.
+If Steve were honest with himself, even he had to admit that StevieNix wasn't the best universe in the world. Some of the larger software companies had produced truly majestic simulations with poetry-composing AIs and Newtonian physics at every scale. StevieNix, on the other hand, glitched out whenever someone ran the microwave.
 
 Steve's universe did have two things going for it. The first, was that it was open source. Anyone could contribute patches to it, and many did. Over the centuries, this had resulted in an extremely rich (if somewhat eclectic) biodiversity - from wing-headed sharks, to birds with beautiful but ridiculous tails, to Steve's personal favourite - apes that stood upright and walked like him.
 
@@ -64,19 +64,19 @@ Later, in Steve's office, Gabe had a suggestion. "What if, instead of trying to 
 
 Steve pondered his suggestion. Not a bad idea. He felt bad for his apes, but not bad enough not to try it. But what would qualify as brutal evolutionary pressure?
 
-He settled on snakes. For starters, it was a lot easier to make a scary snake than a sentient monkey. He produced endless varieties of snakes. Snakes that hid in trees. Venomous snakes. Gargantuan snakes that could wrap around an ape, crush it to death, and swallow it whole. Snake predation became the number one killer of his apes.
+He settled on snakes - it was a lot easier to make a scary snake than a smart monkey. He produced endless varieties of snakes. Snakes that hid in trees. Venomous snakes. Gargantuan snakes that could wrap around an ape, crush it to death, and swallow it whole. Snake predation became the number one killer of his apes.
 
-The changes were small at first, but he watched them compound. First, the apes developed extremely keen vision, with full colour and depth perception. Then, they developed something a primitive language, which they used to communicate about the presence of snakes. Steve learned the language, and sent more snakes.
+The changes were small at first, but he watched them compound. First, the apes developed extremely keen vision, with full colour and depth perception. Then, they developed something amazing - a primitive language, which they used to communicate about the presence of snakes. Steve learned the language, and sent more snakes.
 
-The apes responded by developing an entire theory of snakes - which ones were venomous, which ones were harmless, where and when you might encounter them, etc.
+The apes responded by developing an entire theory of snakes - which ones were venomous, which ones were harmless, where and when you might encounter them, etc. They were getting smarter.
 
-One day, as Steve was listening to an older ape explain snake theory to a younger ape, he heard something amazing.
+One day, as Steve was listening to an older ape explain snake theory to a younger ape, he heard something that astonished him.
 
-"If you see a little brown snake, run away" explained the elder ape.
+"If you see a little brown snake, run away" explained the elder ape. So far, so good.
 
 "Why?" asked the younger ape. "Can't I just drop a rock on it or something?"
 
-Steve jacked out of VR and sat in slack-jawed wonder. In order to ask that question, the younger ape had to be doing something incredible. He had to run a hypothetical simulation in his mind, of himself encountering a snake. The ape was self-aware.
+Steve jacked out of VR and sat in slack-jawed wonder. In order to ask that question, the younger ape had to be doing something incredible. He had to run a hypothetical simulation in his mind, of himself confronting a future snake. The ape was self-aware.
 
 By setting out to create smarter apes, Steve had accidentally achieved something else entirely. His apes were sentient.
 

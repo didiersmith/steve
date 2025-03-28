@@ -1,8 +1,10 @@
 ## 0. The Dogs of War
 
-"It wasn't in the spec, but I guess it's a step in the right direction" Murdoch conceded. "It's hard to imagine someone winning an interstellar war if they can't wargame scenarios in their mind."
+Steve announced the unexpected development to Murdoch. He tried not to breathe as Murdoch took a long, thoughtful drag on a cigarette and exhaled the smoke all over his enormous, wood-paneled office.
 
-Steve beamed internally. This was high praise, coming from Murdoch.
+"It wasn't in the spec," Murdoch said, "but I guess it's a step in the right direction. It's hard to imagine someone winning an interstellar war if they can't wargame scenarios in their mind."
+
+Steve beamed. This was high praise, coming from Murdoch.
 
 "You've got other problems, though."
 
@@ -12,7 +14,7 @@ Steve's mood dampened.
 
 "What's the difference?"
 
-"Brutes kill for food. In the case of your sim, they also kill for...reproductive opportunities. But warriors kill for something greater. Warriors kill for love, for ideology, for glory. We need warriors."
+"Brutes kill for food. In the case of your sim, they also kill for...reproductive opportunities. But warriors kill for something greater. Warriors kill for love, ideology, glory. We need warriors."
 
 Warriors. What a design brief. The thought of killing someone was so foreign to Steve, he already considered it an accomplishment that his apes would do it for food. But killing someone for love? What does that even mean?
 
@@ -20,7 +22,7 @@ He set about writing genes for aggression.
 
 His first attempts failed miserably. Senseless bloodshed overwhelmed any primitive societies his beings had managed to form. Even the smallest genetic tweaks often resulted in family members killing each other on whims. At one point, the entire species was so overwhelmed with violence that he had to wipe the slate clean in a global cataclysm and start again from the least aggressive seed population he could find.
 
-As usual, the sexual reproduction mechanic was thwarting him. The most efficient way for an aggression gene to reproduce was to convince its organism to channel said aggression into directly propagating its genetic material. This resulted almost invariably in the larger, stronger males of the species forcing themselves upon the smaller, weaker females. While this strategy was evolutionarily successful from the perspective of the aggression genes, it was otherwise an unmitigated dysgenic disaster.
+As usual, the sexual reproduction mechanic was thwarting him. The most efficient way for an aggression gene to reproduce was for its organism to channel said aggression into violent propagation of its genetic material. This resulted almost invariably in the larger, stronger males of the species forcing themselves upon the smaller, weaker females. While this strategy was evolutionarily successful from the perspective of the aggression genes, it was otherwise an unmitigated dysgenic disaster.
 
 The entire idea of sexual reproduction was to accelerate evolution by allowing the organisms to evaluate each other and combine their genetic material with those deemed most fit. The freedom to evaluate the counterparty's fitness and select with whom to reproduce was foundational, and typically drove the species towards greater intelligence, greater health, and (in Steve's opinion) greater aesthetic appeal. The high aggression subgroups which lost that freedom quickly and relentlessly degenerated into stupid, unhealthy, ugly brutes who channeled any and all efforts into copulation.
 

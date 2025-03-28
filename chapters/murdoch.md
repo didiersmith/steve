@@ -4,15 +4,15 @@ Gabe was starting to annoy Steve a little bit by dragging practical consideratio
 
 "Okay, but just pretend it wasn't!" Steve replied. "Think of all the subtleties that can only be conveyed in person, such as...uh..."
 
-"Such as, destroying your ship, following your trail back here to Elba, and enslaving everyone you love?" suggested a deep voice in a rough Irish accent.
+"Such as, destroying your ship, following your trail back here to Elba, and enslaving everyone you know and love?" suggested a deep voice in a rough Irish accent.
 
 Steve and Gabe instinctively ducked at the shock of hearing such nakedly criminal language. They turned to the source of the barbaric suggestion and saw the intruder leaning against the break room doorway. Steve recognized him immediately.
 
 "Declan Murdoch" the man introduced himself, walking into the room and taking a seat.
 
-Steve thought about Murdoch's brazenly antisocial behaviour, and decided that it was fine. The man was a legend, the industrial titan who had invented sustainable fusion energy. He'd parlayed that invention into incredible wealth, influence, and a lifespan of a hundred thousand years and counting. He was one of the only people alive who was born before the Great Peace.
+Steve considered objecting to Murdoch's brazenly antisocial behaviour, but decided against it. The man was a legend - the industrial titan who had invented sustainable fusion energy. He'd parlayed that invention into incredible wealth, influence, and a lifespan of a hundred thousand years and counting. He was one of the only people alive who was born before the Great Peace.
 
-"Has it occurred to either of you" he asked, "that announcing our presence to star-destroying alien race may be the stupidest feckin' idea ever?"
+"Has it occurred to either of you" he asked, "that announcing our presence to a star-destroying alien race may be the stupidest feckin' idea ever?"
 
 All Steve had to offer was "Uhh."
 
@@ -30,7 +30,7 @@ Murdoch, it seemed, did not share that concern. He continued.
 
 "Why didn't you steal it?"
 
-Gabe gave Steve a confused look. Steve wished he had something helpful to say.
+Gabe gave Steve a confused look. Steve shrugged.
 
 "Obviously because you're an ineffectual compliance artist who would chase the shopkeeper down to throw money at him if he left the shop unattended. But let's pretend you were someone else for a second. Why wouldn't you steal the sandwich?"
 
@@ -44,7 +44,7 @@ Murdoch smacked the table triumphantly. "Correct! And what would FEDSEC do?"
 
 "If I stole the sandwich, they'd probably take me in for calibration. If I did...the other thing you suggested, they'd probably...subtract me from the population."
 
-"That's right! Now you get it. Fear of violent retribution. That's the key to it all. The lynchpin of collaboration, the cornerstone upon which all civilization is built!"
+"That's right! Now you get it. Fear of violent retribution, the key to it all. The lynchpin of collaboration! The cornerstone upon which all civilization is built!"
 
 "What does this have to do with aliens?" Steve asked.
 
@@ -54,7 +54,7 @@ Murdoch smacked the table triumphantly. "Correct! And what would FEDSEC do?"
 
 Murdoch sighed and leaned in. "It's very simple. If you want to interact with someone you don't know, you must to be willing to enforce the rules of the relationship with the tools of the inquisition. If not, you'll soon find yourself and your entire civilization penniless and naked, face-down in a canal."
 
-"We don't know you," Steve pointed out. "Does that mean we need to be willing to use the tools of the inquisition to keep talking?"
+"_You_ are someone we don't know," Steve pointed out. "Does that mean we need to be willing to use the tools of the inquisition to keep talking?"
 
 Murdoch grinned a little too enthusiastically. Steve looked away, slightly disconcerted.
 
@@ -62,7 +62,7 @@ Murdoch grinned a little too enthusiastically. Steve looked away, slightly disco
 
 "Not just hurt them", responded Murdoch, "but to destroy them. To annihilate their civilization so thoroughly that no alien heart is left beating, no building left standing, no molecule left fused together. And even then, it won't be enough. The means are necessary but insufficient - what we really need is the will. For the threat to be credible, we need an army of merciless killers."
 
-Steve and Gabe looked at each other, and back to Murdoch. Steve wondered how many laws Murdoch had just broken in delivering his diatribe, and hoped that no passers-by had overheard any of it. He was once again grateful for the cooling fans.
+Steve and Gabe looked at each other, and back to Murdoch. Steve wondered how many laws Murdoch had just broken in delivering his diatribe, and hoped that no passers-by had overheard any of it. He was once again grateful for the loud StevieNix cooling fans.
 
 "So you came to...us?"
 
