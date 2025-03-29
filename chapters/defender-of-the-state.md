@@ -12,7 +12,7 @@ He had had no choice. They'd forced his hand. They'd asked for it.
 
 Nothing. How annoying. This had been his first time working with this particular Commonwealth Special Forces regiment, and so far, results were less than impressive. He made a mental note to reprimand them later.
 
-His GPS said that he was a mere four minutes from the tracker he'd placed on doomsquad69's van, so he simply followed the blue line on the map and tried not to get too annoyed about the rank insubordination implied by the radio silence.
+His GPS said that he was a mere four minutes from the tracker he'd placed on the kidnappers' van, so he simply followed the blue line on the map and tried not to get too annoyed about the rank insubordination implied by the radio silence.
 
 ---
 
@@ -38,7 +38,7 @@ Filbert cracked him over the back of his head with his gun and he fell to his kn
 
 ---
 
-Sullivan woke up, disoriented, crucified to a shelving rack. His head hurt like he was waking up from a two-bottle-of-scotch hangover, and he was pretty sure one of his ribs was broken.
+Sullivan woke up, disoriented, crucified to a shelving rack. His head hurt like he was waking up from a two-bottle-of-scotch hangover, and he was pretty sure one of his ribs was broken. Hip to be Square by Huey Lewis and the News was playing from a portable stereo in the corner.
 
 "How did you find us?" Stacy II asked again, as she cleaned her nails with a railgun projectile.
 

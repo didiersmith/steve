@@ -46,19 +46,17 @@ From their hiding spot behind a hut, Stacy II whispered to Filbert. "Shoot him!"
 
 Stacy II balled her fists. Just as Filbert was starting to work his way into her good graces, he had to revert to his old ways. "Just shut up and aim better!"
 
-She watched as her recalcitrant assistant sighed, raised his railgun, and stepped out from hehind the hut. He aimed, and shot Archibald's stepfather in the chest. It really wasn't difficult a shot.
+She watched as her recalcitrant assistant sighed, raised his railgun, and stepped out from hehind the hut. He aimed, and shot Archibald's stepfather in the chest. It really wasn't difficult a shot. What was he complaining about?
 
 The crowd was splattered with blood. Archibald's mother was showered in bits of guts and screamed. No one else said a word.
 
-Stacy II strode out from behind the hut, railgun held lazily at her side. Cosmo followed, waddling awkwardly on his talons. "Say the line," she whispered icily to Filbert as she passed him.
+Stacy II strode out from behind the hut, railgun held lazily at her side. "Say the line," she whispered icily to Filbert as she passed him.
 
 "All hail her royal highness, Queen Stacy the Second!" recited Filbert loudly.
 
-The confused and blood-splattered crowd turned to face the newcomers, and recoiled at the sight of the dinosaur. They shouted and scattered to the edges of the square, leaving the path between the trio and Archibald's mother deserted. Stacy II and her entourage walked up to take the position at the head of the square. Archibald's mother, similarly leery of the ketzel and its accompanying strangers, jumped off her rock and ran away to mild objections from the crowd.
+The confused and blood-splattered crowd scattered to the edges of the square, leaving the path between Stacy II and Archibald's mother deserted. She and Filbert walked up to take the position at the head of the square. Archibald's mother, leery of the strangers, jumped off her rock and ran away to mild objections from the crowd.
 
-"Go on," Stacy II said to Cosmo, nodding at the stepfather's fresh corpse. Having already eaten a large meal a few hours ago, Cosmo was notably less enthusiastic this time round. Nonetheless, he happily ripped the corpse apart with his beak and talons and nibbled away at the choicer cuts and organs. This still had the desired effect on the audience.
-
-"Hello, everyone!" Stacy II announced over the sound of Cosmo's culinary activities. "I am your queen, Stacy the Second."
+"Hello, everyone!" Stacy II announced. "I am your queen, Stacy the Second."
 
 The crowd grumbled.
 
@@ -100,9 +98,11 @@ Stacy glared at him for a few seconds before giving Filbert an ambiguous nod, wh
 
 He nodded and stepped backwards into the crowd, subdued.
 
-"The circumstances surrounding my rule may be temporarily out of step with the ideal," she announced through gritted teeth, "but my divine right is not in question. Anyone who believes otherwise is welcome to nourish Cosmo." She jerked her thumb towards the ketzel, who was picking the meatier bits from Archibald's stepfather's face.
+"The circumstances surrounding my rule may be temporarily out of step with the ideal," she announced through gritted teeth, "but my divine right is not in question. Anyone who believes otherwise is welcome to take it up with the Lord."
 
-"Anyone who wishes to accept my offer, step forwards and kneel for your queen. Anyone else will be shot. Think carefully."
+The crowd muttered.
+
+"Anyone who wishes to accept my offer, step forwards and kneel for your queen. The rest of you will be shot. Think carefully."
 
 One by one, the men of the crowd stepped forwards and knelt for their queen.
 
