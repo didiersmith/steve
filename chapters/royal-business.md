@@ -1,4 +1,4 @@
-## 0. Regal
+## 0. Royal Business
 
 Stacy II held back her tears as she stepped out of the hyperloop shuttle onto Vincent and Xavier's homestead. Crying over one's dead mother was simply not _regal_.
 

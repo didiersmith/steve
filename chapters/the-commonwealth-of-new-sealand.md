@@ -76,7 +76,7 @@ Now it was Russell's turn to laugh.
 
 Stacy nodded. "It'll be easy. I'll solve all our problems in like, ten minutes. Stealing? Illegal. Fighting? Illegal. Not having kids or being aligned with Steve? Illegal. All crimes punishable by hanging."
 
-"Monarchies are discredited," Russell objected. "The kings all kept inbreeding and getting syphillis."
+"Monarchies are discredited," Russell objected. "The kings all kept inbreeding and getting syphilis."
 
 "Queen," Stacy corrected him. "I'm basically queen already. Everyone moved here because of me. If I told them to go hang someone, they'd do it. You know it.
 

@@ -1,6 +1,6 @@
 ## 0. Purely Hypothetical
 
-"Haw are you doing, Gabe?" Steve asked on the phone. "Long time no chat."
+"How are you doing, Gabe?" Steve asked on the phone. "Long time no chat."
 
 "Yeah, great thanks!" Gabe replied. "Working on a new grant proposal."
 
@@ -12,7 +12,7 @@
 
 "Oh yes, it should be highly impactful."
 
-Steve paused for a moment, wondering how best to manoeuver the conversation towards his request.
+Steve paused for a moment, wondering how best to manoeuvre the conversation towards his request.
 
 "Is there any particular reason why you're calling?" Gabe asked.
 

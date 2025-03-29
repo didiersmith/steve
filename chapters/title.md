@@ -13,5 +13,5 @@ mainfont: "Times New Roman"
 ---
 
 \pagenumbering{gobble}
-\newpage
+\pagebreak
 \pagenumbering{arabic}

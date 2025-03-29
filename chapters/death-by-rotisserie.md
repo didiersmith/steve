@@ -144,7 +144,7 @@ She flew into another fit of rage.
 
 "Listen," Filbert said, holding his hands up. "Water under the bridge, okay? We've got work to do."
 
-After Filbert managed to figure out the kettle and make her a cup of tea, Stacy II started to feel better. "So what's your plan for breaking Arcihe out?" she asked.
+After Filbert managed to figure out the kettle and make her a cup of tea, Stacy II started to feel better. "So what's your plan for breaking Archie out?" she asked.
 
 "Easy," Filbert responded. "His guards are asleep. Or, at least, they were twenty minutes ago. The plan is, we break him out."
 

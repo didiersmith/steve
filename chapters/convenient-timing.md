@@ -42,4 +42,4 @@ Steve made up his mind. He hung up the phone, strode out onto the tarmac, and wa
 
 Was he crazy? Probably. Only a crazy person would leave a life of comfort and security to go die in space with a criminal warlord.
 
-But if he'd learned anything from his AIs, it was that insanity could be kinda fun sometimes.
+But if he'd learned anything from his AIs, it was that there was more to life than sanity.

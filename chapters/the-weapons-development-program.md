@@ -168,7 +168,7 @@ It was relatively easy to tell if a design dealt sufficient damage to the gel - 
 
 It was much harder to tell if a design was "panel-safe". It was here that the main compromise in Xavier's glass surfaced - the imperfections in the material caused by the integrated circuit. The embedded wires and transistors were tiny and far between, but they formed weak points that - if struck directly - could compromise the entire panel. It was not uncommon for a panel to take a hundred rounds without showing a single scratch, before being completely destroyed by an unluckily-placed hundred and first round.
 
-The panel-safety criterion was set at ten thousand rounds - ie., for a gun/projectile design to be deemed panel-safe, a panel would have to survive ten thousand rounds from the combination in question.
+The panel-safety criterion was set at ten thousand rounds - i.e., for a gun/projectile design to be deemed panel-safe, a panel would have to survive ten thousand rounds from the combination in question.
 
 The testing team built automatic turrets, which would pan the guns across the target panels while shooting continuously. The design team set about modifying their guns to support optional belt feeding, external cooling, and auxiliary power. At 800 rounds per minute, it would take twelve and a half minutes of continuous firing to prove a gun panel-safe. Fortunately, most designs were invalidated much sooner than that. Panel after panel was shattered and replaced.
 

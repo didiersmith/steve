@@ -1,6 +1,6 @@
 ## 0. Sullivan
 
-Sullivan was average. Average height, a bit pudgy, not very good at sports. He wasn't the brightest kid in school, but wasn't dumb either. With a great deal of effort, he was able to get mostly Bs, mixed with the occasional A. His guidance counselor advised him to join the military. He studied poly-sci instead, and then law.
+Sullivan was average. Average height, a bit pudgy, not very good at sports. He wasn't the brightest kid in school, but wasn't dumb either. With a great deal of effort, he was able to get mostly Bs, mixed with the occasional A. His guidance counsellor advised him to join the military. He studied poly-sci instead, and then law.
 
 He struggled to get his foot in the door at all the big law firms. Struggled to get work as in-house counsel, junior associate, paralegal. Struggled to pay rent. Struggled to get dates on Tinder. His sister told him he gave girls "the ick". He told his sister to go to hell. She helped him spruce up his profile, took a couple of decent headshots, taught him some openers. He went on a few dates, but could never close. Maybe his sister was right about the ick.
 
@@ -40,7 +40,7 @@ He underwent constant acceleration for a full hour. It felt like a child was bea
 
 He'd made the right choice.
 
-His seat swiveled around and the shuttle started decelerating. The same weak crushing feeling - but at least this time, he knew it would eventually end. It took another hour.
+His seat swivelled around and the shuttle started decelerating. The same weak crushing feeling - but at least this time, he knew it would eventually end. It took another hour.
 
 Eventually, the shuttle stopped. He got out. There was a woman there to meet him. Not the cult leader, but just as beautiful and bounding with youthful energy. She looked like she belonged on a high school football field, waving pompoms. She beamed a huge smile at him.
 

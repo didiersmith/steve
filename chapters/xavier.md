@@ -100,7 +100,7 @@ He picked it up. It was perfect. Impossibly light, visually flawless. He could s
 
 "Wow indeed," said the voice.
 
-Just then, the door to his lab burst open and his disheveled father ran in.
+Just then, the door to his lab burst open and his dishevelled father ran in.
 
 "Hey dad!" he yelled excitedly, running up to him. "It worked! Look!"
 

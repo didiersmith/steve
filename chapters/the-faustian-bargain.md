@@ -22,7 +22,7 @@ While the peninsula apes had performed their conquest with dual motives - econom
 
 In short order, the islander apes controlled a quarter of the world's land mass.
 
-Unprecedenced prosperity flowed from the islanders' vast colonies, but rather than spend the accumulated capital glorifying Steve, the islanders could not help but invest it. Capital begat innovation, which in turn begat capital. The pace of technological improvement exploded.
+Unprecedented prosperity flowed from the islanders' vast colonies, but rather than spend the accumulated capital glorifying Steve, the islanders could not help but invest it. Capital begat innovation, which in turn begat capital. The pace of technological improvement exploded.
 
 Not a single aspect of an islander ape's existence was spared from the innovations of hungry tinkerers and their wealthy backers, gagging for the opportunity to ease the ape's burdens in exchange for their money. From fertilizing the fields and crossing the continents to cleaning themselves post-defecation, every moment of every day was sliced, diced, analyzed and optimized for inefficiencies that may be profitably reduced by goods and services.
 

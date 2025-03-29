@@ -36,13 +36,13 @@ Allen, annoyingly, wouldn't drop the subject.
 
 Ah, feck. Murdoch realized what was happening.
 
-His plan had been perfect. The particle computers, StevieNix, the islanders, the monkeybots, the orbital ring, the warships. Everything had come together. Near flawless execution. And naw, two hours before launch, he realized that he'd made the classic error: He hadn't planned all the way to the end.
+His plan had been perfect. The particle computers, StevieNix, the islanders, the monkeybots, the orbital ring, the warships. Everything had come together. Near flawless execution. And now, two hours before launch, he realized that he'd made the classic error: He hadn't planned all the way to the end.
 
 He hadn't planned for this goddamned snake to stab him in the back at the last possible moment.
 
 "The CORP is a big responsibility," he said. "These islanders are hard to manage. Why don't you take the rest of StevieNix? Your aligned souls too. I'll take the CORP."
 
-Murdoch and Allen stared into each others' eyes, silently. Murdoch played through the scenario in his head, trying to figure out how to win. Allen, presumably, was doing the same. Murdoch wondered how long ago Allen had realized that aligned and useful souls, while useful, weren't the prize. The real jewel in the StevieNix crown was the technological innovation pouring out of the Cube of Realistic Physics.
+Murdoch and Allen stared into each other's eyes, silently. Murdoch played through the scenario in his head, trying to figure out how to win. Allen, presumably, was doing the same. Murdoch wondered how long ago Allen had realized that aligned and useful souls, while useful, weren't the prize. The real jewel in the StevieNix crown was the technological innovation pouring out of the Cube of Realistic Physics.
 
 "You can keep Vincent," Allen offered.
 
@@ -62,7 +62,7 @@ If Allen was willing to sink so low, there was nothing he could do.
 
 Allen shook his head. "Can't. They'll expire. Really short shelf life."
 
-Allen really was going there. The vitamin expiry date was obviously made up. It didn't matter, the message was clear. Allen had him by the balls, and was willing to saw them off with a rusty butter knife if it meant getting the CORP.
+Allen really was going there. The vitamin expiry date was obviously made up. It didn't matter; the message was clear. Allen had him by the balls, and was willing to saw them off with a rusty butter knife if it meant getting the CORP.
 
 He'd really hoped that the bastard would have some respect for the man who had made it all possible. But alas. That just wasn't in his nature.
 

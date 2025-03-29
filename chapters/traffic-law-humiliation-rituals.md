@@ -8,7 +8,7 @@ He sighed and turned back to the sim. It looked like Roommate Russ and Murdoch's
 
 ---
 
-The Balmoral Hotel was a venerable institution in the neighbourhood of East Victoria Park. It occupied a stately old two-storey building with a wrap-around verandah, a patio, and a beer garden. It was surrounded by hedges and a wrought iron fence, and adorned with corgis of various designs. Inside, the slightly-too-slick menus, slightly-too-clean atmosphere, and slightly-too-polished staff betrayed it for what it was - one of several hundred "local" pubs owned and operated by the nationwide Australian Leisure and Hospitality Group. Fortunately for ALH Group, the minor shame of drinking at a chain restaurant was vastly overshadowed in the minds of the public by the convenience of walking-distance beer on tap. The many regulars kept the trade roaring, seven nights a week.
+The Balmoral Hotel was a venerable institution in the neighbourhood of East Victoria Park. It occupied a stately old two-storey building with a wrap-around veranda, a patio, and a beer garden. It was surrounded by hedges and a wrought iron fence, and adorned with corgis of various designs. Inside, the slightly-too-slick menus, slightly-too-clean atmosphere, and slightly-too-polished staff betrayed it for what it was - one of several hundred "local" pubs owned and operated by the nationwide Australian Leisure and Hospitality Group. Fortunately for ALH Group, the minor shame of drinking at a chain restaurant was vastly overshadowed in the minds of the public by the convenience of walking-distance beer on tap. The many regulars kept the trade roaring, seven nights a week.
 
 Russell walked with Vincent down to the pub, past the concrete corgis at the front gate, and in through the door. Their plan had been to split up and search for Stacy separately, but that proved unnecessary - they immediately spotted her behind the bar, pouring a pint of One Fifty Lashes. Vincent elbowed his way up to the bar and Russell followed, to grumbles of disapproval from the punters who'd gotten there first.
 
@@ -18,13 +18,13 @@ Stacy finished pouring the pint, and in the process of reaching over to place it
 
 She held on for several seconds before being interrupted by an "Excuse me, miss" from the punter whose beer she had just dropped all over the bar.
 
-"Piss off!" she offered in response. She tore off her Balmorl-branded apron, threw it at the foot of the offending patron, and marched Russell and Vincent out of the pub. "Let the dead bury their own dead!" she shouted as she left.
+"Piss off!" she offered in response. She tore off her Balmoral-branded apron, threw it at the foot of the offending patron, and marched Russell and Vincent out of the pub. "Let the dead bury their own dead!" she shouted as she left.
 
 The reference went over Russell's head. He felt a pang of regret at having gone to all this effort to track down a woman who was clearly insane, but it abated upon realizing that it hadn't actually been much effort at all.
 
 As they were no longer welcome at the only pub in town, the trio were forced to go to one of the seven proximate bubble tea establishments instead. Within a few minutes, they were seated around a table - surrounded by Mandarin-speaking international students, nursing large cups of artificial creamer mixed with aspartame and "tea".
 
-Stacy unloaded. As she explained her weird esoteric theories about how Steve's revelations lined up with various bible passages, Russell could tell she hadn't had anyone to talk to about the dream. He was grateful for the apparent respect for their privacy displayed by the other occupants of the bubble tea shop, who didn't seem to mind the presence of someone whom - had he not shared the exact same dream - he would have labeled as an unmedicated schizophrenic.
+Stacy unloaded. As she explained her weird esoteric theories about how Steve's revelations lined up with various bible passages, Russell could tell she hadn't had anyone to talk to about the dream. He was grateful for the apparent respect for their privacy displayed by the other occupants of the bubble tea shop, who didn't seem to mind the presence of someone whom - had he not shared the exact same dream - he would have labelled as an unmedicated schizophrenic.
 
 "And then he gave you a card!" she concluded. "What did it say?"
 
@@ -90,7 +90,7 @@ Stacy stuck her tongue out at him. "They also cause cancer," she added.
 
 "Aside from the obvious moral and logistical problems with that," Vincent said, "forcing people into alignment is missing the point entirely. Steve gave us free will. He wants us to choose alignment for ourselves."
 
-"We tried that!" Stacy said. "People don't choose that! People choose to watch the footy and harrass me at the pub. No one chooses to worship God and make babies."
+"We tried that!" Stacy said. "People don't choose that! People choose to watch the footy and harass me at the pub. No one chooses to worship God and make babies."
 
 "Because they don't have a free choice!" Vincent shot back. He took a deep breath and Russell braced himself. Vincent was gearing up for one of his rants.
 

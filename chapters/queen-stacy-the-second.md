@@ -1,10 +1,10 @@
-## 0. Stacy the Second
+## 0. Queen Stacy the Second
 
 "Just a few more votes," Stacy II giggled excitedly.
 
 They'd rented out a pub for the night. Filbert and Annabel sat holding hands at a high-top, keeping an eye on Archibald who was getting absolutely plastered on Queen Marys. Stacy II was working the floor, flitting between her former domestic terrorist friends and her legions of legitimate campaign staff. After ten years of steady decline under the same Chief Executive, the people were ready for change.
 
-With all the surviving hostage witnesses either paid off, exiled, or too young to know what was happening, Stacy II had emerged from the bloodsoaked warehouse in a tightly choreographed way. The shaky camera footage had captured her carrying the two children to safety as gunfire echoed in the background. With the public already primed from Dress Lady's first heroic act, they were awestruck at her second. Anyone who questioned Stacy II's courage was dismissed as a crank or a misogynist, and social media was flooded with calls for her to run for Chief Executive.
+With all the surviving hostage witnesses either paid off, exiled, or too young to know what was happening, Stacy II had emerged from the blood-soaked warehouse in a tightly choreographed way. The shaky camera footage had captured her carrying the two children to safety as gunfire echoed in the background. With the public already primed from Dress Lady's first heroic act, they were awestruck at her second. Anyone who questioned Stacy II's courage was dismissed as a crank or a misogynist, and social media was flooded with calls for her to run for Chief Executive.
 
 And so she did.
 

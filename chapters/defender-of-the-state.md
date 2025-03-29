@@ -8,7 +8,7 @@ He had had no choice. They'd forced his hand. They'd asked for it.
 
 "Strike team, report?" he asked over the radio. He waited a few seconds, but no reply came. Weird.
 
-"Strike team, this is your DONS liason," he clarified. "Please report your status."
+"Strike team, this is your DONS liaison," he clarified. "Please report your status."
 
 Nothing. How annoying. This had been his first time working with this particular Commonwealth Special Forces regiment, and so far, results were less than impressive. He made a mental note to reprimand them later.
 
@@ -22,7 +22,7 @@ Huffy with indignation, Sullivan walked up to the warehouse's side door, twisted
 
 The stench of death hit him before the visuals made their impact. It was the worst thing he'd ever smelled - worse even, than the first week when the lift stations had gone out. He held his shirt over his nose and tried not to gag as he surveyed the scene.
 
-Crumpled bodies lay everwhere. Harold, the idiot he'd convinced to kidnap Stacy II, was sprawled out over the back of a couch, covered in blood and twisted in inhuman ways. Blake, one of the cretins that Filbert had imported from New Australia, had been just about sawed in half by automatic gunfire. Black-clad special forces were strewed around the entire floor of the warehouse, each ripped open with gaping exit wounds. And in the far corner - "oh, shit" he thought.
+Crumpled bodies lay everywhere. Harold, the idiot he'd convinced to kidnap Stacy II, was sprawled out over the back of a couch, covered in blood and twisted in inhuman ways. Blake, one of the cretins that Filbert had imported from New Australia, had been just about sawed in half by automatic gunfire. Black-clad special forces were strewed around the entire floor of the warehouse, each ripped open with gaping exit wounds. And in the far corner - "oh, shit" he thought.
 
 In the far corner was a small cadre of survivors, among which were Filbert and Stacy II. Three of them were aiming guns at him, and they all looked very, very pissed off.
 

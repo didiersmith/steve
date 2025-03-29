@@ -1,14 +1,14 @@
-## 0. Mum
+## 0. Revelations
 
 "We come in peace," Russell announced to the pair of alien intruders. "Take us to your leader."
 
-Stacy couldn't help but laugh. "You're such a dork," she told him.
+Stacy laughed. "You're such a dork," she told him.
 
 The intruders looked at the monkeybots suspiciously as the one who'd dropped his gun bent down to pick it up again.
 
 "Uh," said the other one. "Yeah, I guess we can do that. You're not gonna kill her, are you?"
 
-Russell blinked. Her? He had thought that Steve's people only came in one sex.
+Russell blinked. Her? Didn't Steve's people only come in one sex?
 
 "No," he said. "We're not gonna kill her."
 
@@ -18,7 +18,7 @@ The other guard leveled his gun towards the pair and backed slowly out of the br
 
 ---
 
-A few minutes into the walk, Stacy's relentless questioning and flattery had already caused their security escorts to relax their guard and become more akin to tour guides.
+Thank goodness for Stacy. A few minutes into their walk, her relentless questioning and flattery had already caused their security escorts to relax their guard and become more akin to tour guides.
 
 "What's that?" Stacy asked, pointing at the escalator in front of them.
 
@@ -60,7 +60,7 @@ He shrugged and said, "they seem nice."
 
 "Probably won't vivisect us?" she asked.
 
-"Probably," he responded. Repeating his shrug, he cocked his head and followed the two guards into the house.
+"Probably," he responded. Repeating his shrug, followed the two guards into the house.
 
 Stacy sighed and followed him through the doorway, shutting the door behind her.
 
@@ -148,7 +148,7 @@ Mum held up her finger to silence him and kept reading.
 
 Eventually, she looked up and shut the book with a thud.
 
-"Boys!" she called. The two guards from before filid into the room, followed by a half-dozen other similar-looking young males.
+"Boys!" she called. The two guards from before filed into the room, followed by a half-dozen other similar-looking young males.
 
 "Arrest them," Mum announced. The boys looked at her, bewildered.
 

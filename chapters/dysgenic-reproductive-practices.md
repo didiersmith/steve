@@ -34,7 +34,7 @@ Steve snorted. It was true. Most of Allen's credits were spent in battle. As bat
 
 He healed wounds completely with no visible scarring. He stopped arrows in their tracks, and guided swords to cracks in enemy armour. Credits, credits, credits.
 
-Steve shaved every intervention down to its bare minimum. He healed his soldiers just enough that they could disregard their grisley scars and keep fighting. He gently blew arrows slightly off course. He whispered automated advice into players' heads - "duck!" "behind you!" etc.
+Steve shaved every intervention down to its bare minimum. He healed his soldiers just enough that they could disregard their grisly scars and keep fighting. He gently blew arrows slightly off course. He whispered automated advice into players' heads - "duck!" "behind you!" etc.
 
 By the time he finished his optimized battlefield intervention program, their loyalists had retreated all the way to a tiny region in the corner of the peninsula, cowering and waiting for Allen's apes to finish them off. Steve jacked into their players' heads and commanded them to reconquer the peninsula. At the time, he had no idea how hard that would be.
 
@@ -48,7 +48,7 @@ The entire alignment team gathered to watch the final battle unfold. Steve hadn'
 
 Murdoch watched, fascinated, as the apes loaded black powder and a metal ball into a "cannon" and ignited it. The force of the explosion rocked the cannon backwards, and flung the metal ball at wicked speeds straight into the stone fortifications surrounding Allen's remaining loyalists. The stone crumbled.
 
-"Very impressive," Murdoch nodded. "They need to make them smaller though. More maneuverable. Like the bendy sticks, but with better range."
+"Very impressive," Murdoch nodded. "They need to make them smaller though. More manoeuvrable. Like the bendy sticks, but with better range."
 
 Steve wasn't sure about that, but was confident that memetic evolution would make it happen if it really was an improvement.
 

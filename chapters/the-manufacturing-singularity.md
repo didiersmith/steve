@@ -22,7 +22,7 @@ They needed a portable power source - lithium batteries fell far short of the ca
 
 The next generation of robots was three orders of magnitude smaller - while the spider weighed 40kg, its offspring weighed only 40 grams. They were modelled after ants, with six limbs and bodies the length of a human finger. Instead of being able to do a wide array of things, like the spider, each ant was specialized to perform only one or two tasks.
 
-Working together, the God/ape pair created cutter ants who carefully broke apart materials, transportation ants who could carry up to 40 times their bodyweight, welding ants, laser ants, carbon fiber synthesis ants, and many more. Each ant was powered by an array of supercapacitors and communicated to a base station via a salvaged bluetooth chip. The ants covered the entire workshop, moving in a coordinated swarm. When an ant ran low on power, it would run over to to the charging station and swap out its supercapacitors, while another ant took its place. There were ants everywhere.
+Working together, the God/ape pair created cutter ants who carefully broke apart materials, transportation ants who could carry up to 40 times their bodyweight, welding ants, laser ants, carbon fiber synthesis ants, and many more. Each ant was powered by an array of supercapacitors and communicated to a base station via a salvaged bluetooth chip. The ants covered the entire workshop, moving in a coordinated swarm. When an ant ran low on power, it would run over to the charging station and swap out its supercapacitors, while another ant took its place. There were ants everywhere.
 
 Then, they shrank the robots again.
 

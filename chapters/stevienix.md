@@ -28,7 +28,7 @@ Gabe looked around. As usual, he and Steve were the only ones in the break room 
 
 Steve cocked his head.
 
-"This is the seventeenth star to disappear in the past few millenia," Gabe continued. "There's a little burst of discussion in the astronomy journals every time, and then it quiets down. No one knows why it's happening."
+"This is the seventeenth star to disappear in the past few millennia," Gabe continued. "There's a little burst of discussion in the astronomy journals every time, and then it quiets down. No one knows why it's happening."
 
 "So therefore, it's aliens?"
 
@@ -42,4 +42,4 @@ Gabe nodded. "To call, or to knock?" he asked. "The great debate. It comes up ev
 
 There were few things Steve enjoyed more than a spirited, yet pointless academic debate. He immediately adopted the opposing viewpoint and launched into a passionate spiel about how it would be much better to construct an interstellar spacecraft and go visit the aliens in person ("knock") than to just contact them over radio ("call").
 
-The two professors became so engrossed in their discussion that they failed to notice when the break room door opened and a third figure slipped into the room.
+The two professors became so engrossed in their discussion that they failed to notice when the break room door opened, and a third figure slipped into the room.

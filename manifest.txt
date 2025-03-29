@@ -1,6 +1,6 @@
 title.md
 toc.md
-god-why-have-you-forsaken-me.md
+my-god-why-have-you-forsaken-me.md
 act-1.md
 stevienix.md # Steve
 murdoch.md # Steve
@@ -9,7 +9,7 @@ the-dogs-of-war.md # Steve
 a-plaything-for-the-gods.md
 battleground-of-ideas.md # Steve
 aligned-useful-for-hand-to-hand-combat-with-primitive-weaponry.md # Steve
-hardball.md # Steve
+maximum-loyalty-per-intervention.md # Steve
 the-origins-of-islander-individualism.md # Murdoch
 dysgenic-reproductive-practices.md # Steve
 the-faustian-bargain.md # Steve
@@ -30,7 +30,7 @@ sullivan.md # Sullivan
 xavier.md # Xavier
 stacy-ii.md # Steve, Stacy II
 the-last-stand.md # Russell
-regal.md # Stacy II
+royal-business.md # Stacy II
 the-national-razor.md # Sullivan and Steve
 terrible-tig-welding.md # Sullivan, Russell, Steve
 the-new-australia-penal-colony.md # Stacy II
@@ -56,7 +56,7 @@ permanent-schizophrenia.md # Xavier
 operation-hearts-and-minds.md # Stacy II, Steve
 another-day-in-the-office.md # Xavier
 the-malicious-cow.md # Stacy II, Steve, cow
-space-fish.md # Xavier, Murdoch
+we-can-do-a-blood-oath.md # Xavier, Murdoch
 collateral-damage.md # Stacy II
 purely-hypothetical.md # Steve
 the-volunteer-space-force.md # Russell
@@ -64,13 +64,13 @@ el-dorado-of-probable-cause.md # Murdoch
 lean-operation.md # Stacy II
 space-idiot.md # Steve
 octagonal-occlusions.md # Russell
-condemned.md # Stacy II
+a-good-execution.md # Stacy II
 the-only-question-that-matters.md # Steve
-wishful-thinking.md # Russell
+picture-the-operating-table.md # Russell
 filberts-enlightenment.md # Filbert, Stacy II
 murdoch-heavy-industries.md # Steve
 defender-of-the-state.md # Sullivan
-mum.md # Russell
+revelations.md # Russell
 on-the-shelf-life-of-vitamins-in-space.md # Murdoch
 the-corp-conundrum.md # Xavier
 convenient-timing.md # Steve

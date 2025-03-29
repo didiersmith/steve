@@ -1,4 +1,4 @@
-## 0. Space Fish
+## 0. We can do a Blood Oath
 
 After his last cock-up with the diesel generators, Murdoch was pretty wary of further intervention. Aside from almost creating a major scheduling disruption, there was also the problem of lost face. Perhaps there was some patsy he could throw under the bus.
 
@@ -126,6 +126,6 @@ Xavier smiled and posted another bounty. He knew he'd done a good job, even if h
 
 ---
 
-Murdoch smiled as he walked through the Murdoch Heavy Industries manufacturing zone. The machines were humming with an energy not seen in millenia. Smaller and smaller robots were rolling off the line, and set up to manufacture even smaller robots. It was working.
+Murdoch grinned with satisfaction as he walked through the Murdoch Heavy Industries manufacturing zone. The machines were humming with an energy not seen in millennia. Smaller and smaller robots were rolling off the line, and set up to manufacture even smaller robots. It was working.
 
 It was really working.

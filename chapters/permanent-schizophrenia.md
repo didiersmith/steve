@@ -122,7 +122,7 @@ Xavier unclipped his harness, summoned Ivan, and together they floated to the el
 
 "Just move slowly and try not to bump into anyone," Xavier responded.
 
-He maneuvered into the shaft, pulled on a rung, and floated along the dark corridor until he heard the crew laughing.
+He manoeuvred into the shaft, pulled on a rung, and floated along the dark corridor until he heard the crew laughing.
 
 He caught a rung, swung out of the shaft, and clumsily crashed into the floor. Ivan followed, held on a moment longer, and expertly floated into the new corridor with the grace of a sea turtle.
 
@@ -188,7 +188,7 @@ Xavier second-guessed himself as he waited. It couldn't be the generators. The G
 
 "What's the chemical reaction?"
 
-"The combustion of hydrocarbons. You have similar machines in StevieNix! I think you call them, diesel generators?"
+"The combustion of hydrocarbons. You have similar machines in StevieNix. I think you call them, diesel generators?"
 
 Xavier swore. He'd counted over a dozen diesel generators on his tour. His exhaustion wasn't caused by the recent stress - it was due to the generators burning all the oxygen in the ship. Levels were already high enough to give any health and safety inspector a stroke, and at the current rate, his entire crew would be long dead by the time The Building drifted out of the CORP in roughly ten hours.
 

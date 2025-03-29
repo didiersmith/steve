@@ -82,7 +82,7 @@ Steve reeled. What had Xavier built? What were the implications?
 
 Steve's heartbeat quickened as he processed this new information. It was one thing to academically debate "calling" versus "knocking", or to conduct AI alignment research in preparation for an imaginary interstellar war that would almost certainly never happen. It was another thing to participate in a realistic plan to violate the most sacred law in society: No one leaves Elba.
 
-He didn't know why space launches were banned. Some historical reason, decided a hundred millenia before his birth. All he knew was that, as of today, his job function had changed - from academic researcher, to criminal conspirator.
+He didn't know why space launches were banned. Some historical reason, decided a hundred millennia before his birth. All he knew was that, as of today, his job function had changed - from academic researcher, to criminal conspirator.
 
 He followed the group around wordlessly as Murdoch gave them a tour of the office, introducing them to their computers, the library of physics textbooks, and the coffee machine. The monkeybots had no idea that they were being asked to do something highly illegal. Should he tell them?
 

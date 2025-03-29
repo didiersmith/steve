@@ -60,7 +60,7 @@ Steve nodded.
 
 Steve fingered the flash drive in his pocket. "Why are Allen's useless?" he asked.
 
-"They keep going unaligned. He made extravagent promises about the afterlife. I think they find this," he gestured around, "a bit of a letdown."
+"They keep going unaligned. He made extravagant promises about the afterlife. I think they find this," he gestured around, "a bit of a letdown."
 
 "Unaligned?"
 

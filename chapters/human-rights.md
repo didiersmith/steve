@@ -46,7 +46,7 @@ From their hiding spot behind a hut, Stacy II whispered to Filbert. "Shoot him!"
 
 Stacy II balled her fists. Just as Filbert was starting to work his way into her good graces, he had to revert to his old ways. "Just shut up and aim better!"
 
-She watched as her recalcitrant assistant sighed, raised his railgun, and stepped out from hehind the hut. He aimed, and shot Archibald's stepfather in the chest. It really wasn't difficult a shot. What was he complaining about?
+She watched as her recalcitrant assistant sighed, raised his railgun, and stepped out from behind the hut. He aimed, and shot Archibald's stepfather in the chest. It really wasn't difficult a shot. What was he complaining about?
 
 The crowd was splattered with blood. Archibald's mother was showered in bits of guts and screamed. No one else said a word.
 
@@ -118,7 +118,7 @@ He didn't move. Stacy II looked at him expectantly. Nothing. She looked at Archi
 
 "Oh, for goodness' sake."
 
-Eventually, through her interrogations, she was able to get a rough idea of what tribes had formed on the island, and how easy it would be to conquer each one. They both reckoned the easist would be the Pacifists. As for the hardest, they disagreed on whether it was the House of Lords, or the Anarcho-Cannibalists.
+Eventually, through her interrogations, she was able to get a rough idea of what tribes had formed on the island, and how easy it would be to conquer each one. They both reckoned the easiest would be the Pacifists. As for the hardest, they disagreed on whether it was the House of Lords, or the Anarcho-Cannibalists.
 
 "The Anarcho-Cannibalists?" she asked.
 

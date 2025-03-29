@@ -62,7 +62,7 @@ The fiery blast ripped the crowded casino floor to shreds as she crossed behind 
 
 "Too jacked," Stacy II told Filbert that evening, shaking her head at the screen. "Less 80s action figure, more basement nerd. And lean harder into the terrorist aesthetic."
 
-Filbert deleted his prompt and tried again, typing `scrawny nerd balaclava ak47 anarchist flag` into the text field and clicking "generate". An image appeared of a slender man in a balaclava, toting an ak-47 in front of an an anarchist flag.
+Filbert deleted his prompt and tried again, typing `scrawny nerd balaclava ak47 anarchist flag` into the text field and clicking "generate". An image appeared of a slender man in a balaclava, toting an ak-47 in front of an anarchist flag.
 
 "That's it!" Stacy II said, approvingly. "That's our guy! Save it!"
 

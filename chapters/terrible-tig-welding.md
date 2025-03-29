@@ -46,7 +46,7 @@ Order would be brought to the planet. The world would know peace. Misery itself 
 
 Russell was delirious. Huey Lewis's magnum opus played on repeat in his head even when the stereo was switched off. He had not slept in what felt like years. He was starving, burned, mutilated, humiliated. His tormentor flitted in and out of his awareness, occasionally appearing from the white haze that dominated his vision, to brandish some new repurposed implement from the hardware store.
 
-The more Russell tried not to think about the computer, the more it filled his mind. Snippets of code scrolled across the white haze. Past chats with the LLM played out in his ears, synchronized to Hip to be Square. The IP adddress that he'd memorized two decades ago played over and over in his mind.
+The more Russell tried not to think about the computer, the more it filled his mind. Snippets of code scrolled across the white haze. Past chats with the LLM played out in his ears, synchronized to Hip to be Square. The IP address that he'd memorized two decades ago played over and over in his mind.
 
 He was going to crack.
 

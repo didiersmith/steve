@@ -12,7 +12,7 @@ Steve blushed. "You don't know that," he said. "These apes can surprise you."
 
 Murdoch laughed and pointed at Stacy's territory. "What's she up to?" he asked.
 
-"She's calling it the 'Theocratic Domininion,'" Steve explained. "TD for short."
+"She's calling it the 'Theocratic Dominion,'" Steve explained. "TD for short."
 
 "Sounds promising."
 
@@ -20,7 +20,7 @@ Murdoch laughed and pointed at Stacy's territory. "What's she up to?" he asked.
 
 "Legislator, eh?" Murdoch asked. "What are her rules?" 
 
-"The usual stuff. No robbing, killing, sexual assalt. Strict adherance to the alignment meme. Also, no importing weird chemicals."
+"The usual stuff. No robbing, killing, sexual assault. Strict adherence to the alignment meme. Also, no importing weird chemicals."
 
 "And her punishments?"
 
@@ -66,11 +66,11 @@ Murdoch smiled a wicked grin. "Couldn't be better," he said.
 
 Vincent's Anarchy was the least popular of the three territories. Only the bravest chose to emigrate there.
 
-Guided by Murdoch's whispers, Vincent rejected state authority as being morally illegitimate - indistinguishable from rule by mafia or warlord. In his view, states were granted power on the basis of two superstitions: That commands are somehow legitimate when they're labeled as "laws", and that violent thugs somehow become upstanding citizens when dressed in uniforms, given badges, and told to enforce those "laws". The cornerstone of his moral code was the Non-Aggression Principle (NAP), which states that it is immoral to initiate the use of force upon another person or their property. As states regularly violated the NAP, they were immoral. QED.
+Guided by Murdoch's whispers, Vincent rejected state authority as being morally illegitimate - indistinguishable from rule by mafia or warlord. In his view, states were granted power on the basis of two superstitions: That commands are somehow legitimate when they're labelled as "laws", and that violent thugs somehow become upstanding citizens when dressed in uniforms, given badges, and told to enforce those "laws". The cornerstone of his moral code was the Non-Aggression Principle (NAP), which states that it is immoral to initiate the use of force upon another person or their property. As states regularly violated the NAP, they were immoral. QED.
 
 Of course, once aggression had been initiated, violence was on the table. Any means at all could be justified to neutralize an aggressor - up to, and including, vigilante execution. In fact, Vincent considered thoughtful participation in vigilante lynch mobs to be a courageous exercise of civic duty, and worked hard to inspire the population to share his inclination. In practice, lynchings were rare - partially because the brutality of the punishment discouraged antisocial behaviour, and partially because Vincent set immigration policy by controlling the only international hyperloop station.
 
-Vincent was the first to admit that, in most parts of the world, an anarchist paradise would likely descend rapidly into a warlord-dominated hellhole (ie. a conventional state.) But he dared to dream, that by cultivating a virtuous population, true freedom from state predation could be achieved.
+Vincent was the first to admit that, in most parts of the world, an anarchist paradise would likely descend rapidly into a warlord-dominated hellhole (i.e. a conventional state.) But he dared to dream, that by cultivating a virtuous population, true freedom from state predation could be achieved.
 
 Unencumbered by the responsibilities of running a state, Vincent spent his time as he preferred - building islands. He and his crew adopted a policy - if any group of people came to them with a neat-enough sounding idea for an autonomous NAP-compliant canton, they'd build the islands necessary to make it happen. Cantons were constructed as conglomerations of small, mobile, hexagonal islands. This design was to encourage secessionism - if an internal dispute occurred within a canton, opposing divisions could simply float apart rather than resort to violence. This extended all the way down to to the household level, and it was common to see individual homesteads, floating alone, adorned with a single house, a barn, and a small collection of livestock.
 
@@ -84,7 +84,7 @@ A group of venture capitalists set up the Whale Fund. Modelled after a miniature
 
 The Whale Fund was immensely successful. Hungry founders and fed-up tech workers flocked to the arc of islands in the Pacific. The canton's business model was endlessly copied and tweaked by competing VCs, chasing after the masses of skilled workers that were rapidly evaporating out of the failed Golden State.
 
-Their model was endlessly replicated. Other technology cantons popped up. Murdoch's personal favourite was Jurrasic Park, whose inhabitants used gene editing technology to create modern-day domesticated dinosaurs. Not useful for creating interstellar warships, but entertaining nonetheless.
+Their model was endlessly replicated. Other technology cantons popped up. Murdoch's personal favourite was Jurassic Park, whose inhabitants used gene editing technology to create modern-day domesticated dinosaurs. Not useful for creating interstellar warships, but entertaining nonetheless.
 
 He was watching the apes try to saddle an enormous winged dinosaur one day, when his office door burst open and Allen walked in.
 

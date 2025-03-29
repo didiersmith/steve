@@ -36,7 +36,7 @@ Russell didn't feel like it. The massive, parallel genetic algorithm had given h
 
 They reached the Swan River at 4am. When they arrived at the sandy shoreline, Vincent took out his phone and spoke into his app, "okay, build the boat."
 
-The sand in front of them rippled like waves, as the billions of robots that had been following them through the tunnel network emerged, piecing together individual carbon atoms into an unfathomably complex lattice of nanotubes that made sense only to the LLM. Ribs began to take shape, before being hidden behind a perfectly smooth skin of carbon fiber. A figurehead of Steve's terrestrial avatar took shape on the prow, adorned with a diamond crown of thorns.
+The sand in front of them rippled like waves, as the billions of robots that had been following them through the tunnel network emerged, piecing together individual carbon atoms into an unfathomably complex lattice of nanotubes that made sense only to the LLM. Ribs began to take shape, before being hidden behind a perfectly smooth skin of carbon fibre. A figurehead of Steve's terrestrial avatar took shape on the prow, adorned with a diamond crown of thorns.
 
 In a few minutes, the boat was done. It resembled a mastless, black combination of a Viking warship and a Thai long-tail boat. The three humans pushed it into the river and climbed aboard.
 
@@ -94,7 +94,7 @@ Huge volumes of white foam were spilling out of the top, overflowing like a tapp
 
 "It'd better work, you complete and utter dropkick!"
 
-Vincent started the engine and maneuvered the flooded boat closer to the cylinder. Minutes elapsed as the foam continued to spill out and vanish into the sea. The trio shivered. Russell was beginning to regret not having brought a wetsuit - the sun was still barely up, and the water was seriously cold.
+Vincent started the engine and manoeuvred the flooded boat closer to the cylinder. Minutes elapsed as the foam continued to spill out and vanish into the sea. The trio shivered. Russell was beginning to regret not having brought a wetsuit - the sun was still barely up, and the water was seriously cold.
 
 Soon, the shivering turned into shaking. Russell looked at his compatriots. Stacy had given up trying to find a stable perch above the waterline, and was slumped against the wall of the boat, half submerged, arms wrapped around her legs, skin grey, lips blue. Vincent didn't look much better - his teeth were chattering uncontrollably and he appeared to have lost his final shred of enthusiasm. It dawned on Russell that, if Vincent's plan didn't come to fruition in the next few minutes, death by hypothermia would result.
 

@@ -20,7 +20,7 @@ The team nodded.
 
 "We could have an interstellar spacecraft in as little as a month."
 
-Russell double-checked his timeline in his head. It was aggressive, but not impossible. Innovations were popping out of the sim at a blistering pace, and from what he'd read in the textbooxs, interstellar travel wasn't nearly as much of a challenge in Realistic Physics as it was down in StevieNix.
+Russell double-checked his timeline in his head. It was aggressive, but not impossible. Innovations were popping out of the sim at a blistering pace, and from what he'd read in the textbooks, interstellar travel wasn't nearly as much of a challenge in Realistic Physics as it was down in StevieNix.
 
 "So my question to you lot is, what will our first interstellar mission look like? Who will go, where will they go, and what equipment will they need?"
 

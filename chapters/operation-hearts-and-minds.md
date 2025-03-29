@@ -14,7 +14,7 @@ Stacy II scoffed. What a ridiculous idea. No wonder the People's Republic had be
 
 "So why don't you just replace him with a magic 8 ball?" Filbert asked, curiously.
 
-"There was a referendum along those lines a few years ago," Sullivan replied, smiling. "A ouija board, actually. It failed to pass. Turns out, people really like having a human to blame. That's his main job."
+"There was a referendum along those lines a few years ago," Sullivan replied, smiling. "A Ouija board, actually. It failed to pass. Turns out, people really like having a human to blame. That's his main job."
 
 "How long has the current guy had the position for?" asked Stacy II.
 

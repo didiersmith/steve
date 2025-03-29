@@ -1,4 +1,4 @@
-## 0. Good Knowing You
+## 0. Picture the Operating Table
 
 "They're parachutes!" Stacy exclaimed. "Look!"
 
@@ -94,7 +94,7 @@ Russell pondered the dilemma. The ship was pretty strong. It would probably hold
 
 An enormous port opened on the top of the doughnut, revealing a dark cavern into which the tether disappeared.
 
-"Guess I don't have much of a choice," Stacy conceded.
+"Guess we don't have much of a choice," Stacy conceded.
 
 The ship was reeled into the recess, and the universe disappeared. A few moments later, the craft stopped with a sudden _thud_. As the artificial gravity kicked in, the two monkeybots were thrown to the floor.
 

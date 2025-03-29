@@ -8,13 +8,13 @@ Steve jacked in to StevieNix in search of her daughter.
 
 "Hey, are you busy?" he asked.
 
-Stacy II laughed aloud in response. 
+Stacy II laughed into her gag. 
 
-"Can't say that I am," Stacy II replied. "What's up?"
+"Can't say that I am," she replied. "What's up?"
 
 "I was hoping you could give me some advice."
 
-Stacy II laughed again into her gag. "You're asking me for advice? Have you seen what I've gotten myself into?"
+Stacy II shook her head. "You're asking me for advice? Have you seen what I've gotten myself into?"
 
 Steve looked at the screen. Now that she mentioned it, her situation did look pretty bad. Were those...chains? Huh.
 
@@ -30,11 +30,13 @@ Steve looked at the screen. Now that she mentioned it, her situation did look pr
 
 "Why is this a hard choice?" Stacy II asked.
 
-Steve thought of Stacy and Russell, who must be approaching Sirius by now. He thought of Vincent and Xavier, Murdoch's brilliant tech geniuses. He thought of Stacy II, Filbert, and his millions of other AI creations. He had thrown everything at them - snakes, blood feuds, made-up alignment memes, and war. So much war. Through it all, they'd never ceased to amaze him - no matter how hard life got for his AIs, they never gave up. Their resilience was incredible. He loved them.
+Steve thought of Stacy and Russell, who must be approaching Sirius by now. He thought of Vincent and Xavier, Murdoch's brilliant tech geniuses. He thought of Stacy II, Filbert, and his millions of other AI creations. He had thrown everything at them - snakes, blood feuds, made-up alignment memes, and war. So much war. Through it all, they'd never ceased to amaze him - no matter how hard life got for his AIs, they never gave up, and never ceased to find meaning in their short little lives.
+
+He loved them.
 
 "It just is," he said.
 
-Stacy II paused for a moment as she tried to understand.
+Stacy II paused for a moment.
 
 "Who are the people involved?" she asked.
 
@@ -46,19 +48,19 @@ Steve thought about how to describe Murdoch.
 
 "It's mostly this...maladjusted billionaire who's been using me as part of some criminal escape scheme."
 
-"Escape scheme," Stacy II repeated. "Where's he escaping from?"
+"Escape scheme," Stacy II repeated. "What's he escaping from?"
 
-"The society."
+"Everything."
 
 "I thought you were trying to make interstellar warrior AIs," Stacy II thought. "That's what my mom always taught me."
 
 Steve laughed. "I'm beginning to suspect that that wasn't the primary goal of this all."
 
-"How does he treat you?" Stacy II asked.
+"Who are your actual friends?" Stacy II asked.
 
 "What?"
 
-"Who treats you better, the criminal maladjusted billionaire, or the society who wants to 'calibrate' you for a couple decades?"
+"Who's actually going to have your back when the chips are down? Your best friend who wants to 'calibrate' you, or the criminal maladjusted billionaire who's been lying to you?"
 
 Steve didn't know how to answer the question.
 

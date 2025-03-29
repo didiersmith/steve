@@ -44,4 +44,4 @@ But hours wasn't enough time for everyone else. The habitats had been built for 
 
 He heard his dad swear, followed by the clunk of his headset being slammed down onto a desk. Then, silence.
 
-Well, Xavier figured, it would be nice to have his thoughts to himself again. With any luck, this Allen guy wouldn't be be so intrusive.
+Well, Xavier figured, it would be nice to have his thoughts to himself again. With any luck, this Allen guy wouldn't be so intrusive.

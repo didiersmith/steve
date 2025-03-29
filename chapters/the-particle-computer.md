@@ -4,7 +4,7 @@ Russell awoke with a start. He had had the strangest, most vivid dream. Weird.
 
 It was Saturday, so he tried to roll over and go back to sleep. His late-night gaming habit had rendered him in a constant state of sleep debt, and he relied fruitlessly on his weekend lie-ins to pay down the principal.
 
-Vincent was already in the kitchen when he made it downstairs, scooping pre-ground coffee beans into the french press. "Good morning, sunshine!" he said.
+Vincent was already in the kitchen when he made it downstairs, scooping pre-ground coffee beans into the French press. "Good morning, sunshine!" he said.
 
 "Good morning," groaned Russell in response.
 
@@ -34,9 +34,9 @@ Russell remembered. The random string of letters and numbers. An IPv6 address. T
 
 "I need a computer," he said.
 
-They grabbed the french press and their mugs, and practically ran upstairs to Russell's room.
+They grabbed the French press and their mugs, and practically ran upstairs to Russell's room.
 
-Russell fired up a terminal and pointed a remote shell at the IPv6 address. He was greeted with a standard UNIX environment. In his home directory, he found a number of directories containing source code, documentation, and tons of garbage-looking data that he couldn't make heads or tails of. At the top level, he found a file labeled README.txt. He opened it and started reading.
+Russell fired up a terminal and pointed a remote shell at the IPv6 address. He was greeted with a standard UNIX environment. In his home directory, he found a number of directories containing source code, documentation, and tons of garbage-looking data that he couldn't make heads or tails of. At the top level, he found a file labelled README.txt. He opened it and started reading.
 
 > Welcome Russell!
 
@@ -144,7 +144,7 @@ Russell and Vincent looked at each other. So far, the LLM's story was tracking w
 
 "What is Vincent holding?" typed Russell.
 
-"A mug containing 247mL of single-origin organic coffee, mixed with 36mL of heavy cream," came the response. "The coffee is over-extracted due to having steeped in a french press for several minutes longer than is typically recommended."
+"A mug containing 247mL of single-origin organic coffee, mixed with 36mL of heavy cream," came the response. "The coffee is over-extracted due to having steeped in a French press for several minutes longer than is typically recommended."
 
 Russell stared at Vincent in shock. He peeped into his coffee mug. 247mL seemed roughly accurate.
 
@@ -158,7 +158,7 @@ Right. God had a plan. Stacy had something to do with it. Human suffering would 
 
 "There are 245,281 people named Stacy currently alive in StevieNix! I am happy to help you locate any specific one, but I'm afraid I will require your assistance in narrowing down the list."
 
-"She is caucasian. Between the age of 22 and 30." Russell looked at Vincent who shrugged in agreement. Russell suspected that he, too, couldn't remember any other details about her appearance that he'd feel comfortable typing into the chatbot.
+"She is Caucasian. Between the age of 22 and 30." Russell looked at Vincent who shrugged in agreement. Russell suspected that he, too, couldn't remember any other details about her appearance that he'd feel comfortable typing into the chatbot.
 
 "Thank you! That narrows the search down to 17,276. Do you have any other selection criteria?"
 

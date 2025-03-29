@@ -1,6 +1,6 @@
 ## 0. Lean Operation
 
-A few weeks later, Stacy II practically skipped from the office to her scheduled downtown rendez-vous with Sullivan and Filbert. They had rented a private office in a co-working space in the city for this purpose.
+A few weeks later, Stacy II practically skipped from the office to her scheduled downtown rendezvous with Sullivan and Filbert. They had rented a private office in a co-working space in the city for this purpose.
 
 "I did it!" she announced, bursting into the office and waving a folded piece of paper. "I got the job!"
 
@@ -72,7 +72,7 @@ Two of the men entered the back of the van with her and beat her. Not too badly 
 
 The van stank. A gag was forced into her mouth and her assailants kicked her until she rolled into - other people?
 
-She wasn't the only kidnapee in the van. Well, that was something at least. Maybe she wasn't going to be murdered just yet.
+She wasn't the only kidnappee in the van. Well, that was something at least. Maybe she wasn't going to be murdered just yet.
 
 The van took off with a screech and she was thrown around the moving compartment like a ragdoll.
 
@@ -122,7 +122,7 @@ The kidnapper took the phone away before she could hear his response.
 
 "More instructions to follow," he said into the microphone before hanging up.
 
-The other kidnapper wrestled her gag back into her mouth and dropped her on the floor of the van, and shuffled out.
+The other kidnapper wrestled her gag back into her mouth, dropped her on the floor of the van, and shuffled out.
 
 The leader followed him out, but turned around before shutting the door.
 

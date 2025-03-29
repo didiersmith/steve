@@ -16,7 +16,7 @@ Steve didn't know what a "Long Mac, Topped Up" was. Judging by the knowing smirk
 
 "I'm busy."
 
-"Are you? You're barely helping my daughter, and I heard you haven't done any work on reastic physics for Xavier either. It's like you're avoiding everyone."
+"Are you? You're barely helping my daughter, and I heard you haven't done any work on realistic physics for Xavier either. It's like you're avoiding everyone."
 
 "I am not!"
 

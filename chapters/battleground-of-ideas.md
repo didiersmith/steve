@@ -24,7 +24,7 @@ The occupants nodded along.
 
 "And to that end," he concluded, "MHI has employed Steve - the genius creator of StevieNix himself! Why don't you give us a status report, Steve?"
 
-All eyes swiveled towards Steve. He was unprepared. "Well", he stammered, "we have a bloodthirsty race of violent warrior AIs".
+All eyes swivelled towards Steve. He was unprepared. "Well," he stammered, "we have a bloodthirsty race of violent warrior AIs".
 
 Over the next few minutes, he explained the basic StevieNix environment, the sexual reproduction mechanic, and the tight family bonds that resulted. He then went over his past several months' work - the sentience, the evolutionarily stable aggression, and finally the playable/non-playable character split.
 
@@ -36,9 +36,9 @@ Steve bowed his head a little. The first person other than Murdoch to compliment
 
 Steve drew a blank. He knew that playability had something to do with it, but had mostly been hoping that the other occupants of the room had solved this problem. Fortunately, Murdoch stepped in to rescue him from the interrogation.
 
-"We align them" he said, "with memes." Everyone swiveled back towards him.
+"We align them" he said, "with memes." Everyone swivelled back towards him.
 
-"Memes are self-propagating ideas", he explained. "They spread throughout populations like viruses - replicating, mutating, responding to selective pressure. This stupid orbital telescope is a meme. The Great Peace, the government, breakfast sandwiches, it's all memes. The great thing about memes is they don't even need to be true! Breakfast sandwiches areawful. And the Great Peace...don't get me started."
+"Memes are self-propagating ideas", he explained. "They spread throughout populations like viruses - replicating, mutating, responding to selective pressure. This stupid orbital telescope is a meme. The Great Peace, the government, breakfast sandwiches, it's all memes. The great thing about memes is they don't even need to be true! Breakfast sandwiches are awful. And the Great Peace...don't get me started."
 
 Steve wondered what he meant by that.
 

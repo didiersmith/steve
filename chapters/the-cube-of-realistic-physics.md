@@ -8,7 +8,7 @@ The Building was a huge, cylindrical twelve-storey building with a fusion engine
 
 Once The Building was fully assembled, they flung up the ASIC, filled the building with air, and moved in.
 
-Unlike the Terrarium, The Building wasn't designed to be a self-sufficient colony. Food wasn't grown on board, but was dehydrated and stocked in enormous store-rooms. The air was scrubbed not by plants, but by HEPA filters and an air-recycling plasma reactor. Artificial gravity was achieved not by spinning, but by _going places_ - ie. by running the fusion engine 24/7 and undergoing constant 1g acceleration or deceleration.
+Unlike the Terrarium, The Building wasn't designed to be a self-sufficient colony. Food wasn't grown on board, but was dehydrated and stocked in enormous store-rooms. The air was scrubbed not by plants, but by HEPA filters and an air-recycling plasma reactor. Artificial gravity was achieved not by spinning, but by _going places_ - i.e. by running the fusion engine 24/7 and undergoing constant 1g acceleration or deceleration.
 
 It was, on balance, a far less pleasant environment than the floating islands of New Sealand, the Terrarium, or the Antarctic Dome. On the other hand, it was in space. Xavier had no shortage of volunteers. Ivan joined him as first mate, and many of his best scientists and engineers followed.
 

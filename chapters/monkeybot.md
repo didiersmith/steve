@@ -138,7 +138,7 @@ The back-and-forth continued for several more rounds of goading and questioning.
 
 Eventually, when it became clear that neither Russell, Vincent, nor Stacy could be easily talked into violently attacking a stranger, Steve and his companion broke out into smiles.
 
-"Congratulations!" cheered Steve. "You passed the test. Meet Gabe, everyone!" He gestured to his companion, who smiled and bowed. "Gabe was a huge healp in the early days with this project. I brought him in to show him how far we've come."
+"Congratulations!" cheered Steve. "You passed the test. Meet Gabe, everyone!" He gestured to his companion, who smiled and bowed. "Gabe was a huge help in the early days with this project. I brought him in to show him how far we've come."
 
 Russell's head was filled with questions. "Does anyone ever fail this test?" he asked, firstly.
 

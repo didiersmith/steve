@@ -76,7 +76,7 @@ Xavier stroked his chin and walked towards the wheelhouse. Antarctica. What an i
 
 Xavier had an idea kicking around in his head, but it required carbon. Ungodly amounts of carbon. The centuries since the industrial revolution had seen the disappearance of most large carbon deposits, but there were still a few major ones left - in Antarctica.
 
-Beneath the Transarctic Mountains, lay enormous, pristene pristine coal deposits. Mining of this coal was prohibited by the Protocol on Environmental Protection to the Antarctic Treaty, but Xavier didn't remember signing it. If anyone objected, he reasoned, they were welcome to come to the frozen wasteland and plead their case.
+Beneath the Transarctic Mountains, lay enormous, pristine coal deposits. Mining of this coal was prohibited by the Protocol on Environmental Protection to the Antarctic Treaty, but Xavier didn't remember signing it. If anyone objected, he reasoned, they were welcome to come to the frozen wasteland and plead their case.
 
 With the airlocks sealed tight and the fusion engines radiating heat, Xavier and his crew piloted the Terrarium through the mountains, looking for coal.
 

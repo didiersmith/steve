@@ -20,7 +20,7 @@ Not wishing to irradiate their polar settlement, Xavier made the amateur rocket 
 
 "Not bad," said one of the voices in his head. "Certainly a necessary pre-requisite. But we asked for a ring."
 
-With renewed vigour, Xavier reimmersed himself in design work. The Gods wanted a ring, eh? They'd get a ring.
+With renewed vigour, Xavier re-immersed himself in design work. The Gods wanted a ring, eh? They'd get a ring.
 
 Xavier and his team slaved away for weeks and weeks. He spent so much time in CAD that he began to forget what it meant to be human. He was a machine. No, he wasn't - he was a cog in a machine. A coroutine in a hideously complex piece of organic software, created for a single purpose: To design nanoscale-manufacturable megastructures.
 
@@ -38,7 +38,7 @@ Xavier didn't join the outdoor watch party. He stayed in his office, watching th
 
 He stared intently at his screen as the display showed the rockets entering into an evenly spaced orbit around the planet, a couple hundred kilometers above the surface. Once the orbits stabilized, a previously greyed-out button activated on his screen.
 
-It was labeled, "BUILD RING."
+It was labelled, "BUILD RING."
 
 Xavier clicked the button.
 
@@ -62,7 +62,7 @@ A two-hundred-kilometer-long carbon rope started dropping from the shuttle.
 
 The rope snaked its way through the atmosphere, guided by an active control system. After fifteen minutes of freefall, it slowed down and attached itself to a communications satellite, which was hovering in the atmosphere, attached to a balloon. As Xavier clicked a couple more buttons, the shuttle began to move again.
 
-He and his crew called their invention the sling-on-a-ring. As the shuttle moved along the radius of the orbital ring, it pulled the communications satellite away from the balloon. Xavier kicked the shuttle into maximum acceleration (labeled as 'DECELERATE' on the screen, as all commands were relative to the ring). The fusion reactor burned as much hydrogen as it could without overheating, and the shuttle ripped along the circumference of the ring, dragging the satellite out of the atmosphere.
+He and his crew called their invention the sling-on-a-ring. As the shuttle moved along the radius of the orbital ring, it pulled the communications satellite away from the balloon. Xavier kicked the shuttle into maximum acceleration (labelled as 'DECELERATE' on the screen, as all commands were relative to the ring). The fusion reactor burned as much hydrogen as it could without overheating, and the shuttle ripped along the circumference of the ring, dragging the satellite out of the atmosphere.
 
 A few minutes later, Xavier clicked one last button - "RELEASE". The tether released the satellite and it continued its upwards trajectory.
 

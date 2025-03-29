@@ -1,4 +1,4 @@
-## 0. Condemned
+## 0. A Good Execution
 
 Watching Filbert and his squad interact with the kidnappers, Stacy II was able to piece together what had happened: Filbert had finally read his emails. The "scrappy kidnapping startup" teens had emailed balaclava guy, looking for a partnership, and Filbert had lured them to the warehouse.
 

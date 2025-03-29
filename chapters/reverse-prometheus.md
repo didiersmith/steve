@@ -34,7 +34,7 @@ Vincent nudged past Murdoch and grabbed the mic. "How do you feel?" he asked.
 
 Russell watched as Xavier pushed a couple of buttons, and a fusion rocket ignited on the back of his plane. He felt a pang of jealousy as the kid manipulated the controls of the space-plane and guided it back to Earth. Damn, that looked fun.
 
-Satisfied, Murdoch swiveled around and pointed his thumb over his shoulder back at the screen.
+Satisfied, Murdoch swivelled around and pointed his thumb over his shoulder back at the screen.
 
 "That," he said. "That's what I want."
 
@@ -74,7 +74,7 @@ Russell laughed. She truly had no idea.
 
 "God has no idea what that would break," Steve interjected.
 
-Russell, Stacy and Vincent swiveled around to face their creator.
+Russell, Stacy and Vincent swivelled around to face their creator.
 
 "It's a pretty complicated universe," Steve explained. "And even if we got it to work, I couldn't even begin to imagine the computational requirements."
 

@@ -26,7 +26,7 @@ Why did it smell like poop?
 
 Bleary-eyed, he stumbled downstairs to investigate. The problem was immediately apparent. The bottom floor of their house had been turned into a septic tank.
 
-They climbed out through an upstairs window. Once outside, it soom became clear that the plumbing issue was not localized to their house.
+They climbed out through an upstairs window. Once outside, it soon became clear that the plumbing issue was not localized to their house.
 
 It was mayhem.
 

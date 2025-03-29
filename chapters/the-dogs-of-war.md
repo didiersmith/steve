@@ -58,9 +58,9 @@ The next time a battle broke out between two tribes, Steve paused the sim and in
 
 Murdoch shook his head. "I'm with Steve on this one. It's gonna come down to range."
 
-The trio watched tensely as Steve un-paused the sim. The "bendy stick" tribe tribe had developed a novel mechanism of using a bendy stick and a string to hurl another, sharpened, stick at great speed. The technology had thus far only been used for hunting food - this was the first time any of them had seen it deployed against rival apes.
+The trio watched tensely as Steve un-paused the sim. The "bendy stick" tribe had developed a novel mechanism of using a bendy stick and a string to hurl another, sharpened, stick at great speed. The technology had thus far only been used for hunting food - this was the first time any of them had seen it deployed against rival apes.
 
-In less than an hour, Steve and Murdoch had been proved right - it came down to range, and the rock thowers were completely flattened. Before long, males of the rock throwing tribe had all been either killed, or bound and castrated - presumably for slave labour. The females were distributed as prizes of war among the victorious males, who immediately set about consummating their victory in the bload-soaked streets of the vanquished village.
+In less than an hour, Steve and Murdoch had been proved right - it came down to range, and the rock throwers were completely flattened. Before long, males of the rock throwing tribe had all been either killed, or bound and castrated - presumably for slave labour. The females were distributed as prizes of war among the victorious males, who immediately set about consummating their victory in the blood-soaked streets of the vanquished village.
 
 Steve and Gabe winced and looked away. Murdoch stroke his chin thoughtfully. Gabe turned to face him.
 

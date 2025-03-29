@@ -6,7 +6,7 @@ Xavier sat down at his computer. He had a vision in his head, but no clue if it 
 
 The tiny marble appeared in the center of the igloo. He had the robots push the marble into the airlock, and released the vacuum.
 
-As the air rushed in to fill the airlock, the marble floated upwards. By the time Xavier was able to turn the airlock handle and open the door, it was pressed against the airlock ceiling. He picked it up and rolled it around in his hands. It was a strange sensation, rolling around a ball that kept trying to fall upwards. Eventually, he let it go, and the impossibly light ball slowly floated up to rest in a cranny in the the laboratory ceiling.
+As the air rushed in to fill the airlock, the marble floated upwards. By the time Xavier was able to turn the airlock handle and open the door, it was pressed against the airlock ceiling. He picked it up and rolled it around in his hands. It was a strange sensation, rolling around a ball that kept trying to fall upwards. Eventually, he let it go, and the impossibly light ball slowly floated up to rest in a cranny in the laboratory ceiling.
 
 Xavier went back into CAD, dragged a resize handle on the sphere, flicked into CAM, and hit "run". A basketball-sized web of super-thin wires appeared on the floor of the igloo, before being filled out with black carbon. The robots pushed the ball into the airlock. Xavier released the pressure again and opened the airlock door.
 
@@ -26,7 +26,7 @@ His next iteration had a lifting capacity of 1,000 kg. To his surprise, he could
 
 He tinkered with the carbon nanostructures until he produced a few-atom-thick material with the transparency of diamond and the robustness of carbon fiber. It was much more aesthetically pleasing than the pure black of his first balloon. He designed a "swim bladder" to control the altitude of the balloon by adjusting the mass - it worked by compressing atmospheric air into a tank. Then, he built the Terrarium.
 
-In keeping with tradition, the Terrarium was a hexagon. Instead of one huge sphere, Vincent split the load between six zeppelin-shaped ellipsoids, one at each corner. The Terrarium could still fly (albeit at an angle) with the loss of any two ellipsoids, and could "safely land" (ie. crash into the ocean without tearing apart) with the loss of any three. The living area ("cabin") had a surface area of 1 hectare, was fully enclosed to maintain comfortable temperature and pressure at high altitude, and was covered with a layer of lightweight hydroponic growing medium 15 centimeters deep. The cabin was well planted with leafy plants and fruit trees, and could sustain a population of eight protops and fifty humans.
+In keeping with tradition, the Terrarium was a hexagon. Instead of one huge sphere, Vincent split the load between six zeppelin-shaped ellipsoids, one at each corner. The Terrarium could still fly (albeit at an angle) with the loss of any two ellipsoids, and could "safely land" (i.e. crash into the ocean without tearing apart) with the loss of any three. The living area ("cabin") had a surface area of 1 hectare, was fully enclosed to maintain comfortable temperature and pressure at high altitude, and was covered with a layer of lightweight hydroponic growing medium 15 centimeters deep. The cabin was well planted with leafy plants and fruit trees, and could sustain a population of fifty humans.
 
 His dad's entire crew helped to build it out. So many former crewmembers and their families volunteered to join the population that he had to limit the slots on a first come, first served basis.
 
@@ -74,7 +74,7 @@ Vincent shook his head. "Problems in the PR. Big problems. The kind of problems 
 
 Murdoch leaned back and fished a cigarette out of its packet. It was the last one - he'd have to run down to the shop and get more. He cursed FEDSEC for banning delivery of tobacco products. One of the many injustices to which he'd been subjected in the last hundred thousand years.
 
-It would all be over soon - he had a good feeling about this player. For the first time in countless millenia, he had a viable path to escape.
+It would all be over soon - he had a good feeling about this player. For the first time in countless millennia, he had a viable path to escape.
 
 He lit the cigarette and took a long drag, filling his lungs with sweet, sweet nicotine.
 

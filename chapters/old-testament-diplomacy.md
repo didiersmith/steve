@@ -78,7 +78,7 @@ Stacy II stood between her forces and the pathetic remnants of the House of Lord
 
 When she was done, she turned to the one member of the House that she'd reserved - the youngest one. She handed him a wooden club, and stepped back. Under the watchful sights of Filbert's railgun, the young man was made to beat all twenty-eight of his former compatriots to death, one after another, and shove their broken bodies into the ditch.
 
-When he was finally done, the young, bloodsoaked man dropped his club, fell to his knees, and begged Stacy II for forgiveness.
+When he was finally done, the young, blood-soaked man dropped his club, fell to his knees, and begged Stacy II for forgiveness.
 
 "Sorry kid," she responded. "Nothing that breathes. Complete destruction. Steve has spoken. Who are we to question him?" She turned to Filbert. "Shoot him," she commanded.
 

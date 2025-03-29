@@ -1,4 +1,4 @@
-## 0. Hardball
+## 0. Maximum Loyalty Per Intervention
 
 Steve spent a week shaving every unnecessary piece of code off the VR interface he could find. It wasn't enough. He and Gabe were still far short of the credits necessary to execute the plan. Together, they humbly approached the one contestant with credits to spare.
 

@@ -40,7 +40,7 @@ Stacy II nodded wordlessly. She hadn't had a cup of tea in months.
 
 As Curtis filled a stainless steel kettle from a tap and the warmth from the fire began to thaw her bones, she found her voice. "Where did you get all this stuff?" she asked.
 
-Curtis laughed. "Oh, here and there," he replied, nonspecifically. Then, catching her confused look, he clarified. "It's mostly smuggled in from overseas."
+Curtis laughed. "Oh, here and there," he replied, non-specifically. Then, catching her confused look, he clarified. "It's mostly smuggled in from overseas."
 
 "You have access to overseas markets? Why don't you escape, then?"
 

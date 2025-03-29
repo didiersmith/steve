@@ -16,7 +16,7 @@ For a while.
 
 He jogged back to his office, hurriedly loaded Russell into the diner, and put on his VR headset. When his avatar finally walked in the door, Stacy was seemingly unbothered. Mostly, she was complaining to Russell about the coffee.
 
-"They just have this awful stuff called 'drip,'" she said. "Is it too much to ask for a long macc topped up?"
+"They just have this awful stuff called 'drip,'" she said. "Is it too much to ask for a Long Mac Topped Up?"
 
 They turned to Steve as he walked in.
 
