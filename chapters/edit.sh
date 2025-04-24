@@ -1,1 +1,1 @@
-cat ../manifest.txt | sed 's/#.*//' | xargs nvim ../manifest.txt
+cat ../manifest.txt | sed 's/#.*//' | xargs vim ../manifest.txt
