@@ -28,7 +28,7 @@ Steve sighed. Gabe looked at his shoes. Allen clicked his pen.
 
 "Does that ten percent come with voting rights?" Allen asked.
 
-"No" responded Steve.
+"No," responded Steve.
 
 Allen clicked his pen a few more times.
 
@@ -42,7 +42,7 @@ Steve and Gabe looked at each other in shock. At eighty percent, they would effe
 
 "Our other option," Steve fired back coldly, "is sabotage."
 
-The hundred thousand year old steely-eyed tycoon across the table leaned forwards and rested on his elbows. "Eternal Spring", he enunciated slowly and clearly, "is extremely proud of our commitment to quality. You can live for as long as you like, secure in your knowledge that our vitamins are six nines reliable. That's ninety nine point nine nine nine nine percent reliable. Do you have any idea how hard it is to make anything that reliable?"
+The hundred thousand year old steely-eyed tycoon across the table leaned forwards and rested on his elbows. "Eternal Spring", he enunciated slowly and clearly, "is extremely proud of our commitment to quality. You can live for as long as you like, secure in your knowledge that our vitamins are six nines reliable. That's ninety nine point nine nine nine nine percent reliable. Do you have any idea how hard that is to achieve?"
 
 Steve and Gabe sat in silence, unsure of how to respond or where Allen was going with this.
 
@@ -58,18 +58,74 @@ Within a couple of hours, a contract had been signed and the credits had been tr
 
 ---
 
-Steve got to work. Against the protests of the other contestants, he started by slowing down time considerably. He chose his ancestral/monotheistic hybrid tribe as his entry point, sparked a couple of memes to prophesize his arrival, and dove in.
+Steve sparked a couple of memes to prophesize his arrival, donned his VR headset, and dove in. Gosh, things had changed since the reptile days.
 
-Once in, his actions were quite simple. He alternated between disseminating his new meme, and performing miracles.
+He was in some sort of city. The apes had constructed buildings out of...rocks? He walked up to one of them and inspected it. Yup, rocks. They'd piled them up on top of each other and glued them together with something that looked like mud.
 
-The miracles were much smaller than they had been during the fire and brimstone days, but carefully optimized for maximum loyalty gained per intervention credit spent. He and Gabe had run the numbers and determined that healing apes from disease was the highest value intervention - news of the miraculous healer spread rapidly throughout the region. Before long there were apes traveling from every tribe in the area, diseased relatives in tow. He settled into a routine - heal, preach, sleep.
+He reached out and scratched at the mortar between a couple of rocks. It actually was mud. Holy hell. Steve resolved to spend most of his time outside.
 
-Hes new meme was a radical shift. While still retaining some warfaring elements, he downplayed conflict to focus on alignment, and spreading the meme.
+He needed a friend. Staying as far away from the buildings as possible, he walked down the middle of the road towards the river where his most recent prophet liked to hang out. The ape was standing in the river, dunking another ape's head in the water. It looked consensual.
 
-The alignment message was extremely straightforward. The AIs were to love Steve like a family member. If they did so sufficiently, they would be rewarded with eternal life. What eternal life looked like in practice, he left deliberately underspecified - the apes filled in the gaps with their own imaginations. None of them guessed "packed onto an interstellar warship with enough materiel to destroy a solar system," but that didn't bother Steve.
+Steve waited until the ape had released his drenched associate. "Hey John!" he yelled from the shore. "It's me!"
 
-Most of his time was spent lecturing on the importance of, and strategies for, spreading the meme. Although he still advocated violence in extreme circumstances, he instructed his adherents to tone it way, way down. Instead, he emphasized the importance of soft power. It was less costly, he taught, to win adherents through kindness and generosity. Apes, like everyone, loved free stuff.
+---
 
-After spending a full week in VR - amounting to three years in sim - he delivered his final message. To demonstrate the level of love he expected from his adherents, he had his avatar brutally executed "on their behalf". Then, to really hammer the point of his divinity home, he respawned and spent a short while walking around and showing off his resurrection ability. The apes were flabbergasted.
+Embodying a meme was hard work. Steve spent sixteen hours a day jacked into VR. Everyone wanted miracles.
 
-Finally, Steve spent the last of his borrowed intervention credits shooting his avatar up into the skies on an impressive plume of smoke and light. Once he'd disappeared from view, Steve logged off. He removed his VR headset and collapsed onto the couch, exhausted. He and Gabe were officially broke, but the work was done.
+"Please, God!" someone complained. "We're hungry!"
+
+Steve conjured them some food.
+
+"Please, God! My mom is sick!"
+
+Steve healed the ape's mother.
+
+"Please, God! We're out of booze!"
+
+Okay, this was getting ridiculous.
+
+"You've gotta rein it in," Gabe told him during one of his bathroom breaks. "You're burning through these credits like a student when the loan cheque comes in."
+
+"What's our runway?"
+
+"Just under a week."
+
+Steve did some quick math. Crap. At the current speed, that was less than three years in sim.
+
+"Okay," he said. "I'll focus."
+
+More time preaching, less time intervening. He still healed, though. Healing was overpowered - the loyalty per credit dwarfed every other intervention by such a margin, it was basically in a class of its own. It turned out, apes really hated being sick or crippled. Maybe he'd get Gabe to mangle a few of them so he could heal them later, heh.
+
+"Thank you, God!" wept a female ape whom he'd just cleared of a nasty bacterial infection. "What can I do to repay you?"
+
+"You don't have to do anything," he said. "You just have to believe in me, love me, and get everyone you know to love me too. Then you can have eternal life."
+
+The ape looked confused. "What, you don't want me to sacrifice something?"
+
+Steve blinked. "No, I'm good. Just believe in-"
+
+"Not even a duck?"
+
+"No, I-"
+
+"I can get you a duck."
+
+What kind of insane ideas had the other Gods been implanting?
+
+"No ducks!" he said. "Just spread the word. Love me like a family member, and you get eternal life."
+
+She gave him a skeptical look, bowed her head, and sauntered back to the village - hopefully to spread the word, and not sacrifice any animals. He'd avoided specifying what "eternal life" looked like. Would she guess "packed onto an interstellar warship with enough materiel to destroy a solar system?"
+
+The week passed quickly. By the end of it, his credits were spent, his eyes were bloodshot, and his feet ached from standing all day. Time to wrap it up. He'd amassed a decent number of followers, but how could he make it stick? How could he ensure that his followers dedicated their lives to spreading his meme, and raised their children to do the same?
+
+He remembered the lady who'd wanted to sacrifice the duck, and an idea struck him. What if _he_ were the duck?
+
+Whoa.
+
+Getting himself executed was shockingly easy. He basically just had to show his face in the wrong part of town and before he knew it, Allen's apes had grabbed his avatar and nailed it to a bit of wood. Completely mental, the lot of them.
+
+Steve jacked out of VR and watched his avatar die. Ouch. His followers seemed distraught. Time for the plot twist.
+
+He waited a few minutes, and jacked back in.
+
+Now _that_ made an impression.

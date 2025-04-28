@@ -42,7 +42,7 @@ Gabe looked at their scattered map of players. Dozens of tribes, all running mut
 
 "We need to unify our players", he responded. "Get them all on the same meme. We'll never get anywhere if they're constantly fighting each other."
 
-Steve sighed. He'd hoped that creating a large number of memes would lead to a form of cultural evolution where the best memes won out. It hadn't worked.
+Steve sighed. He'd hoped that creating a large number of memes would lead to a form of cultural evolution where the best memes won out. It hadn't worked - ar rather it had, but the winning meme wasn't one of his.
 
 "Ideally," Gabe continued, "the meme would even eat away at Allen's camp. See if we can get them to defect."
 
@@ -52,6 +52,6 @@ Gabe shrugged. "Might as well go down swinging."
 
 Steve racked his brain, running through the requirements. An intervention that was impressive enough to infect a hostile military empire. Ideally, it would piggyback off the existing StevieNix source code to keep the costs down. A difficult ask.
 
-He thought back to the early days, when StevieNix was just a hobby running in the CS department break room. How he enjoyed walking around in VR, talking to the apes.
+He thought back to the early days, when StevieNix was just a hobby running in the CS department break room. How he enjoyed walking around in VR, talking to the apes and avoiding the reptiles.
 
 "I know what we'll do," he said. "We'll send me."
