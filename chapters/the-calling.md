@@ -44,9 +44,9 @@ Eventually, Stacy spoke up. "You still haven't answered the question."
 
 "So, the problem is that no one believes in you any more so you can't harvest any more of us for your interstellar army?" asked Stacy. She seemed almost annoyed at him.
 
-"Well yeah, that's one problem" Steve replied. "The bigger issue is the birth rates. You guys were just on the cusp of being useful. How many sword-wielding true believers do you think we need in a space war? We need AIs - er, people - who can fly spaceships, remotely control weapons systems, repair absurdly complicated machines. You were almost finally at that level of technological aptitude, and now you're going to piss it all away by refusing to breed? You're going to let yourself get overrun by Allen's incestuous goat herders?"
+"Well yeah, that's one problem" Steve replied. "The bigger issue is the birth rates. You guys were just on the cusp of being useful. How many sword-wielding true believers do you think we need in a space war? We need AIs - er, people - who can fly spaceships, remotely control weapons systems, repair complex machinery. You were almost finally at that level of technological aptitude, and now you're going to piss it all away by refusing to breed? You're going to let yourself get overrun by Allen's goat herders?"
 
-Steve took a deep breath. He was getting ahead of himself. 
+Steve took a deep breath. He was getting ahead of himself.
 
 "So," paraphrased Russell, "you want us to jumpstart a high-fertility, high technology society."
 

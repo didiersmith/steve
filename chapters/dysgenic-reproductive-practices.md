@@ -4,7 +4,7 @@ Steve and Gabe's new meme was a roaring success. As Steve and Gabe had intuited,
 
 Steve had assumed that this wouldn't bother Allen much as he was earning sixty-five percent of the intervention credits, but he could tell his pride was hurt. Allen spent credit after credit trying to dislodge the new meme.
 
-His first successful challenger was a monotheistic riff on Steve and Gabe's deity, with a much more aggressive focus on hard-power expansion and a crass depiction of the afterlife that appealed to extremely base instincts. The male adherents were taught to spread the meme by subterfuge, persecution, and conquest. The female adherents were strictly instructed to stay home and focus maximum effort on reproduction, whilst exercising very little of the sexually selective authority that Steve had designed them for. With the help of Allen's divine battlefield intervention, it wasn't long before his new empire rivalled Steve and Allen's in scope and territory.
+His first successful challenger was a monotheistic riff on Steve and Gabe's deity, with an aggressive focus on hard-power expansion and a crass depiction of the afterlife that appealed to extremely base instincts. The male adherents were taught to spread the meme by subterfuge, persecution, and conquest. The female adherents were strictly instructed to stay home and focus maximum effort on reproduction, whilst exercising very little of the sexually selective authority that Steve had designed them for. With the help of Allen's divine battlefield intervention, it wasn't long before his new empire rivalled Steve and Allen's in scope and territory.
 
 "Why are you doing this?" Steve asked him. "Why don't you go conquer someone you don't already own?"
 
@@ -30,7 +30,7 @@ Particularly worrying was the loss of a large peninsula on the Western side of t
 
 "All that means", responded Gabe, "is we need to be five times more efficient than him. How hard could that be? He's spending those credits like a drunken pirate."
 
-Steve snorted. It was true. Most of Allen's credits were spent in battle. As battles unfolded far too quickly for contestants to intervene manually, contestants had to lean on automation. Allen's automations were woefully inefficient. 
+Steve snorted. It was true. Most of Allen's credits were spent in battle. As battles unfolded far too quickly for contestants to intervene manually, contestants had to lean on automation. Allen's automations were woefully inefficient.
 
 He healed wounds completely with no visible scarring. He stopped arrows in their tracks, and guided swords to cracks in enemy armour. Credits, credits, credits.
 
