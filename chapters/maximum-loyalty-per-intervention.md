@@ -8,7 +8,7 @@ Allen nearly laughed them out of his office.
 
 "Your meme is on the verge of collapse anyway", snapped Steve. "You're stretched too thin. Your yields are decelerating. People bought into your stupid incestuous gods when things were improving, but now they're just paying lip service."
 
-Allen stopped laughing and gave Steve a withering glare. Steve deduced that he wasn't used to being spoken to that way.
+Allen stopped laughing and gave Steve a withering glare. He probably wasn't used to being spoken to that way.
 
 "What do you propose?" Allen asked.
 
@@ -34,7 +34,7 @@ Allen clicked his pen a few more times.
 
 "I want eighty percent."
 
-Steve and Gabe looked at each other in shock. At eighty percent, they would effectively be working for Allen.
+Eighty percent! What the hell?
 
 "Absolutely not," Steve responded.
 
@@ -58,11 +58,11 @@ Within a couple of hours, a contract had been signed and the credits had been tr
 
 ---
 
-Steve sparked a couple of memes to prophesize his arrival, donned his VR headset, and dove in. Gosh, things had changed since the reptile days.
+Intervention time. This was the big one. Steve sparked a couple of memes to prophesize his arrival, donned his VR headset, and dove in. Gosh, things had changed since the reptile days.
 
 He was in some sort of city. The apes had constructed buildings out of...rocks? He walked up to one of them and inspected it. Yup, rocks. They'd piled them up on top of each other and glued them together with something that looked like mud.
 
-He reached out and scratched at the mortar between a couple of rocks. It actually was mud. Holy hell. Steve resolved to spend most of his time outside.
+He reached out and scratched at the mortar between a couple of rocks. It actually was mud! Holy hell. Steve resolved to spend most of his time outside.
 
 He needed a friend. Staying as far away from the buildings as possible, he walked down the middle of the road towards the river where his most recent prophet liked to hang out. The ape was standing in the river, dunking another ape's head in the water. It looked consensual.
 

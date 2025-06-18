@@ -60,7 +60,7 @@ With an exaggerated eyeroll at his best and only friend, Steve donned his VR hea
 
 Damn. The giant reptiles were still around. They'd completely taken over his simulated universe.
 
-Steve chewed his fingernails. This wasn't ideal. Grant money was hard enough to come by, and usually flowed to the more "realistic" sims - the ones populated by 'people', or, at least, marginally intelligent beings with thumbs. Lizards the size of buildings? Good luck securing funding for that.
+Steve chewed his fingernails. This wasn't ideal. Grant money was hard enough to come by, and usually flowed to the more "realistic" sims - the ones populated by 'people', or at least, marginally intelligent beings with thumbs. Lizards the size of buildings? Good luck securing funding for that.
 
 At this rate, StevieNix was doomed to run on a heap of donated hardware in the corner of the break room forever. Not that Steve minded, of course. He didn't mind anything. Not his budget constraints, not the janky physics necessitated by the low-powered hardware, and certainly not the jokes from the rest of the CS department. In fact, it wasn't just that he didn't mind - he actually couldn't.
 

@@ -1,6 +1,6 @@
 ## 0. The Malicious Cow
 
-Steve was glad that his monkeybots were coming to terms with the prospect of never seeing their children again, because judging by how Stacy II's progress was going, family reunification was not in the cards. She'd taken some sort of low-level government job in the Commonwealth and seemed to spend most of her time manipulating some software called "PowerPoint".
+Steve was glad that his monkeybots were coming to terms with the prospect of never seeing their children again, because judging by how Stacy II's progress was going, family reunification was not in the cards. She'd taken some sort of low-level government job in the Commonwealth and seemed to spend most of her time manipulating a piece of software called "PowerPoint".
 
 ---
 

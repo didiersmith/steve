@@ -6,7 +6,7 @@ Stacy II was pleased with how well Sullivan had responded to being rescued, beat
 
 "And the Chief Executive is elected via referendum?" she asked.
 
-"Thus keeping the power in the hands of the people," he replied.
+"Thus keeping the power in the hands of the people."
 
 Stacy II scoffed. What a ridiculous idea. No wonder the People's Republic had been such a disaster.
 
@@ -30,11 +30,9 @@ Stacy II pondered this information. The CE's grip on power was more robust than 
 
 "How would I go about becoming the Chief Executive?" she asked. "Without going through referendum," she added.
 
-Sullivan smiled. Although he wasn't particularly fond of Stacy II or Filbert, his distaste for the pair was outweighed by his love for political machinations. His talents had languished woefully during his imprisonment, and had rarely even been fully exercised beforehand. This would be fun. Just the right sort of fun for a man of destiny.
+Sullivan leaned back in his chair. "What do you know about succession?" he asked.
 
-"What do you know about succession?" he asked, coyly.
-
-Stacy II smiled in response. "Tell us," she said.
+"Tell us."
 
 "I'm gonna need a pen and paper. It gets a little complicated."
 
@@ -50,7 +48,7 @@ Amanda had been one of her first clients. Every Tuesday, from 4 to 4:50PM, the t
 
 "Oh darling," Stacy II replied in a simpering tone. "What's she done this time?"
 
-Amanda worked as an assistant gymnasium inspector for the Department of Health. Aside from her willingness to pay Stacy II forty thousand satoshis an hour, Amanda had two other things going for her: Firstly, she hated her job, and secondly, as a government employee, she was technically - although very far down - in the line of succession to Chief Executive.
+Amanda worked as an assistant gymnasium inspector for the Commonwealth Department of Health. Aside from her willingness to pay Stacy II forty thousand satoshis an hour, Amanda had two other things going for her: Firstly, she hated her job, and secondly, as a government employee, she was technically - although very far down - in the line of succession to Chief Executive.
 
 Amanda cried as she recalled her traumatic week. Stacy II tried earnestly to maintain rapt attention.
 

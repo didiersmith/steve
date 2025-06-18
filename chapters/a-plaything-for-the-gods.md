@@ -1,6 +1,8 @@
 ## 0. A Plaything for the Gods
 
-Murdoch didn't want to admit it, but Steve was really starting to piss him off. It wasn't entirely his fault - being a slow, unambitious sluggard was literally written into his genes. At least he did any work at all - the average kid in his generation got tired getting out of bed in the morning. Still, he wished he'd work faster - time was not on their side. At this rate, he risked losing Allen's buy-in.
+Murdoch didn't want to admit it, but Steve was starting to piss him off a little. It wasn't entirely his fault - being a slow, unambitious sluggard was literally written into his genes. FEDSEC's bastard test tube babies. They got worse every generation.
+
+At least Steve did any work at all - the average kid in the latest generations got tired getting out of bed in the morning. Still, Murdoch wished he'd work faster - time was not on their side. At this rate, he risked losing Allen's buy-in.
 
 Steve had thrown a hissy fit when he'd mentioned the mind-reading requirement. He'd had even more of a conniption upon receiving the full playability design brief - yes, not only did they need to be able to read the AIs' minds, but they had to influence them as well. While Steve's gripes about "shifting requirements" were understandable, he lacked the context of how annoying it was to manage him. Whatever happened to the good old days when you could just cane your subordinates?
 
@@ -22,15 +24,15 @@ Steve strode to Murdoch's computer, flicked over to the StevieNix window and put
 
 Steve gave Murdoch an excited look.
 
-"Go on, then" Murdoch said.
+"Go on, then," Murdoch said.
 
 Steve clicked the talk button on his microphone and said, "I should pick up that rock."
 
 The boy on the screen perked up.
 
-"Oh yeah!" Steve said and unplugged the headset. The boy's internal monologue started playing out of the speakers.
+Steve unplugged his headset and the boy's internal monologue started playing out of the speakers.
 
-"That's a neat rock" the boy was thinking. "I bet that girl in the next village will love it."
+"That's a neat rock," the boy thought. "I bet that girl in the next village will love it."
 
 Murdoch watched wordlessly as the boy stood up, walked a few paces, and picked up a rock.
 
@@ -40,7 +42,7 @@ Steve turned the volume down and beamed at Murdoch.
 
 Murdoch nodded. "Okay," he said. "Not bad. What did you do?"
 
-"Believe it or not, it was actually Gabe's idea!" he explained. "Normally, their thought processes are too scattered to make any sense of. But Gabe realized, if we forced them to think in words, then we could just read the words straight out of their head."
+"Believe it or not, it was Gabe's idea!" he explained. "Normally, their thought processes are too scattered to make any sense of. But Gabe realized, if we forced them to think in words, then we could just read the words straight out of their head."
 
 "How'd you do it?" Murdoch asked.
 
@@ -62,24 +64,24 @@ Steve's face fell. Murdoch could tell he didn't want to do what was necessary to
 
 "Steve," he said. "They're computer programs. They're not people. You know what you need to do."
 
-Steve nodded and left his office. Murdoch lit another cigarette and turned back to the screen, to monitor Steve's progress.
+Steve nodded and left his office. Murdoch lit another cigarette and turned back to the screen to monitor Steve's progress.
 
 A few minutes later, every reproductive-aged male in the kid's vicinity dropped dead. Murdoch smiled.
 
-The sim sped up. Good. The kid took advantage of the lack of males to repopulate his village and the surrounding regions. Excellent.
+The sim sped up. The kid took advantage of the lack of males to repopulate his village and the surrounding regions. Excellent.
 
-Murdoch watched closely over the next few weeks as generations came and went. Whatever genes were involved in playability, they were brittle. Most of the descendants weren't playable. The trait seemed to come with costs - playable characters tended to get stuck in strange, pathological thought loops that interfered with their reproductive ability. On the plus side, they seemed marginally smarter than the non-playable characters. From an evolutionary perspective, the trait was roughly neutral. That meant Steve had to help it along.
+Murdoch watched with interest over the next few weeks as generations came and went. Whatever genes were involved in playability, they were brittle. Most of the descendants weren't playable. The trait seemed to come with costs - playable characters tended to get stuck in strange, pathological thought loops that interfered with their reproductive ability. On the plus side, they seemed marginally smarter than the non-playable characters. From an evolutionary perspective, the trait was roughly neutral. That meant Steve had to help it along.
 
 Everywhere the trait spread, Steve advanced a front of death. Breeding age males dropped dead by the thousands. Apes who weren't showing signs of playability by one year of age were ruthlessly culled. The ape population of StevieNix plummeted, and Murdoch began to worry about the loss of genetic diversity in other domains. Eventually, after generations of destruction, playability reached one percent of the population. Then ten, then twenty. Finally, at thirty percent, Murdoch stepped in.
 
 "Thirty percent will do us just fine, Steve."
 
-"I can get it higher!" Steve responded.
+"I can get it higher!" Steve said.
 
 Murdoch looked at him in surprise. The mild-mannered creator who'd been so reluctant to kill the villagers just a few weeks ago, had become so focused on the task that he'd turned into a bit of a psycho.
 
 "I'm sure you can, lad. But we can't have everyone be a navel-gazing thought hamster, can we?"
 
-Steve blushed. He must have known about the pathological thought loops as well.
+Steve blushed.
 
-"Thirty percent is perfect", Murdoch reiterated. "It's time to move on. The alignment team is waiting."
+"Thirty percent is perfect," Murdoch reiterated. "It's time to move on. The alignment team is waiting."

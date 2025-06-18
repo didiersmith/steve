@@ -70,11 +70,11 @@ Russell nodded. It sounded so stupid. "That's right," he said. "Breeding and bel
 
 It immediately became apparent that the three of them had vastly different diagnoses for the twin crises of faith and reproduction that gripped their society.
 
-"You just have to force people to believe," Stacy said. "From the time they're toddlers. Then not only will they be aligned, but they'll have as many babies as Steve wants."
+"You just have to force people to believe," Stacy said. "From the time they're toddlers. Then they'll be so aligned that they'll do whatever Steve wants. Reproduction included."
 
 "So your plan is to brainwash children?" Russell asked.
 
-"It's not brainwashing if it's true!" Stacy objected. "But anyway, no. Brainwashing children isn't enough. If the rest of society is secular, the kids just stop believing when they become adults. We need a whole-of-society solution."
+"It's not brainwashing if it's true!" Stacy objected. "But anyway - no. Brainwashing children isn't enough. If the rest of society is secular, the kids just stop believing when they become adults. We need a whole-of-society solution."
 
 "What's your whole-of-society solution?" Vincent asked.
 
@@ -88,7 +88,7 @@ Russell laughed at her joke, before realizing she was serious.
 
 Stacy stuck her tongue out at him. "They also cause cancer," she added.
 
-"Aside from the obvious moral and logistical problems with that," Vincent said, "forcing people into alignment is missing the point entirely. Steve gave us free will. He wants us to choose alignment for ourselves."
+"Aside from the obvious moral and logistical problems," Vincent said, "forcing people into alignment is missing the point entirely. Steve gave us free will. He wants us to choose alignment for ourselves."
 
 "We tried that!" Stacy said. "People don't choose that! People choose to watch the footy and harass me at the pub. No one chooses to worship God and make babies."
 
@@ -102,12 +102,24 @@ Russell had heard variations on this rant many times before. He knew exactly wha
 
 "Traffic laws!" Vincent exploded. "Traffic laws are a humiliation ritual! They're the surest sign that we are a conquered people! You can't go over a certain speed or the government will throw you in jail? And if you resist arrest, they'll shoot you? What the hell! Of course our society is committing suicide. Total societal death is preferable to living under these conditions!"
 
+Russell buried his face in his arms.
+
 "So what's your plan?" Stacy asked. "Destroy the government? Remove all the traffic laws and suddenly people will become devout and prolific?"
 
 Vincent grinned. "I've actually thought about this for a long time."
 
-Russell rolled his eyes as Vincent pitched his idea. He stayed out of the debate - he had his own theories, and they were way simpler. People didn't have kids because they couldn't afford them, and they didn't believe in God because the whole idea was ridiculous. They just needed free money and a better holy book.
+Russell sighed as Vincent pitched his idea. He stayed out of the debate - he had his own theories, and they were way simpler. People didn't have kids because they couldn't afford them, and they didn't believe in God because the whole idea was ridiculous. Give them enough free money and a better holy book, and Steve's soul-production machine would be humming just fine again.
 
-But as Vincent pitched his idea, he realized that he could piggyback off his work and fix the world's problems himself.
+Vincent's pitch went on for fifteen minutes. Every time Russell thought he was done, he took a breath and added a new, even more ridiculous dimension. His plan was composed of far-fetched utopian dreams layered on top of scientifically implausile leaps in technology. It would never work.
 
-"You're welcome, Steve" he thought.
+As he listened to Vincent's schizo rant, an idea occurred to Russell. Vincent may have stupid ideas about human societies, but he was an incredibly talented mechanical engineer. If he could pull off even half of the technological feats he was talking about, Russell could piggyback off his progress to fix the social stuff. No bloodshed, no overthrowing the government. Just a happy, free, post-scarcity society.
+
+"Sounds good," he interrupted. "Let's do it."
+
+Stacy's jaw dropped.
+
+"Really?" Vincent asked, similarly astonished.
+
+"What did you just agree to?" Steve's voice asked in his head. "I lost track."
+
+"Don't worry about it," he thought in response. "I got you."

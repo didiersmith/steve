@@ -16,7 +16,7 @@ For some reason, Sullivan stopped scrolling.
 
 Sullivan clicked the link.
 
-He raised his eyebrows. Interesting. The woman seemed to be some sort of cult leader.
+He raised his eyebrows as he scrolled through the pictures and reading material on her website. Interesting. The woman seemed to be some sort of cult leader.
 
 She seemed to be taking applications to join her cult. He looked at the stack of final demands on his second-hand IKEA desk. "Screw it," he thought again, and called his sister.
 

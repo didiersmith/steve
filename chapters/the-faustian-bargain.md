@@ -1,37 +1,37 @@
 ## 0. The Faustian Bargain
 
-"Looks like they didn't need our help", remarked Gabe.
+Life was good. For the first time since moving to Murdoch Heavy Industries, Steve felt like everything was under control.
 
-Steve laughed. Six hundred of his hot-blooded peninsula apes had just defeated an empire of millions on the other side of the planet. He wasn't even sure who they had been aligned with. From what he'd seen, it had been an absolutely unhinged meme involving industrial scale ape sacrifice. Good riddance.
+His peninsula apes hadn't needed his help. Coming hot off centuries of war on the peninsula, it had only taken six hundred of them to defeat an empire of millions on the other side of the planet. Survivors had been converted. The meme was unquestionably dominant - Steve and Gabe topped the leaderboard, and it wasn't even close.
 
-With very little encouragement, Steve and Gabe's apes set about converting their new subjects to Steve's alignment meme. "Look at them go!" beamed Steve.
+At this rate, they'd have the debt paid off in no time. What had Gabe been worried about? Steve booked himself in for a weekend at a spa resort and took a well-deserved weekend off.
 
-"This is so much easier than that peninsula war" agreed Gabe. "Hopefully the Dysoners fall over as easily as these idiots."
+---
 
-"Be nice!" Steve reminded him. "Our guys got steamrolled too, remember? Sometimes, it just isn't your day."
+"Go on, my little islanders," Murdoch said, watching a crew guide a ship out of a harbour. "Venture forth and conquer!"
 
-Gabe nodded and changed the subject. "Looks like your gamble is paying off" he said, pointing to the credit counter. It was ticking upwards, at the fastest rate they'd ever seen.
+He watched as ship after ship of his islanders sailed across the oceans to every corner of the planet. How were they ever supposed to unleash their full creative potential, cramped on a tiny island? Ridiculous. No, what they needed was an empire. A global, individualist empire. A true testament to the power and righteousness of his brilliant meme.
 
-"Yup, we'll have that debt paid off in no time!" Steve gloated.
+Murdoch's stomach grumbled. He hadn't eaten since the board meeting. The board of directors hadn't reacted particularly well to the financial report. Perhaps he should have goosed the numbers a bit. One particularly mutinous shareholder was even making noises about taking corrective measures.
 
-They drank a toast to their success and settled in to watch the fun. Over the next sim century, with only a small amount of divine assistance, the peninsula apes conquered and converted a huge fraction of the new continent.
+Feckin' shareholders. If he got voted out...Murdoch shuddered. Not only would his plan be over, but his life as he knew it. Who was Murdoch without Murdoch Heavy Industries?
 
-Then, the islanders decided to join the fun. That's when things started, ever so slightly, to derail.
+Well, life as he knew it was ending anyway. One way or another, this would be his final fiscal quarter as CEO of MHI. It was now or never. Do or die.
 
-While the peninsula apes had performed their conquest with dual motives - economic gain and religious fervour - the islanders largely cared only about the former. While the islanders were adherents to Steve's meme, they made very little effort to convert anyone else. They limited their interactions with other people to either trades or ethnic cleansing.
+Feckin' islanders better pull through.
 
-In short order, the islander apes controlled a quarter of the world's land mass.
+Steve had cockily left StevieNix running at a pretty fast clip while he was on holiday, so decades elapsed while Murdoch ventured forth to the microwave to heat up some chicken tikka masala. By the time he returned, the islanders had conquered half the continent and had invented...trains?
 
-Unprecedented prosperity flowed from the islanders' vast colonies, but rather than spend the accumulated capital glorifying Steve, the islanders could not help but invest it. Capital begat innovation, which in turn begat capital. The pace of technological improvement exploded.
+Murdoch scrolled around the sim, following the tracks that had been carved across vast plains, deserts, and mountain ranges. Steam-powered locomotives hauled long chains of cars behind them, carrying goods, apes, animals..., yup, there was no other word for it. Trains. Good on 'em.
 
-Not a single aspect of an islander ape's existence was spared from the innovations of hungry tinkerers and their wealthy backers, gagging for the opportunity to ease the ape's burdens in exchange for their money. From fertilizing the fields and crossing the continents to cleaning themselves post-defecation, every moment of every day was sliced, diced, analyzed and optimized for inefficiencies that may be profitably reduced by goods and services.
+This might actually work.
 
-The quality of life in islander society improved so rapidly that the common ape in one generation enjoyed luxuries unimaginable to the richest apes of two generations past. Apes began to congregate in huge cities, fed by industrialized supply chains stretching around the world, shuttled around by engines - first powered by steam, then internal combustion, and finally jets and electricity. The technologies and the individualist meme spread throughout the world, to societies the islanders had never even heard of.
+Murdoch slowly worked away at his chicken tikka masala as he watched the islander apes dissect and optimize every aspect of their existence. It was really quite a sight.
 
-With the industrial revolution, came a population boom. In a few short centuries, the number of apes in StevieNix increased tenfold. The sim slowed down. Glitches began to appear. Steve found himself spending so much time adding hardware and fixing scaling issues, that he had no time left to monitor the status of his meme.
+Not a single aspect of an islander ape's existence was spared from the innovations of hungry tinkerers and their wealthy backers, gagging for the opportunity to ease the ape's burdens in exchange for their money. From crossing the continents to wiping their arses, every moment of every day was sliced, diced, analyzed and optimized for inefficiencies that may be profitably reduced by goods and services.
 
-It was only when a very distressed Gabe came to find him in the datacenter that he learned anything had gone wrong.
+The quality of life in islander society improved so rapidly that the common ape in one generation enjoyed luxuries unimaginable to the richest apes of two generations past. Apes began to congregate in huge cities, fed by industrialized supply chains stretching around the world, shuttled around by engines - first powered by steam, then internal combustion, and finally jets and electricity.
 
-"What's up?" he asked, looking up from the MHI-10 he was replacing.
+Once again, Murdoch stayed up all night. Occasionally inspiring a player to place a circuit here, or a financial bet there, he coaxed the islanders into inventing boolean algebra, the transistor, the nuclear reactor. Feck, they were good.
 
-"They've stopped believing", responded Gabe. "We can't make the loan repayments. Default provisions are kicking in."
+Just a couple more leaps and they'd be caught up. Then, the real work would begin.

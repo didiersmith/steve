@@ -1,65 +1,91 @@
 ## 0. Battleground of Ideas
 
-Steve looked around the table. Aside from Gabe and Murdoch, there was one other face he recognized - Maurice Allen, founder and CEO of Eternal Spring. Like Murdoch, Allen's life stretched back to before the Great Peace, when Eternal Spring had been one of a dozen life extension startups. Unlike Murdoch, Allen's company had not been birthed into a privileged monopolistic position - Eternal Spring's rise to dominance was bathed in rumours of espionage, anticompetitive practices, and assassination. All that was ancient history though - for as long as Steve had lived, Eternal Spring had been the company responsible for keeping him and everyone else young and immortal.
+Steve looked around the table for anyone he recognized, and - no way! That was Maurice Allen - the Eternal Spring guy!
 
-_"Keep the Spring in your step! Ask your doctor about Eternal Spring."_
+Eternal Spring was the life extension monopoly whose vitamins kept Steve and everyone else young and immortal. Their signature tagline popped into Steve's head. _"Keep the Spring in your step! Ask your doctor about Eternal Spring."_ Allen, their CEO and founder, had been around forever. Probably as old as Murdoch.
 
-Murdoch went round the room and introduced the team. Aside from Steve, Gabe and Allen, the team was entirely composed of Murdoch's acquaintances - either through his personal life, or through their employment at Murdoch Heavy Industries. After completing the introductions, Murdoch started presenting a slide deck.
+He looked great, though. Must have a hell of a fitness routine.
 
-"As you are all no doubt aware", he started, "we are faced with an existential threat. Two existential threats, in fact. The first being, obviously, the discovery of a technologically advanced alien race stomping around in our corner of the galaxy, who have a real possibility of accidentally blundering us out of existence."
+Murdoch went round the room and introduced everyone. Aside from Steve, Gabe and Allen, the team appeared to be composed entirely of Murdoch's acquaintances - either through his personal life, or through their employment at Murdoch Heavy Industries. After completing the introductions, Murdoch started presenting a slide deck. Steve's eyes immediately glazed over.
 
-"The second", he continued, "is even more serious. While you all understand perfectly well the reality of the first threat, the mass of gormless buffoons making up our society do not, will not, and most likely can not - as in, they lack even the basic mental hardware to comprehend the threat. Plans are already underway to build an orbital interstellar radio so we can phone the aliens up, presumably to broadcast something along the lines of 'Hey aliens! Primitive intelligent life here! Come enslave us and take our carbon!'"
+"As you are all no doubt aware," Murdoch announced, "we are faced with an existential threat. Two existential threats, in fact. The first being, obviously, the discovery of a technologically advanced alien race with a real chance of stomping us out of existence."
 
-Steve looked around the room. Everyone was nodding in agreement. The occupants had clearly been very carefully selected.
+"The second," he continued, "is even more serious. While you all understand perfectly well the reality of the first threat, the mass of gormless buffoons making up our society do not. And good luck convincing them! I'm pretty sure they lack the requisite mental hardware to process threats."
 
-"Naturally," Murdoch chuckled, "MHI will be offering the government some very competitive bids on the project. Tricky things, interstellar radios. You never know what might go wrong."
+Most of the room laughed.
 
-Everyone other than Steve and Gabe laughed, and Steve realized they'd been even more carefully selected than he'd thought. Thinly veiled jokes about sabotaging government projects weren't usually well received in the company he was used to keeping.
+"Can you believe they even want to call them up? The government's already put out a tender for an interstellar radio. Presumably so we can broadcast something like, 'Hey aliens! Primitive intelligent life here! Come enslave us and take our carbon!'"
+
+Gabe was turning slightly red, but everyone else in the room was chuckling and nodding in agreement. Steve remembered their conversation in the university break room. Was Murdoch making fun of them?
+
+"Naturally," Murdoch continued, "MHI will be offering the government a very competitive bid on the project. Tricky things, interstellar radios. You never know what might go wrong."
+
+Great, now he was joking - hopefully - about sabotaging a government project.
 
 "But stall as we might, we must treat it as inevitable that our respective species will one day interact. In the absence of anyone else with the guts to do what must be done, I have taken it upon myself to see that this interaction doesn't result in our immediate extinction."
 
-The occupants nodded along.
+The others nodded along.
 
-"Hardware is being taken care of by downstairs as we speak. It presents major challenges, but an even greater challenge still is intelligence. To ensure our survival, we must develop the mental capacity to wage total, all-consuming war at vast distances. The agents conducting this warfare must be capable of autonomously performing a ruthless alien genocide, all whilst not presenting us with a third existential risk. It should go without saying that we would be extremely hard-pressed to develop this capacity within our own species, and even if we did, harder still to do it under the radar."
+Murdoch's tone became more serious. "Hardware is being taken care of downstairs as we speak. It presents major challenges, but an even greater challenge still is intelligence. To ensure our survival, we must develop the mental capacity to wage total, all-consuming war - at interstellar distances."
 
-"And to that end," he concluded, "MHI has employed Steve - the genius creator of StevieNix himself! Why don't you give us a status report, Steve?"
+He clicked to advance the slide deck.
 
-All eyes swivelled towards Steve. He was unprepared. "Well," he stammered, "we have a bloodthirsty race of violent warrior AIs".
+"The agents conducting this warfare must be capable of autonomously performing a ruthless alien genocide, all whilst not presenting us with a third existential risk. It should go without saying that we would be extremely hard-pressed to develop this capacity within our own species, and even if we did, harder still to do it under the radar."
+
+Steve's pulse quickened and he could feel his face getting hot. The design brief had been warriors. Interstellar war, that was the goal. This was the first he'd heard of interstellar genocide.
+
+"And to that end," Murdoch concluded, "Murdoch Heavy Industries has employed Steve - the genius creator of StevieNix himself! Why don't you give us a status report, Steve?"
+
+All eyes swivelled towards Steve. Great. What a handoff.
+
+"Well," Steve stammered, looking for ways to describe his progress towards an alien genocide. "I guess we have a bloodthirsty race of violent warrior AIs".
 
 Over the next few minutes, he explained the basic StevieNix environment, the sexual reproduction mechanic, and the tight family bonds that resulted. He then went over his past several months' work - the sentience, the evolutionarily stable aggression, and finally the playable/non-playable character split.
 
-"Great work, Steve" responded Allen. 
+When he was done, the rest of the team mostly stared at him in silence. Awed silence, hopefully.
 
-Steve bowed his head a little. The first person other than Murdoch to compliment his work, and it was another hundred-thousand-year-old billionaire.
+Allen spoke up. "Great work, Steve. What's your plan for making sure they don't kill us all?"
 
-"So what's your plan for making sure they don't kill us all?" Allen asked.
+No idea. Steve looked at Murdoch for help.
 
-Steve drew a blank. He knew that playability had something to do with it, but had mostly been hoping that the other occupants of the room had solved this problem. Fortunately, Murdoch stepped in to rescue him from the interrogation.
+Murdoch tapped a key on his laptop and the slide on the wall changed to one with the title, "Memetic Alignment."
 
-"We align them" he said, "with memes." Everyone swivelled back towards him.
+"We align them," Murdoch said, "with memes." He advanced the deck again to a diagram that looked like it was put together by a paranoid schizophrenic with grand theories.
 
-"Memes are self-propagating ideas", he explained. "They spread throughout populations like viruses - replicating, mutating, responding to selective pressure. This stupid orbital telescope is a meme. The Great Peace, the government, breakfast sandwiches, it's all memes. The great thing about memes is they don't even need to be true! Breakfast sandwiches are awful. And the Great Peace...don't get me started."
+"Memes are self-propagating ideas," he explained, pointing at various parts of the diagram. "They spread through populations like viruses - replicating, mutating, responding to selective pressure. Anywhere where ideas can spread and change, you'll find memes. Our world is full of them, and so is StevieNix."
 
-Steve wondered what he meant by that.
+"How does this help?" Allen asked.
 
-"Not quite following," Allen said. "What do breakfast sandwiches have to do with containing your murderous AIs?"
+"Memes are absurdly powerful," Murdoch said. "Think about it. Memes dictate culture, culture dictates behaviour. How much of people's day-to-day activities are decided, not by themselves, but by self-replicating ideas that have infected them? People will do anything for the right meme."
 
-Murdoch smiled and advanced the slide deck. The title said "A Friendly Competition."
+"So you're going to infect them with the idea that they shouldn't kill us?" Allen asked.
 
-"Everyone in this room is welcome to participate" he announced. "The goal is to save as many playable, aligned AIs as possible. An aligned AI is one that loves us like one of their little monkey family members - they'd kill and die for us, but would never hurt us. And they have to be useful! No flower-pickers" he said with a pointed look at Steve.
+"Almost," Murdoch said. He advanced the slide deck. The title said "A Friendly Competition."
+
+"_You're_ going to infect them with the idea that they shouldn't kill us."
+
+He advanced the deck again to a list of rules.
+
+"You are all invited to participate!" he said. "The rules are pretty simple. Come up with the sort of memes that would make the AIs love us - so they'll kill and die for us, but would never hurt us. Save any useful AIs that qualify."
+
+The warrior design brief finally made sense.
 
 "Your primary tool is memes. Speak them into the playable characters' minds and see if you can get them to love you. First team to a trillion souls wins."
 
-Steve raised his hand. "What happens to the AIs that aren't aligned?"
+One of the contestants raised his hand. "What happens to the AIs that aren't aligned?"
 
 "I'll take them," Murdoch replied. "I have a use for them."
 
-Skipping over what possible use Murdoch may have for millions of murderous AIs that hadn't proven their loyalty, the team moved on.
+Okay, that was weird.
 
-"How do we know they're aligned?" Allen asked.
+"What does the winner get?" asked one of the contestants.
 
-"We can read their thoughts, remember?" responded Murdoch.
+"Prestige. And a cash prize."
 
-"We can't read the NPCs' minds. What do we do with them?"
+"How much?"
 
-Murdoch laughed. "The players need people to kill, don't they?"
+Murdoch named a number. Holy moly, that was a big number. It would be enough for Steve to purchase his own lab, fill it with computers, and finally bring StevieNix into the big leagues. Maybe even hire some staff.
+
+Steve gave Gabe a look and nodded earnestly. Gabe gave him an unenthusiastic flat expression in return. This meeting had probably been the most illegal thing Gabe had ever participated in.
+
+Whatever. Gabe or no Gabe, Steve was determined to win.

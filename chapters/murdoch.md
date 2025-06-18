@@ -20,7 +20,7 @@ Gabe fared little better with "can't say that it has."
 
 "You mean to say", continued Murdoch, "that neither of you exalted professors ever thought that a civilization capable of extinguishing the most powerful objects in the universe might not want to be our friend?"
 
-Steve wanted to object that Murdoch was exaggerating and that there were certainly more powerful objects in the universe, but felt that that would be to miss the point. Truthfully, the notion that the Dysoners may not be entirely friendly had indeed flashed across his mind, but being a well socialized respectable person, he had simply ignored it. To call or to knock was the Overton Window, and to step outside the Overton Window was to defenestrate oneself from polite society.
+Steve avoided making eye contact with Murdoch. Truthfully, the notion that the Dysoners may not be entirely friendly had indeed flashed across his mind, but being a well socialized respectable person, he had simply ignored it. Why rock the boat?
 
 Murdoch, it seemed, did not share that concern. He continued.
 

@@ -2,7 +2,7 @@
 
 Murdoch sat alone in his office. He supposed he should spend more time in the open-plan office now that he was collaborating with a team, but he felt bad about smoking in there. He shouldn't - they were his property, after all. But still. Must be FEDSEC's conditioning.
 
-Smoking helped him calm his nerves. He had every reason to be nervous - when he'd come up with the plan of using the AIs as engineers, he hadn't thought through the difficulties of transferring the technology. Porting everything to realistic physics was going to be a real challenge. Success was not guaranteed. And meanwhile, Murdoch Heavy Industries was scheduled to start construction on the "interstellar radio" in under a month. They didn't even have a blueprint.
+Smoking helped him calm his nerves. He had every reason to be nervous - when he'd come up with the plan of using the AIs as engineers, he hadn't thought through the difficulties of transferring the technology. Porting everything to realistic physics was going to be a major challenge. Success was not guaranteed. And meanwhile, Murdoch Heavy Industries was scheduled to start construction on the "interstellar radio" in under a month. They didn't even have a blueprint.
 
 He took a long drag on his cigarette, exhaled, and washed it down with a mouthful of water. He shivered and shook his head. Awful stuff. He was forcing himself to lay off the booze - he couldn't afford any mistakes, this late in the game.
 
@@ -14,7 +14,7 @@ Placing his cigarette in his mouth to free up his hands, he started searching th
 
 ---
 
-Xavier's crew spent the next week monitoring him for strange health conditions, and manufacturing otherworldly industrial equipment from Murdoch-provided CAD designs. Some of the equipment had obvious functions - a lathe looks like a lathe, no matter what universe you're in - and others were entirely foreign.
+Xavier's crew spent the next week monitoring him for strange health conditions, and manufacturing otherworldly industrial equipment from Murdoch's CAD designs. Some of the equipment had obvious functions - a lathe looks like a lathe, no matter what universe you're in - and others were entirely foreign.
 
 "What's this?" asked Ivan, tapping on a large, black cylinder covered in brass protrusions.
 
@@ -66,7 +66,7 @@ His heart thudded in his chest, and he felt the familiar nausea rising in his st
 
 ---
 
-The bridge disappeared slowly into the Cube of Realistic Physics. Xavier watched, warily, as the pure black wall of nothingness slowly advanced through the room, swallowing up everything as it went.
+The bridge disappeared slowly into the Cube of Realistic Physics. Xavier watched warily as the pure black wall of nothingness slowly advanced through the room, swallowing up everything as it went.
 
 He didn't remember this detail from his solo mission. His dad must have blacked him out before the CORP had begun swallowing the cockpit.
 
@@ -76,7 +76,7 @@ Ivan smiled as the room disappeared into the void. His chair was closer to the C
 
 "I'll see you on the other side, comrade," Xavier replied.
 
-Xavier saw Ivan's eyes go blank a moment before he was swallowed by the blackness. His mind being paused, Xavier assumed.
+Xavier saw Ivan's eyes go blank, as his mind was paused a moment before being swallowed by the blackness.
 
 "So far so good," came his dad's voice in his head. "I think next time we'll just black you all out at once. This is stressful."
 

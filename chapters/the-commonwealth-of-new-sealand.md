@@ -70,7 +70,7 @@ Russell glowered. He'd show them.
 
 "Queen Stacy."
 
-Now it was Russell's turn to laugh. 
+Now it was Russell's turn to laugh.
 
 "A monarchy?" he asked. "Are you serious?"
 
@@ -98,4 +98,4 @@ Vincent smiled. "No government," he said. "Everyone gets guns. Rules are enforce
 
 Russell and Stacy raised their eyebrows.
 
-In the end, they couldn't agree. A compromise was struck. The Commonwealth of New Sealand would be split into three separate entities - Russell's People's Republic, Stacy's Theocratic Dominion, Vincent's Anarchy. Time would be the judge of their success.
+In the end, they couldn't agree. A compromise was struck. The Commonwealth of New Sealand would be split into three separate entities - Russell's People's Republic, Stacy's Theocratic Dominion, and Vincent's Anarchy. Time would be the judge of their success.

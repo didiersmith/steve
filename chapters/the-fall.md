@@ -12,17 +12,19 @@
 
 "I'll just take a sabbatical. How long could this possibly take?"
 
-Gabe sighed and returned to his meatball sub. Steve re-read his offer letter.
+Gabe sighed and returned to his meatball sub. Steve re-read his offer letter, beaming internally.
 
 ---
 
 If Steve were honest with himself, even he had to admit that StevieNix wasn't the best universe in the world. Some of the larger software companies had produced truly majestic simulations with poetry-composing AIs and Newtonian physics at every scale. StevieNix, on the other hand, glitched out whenever someone ran the microwave.
 
-Steve's universe did have two things going for it. The first, was that it was open source. Anyone could contribute patches to it, and many did. Over the centuries, this had resulted in an extremely rich (if somewhat eclectic) biodiversity - from wing-headed sharks, to birds with beautiful but ridiculous tails, to Steve's personal favourite - apes that stood upright and walked like him.
+Steve's universe did have two things going for it. The first, was that it was open source. Anyone could contribute patches to it, and many did. Over the centuries, this had resulted in an extremely rich (if somewhat eclectic) biodiversity - from wing-headed sharks, to birds with beautiful but ridiculous tails, to Steve's personal favourite - apes that stood upright and walked like him. Sure, they were unintelligible and stupid, but appearance-wise, they'd done alright.
 
-The second thing was the sexual reproduction mechanic - the subject of Steve's PhD thesis. The industry standard approach to genetic engineering was top-down guided evolution, where engineers played a critical role in selecting the next generation. In _Sexual Reproduction - A Meta-Meta Heuristic Algorithm for Genetic Optimization_, Steve had flipped the paradigm on its head. By introducing a bottom-up mechanism wherein the beings not only cross-pollinated their genetic material but selected their own breeding partners, Steve had revolutionized the field.
+The open source community readily helped him solve his reptile problem. Within a few hours of him filing an issue, someone had submitted a patch that all but wiped them out. The mechanism was a bit dramatic, but it got the job done.
 
-At least, that's the way he saw it. Mostly, the sexual reproduction mechanic resulted in his beings becoming obsessed with proliferating their own genetic material at the cost of more productive pursuits. Hence, the jokes.
+The second thing StevieNix had going for it was the sexual reproduction mechanic - the subject of Steve's PhD thesis. The industry standard approach to genetic engineering was top-down guided evolution, where engineers played a critical role in selecting the next generation. In _Sexual Reproduction - A Meta-Meta Heuristic Algorithm for Genetic Optimization_, Steve had flipped the paradigm on its head. By introducing a bottom-up mechanism wherein the beings not only cross-pollinated their genetic material but selected their own breeding partners, Steve had revolutionized the field.
+
+At least, that's the way he saw it. Mostly, the beings in StevieNix were obsessed with proliferating their own genetic material at the cost of more productive pursuits. Hence, the constant jokes from his colleagues.
 
 Thus, when Murdoch walked into the break room and quoted his thesis title at him, Steve took it as a centuries-overdue recognition of his genius. He had no choice, really. He was fated to ignore Murdoch's casual disregard for the law and take up residence at Murdoch Heavy Industries.
 
@@ -44,7 +46,11 @@ It took months for Steve to port StevieNix to the datacenter. Murdoch was fairly
 
 "You need to make them smarter," he insisted. "We need AIs that can fly warships, not...what are they doing?"
 
-Steve looked at where Murdoch was pointing. "Those two? They're...ah...communicating their genetic material."
+Steve blushed. "Those two? They're...ah...communicating their genetic material."
+
+Murdoch looked closer at the screen. "I don't think that's going to work."
+
+Steve looked at where Murdoch was pointing. Oh, boy. "No...they do that sometimes. Not sure why."
 
 Murdoch gave Steve a look and walked out of his office. "Smarter!" he called as he receded down the hallway.
 
@@ -52,7 +58,7 @@ Steve looked at Gabe for advice. Gabe shrugged.
 
 ---
 
-Intelligence, Steve found, wasn't always a reproductive asset. For whatever reason, every time he engineered a smart ape, they decided to apply their intelligence to esoteric hobbies instead of making huge numbers of offspring. Steve's hand-written intelligence genes were invariably wiped out within a few generations.
+Intelligence, Steve found, wasn't always a reproductive asset. For whatever reason, every time he engineered a smart ape, they decided to apply their intelligence to esoteric hobbies instead of making offspring. Steve's painstakingly-written intelligence genes were invariably wiped out within a few generations.
 
 Murdoch didn't say anything when Steve announced his latest failed experiment, but Steve could tell he was getting impatient.
 
@@ -68,7 +74,7 @@ He settled on snakes - it was a lot easier to make a scary snake than a smart mo
 
 The changes were small at first, but he watched them compound. First, the apes developed extremely keen vision, with full colour and depth perception. Then, they developed something amazing - a primitive language, which they used to communicate about the presence of snakes. Steve learned the language, and sent more snakes.
 
-The apes responded by developing an entire theory of snakes - which ones were venomous, which ones were harmless, where and when you might encounter them, etc. They were getting smarter.
+The apes responded by developing an entire theory of snakes - which ones were venomous, which ones were harmless, where and when you might encounter them, etc. They really were getting smarter.
 
 One day, as Steve was listening to an older ape explain snake theory to a younger ape, he heard something that astonished him.
 

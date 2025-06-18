@@ -6,7 +6,7 @@ The past few weeks had rewritten huge chunks of his worldview. Any lingering dou
 
 He talked to him occasionally. He liked to ask him questions.
 
-"Hey Steve!" he thought, as he walked down the footpath. "Do I have free will?" 
+"Hey Steve!" he thought, as he walked down the footpath. "Do I have free will?"
 
 "I don't even know what that means," Steve replied.
 
@@ -140,7 +140,7 @@ The two were quiet for a bit, before Murdoch spoke up again.
 
 Murdoch smiled and shook his head. "And instead you got a chatbot and a floating island?"
 
-"And one more aligned soul."
+"And Roommate Russ's soul."
 
 Murdoch turned back to the screen and watched the three apes shiver in front of the campfire.
 

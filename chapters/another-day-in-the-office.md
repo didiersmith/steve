@@ -76,7 +76,7 @@ Xavier turned his head to see Ivan shutting the door behind him.
 
 Xavier looked around the lab. Everywhere, Steve's exotic machines were whirring, lights were blinking, and crewmembers were bustling back and forth, chattering and tinkering. A stranger who'd just arrived on-scene would have had no idea that this motley collection of scientists and engineers had just narrowly avoided a mass-casualty event. Everything had already returned to business as usual.
 
-Xavier breathed an enormous sigh, and drifted back to sleep. Just another day in the office.
+Xavier closed his eyes and drifted back to sleep. Just another day in the office.
 
 ---
 
