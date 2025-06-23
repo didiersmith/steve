@@ -1,7 +1,7 @@
 ---
-title: "The Book of Steve, Second Draft"
+title: "The Book of Steve, Third Draft"
 author: "By Didier Smith"
-date: "March 28, 2025"
+date: "June 20, 2025"
 geometry: margin=1.5in
 fontsize: 16pt
 titlepage: true

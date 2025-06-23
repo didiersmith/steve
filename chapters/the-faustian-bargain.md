@@ -28,7 +28,7 @@ This might actually work.
 
 Murdoch slowly worked away at his chicken tikka masala as he watched the islander apes dissect and optimize every aspect of their existence. It was really quite a sight.
 
-Not a single aspect of an islander ape's existence was spared from the innovations of hungry tinkerers and their wealthy backers, gagging for the opportunity to ease the ape's burdens in exchange for their money. From crossing the continents to wiping their arses, every moment of every day was sliced, diced, analyzed and optimized for inefficiencies that may be profitably reduced by goods and services.
+Not a single aspect of their existence was spared from the innovations of hungry tinkerers and their wealthy backers, gagging for the opportunity to ease the apes' burdens in exchange for their money. From crossing the continents to wiping their arses, every moment of every day was sliced, diced, analyzed and optimized for inefficiencies that may be profitably reduced by goods and services.
 
 The quality of life in islander society improved so rapidly that the common ape in one generation enjoyed luxuries unimaginable to the richest apes of two generations past. Apes began to congregate in huge cities, fed by industrialized supply chains stretching around the world, shuttled around by engines - first powered by steam, then internal combustion, and finally jets and electricity.
 

@@ -1,44 +1,60 @@
 ## 0. God's Diner
 
-Russell woke up in a 1950s-style diner. There were four mugs of steaming hot coffee and four slices of peach pie on the table. Seated next to him in the booth was his roommate Vincent, who was studying the menu. Across from them was a young lady whom he didn't recognize, but found extremely attractive. He instinctively avoided meeting her eyes and looked aimlessly around the diner.
+Russell startled and looked around. He was in a diner. There was a mug of coffee in front of him. What?
 
-"Is this a dream?" she asked.
+How did he get there? The last thing he remembered was going to sleep.
 
-"I don't think so" responded Vincent, continuing to study the menu. "You can tell if you're in a dream by looking at written words and looking away. If they're still the same when you look back, you're not dreaming. This menu," he added, finally looking up and at the other two booth occupants, "has been claiming that you can buy a cheeseburger for twenty-two cents this whole time."
+"Is this a dream?" asked the...whoah. Asked the beautiful young woman sitting across from him. How had that happened?
 
-"Oh," responded the young lady. "I thought you were supposed to pinch yourself." She pinched her forearm and grimaced. It left a mark.
+"I don't think so," his roommate Vincent replied.
 
-"I'm not sure if there's any evidence to support-" started Vincent, before Russell cut him off.
+Russell turned his head. Vincent was seated next to him on the red, vinyl-covered booth seat, with a menu in his left hand and his own mug in his right.
 
-"Twenty-two cents for a cheeseburger? Let me see that menu."
+"You can tell if you're in a dream by looking at writing and looking away," Vincent continued. "If the words are still the same when you look back, you're not dreaming."
 
-The menu was drawn in a vintage Americana style, which felt out of place in their home town of Perth, Western Australia. The cheeseburger came with fries, and was indeed listed as costing twenty-two cents. Other options were a milkshake (20 cents), a grilled cheese sandwich (25 cents), and a blue plate special (roast beef and two sides, ninety-nine cents). After memorizing a few items, Russell mustered the nerve to glance up at the lady across the table, before flicking his eyes back down to the menu. The items were unchanged.
+Russell picked up the menu in front of him. "God's Diner," said the writing on the top. "Try our coffee - It's divine!" read the tagline below it.
 
-"I don't remember coming in here," said the woman, picking up her coffee mug and studying the bottom of it for clues. Russell looked around the diner. Apart from them, it was deserted. Just as he rose from the booth to go investigate further, the front door opened and a bell dinged.
+Russell flicked his eyes up momentarily to study the unknown woman across the table, and back down to the menu before she noticed. The title and tagline were unchanged.
+
+"I don't remember coming in here," she said, picking up her coffee mug and taking a sip. Her expression changed to a pained grimace and she put the mug back down on the table and pushed it away. Was it really that bad?
+
+Russell picked up his mug and took a sip. It was okay. He didn't know if he'd describe it as 'divine,' but-
+
+A bell dinged and the front door opened.
 
 A middle-aged man stepped through the door. He was of average height, slightly balding, with glasses and a skinnyfat build. He walked with confidence, and smiled as he saw the trio.
 
-"Hello! Thank you so much for joining me. Please, sit down!" he said, gesturing Russell back into the booth.
+"Hello! Thank you so much for joining me!" he said.
 
-"Thanks," responded Russell. He sat down, confused and nervous.
+"Thanks," said Russell. He wasn't sure he deserved any credit for joining him, but he wasn't sure what else to say.
 
-The man slid into the booth next to the young lady. He marvelled at each of their faces in turn, as they sat in awkward silence. "I'm so very pleased to meet you," he said.
+The young lady slid over to make room for the man, who smiled at her and sat down. He marvelled at each of their faces in turn, as they sat in awkward silence.
 
-"Thanks," responded Vincent. "I'm Vincent." He stuck his hand out across the table. The man looked at it and cocked his head in a moment of confusion, before his face brightened in realization. He grasped Vincent's hand in both of his and shook it vigorously.
+"I'm so very pleased to meet you all," he said.
 
-"I know," he said. "You're one of Murdoch's islanders. I'm very pleased to meet you." 
+"Thanks," replied Vincent. "I'm Vincent." He stuck his hand out across the table. The man looked at it and cocked his head in a moment of confusion, before his face brightened in realization. He grasped Vincent's hand in both of his and shook it vigorously.
 
-The man's face broke out in a huge smile as he moved on to the woman. "Stacy," he said. "So nice to finally meet you in person! Sorry to hear about your mother."
+"I know," he said. "You're Murdoch's guy - one of his islanders. I have a bone to pick with you! Although he told me you're one of the better ones, so..."
 
-The young lady looked confused, and teared up at the mention of her mom.
+His voice trailed off and he released Vincent's hand. Vincent receded awkwardly into his seat as the man turned his attention to the woman next to him. "Stacy!" he said. "So nice to finally meet you in person!"
 
-Finally, the man turned to Russell. "And you must be..." he struggled and waited for Russell to introduce himself.
+"Thanks," she replied, looking confused.
+
+"How's your mother?" he asked.
+
+"She died."
+
+"Oh."
+
+After another moment of uncomfortable silence, the man turned to Russell. "And you must be..." he struggled and waited for Russell to introduce himself.
+
+So that's how it was.
 
 "I'm Russell."
 
-"Oh, yes, that's right. Roommate Russ. Very good to meet you." He stuck his hand out and subjected Russell to his awkward handshake.
+"Oh, yes, that's right. Roommate Russ. The programmer. Very good to meet you." He stuck his hand out and subjected Russell to his awkward handshake.
 
-Russell was slightly offended.
+Oof. Roommate Russ?
 
 "And you are?" asked Stacy.
 

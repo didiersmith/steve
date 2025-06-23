@@ -2,7 +2,7 @@
 
 Steve returned from his relaxing spa vacation to find a very distressed Gabe.
 
-"I told you!" Gabe yelled. "You should never have signed that contract! We're fucked!"
+"I told you!" Gabe yelled. "You should never have signed that contract! We're screwed!"
 
 "What?"
 
@@ -20,7 +20,7 @@ Steve returned from his relaxing spa vacation to find a very distressed Gabe.
 
 "Their thinking is that, because evolution exists, they no longer need you to explain their creation. Evolution just did everything."
 
-"What?" Steve asked. "Evolution did everything? Just...what, evolved them out of sludge?"
+"What do you mean, 'evolution did everything?'" Steve asked. "Evolution...what, evolved them out of sludge?"
 
 "Yes, I think so."
 
@@ -46,7 +46,7 @@ Steve rubbed his forehead. How could it possibly get worse?
 
 "What?"
 
-"They're barely reproducing anymore. Birth rates are below replacement. The population will collapse within a few generations."
+"They're barely reproducing anymore. Birth rates are below replacement. The population will start collapsing any day now."
 
 Steve laughed. Relief flooded his body, now that he knew Gabe was just messing with him. "You almost got me," he smiled. "But those monkeys will never stop reproducing. It's too deep in their genes."
 
@@ -76,7 +76,9 @@ God damnit.
 
 ---
 
-Steve wrinkled his nose. Murdoch's office stank of cigarettes.
+What an embarrassment. From the top of the leaderboard, to this - all because of a stupid spa trip. No - because of Gabe's incompetence. And the stupid apes. The spa trip was well deserved. What was the point of being a God if you can't treat yourself once in a while?
+
+Steve wrinkled his nose and looked down at the ash-stained carpet of Murdoch's office.
 
 "So you're just giving up?" Murdoch asked.
 

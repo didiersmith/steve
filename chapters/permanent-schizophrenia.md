@@ -2,13 +2,15 @@
 
 Murdoch sat alone in his office. He supposed he should spend more time in the open-plan office now that he was collaborating with a team, but he felt bad about smoking in there. He shouldn't - they were his property, after all. But still. Must be FEDSEC's conditioning.
 
-Smoking helped him calm his nerves. He had every reason to be nervous - when he'd come up with the plan of using the AIs as engineers, he hadn't thought through the difficulties of transferring the technology. Porting everything to realistic physics was going to be a major challenge. Success was not guaranteed. And meanwhile, Murdoch Heavy Industries was scheduled to start construction on the "interstellar radio" in under a month. They didn't even have a blueprint.
+Smoking helped him calm his nerves. He had every reason to be nervous - when he'd come up with the plan of using the AIs as engineers, he hadn't thought through the difficulties of transferring the technology. Porting everything to realistic physics was going to be a major challenge. Success was not guaranteed. And meanwhile, the quarter was slipping away. Not only did that mean another financial report, but Murdoch Heavy Industries was scheduled to start construction on the "interstellar radio" in under a month. They didn't even have a blueprint.
 
-He took a long drag on his cigarette, exhaled, and washed it down with a mouthful of water. He shivered and shook his head. Awful stuff. He was forcing himself to lay off the booze - he couldn't afford any mistakes, this late in the game.
+He couldn't afford any mistakes. He was laying off the booze. He took a long drag on his cigarette, exhaled, and washed it down with a mouthful of water. He shivered and shook his head. Awful stuff.
 
 It wasn't just a matter of designing tiny robots that would work in their physics. Something had to build the tiny robots, so they needed bigger robots. In fact, they needed the entire tech tree - a whole chain of robots that would bridge them from the current state of the art technology on Elba, to the much more advanced state of the art in StevieNix.
 
 It had been hard enough doing this with Vincent, and they'd had an omniscient LLM to help. This time, there was no such crutch. They relied on his own memory instead. And boy, his memory was getting fuzzy.
+
+Feck, it was stressful. Maybe he should take his doctor up on his offer of "chill pills."
 
 Placing his cigarette in his mouth to free up his hands, he started searching through MHI's library of CAD designs, looking for anything that might help Xavier and his lads.
 
