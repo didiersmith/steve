@@ -1,10 +1,12 @@
 ## 0. The Manufacturing Singularity
 
-"Make smaller robots," Murdoch said into the ape's head. "Use the robot to make smaller robots."
+The next day was even more ambitious. The ape had fully automated manufacturing - now, time to make it nanoscale.
 
-He listened as Vincent's internal monologue took over and ran with the seeded thought.
+"Make smaller robots," Murdoch said into his microphone. "Use the robot to make smaller robots."
 
-"Smaller robots," he thought. "Then I can use those robots to make even smaller robots. How small can I go?"
+Vincent's internal monologue played out over his speakers and ran with the seeded thought.
+
+"I should make smaller robots," Vincent thought. "Then I can use those robots to make even smaller robots. How small can I go?"
 
 "Really small," Murdoch suggested.
 
@@ -12,76 +14,62 @@ He listened as Vincent's internal monologue took over and ran with the seeded th
 
 Murdoch sat back and chuckled. This would never cease to be satisfying.
 
-Terrestrial commentators had long speculated on how the manufacturing singularity would play out. They had always imagined the progress to follow something like Moore's Law - a wickedly fast progression in the long arc of human history, but a banal plod in the lifetimes of the people fortunate enough to see it happen.
+People had been predicting an imminent manufacting singularity on Elba for as long as Murdoch could remember. Each generation of tech would build on the previous, accelerating faster and faster until everything, everywhere was robots...It had never materialized.
 
-Of course, none had factored in the assistance of a motivated God and a superintelligent omniscient chatbot.
+Manufacturing had been in stasis for millenia. Pretty much everything was. Just the way FEDSEC liked it. The only truly new technology was the MHI-10, and he'd damn near bankrupted Murdoch Heavy Industries to build it.
 
-Between the combined efforts of Murdoch, Vincent, the LLM and the robots, each next step in the progression was realized almost as quickly as they could imagine it.
+Fortunately, with the help of a motivated God and a superintelligent chatbot, the apes in StevieNix could achieve what the people of Elba could not.
 
-They needed a portable power source - lithium batteries fell far short of the capacity needed to mill, weld, and sinter on the go. Plumbing the depths of the LLM's brain, Murdoch and Vincent invented a method of producing high quality graphene in Vincent's two-car garage. Within an hour, the robot was mass producing graphene supercapacitors.
+"You need a power source," Murdoch said. "Try graphene supercapacitors."
 
-The next generation of robots was three orders of magnitude smaller - while the spider weighed 40kg, its offspring weighed only 40 grams. They were modelled after ants, with six limbs and bodies the length of a human finger. Instead of being able to do a wide array of things, like the spider, each ant was specialized to perform only one or two tasks.
+"Lithium batteries aren't going to cut it," thought Vincent. "I should make supercapacitors. Maybe graphene."
 
-Working together, the God/ape pair created cutter ants who carefully broke apart materials, transportation ants who could carry up to 40 times their bodyweight, welding ants, laser ants, carbon fiber synthesis ants, and many more. Each ant was powered by an array of supercapacitors and communicated to a base station via a salvaged bluetooth chip. The ants covered the entire workshop, moving in a coordinated swarm. When an ant ran low on power, it would run over to the charging station and swap out its supercapacitors, while another ant took its place. There were ants everywhere.
+Shaking his head and smiling, Murdoch clicked around in the incomprehensible window looking for the "breakpoint" button. Steve had clicked...there. And then the speed slider...
 
-Then, they shrank the robots again.
+A few moments later, the sim paused. Vincent's hair was a couple inches longer and the robot spider was collecting dust on his shelf. He was surrounded by a new generation of robots. Murdoch zoomed in. They were three orders of magnitude smaller.
 
-For this shrink, microchip size became the major limiting factor - the salvage chips they'd been relying on up to this point were simply too big. Murdoch, Vincent and the LLM spent some time developing ants capable of performing the deposition, lithography and micromachining necessary to manufacture semiconductors. The resultant generation of robots were controlled by tiny, silicon brains containing the absolute minimum number of transistors necessary to perform their assigned tasks. The average robot weighed 8 milligrams, and its size was that of an actual ant. 
+How curious. Murdoch panned the window around, studying Vincent's inventions. They were lightweight - approximately 40 grams each - and looked like ants, each the size of an ape's finger.
 
-The 8 milligram robots took on many shapes. Swarms of tiny, fruit fly-inspired robots buzzed around the workshop, transporting parts for the other bugs to cut and refashion into more robots. Now that the process had been freed from reliance on salvage electronics, they turned to raw materials instead of upcycling junk. The team designed robotic mining worms, tasked them with finding rare earth metals, and released billions of them into Vincent and Russell's backyard.
+He dragged the speed slider back down to real-time, and unpaused. What a show! The ants swarmed all over the garage, each performing specialized operations. There were cutter ants, who broke apart materials, transportation ants, welding ants, laser ants...
 
-Unbeknownst to anyone, the ground under the city of Perth was filled with an intricate network of tunnels just a few millimeters in diameter. The tunnel network was composed of billions of perfectly spherical hubs, connected by trillions of perfectly straight spokes, efficiently routing robotic worms and optical communication from high-density elemental deposits under the city to the manufacturing hub in the garage.
+Goodness, the ape had been busy.
 
-The next shrink created robots the size of yeast. At this scale, Murdoch had to zoom way in to see the robots and Vincent couldn't see them at all. The pair had fun with the yeast robots, using them to create exotic materials - sheets of heavenly silk, columns of marble, or intricate braids of gold and transistors. But mostly, they used the yeast-bots to manifest the final shrink.
+Murdoch leaned into the microphone. "Make them smaller," he said.
 
-The final shink was very, very hard. Murdoch hauled Steve into his office to berate him.
+"I should make them smaller," Vincent thought.
+
+As the robots got smaller and smaller, Vincent required more and more hands-on assistance. The next generation needed custom semiconductors. Then, they needed exotic rare earth metals. Murdoch prompted Vincent to design robotic mining worms, and dump billions of them into his backyard.
+
+The ground under the city of Perth was filled with an intricate network of tunnels just a few millimeters in diameter. It was a real sight to behold. Whatever section of dirt Murdoch randomly chose, if he zoomed in close enough, he could find a mining robot, searching for elemental deposits and shunting them back to the garage.
+
+"Smaller," he said.
+
+"Smaller," Vincent thought.
+
+Breakpoint, fast-forward, guidance. Breakpoint, fast-forward, guidance. Murdoch settled into a rhythm. The next shrink created robots the size of yeast. Then, bacteria. Then, viruses. The smaller the robots, the more fun they were - until suddenly, things started getting weird. At the atomic level, the particles got crazy.
+
+Murdoch hauled Steve into his office to berate him.
 
 "Why are the electrons jumping around?" he demanded.
 
-"They aren't in a fixed position," Steve attempted to explain. "Too computationally expensive. There's just a probability distribution of their locations and we evaluate that just in time."
+"They aren't in a fixed position. Too computationally expensive. There's just a probability distribution of their locations and we evaluate that just in time."
 
-"What the hell does that even mean? How am I supposed to stick atoms together without even knowing where the particles are?"
+"Speak English, Steve! How the feck do I stick the fecking atoms together? I've burned like two days on this!"
 
-"It works, I swear!"
+Steve blushed. "Just stick to carbon. Carbon's easy."
 
-Murdoch grumbled, turned away, and continued muttering suggestions into Vincent's head.
+Murdoch grumbled and unmuted the mic.
 
-Eventually they got it to work. Mostly with carbon atoms.
+"Stick to carbon," he relayed.
 
-The final shrink consisted of highly specialized molecular machines - they could hardly be called robots - that operated at the atomic scale. Each machine's bizarre structure was uniquely suited to its assigned task, which was to place and bond atoms in desired locations.
+Vincent stuck to carbon.
 
-Once the final shrink had been achieved, truly fantastic structures appeared on command. Impossibly light airships and gliders flew around the ceiling of the garage. Railguns of various shapes and sizes materialized on the workbench. Murdoch even helped Vincent design a tiny fusion reactor.
+Eventually, they got it to work. The final shrink consisted of highly specialized molecular machines - they could hardly be called robots - which swarmed like a living liquid, placing and bonding individual atoms wherever they needed to be. Vincent created all sorts of fantastic devices - miniature airships, railguns, even a fusion-powered motorcycle.
 
-After that, Murdoch took a step back and let Vincent have fun for a while. Vincent took the opportunity to create a fusion-powered motorcycle. He took for a 350km/h joyride down Tonkin Highway at 1am and returned to the house, shaking.
+Anything is possible when you can put atoms wherever you want them.
 
-"I think my blood is eighty percent adrenaline," he announced, striding into the kitchen.
+And then, that was it. No more shrinks. Fully automated nanoscale manufacturing, finished in a week. Easy peasy.
 
-Russell and Stacy were still up, nursing mugs of tea. In the past few weeks, Stacy had become their de facto third roommate. She had taken over Vincent's room while he slept in a hammock in the garage.
+Now, onto the hard part - the interstellar warship. Probably needed more Vincents for that.
 
-Stacy ran up to him and threw her arms around his neck. "You idiot! How fast did you get?"
-
-"I hit three fifty. Not fast enough for Bonneville, but definitely fast enough for Tonkin Highway."
-
-Russell burst into laughter, while Stacy scowled and returned to her mug of tea.
-
-"I definitely feel ready to increase the fertility rate now, if you know what I mean!" Vincent remarked.
-
-"Go to hell!" came the response. Vincent joined Russell in laughter. Eventually, Stacy couldn't help but laugh too.
-
-"What was it like?" asked Russell.
-
-"Windy. The air kept trying to pull me off. It was all I could do to hang on."
-
-Stacy shook her head. "Such an unbelievable idiot", she chuckled.
-
-Vincent made himself a cup of tea, and the trio spent the next hour reminiscing over the past few weeks. Finally, when all their mugs were empty, Russell asked the big question.
-
-"Are we ready to go?"
-
-"Let's do it!" Vincent responded.
-
-Stacy just nodded and put down her mug. Russell pulled a box off the bookshelf and pulled out a Starlink transceiver.
-
-The three put on the warmest jackets they owned and walked down to the Swan River.
-
-Murdoch stubbed out his cigarette and stroked his chin. Now for the fun part.
+What to do, what to do...

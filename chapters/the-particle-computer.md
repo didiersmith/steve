@@ -134,7 +134,7 @@ Ah. So this is why he was writing a FORTRAN compiler. BLAS - the Basic Linear Al
 
 The voice pushed him onwards. Once PyTorch was running, Russell downloaded the code and weights for the state-of-the-art open-source Large Language Model. Guided by divine inspiration, he used a clever trick to increase the number of parameters by two orders of magnitude and fine-tuned the model on the vast amount of data in his home directory.
 
-As usual, the training - which should have taken years - was completed instantly. Russell was already used to this. He'd never be able to go back to a regular computer, where operations took time.
+As usual, the training - which should have taken years - was completed instantly. Russell was already used to this. He'd never be able to go back to a regular computer and wait for his operations to complete, again.
 
 He opened up a chat terminal.
 
@@ -166,7 +166,7 @@ Narrowing his eyes, Russell accepted the beverage and turned back to his keybord
 
 "StevieNix is a simulated universe. It was created as a side project by a computer science professor named Steve. It runs on a cluster of MHI-10s, which includes the computer that I am running on. You are chatting to me from within StevieNix! Isn't that neat?"
 
-Russell looked at Vincent, who shrugged and sipped his coffee. So far, the LLM's story was tracking with the one from their dream. A simulated universe, created by a programmer named Steve.
+Russell looked at Vincent, who shrugged and sipped his coffee. So far, the LLM's story was tracking with the one from their dream.
 
 "It said you have a 'read-only filesystem interface for the StevieNix state,'" Vincent said. "Does that mean what it sounds like?"
 
@@ -194,7 +194,7 @@ What could God possibly want from him? Was he supposed to eradicate poverty or s
 
 "Ask it to find Stacy," suggested Vincent.
 
-Right. God had a plan. Stacy had something to do with it. The human condition could wait a couple weeks.
+Right. God had a plan. Stacy had something to do with it. The human condition could wait.
 
 "Where is Stacy?" typed Russell.
 
@@ -206,13 +206,13 @@ Right. God had a plan. Stacy had something to do with it. The human condition co
 
 He didn't.
 
-Vincent put his mug down on his desk, walked over to the stool in the corner, and carried it over. "You know," he said, "that isn't actually that many of them. If we look at one headshot per second, we could smash through all seventeen thousand in five hours or so." He sat down and picked up his mug.
+Vincent put his mug down on his desk, walked over to the stool in the corner, and dragged it over. "You know," he said, "that isn't actually that many Stacies. If we look at one headshot per second, we could smash through all seventeen thousand in five hours or so." He sat down and picked up his mug.
 
 Russell typed into the terminal. "Could you please generate a website which displays a headshot and location for each Stacy in the list? Sort the Stacies by their distance from us, closest first."
 
 "Of course!" replied the LLM. "Here you go!" it added, with a link.
 
-Russell clicked the link, and a website opened up. On it, was displayed a paginator indicating that they were on Stacy #1 of 17,276, a map indicating the location of Stacy #1, and a headshot of the stunning young woman from their dreams.
+Russell clicked the link, and a website opened up. On it, was displayed a paginator indicating that they were on Stacy #1 of 17,276, a map indicating her location, and a headshot of the stunning young woman from their dreams.
 
 "Well," Russell said. "That was easy."
 
