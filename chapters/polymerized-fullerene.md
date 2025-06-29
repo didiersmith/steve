@@ -14,7 +14,7 @@ The past few months had rewritten huge chunks of his worldview. Any lingering do
 
 He talked to him occasionally. He liked to ask him questions.
 
-"Hey Steve!" he thought, as he walked down the footpath. "Do I have free will?"
+"Hey Steve!" he thought as he walked down the footpath. "Do I have free will?"
 
 "I don't even know what that means," Steve replied.
 
