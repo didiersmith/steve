@@ -42,7 +42,7 @@ Steve's massive, parallel genetic algorithm had rendered Russell disinclined to 
 
 "Can't wait," Stacy grumbled. "I'm bloody freezing."
 
-They reached the Swan River at 4am. When they arrived at the sandy shoreline, Vincent took out his phone and spoke into his app, "okay, build the boat."
+They reached the Swan River at 4 in the morning. When they arrived at the sandy shoreline, Vincent took out his phone and spoke into his app, "okay, build the boat."
 
 First, nothing happened. Then - whoa! Russell steadied himself as the sand underneath his feet rippled like waves. A moment later, the beach in front of him erupted in a black and silver shifting blob, that shimmered in the moonlight. Vincent's nanobots must have followed them underground, all the way there.
 
@@ -68,7 +68,7 @@ As the ultralight craft skimmed over the water, jostling its occupants port and 
 
 Russell wasn't particularly impressed either. "Can't you at least add a keel?" he asked.
 
-"We don't have any robots on board," said Vincent. "Can't change anything until we get there."
+"Can't," said Vincent. "Robots don't swim. We can't change anything until we get there."
 
 Russell and Stacy groaned and lay down in the bottom of the boat as a grinning Vincent guided them at top speed past the Perth skyline, out the mouth of the Swan, and into international waters.
 
@@ -76,71 +76,113 @@ Russell and Stacy groaned and lay down in the bottom of the boat as a grinning V
 
 "We're here!" Vincent announced.
 
-Russell blinked and sat up. Against all odds, he had managed to fall asleep. He looked over at Stacy. She looked rough. Bleary-eyed, hair matted with vomit, and clearly very annoyed. He was freezing, and judging by the way she was shaking, he wasn't the only one. "Did you sleep?" he asked.
+Russell blinked and sat up - against all odds, he had managed to fall asleep. He was freezing, and judging by the way Stacy was shaking, so was she. Man, she looked rough. Bleary-eyed, hair matted with vomit..."Did you sleep?" he asked.
 
 "Screw off," she answered.
 
-Russell hoisted himself up and looked around. The sun was just breaking over the Eastern horizon. Other than that, all he could see was ocean and sky. The boat bobbed gently on the waves. Russell sighed and let himself collapse back into the bottom of the boat.
+Guess not. Russell hoisted himself up and looked over the side of the boat. The sun was just breaking over the Eastern horizon. Other than that, all he could see was ocean and sky. The boat bobbed gently on the waves. Russell drooped his head and began to slowly collapse back into the bottom of the boat.
 
-"You're gonna want to watch this," said Vincent.
+"You're gonna want to watch this," said Vincent from the other side of the boat.
 
-Russell reluctantly made his way to the port side of the boat, where Vincent was indicating. He couldn't see anything but the sea. He was about to say something, when Stacy yelled, "look!"
+Ugh. Russell reluctantly wobbled his way across. "All I see is water."
 
-A large black cylinder, roughly a meter in diameter and made from the same material as the boat, was slowly rising from the surface of the water. Russell's annoyance and seasickness disappeared. "Whoa."
+"Look!" Stacy yelled.
 
-## You are here
+He looked where she was pointing. Oh. How had he missed that? The robots were back. A shimmering black and silver mass around a meter in diameter, was emerging out of the sea.
 
-When the cylinder had reached a height of two meters above the surrounding sea, it stopped rising. Everything was still for a moment, and then a couple of spurts of water came out the top. All of a sudden, a jet of water blasted out of the cylinder, soaring way overhead.
+The mass grew taller and taller, and before long, Russell could make out what they were building: A black cylinder.
 
-"Oh frig!" yelled Vincent, and started the fusion engine. He plunged the propeller back into the water and Russell and Stacy were once again thrown to the bottom of the boat as it accelerated away from the enormous fountain of seawater.
+"Our supply chain," Vincent explained, nodding at the cylinder. "Straight from the Earth's crust."
 
-They didn't quite make it. The water came crashing down, knocking the air out of everyone's lungs. Vincent was thrown from his perch at the stern of the boat, landing in the bottom next to the other two. The engine's safety cutoff activated, and the boat continued to coast on its momentum and the chaotic force of the falling water until it was thankfully forced out of the fountain's landing zone.
+"Did the robots follow us here?" Stacy asked.
 
-Out of the landing zone, but not out of danger. The three continued to cling on for dear life. The boat was spinning, pitching, and rolling every which way on the turbulent sea.
+"We followed them. They've been tunneling here for weeks."
 
-"Don't worry!" Vincent attempted to reassure the others. "It's unsinkable!"
+Russell looked out over the ocean. Other than the cylinder, there was nothing. No sign of life, land, palm trees, anything. Not even a seagull. "You sure about this?" he asked.
 
-Russell couldn't hear Stacy's shouted response over the sound of the thundering water crashing back down into the ocean, but understood her obscene hand gestures.
+"Dead sure. Just wait until the pipe's done. The bots will push the seawater out, then we'll really start cooking."
 
-After what felt like an eternity, the fountain abruptly stopped. The battered trio took stock. They were soaked and bruised to the bone, and the boat was half filled with water.
+Well, Vincent had gotten them this far. He'd earned a little trust.
 
-Stacy spoke up. "You absolute sodding moron!" she spat at Vincent. "You useless sack of-"
+The robots built upwards until the "supply chain" towered over the boat. Then, at once, the gleaming blob of nanobots slurped itself into the pipe as if they'd been vaccumed in, leaving just the perfect, black, one meter diameter cylinder sticking out of the water.
 
-"Whoa!" shouted Russell, cutting her off and pointing back to the cylinder. "What's that?"
+"Showtime." Vincent stared rapt at the cylinder.
 
-Huge volumes of white foam were spilling out of the top, overflowing like a tapped beer bottle, and disappearing into the sea below. Vincent breathed a sigh of relief. "It's working!" he exclaimed.
+Nothing happened. Russell looked at Stacy, who shrugged.
 
-"It'd better work, you complete and utter dropkick!"
+Then, a gurgle. A bit of seawater bubbled out the top.
 
-Vincent started the engine and manoeuvred the flooded boat closer to the cylinder. Minutes elapsed as the foam continued to spill out and vanish into the sea. The trio shivered. Russell was beginning to regret not having brought a wetsuit - the sun was still barely up, and the water was seriously cold.
+"Hey hey!" Russell said.
 
-Soon, the shivering turned into shaking. Russell looked at his compatriots. Stacy had given up trying to find a stable perch above the waterline, and was slumped against the wall of the boat, half submerged, arms wrapped around her legs, skin grey, lips blue. Vincent didn't look much better - his teeth were chattering uncontrollably and he appeared to have lost his final shred of enthusiasm. It dawned on Russell that, if Vincent's plan didn't come to fruition in the next few minutes, death by hypothermia would result.
+Vincent shook his head. "Not yet."
 
-He pulled the Starlink transceiver out of the waterproof pouch inside his jacket, and turned it on. It would take some time to connect to the satellites, and time was in short supply. As he watched the LEDs flash, his vision began to fade. The boat turned blurry, and the sea beneath them faded from deep blue to white.
+The bubbling died down. A few seconds later, an enormous foundain of seawater blasted out of the cylinder - it must have been thirty, forty meters high.
 
-The boat jolted. Some heroic gland deep within Russell managed to muster his single remaining drop of adrenaline and squeeze it into his bloodstream. He lifted his head. The sea wasn't white. The boat was on dry land.
+"Oh frig!" yelled Vincent, and started the fusion engine. He plunged the propeller back into the water and Russell was once again thrown to the bottom of the boat as they jolted away from the looming tower of water.
+
+They didn't quite make it. The water came crashing down like a piano, crushing Russell against the floor of the boat. The ribs of the boat smashed into the ribs of his body and punched the air out of his chest. This must be what a car accident feels like.
+
+Russell gasped for breath, but instead of air, his lungs found seawater. It pummelled him, it surrounded him, it was drowning him. He coughed and hacked, but each time he inhaled - more seawater. His head knocked against something soft - Vincent. Who was driving the boat?
+
+His lungs were empty. How long can you survive on the oxygen in your bloodstream? The world turned into a dark, spinning screensaver. Guess he'd find out. Bet it wasn't long.
+
+Then, the water stopped falling. Russell's instincts somehow managed to lift his head out of the water and he finally inhaled air. He coughed, and seawater went up his nose.
+
+"Stacy!" Vincent's voice was hoarse, like he'd been forced to eat a burning coal. He charge past Russell, towards - oh, shit.
+
+Stacy was lying face-down in the water.
+
+He flailed towards her and the two men hauled her upright. He held her limp body tightly as Vincent pummeled her back. Whack! Whack! Whack!
+
+She stiffened and coughed. Whoa, that was a lot of water. She hacked and retched, but she was alive.
+
+"You...dick!" she eventually managed at Vincent.
+
+"Look behind you," he replied.
+
+Russell lifted his head and looked behind her. The robots were back. The supply chain was overflowing with them.
+
+The world was hazy. Russell struggled to keep his head up. It looked like the robots were building pipes. A capillary network, fanning out from the arterial cylinder, upwards and then sloping back down, eventually disappearing into the water beneath them.
+
+Temporarily displaced by the adrenaline of almost drowning, the cold returned to Russell's bones - this time, with a vengeance. Had he ever been this cold before? He was beyond shivering, he was violently shaking.
+
+White foam began pouring out of the pipes from all directions, like whipped cream being sprayed into a perforated hose. Was Vincent building the islands out of expanding foam?
+
+Russell looked at Vincent. He looked like death. Slumped against the wall of the boat, eyes barely open, not even bothering to watch the magnificent display of nano-fabrication he'd spent months perfecting.
+
+Stacy looked even worse. She'd given up trying to find a stable perch above the waterline and sat half-submerged in the freezing seawater, arms wrapped around her legs, skin grey, lips blue.
+
+If Vincent's expanding-foam-island didn't pan out in the next few minutes, they'd all be dead from hypothermia. What if it did pan out? They'd probably die anyway, but this time, on an artificial island.
+
+Russell pulled the Starlink transceiver out of the waterproof pouch inside his jacket, and turned it on. As he watched the LEDs flash, his vision began to fade. The boat turned blurry, and the sea brightened from deep blue to white.
+
+The boat jolted. Russell lifted his head. Hang on - the sea hadn't faded to white. The boat was on dry land.
 
 "Wake up!" he yelled at the other two.
 
-"Grmmmm" moaned Stacy. Russell sloshed over to her, put his shoulder under her armpit, and heaved her up. He wasn't strong enough to fireman-carry her out of the boat, but as soon as her face crested the side and she saw what lay beyond, she regained sufficient strength to haul herself over the edge and collapse onto the ground.
+"Grmmmm," moaned Stacy. Russell sloshed over to her, put his shoulder under her arm, and heaved her up. She was heavier than she looked. Fortunately, she regained a little strength and helped Russell haul her over the side of the boat and collapse onto the ground.
 
-Russell looked around for Vincent. He found him crouched on all four, examining the pure white ground, hacking, coughing, and cackling.
+Now, where the hell was Vincent? He must have left the boat. Russell looked around and saw him crouched on all four, examining the pure white ground, hacking, coughing, and cackling. He climbed out of the boat and stumbled over to his friend.
 
-"Polymerized fullerene", he stammered. "Thank God it actually sticks together."
+"Polymerized fullerene," Vincent stammered. "Thank God it actually sticks together."
 
-Thank God indeed, thought Russell.
+The Starlink transceiver beeped. It had found a satellite. Still shaking from the cold, Russell pulled his phone out of the waterproof pouch, and opened the LLM app.
 
-The Starlink transceiver beeped. It had found a satellite. Russell pulled his phone out of the waterproof pouch, and opened the LLM app.
+"Please make us a heat source," he said.
 
-"Please make us a heat source," he pleaded.
+A swarm of robots flowed to a spot on the ground next to them. They built a small black log-house structure, which stood still for a few moments before bursting into flames.
 
-A campfire appeared in front of him on the polymerized fullerene ground. Vincent crawled towards it. Russell dragged Stacy's barely-conscious body over, flopped down next to his two friends, and passed out. Mission accomplished.
+Heat. Oh, the heat. Russell moved closer to the orange flames of the dancing campfire. God, he needed this.
+
+Vincent crawled towards the fire. Russell heard a cough behind him, and - oh, shit! He'd forgotten about Stacy!
+
+He dragged her barely-conscious body next to the fire, flopped down next to his two friends, and passed out. Mission accomplished.
 
 ---
 
-Steve sighed and leaned back in his chair. "I'm not sure about this intervention," he said. "This is a lot of work, and they all almost died."
+Steve grumbled a bit and looked up at Murdoch. "I'm not sure about this intervention," he said. "This is a lot of work, and they all almost died."
 
-Murdoch, who had joined him for the occasion, tried to cheer him up. "Yeah sure, but you got that one guy! Russell, right?"
+Murdoch tried to cheer him up. "Yeah sure, but you got that one guy! Russell, right?"
 
 "Yeah. Roommate Russ. He asks a lot of questions."
 
@@ -148,7 +190,7 @@ Murdoch laughed. "Yes, he does seem a tad inquisitive. Bit of an odd choice, if 
 
 "Choice?" Steve asked. "I didn't have a choice. He was your guy's roommate, and I needed a programmer."
 
-"Guess it was fate," Murdoch said.
+"Guess it was fate, then."
 
 The two were quiet for a bit, before Murdoch spoke up again.
 
@@ -156,12 +198,12 @@ The two were quiet for a bit, before Murdoch spoke up again.
 
 "Targeted outreach for Stacy's social media engagement."
 
-Murdoch smiled and shook his head. "And instead you got a chatbot and a floating island?"
+"And instead you got a floating island?"
 
-"And Roommate Russ's soul."
+Steve bit his tongue. The floating island was Murdoch's idea, he was sure of it.
 
-Murdoch turned back to the screen and watched the three apes shiver in front of the campfire.
+Murdoch turned back to the screen and watched the three apes shiver in front of the campfire. "Could do worse," he said. "You have to admit, the island is pretty cool."
 
-"Could do worse," he said, chuckling. "Admit it - the island is pretty cool."
+Steve rolled his eyes. The island was a huge distraction, and wasn't helping him get out of default at all. And now Stacy, his number one influencer, was trapped on it. His chances of winning the competition had gone from bad to atrocious.
 
-Steve rolled his eyes. Eventually, he started to chuckle as well. The island was pretty cool. He had no idea where this intervention was going, but it sure was entertaining.
+At least Murdoch was right about one thing - the island was pretty cool. He had no idea where this intervention was going, but it sure was entertaining.

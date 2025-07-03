@@ -24,7 +24,7 @@ the-manufacturing-singularity.md # Murdoch
 polymerized-fullerene.md # Russell
 the-island.md # Russell
 the-commonwealth-of-new-sealand.md # Steve and Russell
-remarkable-progress.md # Murdoch
+whitmore-strategic-partners.md # Murdoch
 act-3.md
 sullivan.md # Sullivan
 xavier.md # Xavier
