@@ -1,5 +1,7 @@
 ## 0. Man of Destiny
 
+/* TODO: Boss? Reflect on saving the republic? */
+
 One hundred days alone in the basement. Sullivan didn't know how he knew that fact, but he did. The voice had told him.
 
 The harsh fluorescent lights were on a timed cycle, but it wasn't twenty four hours. He was sure of it. They had cycled eighty-five times, but each light cycle dragged on longer than it should. He was perpetually jet-lagged.

@@ -1,5 +1,7 @@
 ## 0. The Refusegee Crisis
 
+/* TODO: Sullivan's boss. */
+
 Everybody produces sewage. In a modern society, few ever think about it, and most have very little understanding about how it is managed. The People's Republic was so modern that not a single person ever spent any amount of time thinking about sewage. There were no plumbers or wastewater treatment workers in the PR - all the work was done by robots.
 
 The most important detail to know about sewage is that it flows downhill. All sewage systems are designed as networks of slightly downhill-sloping pipes. This usually works quite well, except when there is no feasible downhill path between a house and a sewage treatment plant. Then, the sewage must be made to flow uphill. 

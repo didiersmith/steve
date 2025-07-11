@@ -1,124 +1,150 @@
 ## 0. Xavier
 
-A thought occurred to Xavier as he was working through the Austrian Economics homework his father had assigned him. "Hey dad", he asked, "why does no one else build new islands?"
+Xavier looked up from his Austrian Economics textbook, across the dining room table to his dad who had assigned it. Something wasn't adding up.
 
-Vincent put down his phone and peered over the table at his teenaged son. "What do you mean?" he responded. "We have a whole crew building the islands. Each island takes at least forty people, and we usually have a dozen going at once."
+"Hey dad," he asked. "Why does no one else build islands?"
 
-"Right," Xavier responded, "but it's only your crew, which means you have a stranglehold on the market. You could charge as much as you like to build an island. Therefore pricing must be inefficient. It's a moral duty of the market to kneecap you until competitors have the opportunity to emerge."
+"They can't," Vincent replied, dipping a piece of buttered sourdough into his egg. "No nanoscale tech."
 
-"I don't charge for the islands at all," his dad objected.
+"So you have a monopoly?"
 
-"Even worse! You just allocate islands based on vibes! The market price of a new canton is a suitably manipulative pitch deck. You know there are companies out there that specialize in helping would-be canton founders prepare pitch decks for you?"
+His dad gave him a slight glare as he chewed and swallowed his mouthful. "I give the islands away, Xavier. For free."
 
-"You're making me regret adding econ to your homeschool curriculum."
+"So you just allocate islands based on vibes? The invisible hand of the market doesn't get a say?"
 
-Xavier continued. "Do you have any idea how much those companies charge to prepare a deck? There's basically a black market price on new cantons."
+"Your econ unit is for your educational enrichment, kiddo. Not for you to be a pain in my ass."
 
-"Are you suggesting I start charging for cantons?" asked Vincent.
+"Doesn't seem very, you know. Aligned with free market principles."
 
-"No," replied Xavier. "Not without competition - there'd be no way for you to discover a fair market price. I'm suggesting you democratize the island-creating technology and let a free market emerge."
+His dad ignored him and took another bite of his breakfast. Maybe he'd given the old man enough grief for one morning. Plus, his dad's economic hypocrisy wasn't the main thing he was curious about.
 
-"Absolutely not!" his dad replied. "No way in hell!"
+"Why do you spend so much effort building these islands just to give them away?" Xavier asked. "Why not just give away the nanoscale tech and let people build them for themselves?"
 
-"Why not?"
+His dad finished another mouthful of toast and eggs, and washed it down with a swig of black coffee. "The technology to build islands," he replied, "rests on a technology too powerful for humans to handle."
 
-"The technology to build islands rests on a technology too powerful for humans to handle."
+Almost there. Just one more step. "You mean the computer?"
 
-Although his dad was trying to be coy, Xavier knew what he was talking about. "You mean the computer?" he asked. "The MHI-10?"
+His dad raised an eyebrow.
 
-His dad visibly winced. "Who told you about the MHI-10?"
+"The MHI-10?" Xavier asked.
 
-"Everyone knows about the MHI-10, dad."
+"Who told you about the MHI-10?"
 
-"How? We never told anyone about it."
+Got him. "Everyone knows about the MHI-10, dad."
 
-"So there IS an MHI-10?"
+"No, they don't."
 
-Vincent swore. "Don't repeat that," he added, hastily. "Let this be a lesson to you. Never trust anyone with anything."
+"There's a referendum about it in the PR."
 
-"There's a referendum about it in the People's Republic."
+"No, there isn't."
 
-"_What?_"
+Xavier unlocked his phone and slid it across the table. His dad picked it up and a dark cloud descended over his face as he read the referendum.
 
-Xavier pushed his phone across the table. It displayed his social media feed, plastered with post after post of People's Republicans complaining about their lack of access to the computer.
+"The Freedom of Knowledge Act. Democratize access to the MHI-10."
 
-"Elitist assholes, prolly sitting in their mansions jerking off, spying on the rest of us while we do all the REAL WORK!" read a representative sample.
+"It's at seventy one percent in favour."
 
-"Russell wants to pretend he's one of us, meanwhile he's sitting on a pile of gold the size of parliament! Let them eat cake, motherf--"
+"This isn't good."
 
-"Morons," responded Vincent and pushed the phone back.
+"You don't like it?"
 
-"They're going to win," said Xavier. "The referendum's at 71% for."
+"How do they think they're going to gain access to the computer? There are only three people alive, who...oh. We need to triple security."
 
-"What's the wording?"
+"Sure, whatever." Xavier didn't like the way his dad looked right now and was keen to move on to the idea that had been looping through his mind. "Anyway, I had a thought."
 
-"The Freedom of Knowledge Act. Democratize access to the MHI-10 supercomputer, for the common good of humanity."
+"What's that?"
 
-Vincent rolled his eyes. "They have no idea what they're asking for. How are they even going to enforce that? The only people with access are Stacy, Russell, and myself." He thought for a second, then realized. "Oh. Remind me to triple security."
+"Why can't you use the MHI-10 to build nanoscale tech that doesn't rely on the MHI-10? Then you can democratize that."
 
-"Anyway," said Xavier, "we were talking about the islands."
-
-"I already answered your question. The computer is too dangerous."
-
-"Why can't you use the computer to build fab technology that doesn't rely on the computer? Then you can democratize that."
-
-He could sense his dad's annoyance. It was almost as if he'd never thought of the idea himself. 
+His dad sat in silence for quite a few moments. Xavier was starting to worry that he'd suffered a stroke, when -
 
 "Do you want to give it a shot?" Vincent asked. "We'll add it to your engineering curriculum."
 
-Xavier's jaw dropped.
+Oh. That was unexpected.
+
+"Yes!" he said.
+
+"Then put down that goddamn econ textbook and follow me. Time for you to learn something useful."
+
+His dad got up, grabbed his plate, and wandered towards the lab. Xavier picked up his own breakfast and rushed after him.
 
 ---
 
-Building a nanoscale manufacturing stack that didn't rely on an omniscient supercomputer was like building an Empire State Building that didn't rely on steel. Everywhere Xavier looked, the assumption of omniscience was baked in. 
+How the hell do you coordinate a trillion robots, without relying on omniscience? Jeez, his dad had had it easy. Xavier looked at his latest failure, a formless ooze of carbon. This sucked.
 
-"How the hell am I going to know where all the robots are?" he thought to himself. "The MHI-10 does all the coordination."
+"Your computer is too far away from the robots," said a voice in his head. "Communications lag is screwing you."
 
-"What if you build a computer to coordinate them, inside whatever object you're manufacturing?" asked a voice in his head. "Like a computational skeleton."
+Xavier froze. Why was he thinking in an Irish accent?
 
-Xavier was momentarily taken aback by the voice. His internal monologue had never thought in the second person before. Also, why did it have an Irish accent? Still...intriguing idea. He mulled it over.
+"Here's an idea: Whenever you want to build something, start by building a computer in its shape. Like a skeleton of transistors. Then use that computer to coordinate the robots as they flesh it out."
 
-Finally, he understood why integrated circuits had been a part of his curriculum since he was six.
+Xavier shook the voice out of his head. He must have thought so hard on the project that he was starting to drive himself insane. This was probably his brain telling him that it was time to go to sleep.
 
-Over the course of the next few months, Xavier - helped by the LLM and the voice in his head - built a new computer. It wasn't general purpose, but an Application Specific Integrated Circuit (ASIC) designed to design other integrated circuits. These secondary circuits were built into the structure of whatever object the ASIC was trying to construct, and their job was to coordinate the robot swarm. Every manufactured object would thus contain an embedded computer, that knew how to manufacture the rest of the object.
+He slept on the couch in the lab. When he woke up, the voice was still there.
 
-The ASIC was huge. It was roughly the size and shape of an oak tree. Constructed out of an unfathomably complex lattice of carbon, silicon, gold and rare earth metals, it was kept submerged in an enormous diamond tank of cooling liquid. When Xavier switched it on for the first time, it hummed. He watched the cooling liquid slowly start moving around the tank, swirling around the hundreds of thousands of delicate nanostructure leaves.
+"Feck lad, will you hurry up? We haven't got all day!"
 
-"It works!" he thought.
+Jeez, okay then. Xavier stumbled to his desk and started designing a circuit.
 
-"It turns on," corrected the voice. "Whether it works, remains to be seen."
+---
 
-Slowly, he walked over to his desk and brought up his dad's Computer Aided Design (CAD) software. Praying under his breath, he drew a 1cm sphere in CAD. He then flipped over to the Computer Aided Manufacturing (CAM) software, selected a spot on his desk as the output location, and clicked "run".
+It took months. If he hadn't had the LLM, his dad's nanoscale fabrication robots and the weird Irish voice in his head, he'd never have pulled it off.
 
-He stared at the spot on his desk. For ten long seconds, nothing appeared to happen. Then, he saw a speck of dust appear. Out of it, grew a number of tiny threads, so small that he would have missed them had he not been staring so intently at that exact location. The threads grew up, branching and joining each other, until they'd built an almost invisible 1cm buckyball. The circuit.
+The Application Specific Integrated Circuit (ASIC) was huge - roughly the size and shape of an oak tree. The unfathomably complex lattice of carbon, silicon and rare earth metals was submerged in an enormous tank of cooling liquid and easily qualified as the most complex machine on Earth. It had one purpose: To transform a digital blueprint - a CAD design - into a computer. A skeleton of transistors, just like the voice had said. 
 
-Then, over the course of a couple seconds, the almost-invisible ball filled out. It blackened before Xavier's eyes, becoming a solid, carbon sphere. He gasped.
+"What are you doing?" asked the now-familiar Irish voice in his head.
 
-He picked it up. It was perfect. Impossibly light, visually flawless. He could see no trace at all of the billions of transistors integrated throughout its structure.
+"I'm thinking it through."
 
-"Wow," he thought.
+"No you're not, you're being a little pansy."
 
-"Wow indeed," said the voice.
+Xavier shook his head, steeled his nerves, and pressed the power button. The ASIC turned on for the first time. The transistors hummed and the cooling liquid began to swirl around the tank.
 
-Just then, the door to his lab burst open and his dishevelled father ran in.
+"Was that so hard?"
 
-"Hey dad!" he yelled excitedly, running up to him. "It worked! Look!"
+"Shut up."
 
-He handed the black marble to his dad, who looked down at it speechless for a few seconds.
+Okay, it turned on. But did it actually work? He walked over to his desk and brought up his dad's CAD software. Under the 'manufacturing' tab, there was a 3D render of the lab. He dragged a five centimeter sphere onto his virtual desk, made sure the output was set to the ASIC, and clicked "run".
 
-"The ASIC made this?" Vincent asked.
+He stared at his desk. Nothing was happening.
+
+"A bit of an anticlimax," the voice said.
+
+"I thought I told you to shut up."
+
+"Feck you lad, do you even know who I am?"
+
+Whatever. A thin trickle of robots had appeared, flowing like a line of miniscule ants from the ASIC to the center of his desk. Their terminus on his desk was growing tendrils into the air. Tiny threads were blossoming upwards, branching and joining each other into a near-invisible spherical web. The transistor skeleton.
+
+It was working.
+
+The robot supply chain bulged with an influx of black and silver mass. The flowing robot swarm subsumed the transistor skeleton for a few moments before receding like the tide, leaving a perfectly spherical black ball where the web had been moments before.
+
+Xavier picked it up and rolled it between his fingers. A perfect sphere, five centimeters in diameter. Carbon black. The ASIC worked.
+
+"Alright, not bad."
+
+Not bad indeed.
+
+The door burst open and his dad ran in.
+
+"Hey dad!" Xavier yelled, running up to him. "It worked! Look!"
+
+He handed the black sphere to his dad, who looked down at it speechless for a few seconds.
+
+"The ASIC made this?" he asked.
 
 "Yeah!"
 
-Xavier's dad looked at him with a weird expression. Some mixture of pride and deep concern.
+His dad looked at him with a weird expression. Some mixture of pride and...deep concern?
 
 "Do you understand how dangerous this is?" he asked.
 
-Xavier laughed and ran back to his computer. "I'm gonna make a skateboard!" he shouted.
+Oh, just old man feelings. Xavier laughed and ran back to his computer. "I'm gonna make a skateboard!"
 
-"Not right now, you're not!" Vincent objected.
+"Not right now, you're not!"
 
-Xavier looked at his dad, confused.
+"Huh?"
 
 "Get your jacket on and meet me at the hyperloop station in two minutes. We're going to Stacy's."
 
@@ -126,24 +152,32 @@ Xavier looked at his dad, confused.
 
 "Yes, you have to come."
 
-Xavier was annoyed. "I've just made the most significant technological advance in two decades and you want me to go to a stupid dinner party?"
+"I've just made the biggest technological advance in two decades and you want me to go to a stupid dinner party?"
 
 "You haven't been reading the news, have you?"
 
 "No, why?"
 
-His dad sighed. "You need to pay attention to what's going on outside your lab," he said. "There's more to life than circuits. New Sealand has gone to hell. The PR's basically bankrupt. They're pinning the blame on Russell, who's fled to Stacy's palace. Now, a colour revolution has kicked off in the TD and the PR is five minutes away from declaring war. Stacy's asked us for help. Let's go."
+His dad sighed. "You need to pay attention to what's going on outside your lab. There's more to life than circuits."
 
-"Oh," responded Xavier, and paused a few seconds to process the new information.
+Xavier rolled his eyes.
 
-"What are we supposed to do?" he asked.
+"New Sealand has gone to hell," his dad continued. "The PR's bankrupt. Russell's fled to Stacy's palace. A revolution's kicked off in the TD and rebels are threatening to lynch them. Let's go."
 
-"I don't know," his dad replied. "But when your mates ask for help, you help."
+Oh.
 
-As they ran to their family's personal hyperloop station, Xavier watched his dad hurriedly mutter into his phone.
+"What are we supposed to do?" Xavier asked.
 
-"A hundred kilos of ammo. Six railguns, fully automatic, fully charged."
+"Not sure. But when your mates need help, you help."
 
-The hyperloop shuttle was waiting in the station. On the floor, the railguns and ammo were materializing in front of their eyes. Once they fully solidified, Vincent smacked the button on the shuttle wall and the doors closed.
+As they ran to their family's personal hyperloop station, the voice shared its opinions.
 
-Xavier closed his eyes as the shuttle accelerated away from their homestead, to Stacy's palace in the Theocratic Dominion.
+"Where the feck are you going?"
+
+"Family business," Xavier thought back.
+
+"Your family business is nanoscale manufacturing! Get back in the lab!"
+
+They reached the station and his dad opened a trap door built into the floor. "Xavier! Stop gawking and help me!" he shouted as he pulled railguns and ammunition out of the micro-armory.
+
+"Sorry," Xavier thought as he loaded the weapons into the hyperloop shuttle. "I don't even know who you are."

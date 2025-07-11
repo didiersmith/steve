@@ -1,5 +1,7 @@
 ## 0. Defender of The State
 
+/* TODO: Boss, saving the republic. */
+
 "Don't feel bad," Sullivan told himself as he drove down the empty streets to the abandoned warehouse district where Filbert's crew had made their headquarters. "They were terrorists."
 
 It was never supposed to get this far. He had expected the kids to wimp out and give up when he'd suggested the bombing. Instead, the little maniacs had seized onto the idea with gusto, and they now threatened the stability of the state. His state. The state that had taken him in decades ago, and provided him not just with food and shelter, but meaning and purpose in life. The state that had made him the man he was today. He'd be damned if he was going to allow a couple of brats from the outlying provinces to ruin it.
